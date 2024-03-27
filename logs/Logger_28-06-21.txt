@@ -1,0 +1,20 @@
+[09:34:27][200.150.189.163]> Aux Financeiro [8] fez o login no sistema. 
+[15:01:10][200.150.189.163]> Aux Financeiro [8] acessou listagem de campos . 
+[15:01:18][200.150.189.163]> Aux Financeiro [ID::8] acessou o cadastro de SÃO FRANCISCO DE ASSIS [ID::1289]  
+[15:33:40][200.150.189.163]> Aux Financeiro [ID::8] acessou o cadastro de SÃO FRANCISCO DE ASSIS [ID::1289]  
+[15:33:44][200.150.189.163]> Aux Financeiro [8] acessou listagem de campos . 
+[15:35:31][200.150.189.163]> Aux Financeiro [8] acessou listagem de campos . 
+[15:35:38][200.150.189.163]> Aux Financeiro [ID::8] acessou o cadastro de MANDAGUARI [ID::1130]  
+[15:35:41][200.150.189.163]> Aux Financeiro [8] acessou listagem de campos . 
+[15:35:46][200.150.189.163]> Aux Financeiro [8] acessou as remessas do campo 1130 . 
+[15:36:43][200.150.189.163]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86454   Valor:: 104  NmDocto :: 6254073  
+[15:37:43][200.150.189.163]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:37:43][200.150.189.163]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86454  
+[15:37:43][200.150.189.163]> # Valor :: 104  
+[15:37:43][200.150.189.163]> # Referente ao mes :: 2020-12-15 
+[15:37:43][200.150.189.163]> # Usuario atribuido ID::1130 
+[15:37:43][200.150.189.163]> ############################################## ------------------------------------------------------------ 
+[15:39:36][200.150.189.163]> Aux Financeiro [8] acessou as remessas do campo 1130 . 
+[15:39:38][200.150.189.163]> Aux Financeiro [8] acessou as remessas do campo 1130 . 
+[15:39:47][200.150.189.163]> Aux Financeiro [8] acessou listagem de campos . 
+[17:02:21][200.150.189.163]> Aux Financeiro [8] saiu do sistema . 

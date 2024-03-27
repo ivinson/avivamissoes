@@ -1,0 +1,68 @@
+[11:35:33][177.189.139.63]> Aux Financeiro [8] fez o login no sistema. 
+[11:36:45][177.189.139.63]> Aux Financeiro [8] acessou listagem de campos . 
+[11:36:50][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1259 . 
+[11:36:52][177.189.139.63]> Aux Financeiro [8] acessou listagem de campos . 
+[11:36:56][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1259 . 
+[11:38:02][177.189.139.63]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 85134   Valor:: 520  NmDocto :: 7756771  
+[11:38:35][177.189.139.63]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:38:35][177.189.139.63]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 85134  
+[11:38:35][177.189.139.63]> # Valor :: 520  
+[11:38:35][177.189.139.63]> # Referente ao mes :: 2020-12-15 
+[11:38:35][177.189.139.63]> # Usuario atribuido ID::1259 
+[11:38:35][177.189.139.63]> ############################################## ------------------------------------------------------------ 
+[11:38:39][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1259 . 
+[12:13:07][177.189.139.63]> Aux Financeiro [8] acessou listagem de campos . 
+[12:13:16][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[12:13:20][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[12:13:24][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[12:13:28][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[12:13:36][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[12:14:55][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[12:15:34][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[12:29:23][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[12:29:29][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[12:29:35][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[12:29:44][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[12:29:49][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[13:20:43][177.189.139.63]> Aux Financeiro [8] acessou listagem de campos . 
+[13:20:51][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1049 . 
+[13:20:54][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1049 . 
+[13:53:18][177.189.139.63]> Aux Financeiro [8] acessou listagem de campos . 
+[13:53:24][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1158 . 
+[13:53:29][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1158 . 
+[15:11:11][177.189.139.63]> Aux Financeiro [8] acessou listagem de campos . 
+[15:40:42][177.189.139.63]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 85869   Valor:: 350  NmDocto :: 5603504  
+[15:40:46][177.189.139.63]> Aux Financeiro [8] acessou listagem de campos . 
+[15:40:51][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[15:40:53][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[15:41:25][177.189.139.63]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:41:25][177.189.139.63]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 85869  
+[15:41:25][177.189.139.63]> # Valor :: 350  
+[15:41:25][177.189.139.63]> # Referente ao mes :: 2020-12-15 
+[15:41:25][177.189.139.63]> # Usuario atribuido ID::1103 
+[15:41:25][177.189.139.63]> ############################################## ------------------------------------------------------------ 
+[15:41:29][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[16:25:24][177.189.139.63]> Aux Financeiro [8] acessou listagem de campos . 
+[16:25:31][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 976 . 
+[16:25:34][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 976 . 
+[16:26:01][177.189.139.63]> Aux Financeiro [8] acessou listagem de campos . 
+[16:26:06][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[16:26:09][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[16:29:56][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[16:29:59][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[16:30:05][177.189.139.63]> Aux Financeiro [8] deletou a remessa 85475 do campo id=1190. 
+[16:30:05][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[16:30:07][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[16:30:15][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[16:36:38][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[16:37:02][177.189.139.63]> Aux Financeiro [8] acessou listagem de campos . 
+[16:37:06][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1232 . 
+[16:37:09][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1232 . 
+[16:39:37][177.189.139.63]> Aux Financeiro [8] acessou listagem de campos . 
+[16:39:42][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1153 . 
+[16:39:49][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1153 . 
+[16:50:17][177.189.139.63]> Aux Financeiro [8] acessou listagem de campos . 
+[16:50:23][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1184 . 
+[16:50:26][177.189.139.63]> Aux Financeiro [8] acessou as remessas do campo 1184 . 
+[17:03:18][177.189.139.63]> Aux Financeiro [8] saiu do sistema . 
+[17:03:21][177.189.139.63]>  [8] saiu do sistema . 

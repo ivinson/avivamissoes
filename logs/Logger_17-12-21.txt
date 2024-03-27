@@ -1,0 +1,32 @@
+[09:22:42][189.69.5.138]> Aux Financeiro [8] fez o login no sistema. 
+[11:43:50][189.69.5.138]> Aux Financeiro [8] acessou listagem de campos . 
+[11:44:04][189.69.5.138]> Aux Financeiro [ID::8] acessou o cadastro de SANTANA DO LIVRAMENTO [ID::1055]  
+[12:02:43][189.69.5.138]> Aux Financeiro [8] acessou listagem de campos . 
+[13:57:32][189.69.5.138]> Aux Financeiro [8] acessou as remessas do campo 925 . 
+[13:58:51][189.69.5.138]> Aux Financeiro [8] acessou listagem de campos . 
+[13:58:56][189.69.5.138]> Aux Financeiro [ID::8] acessou o cadastro de BATATAIS [ID::925]  
+[13:58:58][189.69.5.138]> Aux Financeiro [8] acessou listagem de campos . 
+[13:59:05][189.69.5.138]> Aux Financeiro [8] acessou as remessas do campo 925 . 
+[14:02:49][189.69.5.138]> Aux Financeiro [8] acessou listagem de campos . 
+[14:02:55][189.69.5.138]> Aux Financeiro [8] acessou as remessas do campo 1010 . 
+[14:09:52][189.69.5.138]> Aux Financeiro [8] acessou listagem de campos . 
+[14:10:01][189.69.5.138]> Aux Financeiro [ID::8] acessou o cadastro de BATATAIS [ID::925]  
+[14:11:08][189.69.5.138]> Aux Financeiro [8] acessou listagem de campos . 
+[14:11:13][189.69.5.138]> Aux Financeiro [ID::8] acessou o cadastro de BATATAIS [ID::925]  
+[14:11:19][189.69.5.138]> Aux Financeiro [ID::8] atualizou o cadastro de BATATAIS [ID::925]  
+[14:11:19][189.69.5.138]> Aux Financeiro [8] acessou listagem de campos . 
+[14:18:50][189.69.5.138]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[14:25:42][189.69.5.138]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87787   Valor:: 120  NmDocto :: 5566477  
+[14:26:04][189.69.5.138]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:26:04][189.69.5.138]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87787  
+[14:26:04][189.69.5.138]> # Valor :: 120  
+[14:26:04][189.69.5.138]> # Referente ao mes :: 2021-01-15 
+[14:26:04][189.69.5.138]> # Usuario atribuido ID::1223 
+[14:26:04][189.69.5.138]> ############################################## ------------------------------------------------------------ 
+[14:26:09][189.69.5.138]> Aux Financeiro [8] acessou listagem de campos . 
+[14:26:13][189.69.5.138]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[15:02:36][189.69.5.138]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[15:05:19][189.69.5.138]> Aux Financeiro [8] acessou listagem de campos . 
+[15:19:36][189.69.5.138]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[17:02:07][189.69.5.138]> Aux Financeiro [8] saiu do sistema . 
+[17:02:09][189.69.5.138]>  [8] saiu do sistema . 

@@ -1,0 +1,27 @@
+[09:20:23][191.254.227.97]> Aux Financeiro [8] fez o login no sistema. 
+[10:29:03][191.254.227.97]> Aux Financeiro [8] acessou listagem de campos . 
+[12:05:47][191.254.227.97]> Aux Financeiro [8] acessou listagem de campos . 
+[12:06:04][191.254.227.97]> Aux Financeiro [8] acessou as remessas do campo 1099 . 
+[13:38:09][191.254.227.97]> Aux Financeiro [8] acessou as remessas do campo 1099 . 
+[13:38:12][191.254.227.97]> Aux Financeiro [8] acessou listagem de campos . 
+[13:38:18][191.254.227.97]> Aux Financeiro [8] acessou as remessas do campo 1128 . 
+[14:55:27][191.254.227.97]> Aux Financeiro [8] acessou as remessas do campo 1128 . 
+[15:01:54][191.254.227.97]> Aux Financeiro [8] acessou listagem de campos . 
+[16:05:45][191.254.227.97]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 76230   Valor:: 336  NmDocto :: 9693489  
+[16:05:58][191.254.227.97]> Aux Financeiro [8] acessou as remessas do campo 970 . 
+[16:06:31][191.254.227.97]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:06:31][191.254.227.97]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 76230  
+[16:06:31][191.254.227.97]> # Valor :: 336  
+[16:06:31][191.254.227.97]> # Referente ao mes :: 2019-06-15 
+[16:06:31][191.254.227.97]> # Usuario atribuido ID::970 
+[16:06:31][191.254.227.97]> ############################################## ------------------------------------------------------------ 
+[16:06:35][191.254.227.97]> Aux Financeiro [8] acessou as remessas do campo 970 . 
+[16:39:19][191.254.227.97]> Aux Financeiro [8] acessou listagem de campos . 
+[16:43:22][191.254.227.97]> Aux Financeiro [8] acessou as remessas do campo 946 . 
+[16:51:21][191.254.227.97]> Aux Financeiro [8] acessou listagem de campos . 
+[17:01:18][191.254.227.97]> Aux Financeiro [8] saiu do sistema . 
+[17:02:16][191.254.227.97]> Aux Financeiro [8] fez o login no sistema. 
+[17:02:22][191.254.227.97]> Aux Financeiro [8] acessou listagem de campos . 
+[17:02:29][191.254.227.97]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA NEOVILE CAMPO ALEGRE [ID::1057]  
+[17:03:10][191.254.227.97]> Aux Financeiro [8] acessou listagem de campos . 
+[17:05:56][191.254.227.97]> Aux Financeiro [8] saiu do sistema . 

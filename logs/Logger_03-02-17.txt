@@ -1,0 +1,29 @@
+[00:14:54][201.35.25.200]>  [] acessou listagem de campos . 
+[10:34:09][179.99.160.44]> Karina Machado Pereira [4] fez o login no sistema. 
+[14:49:13][179.99.160.44]> Karina Machado Pereira [4] fez o login no sistema. 
+[14:55:16][179.99.160.44]> Karina Machado Pereira [4] acessou listagem de campos . 
+[14:55:32][179.99.160.44]> Karina Machado Pereira [4] acessou as remessas do campo 1099 . 
+[14:55:35][179.99.160.44]> Karina Machado Pereira [4] acessou as remessas do campo 1099 . 
+[19:31:50][177.140.208.113]>  [ID::] acessou o cadastro de SÃO JOSÉ DOS CAMPOS I / MORUMBI [ID::1140]  
+[19:32:30][177.140.208.113]>  [ID::] acessou o cadastro de OSASCO [ID::922]  
+[19:38:26][177.140.208.113]>  [ID::] acessou o cadastro de ANGOLA - LUANDA [ID::966]  
+[19:39:48][177.140.208.113]>  [] acessou listagem de campos . 
+[19:39:57][177.140.208.113]> #### Acesso não autorizado ###### 
+[19:39:57][177.140.208.113]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[19:39:57][177.140.208.113]> # ------------------------------------------------------>  
+[19:41:39][177.140.208.113]> #### Acesso não autorizado ###### 
+[19:41:39][177.140.208.113]> Algum usuario não identificado tentou acessar a /nova-entrada-direta.php 
+[19:41:39][177.140.208.113]> # ------------------------------------------------------>  
+[19:43:54][177.140.208.113]>  [ID::] acessou o cadastro de SÃO JOSÉ DOS CAMPOS I / MORUMBI [ID::1140]  
+[23:00:28][177.80.224.174]> Sineide Silva [3] fez o login no sistema. 
+[23:00:32][177.80.224.174]> Sineide Silva [3] acessou listagem de campos . 
+[23:00:56][177.80.224.174]> Sineide Silva [ID::3] acessou o cadastro de IEAB - 4 DIVIS&Atilde;O DGECC [ID::1199]  
+[23:01:29][177.80.224.174]> Sineide Silva [ID::3] atualizou o cadastro de IEAB - 4 DIVIS&Atilde;O CE [ID::1199]  
+[23:01:29][177.80.224.174]> Sineide Silva [3] acessou listagem de campos . 
+[23:01:49][177.80.224.174]> Sineide Silva [ID::3] acessou o cadastro de IEAB - 4 DIVIS&Atilde;O CE [ID::1199]  
+[23:02:05][177.80.224.174]> Sineide Silva [ID::3] atualizou o cadastro de IEAB - 4&ordf; DIVIS&Atilde;O CE [ID::1199]  
+[23:02:05][177.80.224.174]> Sineide Silva [3] acessou listagem de campos . 
+[23:11:21][177.80.224.174]> Sineide Silva [ID::3] acessou o cadastro de IEAB - 4&ordf; DIVIS&Atilde;O CE [ID::1199]  
+[23:12:32][177.80.224.174]> Sineide Silva [ID::3] atualizou o cadastro de IEAB - SEMIN&Aacute;RIO - 4&ordf; DIVIS&Atilde;O CE [ID::1199]  
+[23:12:32][177.80.224.174]> Sineide Silva [3] acessou listagem de campos . 
+[23:13:07][177.80.224.174]> Sineide Silva [ID::3] acessou o cadastro de IEAB - SEMIN&Aacute;RIO - 4&ordf; DIVIS&Atilde;O CE [ID::1199]  

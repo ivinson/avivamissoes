@@ -1,0 +1,74 @@
+[09:08:14][177.9.183.104]> Aux Financeiro [8] fez o login no sistema. 
+[09:34:57][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[09:35:06][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1047 . 
+[09:35:12][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[09:36:13][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 997 . 
+[09:36:46][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[09:36:53][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[09:38:43][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[09:38:47][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1192 . 
+[09:40:44][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[10:26:09][177.9.183.104]> Aux Financeiro [8] fez o login no sistema. 
+[10:36:42][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[10:37:27][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[11:12:48][66.249.83.11]> #### Acesso não autorizado ###### 
+[11:12:48][66.249.83.11]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960 
+[11:12:48][66.249.83.11]> # ------------------------------------------------------>  
+[12:10:24][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1075 . 
+[12:22:03][177.9.183.104]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 68690   Valor:: 186.7  NmDocto :: 2856379  
+[12:22:36][177.9.183.104]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:22:36][177.9.183.104]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 68690  
+[12:22:36][177.9.183.104]> # Valor :: 186.7  
+[12:22:36][177.9.183.104]> # Referente ao mes :: 2018-04-15 
+[12:22:36][177.9.183.104]> # Usuario atribuido ID::1104 
+[12:22:36][177.9.183.104]> ############################################## ------------------------------------------------------------ 
+[12:22:39][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[12:22:44][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[13:06:11][179.111.253.62]> #### Acesso não autorizado ###### 
+[13:06:11][179.111.253.62]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[13:06:11][179.111.253.62]> # ------------------------------------------------------>  
+[13:06:21][179.111.253.62]> Administrador Financeiro [5] fez o login no sistema. 
+[13:06:28][179.111.253.62]> Administrador Financeiro [5] acessou listagem de campos . 
+[13:06:37][179.111.253.62]> Administrador Financeiro [5] acessou as remessas do campo 1016 . 
+[13:06:55][179.111.253.62]> Administrador Financeiro [5] acessou as remessas do campo 1016 . 
+[13:24:56][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[13:25:07][177.9.183.104]> Aux Financeiro [ID::8] acessou o cadastro de CAMPINAS ZONA NORTE - SANTA BARBARA [ID::988]  
+[13:26:28][177.9.183.104]> Aux Financeiro [ID::8] atualizou o cadastro de CAMPINAS ZONA NORTE - SANTA BARBARA [ID::988]  
+[13:26:28][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[13:27:06][177.9.183.104]> Aux Financeiro [ID::8] acessou o cadastro de APORÉ [ID::1185]  
+[13:29:14][177.9.183.104]> Aux Financeiro [ID::8] atualizou o cadastro de APORÉ [ID::1185]  
+[13:29:14][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[13:29:21][177.9.183.104]> Aux Financeiro [ID::8] acessou o cadastro de APORÉ [ID::1185]  
+[13:29:24][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[13:29:34][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:23:27][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 996 . 
+[14:26:14][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:26:24][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 901 . 
+[14:29:18][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:29:40][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1111 . 
+[14:31:07][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:31:15][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1097 . 
+[14:31:28][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:31:44][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[14:32:06][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:32:11][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1102 . 
+[14:32:36][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:32:41][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[14:35:29][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:35:34][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 957 . 
+[14:35:55][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:36:02][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 944 . 
+[14:36:53][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:36:58][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1158 . 
+[14:37:01][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:37:06][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[14:38:39][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:38:44][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 1081 . 
+[14:39:22][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:39:32][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[14:40:06][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:40:11][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[14:51:14][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[14:51:21][177.9.183.104]> Aux Financeiro [8] acessou as remessas do campo 997 . 
+[15:25:08][177.9.183.104]> Aux Financeiro [8] acessou listagem de campos . 
+[16:59:15][177.9.183.104]> Aux Financeiro [8] saiu do sistema . 

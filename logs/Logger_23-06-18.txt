@@ -1,0 +1,962 @@
+[01:34:17][34.224.2.240]>  [] saiu do sistema . 
+[01:36:24][34.224.2.240]>  [] acessou listagem de campos . 
+[01:36:54][34.224.2.240]> #### Acesso não autorizado ###### 
+[01:36:54][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/listar-extrato.php 
+[01:36:54][34.224.2.240]> # ------------------------------------------------------>  
+[01:38:00][34.224.2.240]> #### Acesso não autorizado ###### 
+[01:38:00][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/nova-entrada-direta.php 
+[01:38:00][34.224.2.240]> # ------------------------------------------------------>  
+[09:28:20][34.224.2.240]>  [ID::] acessou o cadastro de ALAGOINHAS  [ID::1078]  
+[09:28:51][34.224.2.240]>  [ID::] acessou o cadastro de ALVARES MACHADO [ID::1231]  
+[09:29:22][34.224.2.240]>  [ID::] acessou o cadastro de AMAMBAI - CE [ID::1222]  
+[09:29:22][34.224.2.240]>  [ID::] acessou o cadastro de AMERICANA [ID::1094]  
+[09:29:53][34.224.2.240]>  [ID::] acessou o cadastro de ANÁPOLIS - CE [ID::1009]  
+[09:29:54][34.224.2.240]>  [ID::] acessou o cadastro de ANDIRÁ [ID::1086]  
+[09:30:24][34.224.2.240]>  [ID::] acessou o cadastro de ANGOLA - LUANDA [ID::966]  
+[09:30:25][34.224.2.240]>  [ID::] acessou o cadastro de ANGOLA / LUANDA [ID::965]  
+[09:30:55][34.224.2.240]>  [ID::] acessou o cadastro de APARECIDA DE GOIÂNIA [ID::1073]  
+[09:30:56][34.224.2.240]>  [ID::] acessou o cadastro de APARECIDA DO TABOADO [ID::996]  
+[09:31:27][34.224.2.240]>  [ID::] acessou o cadastro de APORÉ [ID::1185]  
+[09:31:57][34.224.2.240]>  [ID::] acessou o cadastro de APUCARANA [ID::963]  
+[09:32:28][34.224.2.240]>  [ID::] acessou o cadastro de ARAPONGAS [ID::1134]  
+[09:32:29][34.224.2.240]>  [ID::] acessou o cadastro de ARAPONGAS II  [ID::975]  
+[09:32:59][34.224.2.240]>  [ID::] acessou o cadastro de ARAPONGAS III - CE [ID::1180]  
+[09:33:00][34.224.2.240]>  [ID::] acessou o cadastro de ARARAQUARA [ID::973]  
+[09:33:31][34.224.2.240]>  [ID::] acessou o cadastro de ARGENTINA [ID::1119]  
+[09:33:31][34.224.2.240]>  [ID::] acessou o cadastro de ARIQUEMES [ID::987]  
+[09:34:02][34.224.2.240]>  [ID::] acessou o cadastro de ARTUR ALVIM [ID::1036]  
+[09:34:03][34.224.2.240]>  [ID::] acessou o cadastro de ASSIS -CE [ID::894]  
+[09:34:33][34.224.2.240]>  [ID::] acessou o cadastro de AVARÉ [ID::1152]  
+[09:35:04][34.224.2.240]>  [ID::] acessou o cadastro de BANDEIRANTES [ID::1135]  
+[09:35:35][34.224.2.240]>  [ID::] acessou o cadastro de BARRA DO QUARAÍ [ID::962]  
+[09:36:06][34.224.2.240]>  [ID::] acessou o cadastro de BATATAIS [ID::925]  
+[09:36:07][34.224.2.240]>  [ID::] acessou o cadastro de BATURITÉ [ID::1053]  
+[09:36:37][34.224.2.240]>  [ID::] acessou o cadastro de BAURU [ID::1141]  
+[09:36:38][34.224.2.240]>  [ID::] acessou o cadastro de BELEM [ID::1117]  
+[09:37:09][34.224.2.240]>  [ID::] acessou o cadastro de BEZERROS - CE [ID::991]  
+[09:37:09][34.224.2.240]>  [ID::] acessou o cadastro de BIRIGUI [ID::978]  
+[09:37:40][34.224.2.240]>  [ID::] acessou o cadastro de BOA VISTA / CE [ID::935]  
+[09:38:11][34.224.2.240]>  [ID::] acessou o cadastro de BOTUCATU [ID::945]  
+[09:38:11][34.224.2.240]>  [ID::] acessou o cadastro de BREJO DOS SANTOS [ID::1013]  
+[09:38:42][34.224.2.240]>  [ID::] acessou o cadastro de BURITIS - RO [ID::1250]  
+[09:38:42][34.224.2.240]>  [ID::] acessou o cadastro de CAÇAPAVA [ID::1068]  
+[09:39:13][34.224.2.240]>  [ID::] acessou o cadastro de CACOAL [ID::1155]  
+[09:39:14][34.224.2.240]>  [ID::] acessou o cadastro de CAÇUL [ID::1236]  
+[09:39:44][34.224.2.240]>  [ID::] acessou o cadastro de CAICÓ  [ID::992]  
+[09:39:45][34.224.2.240]>  [ID::] acessou o cadastro de CAMBÉ [ID::989]  
+[09:40:16][34.224.2.240]>  [ID::] acessou o cadastro de CAMPINA GRANDE [ID::1052]  
+[09:40:46][34.224.2.240]>  [ID::] acessou o cadastro de CAMPINAS  BONFIM /JD. AURELIA  [ID::1065]  
+[09:40:47][34.224.2.240]>  [ID::] acessou o cadastro de CAMPINAS CAMPO GRANDE [ID::1097]  
+[09:41:18][34.224.2.240]>  [ID::] acessou o cadastro de CAMPINAS CENTRO [ID::948]  
+[09:41:18][34.224.2.240]>  [ID::] acessou o cadastro de CAMPINAS ZONA NORTE - SANTA BARBARA [ID::988]  
+[09:41:49][34.224.2.240]>  [ID::] acessou o cadastro de CAMPO GRANDE [ID::924]  
+[09:41:49][34.224.2.240]>  [ID::] acessou o cadastro de CAMPO GRANDE NORTE [ID::1252]  
+[09:42:20][34.224.2.240]>  [ID::] acessou o cadastro de CAMPO MOURÃO [ID::999]  
+[09:42:21][34.224.2.240]>  [ID::] acessou o cadastro de CARAZINHO - CE [ID::1026]  
+[09:42:51][34.224.2.240]>  [ID::] acessou o cadastro de CARIACICA [ID::1168]  
+[09:42:52][34.224.2.240]>  [ID::] acessou o cadastro de CARUARÚ [ID::1133]  
+[09:43:22][34.224.2.240]>  [ID::] acessou o cadastro de CASA VERDE  [ID::911]  
+[09:43:53][34.224.2.240]>  [ID::] acessou o cadastro de CASCAVEL [ID::1088]  
+[09:43:54][34.224.2.240]>  [ID::] acessou o cadastro de CASSILÂNDIA [ID::947]  
+[09:44:24][34.224.2.240]>  [ID::] acessou o cadastro de CATOLÉ DO ROCHA [ID::1124]  
+[09:44:25][34.224.2.240]>  [ID::] acessou o cadastro de CAXIAS DO SUL [ID::934]  
+[09:44:56][34.224.2.240]>  [ID::] acessou o cadastro de CEILANDIA-NORTE [ID::1099]  
+[09:44:56][34.224.2.240]>  [ID::] acessou o cadastro de CEREJEIRAS /CE [ID::900]  
+[09:45:27][34.224.2.240]>  [ID::] acessou o cadastro de CHAPADÃO DO SUL [ID::1131]  
+[09:45:27][34.224.2.240]>  [ID::] acessou o cadastro de CHILE / SANTIAGO [ID::1069]  
+[09:45:58][34.224.2.240]>  [ID::] acessou o cadastro de CHINA [ID::1070]  
+[09:45:59][34.224.2.240]>  [ID::] acessou o cadastro de CIANORTE [ID::893]  
+[09:46:30][34.224.2.240]>  [ID::] acessou o cadastro de CLEVELÂNDIA [ID::1012]  
+[09:46:30][34.224.2.240]>  [ID::] acessou o cadastro de COLOMBIA [ID::1238]  
+[09:47:01][34.224.2.240]>  [ID::] acessou o cadastro de COMODORO / CE   [ID::890]  
+[09:47:01][34.224.2.240]>  [ID::] acessou o cadastro de CONCEIÇÃO DE FEIRA [ID::1050]  
+[09:47:32][34.224.2.240]>  [ID::] acessou o cadastro de CONÉLIO PROCÓPIO- SIBIM [ID::1200]  
+[09:48:03][34.224.2.240]>  [ID::] acessou o cadastro de CONFRESA  [ID::1213]  
+[09:48:03][34.224.2.240]>  [ID::] acessou o cadastro de CONSELHEIRO MAIRINK /  CE [ID::1128]  
+[09:48:34][34.224.2.240]>  [ID::] acessou o cadastro de CORNÉLIO PROCÓPIO [ID::936]  
+[09:48:35][34.224.2.240]>  [ID::] acessou o cadastro de CORNELIO PROCOPIO - SIBIM [ID::1247]  
+[09:49:05][34.224.2.240]>  [ID::] acessou o cadastro de COSTA RICA [ID::1187]  
+[09:49:06][34.224.2.240]>  [ID::] acessou o cadastro de CUIABA - CE [ID::1226]  
+[09:49:36][34.224.2.240]>  [ID::] acessou o cadastro de CURIONÓPOLIPOLIS [ID::1212]  
+[09:50:07][34.224.2.240]>  [ID::] acessou o cadastro de CURITIBA - VILA 7 DE SETEMBRO [ID::960]  
+[09:50:08][34.224.2.240]>  [ID::] acessou o cadastro de CURITIBA / BACACHERI [ID::1059]  
+[09:50:38][34.224.2.240]>  [ID::] acessou o cadastro de CURITIBA / CAPÃO RASO [ID::997]  
+[09:50:39][34.224.2.240]>  [ID::] acessou o cadastro de CURITIBA / PORTÃO [ID::1248]  
+[09:51:10][34.224.2.240]>  [ID::] acessou o cadastro de CURITIBA / XAXIM / VILA MARIANA [ID::1042]  
+[09:51:11][34.224.2.240]>  [ID::] acessou o cadastro de CURITIBA ALMIRANTE TAMANDAR&Eacute; [ID::1067]  
+[09:51:41][34.224.2.240]>  [ID::] acessou o cadastro de CURITIBA FAZENDINHA [ID::1105]  
+[09:51:42][34.224.2.240]>  [ID::] acessou o cadastro de CURITIBA NEOVILE/CAMPO ALEGRE [ID::1057]  
+[09:52:12][34.224.2.240]>  [ID::] acessou o cadastro de CURITIBA SABARÁ - CE [ID::1106]  
+[09:52:13][34.224.2.240]>  [ID::] acessou o cadastro de CURITIBA VILA RIO NEGRO [ID::1149]  
+[09:52:43][34.224.2.240]>  [ID::] acessou o cadastro de Devolução Cheque Irregular e/ou sem fundos [ID::1221]  
+[09:53:14][34.224.2.240]>  [ID::] acessou o cadastro de DGA/Church [ID::1239]  
+[09:53:15][34.224.2.240]>  [ID::] acessou o cadastro de DIADEMA [ID::1159]  
+[09:53:46][34.224.2.240]>  [ID::] acessou o cadastro de DIAMANTE DO NORTE [ID::941]  
+[09:53:46][34.224.2.240]>  [ID::] acessou o cadastro de DOM PEDRITO [ID::979]  
+[09:54:17][34.224.2.240]>  [ID::] acessou o cadastro de DOURADOS [ID::1154]  
+[09:54:17][34.224.2.240]>  [ID::] acessou o cadastro de DRACENA [ID::1006]  
+[09:54:48][34.224.2.240]>  [ID::] acessou o cadastro de EMBÚ-GUAÇÚ [ID::1102]  
+[09:54:49][34.224.2.240]>  [ID::] acessou o cadastro de EQUADOR [ID::895]  
+[09:55:19][34.224.2.240]>  [ID::] acessou o cadastro de ESPIGÃO D OESTE [ID::1076]  
+[09:55:50][34.224.2.240]>  [ID::] acessou o cadastro de FEIRA DE SANTANA - CENTRAL [ID::1116]  
+[09:55:51][34.224.2.240]>  [ID::] acessou o cadastro de FEIRA X [ID::1194]  
+[09:56:22][34.224.2.240]>  [ID::] acessou o cadastro de FERIA DE SANTANA - MORADA DO SOL [ID::1192]  
+[09:56:52][34.224.2.240]>  [ID::] acessou o cadastro de FORTALEZA DAS NOGUEIRAS [ID::959]  
+[09:56:53][34.224.2.240]>  [ID::] acessou o cadastro de FOZ DO IGUAÇÚ [ID::943]  
+[09:57:24][34.224.2.240]>  [ID::] acessou o cadastro de FRANCISCO BELTRÃO [ID::939]  
+[09:57:24][34.224.2.240]>  [ID::] acessou o cadastro de FREGUESIA DO Ó [ID::1056]  
+[09:57:55][34.224.2.240]>  [ID::] acessou o cadastro de GANDÚ / CE [ID::964]  
+[09:57:55][34.224.2.240]>  [ID::] acessou o cadastro de genérico [ID::1178]  
+[09:58:58][34.224.2.240]>  [ID::] acessou o cadastro de GLORIA DE DOURADOS - /  CE [ID::1139]  
+[09:58:59][34.224.2.240]>  [ID::] acessou o cadastro de GOI&Acirc;NIA [ID::1010]  
+[09:59:29][34.224.2.240]>  [ID::] acessou o cadastro de GUAIBA/CE [ID::1014]  
+[09:59:30][34.224.2.240]>  [ID::] acessou o cadastro de GUARUJÁ [ID::1045]  
+[10:00:00][34.224.2.240]>  [ID::] acessou o cadastro de GUARULHOS [ID::944]  
+[10:00:31][34.224.2.240]>  [ID::] acessou o cadastro de GURUPI [ID::952]  
+[10:00:32][34.224.2.240]>  [ID::] acessou o cadastro de HAITI [ID::1136]  
+[10:01:03][34.224.2.240]>  [ID::] acessou o cadastro de HORIZONTE - CE [ID::994]  
+[10:01:03][34.224.2.240]>  [ID::] acessou o cadastro de IBAITI [ID::946]  
+[10:01:34][34.224.2.240]>  [ID::] acessou o cadastro de IBAT&Eacute; [ID::1022]  
+[10:01:34][34.224.2.240]>  [ID::] acessou o cadastro de IC&Oacute; [ID::1190]  
+[10:02:05][34.224.2.240]>  [ID::] acessou o cadastro de IEAB - SEMINÁRIO - 4  DIVISÃO CE [ID::1199]  
+[10:02:05][34.224.2.240]>  [ID::] acessou o cadastro de IGUARAÇÚ [ID::896]  
+[10:02:36][34.224.2.240]>  [ID::] acessou o cadastro de IMPERATRIZ DO MARANHÃO  [ID::970]  
+[10:02:37][34.224.2.240]>  [ID::] acessou o cadastro de INDAIATUBA [ID::1098]  
+[10:03:07][34.224.2.240]>  [ID::] acessou o cadastro de INDIA / NOVA DELHI [ID::984]  
+[10:03:08][34.224.2.240]>  [ID::] acessou o cadastro de INDIA / NOVA DELHI [ID::983]  
+[10:03:38][34.224.2.240]>  [ID::] acessou o cadastro de INDIA / RANCHI [ID::1161]  
+[10:04:09][34.224.2.240]>  [ID::] acessou o cadastro de INDIA /RANCHI  [ID::1162]  
+[10:04:10][34.224.2.240]>  [ID::] acessou o cadastro de IPECAETÁ [ID::1229]  
+[10:04:41][34.224.2.240]>  [ID::] acessou o cadastro de IPIAU / CE [ID::908]  
+[10:05:12][34.224.2.240]>  [ID::] acessou o cadastro de IPIRANGA [ID::1093]  
+[10:05:42][34.224.2.240]>  [ID::] acessou o cadastro de ITAJAI [ID::1129]  
+[10:05:43][34.224.2.240]>  [ID::] acessou o cadastro de ITÁLIA [ID::1092]  
+[10:06:14][34.224.2.240]>  [ID::] acessou o cadastro de ITANHAÉM-CE [ID::1160]  
+[10:06:15][34.224.2.240]>  [ID::] acessou o cadastro de ITAQUAQUECETUBA [ID::1241]  
+[10:06:45][34.224.2.240]>  [ID::] acessou o cadastro de ITÚ [ID::1166]  
+[10:07:16][34.224.2.240]>  [ID::] acessou o cadastro de ITUMBIARA [ID::891]  
+[10:07:17][34.224.2.240]>  [ID::] acessou o cadastro de IVAIPORÃ [ID::1041]  
+[10:07:47][34.224.2.240]>  [ID::] acessou o cadastro de JABOTI [ID::932]  
+[10:07:48][34.224.2.240]>  [ID::] acessou o cadastro de JABOTICABAL [ID::1039]  
+[10:08:18][34.224.2.240]>  [ID::] acessou o cadastro de JAÇANA [ID::1103]  
+[10:08:49][34.224.2.240]>  [ID::] acessou o cadastro de JACAREÍ I [ID::919]  
+[10:08:50][34.224.2.240]>  [ID::] acessou o cadastro de JACAREZINHO  [ID::902]  
+[10:09:20][34.224.2.240]>  [ID::] acessou o cadastro de JALES [ID::961]  
+[10:09:51][34.224.2.240]>  [ID::] acessou o cadastro de JANDAIA DO SUL [ID::1181]  
+[10:10:22][34.224.2.240]>  [ID::] acessou o cadastro de JARAGUA [ID::1137]  
+[10:10:23][34.224.2.240]>  [ID::] acessou o cadastro de JARDIM ALVORADA [ID::1061]  
+[10:10:54][34.224.2.240]>  [ID::] acessou o cadastro de JARDIM CALUX [ID::1240]  
+[10:11:24][34.224.2.240]>  [ID::] acessou o cadastro de JARDIM LAURA  [ID::1034]  
+[10:11:25][34.224.2.240]>  [ID::] acessou o cadastro de JARDIM PETRONI [ID::1169]  
+[10:11:56][34.224.2.240]>  [ID::] acessou o cadastro de JARDIM SÃO ROBERTO [ID::1007]  
+[10:11:56][34.224.2.240]>  [ID::] acessou o cadastro de JATAÍ [ID::1004]  
+[10:12:27][34.224.2.240]>  [ID::] acessou o cadastro de JI-PARANÁ [ID::971]  
+[10:12:28][34.224.2.240]>  [ID::] acessou o cadastro de JOÃO PESSOA [ID::1127]  
+[10:12:58][34.224.2.240]>  [ID::] acessou o cadastro de JOAQUIM TAVORA [ID::1029]  
+[10:12:59][34.224.2.240]>  [ID::] acessou o cadastro de JUAZEIRO - BAHIA [ID::981]  
+[10:14:14][34.224.2.240]>  [ID::] acessou o cadastro de JUAZEIRO DO NORTE - CEARÁ [ID::898]  
+[10:14:45][34.224.2.240]>  [ID::] acessou o cadastro de JUNDIAÍ [ID::1083]  
+[10:15:15][34.224.2.240]>  [ID::] acessou o cadastro de LIMEIRA [ID::1096]  
+[10:15:16][34.224.2.240]>  [ID::] acessou o cadastro de LINS [ID::1245]  
+[10:15:47][34.224.2.240]>  [ID::] acessou o cadastro de LONDRES [ID::1234]  
+[10:15:47][34.224.2.240]>  [ID::] acessou o cadastro de LONDRINA [ID::1066]  
+[10:16:18][34.224.2.240]>  [ID::] acessou o cadastro de MACHADINHO DOESTE [ID::1145]  
+[10:16:49][34.224.2.240]>  [ID::] acessou o cadastro de MANAUS [ID::956]  
+[10:16:50][34.224.2.240]>  [ID::] acessou o cadastro de MANAUS II [ID::1125]  
+[10:17:21][34.224.2.240]>  [ID::] acessou o cadastro de MANTENEDORES [ID::1198]  
+[10:17:21][34.224.2.240]>  [ID::] acessou o cadastro de MANTIQUEIRA [ID::1023]  
+[10:17:52][34.224.2.240]>  [ID::] acessou o cadastro de MARABÁ [ID::1030]  
+[10:17:52][34.224.2.240]>  [ID::] acessou o cadastro de MARACAS [ID::1246]  
+[10:18:23][34.224.2.240]>  [ID::] acessou o cadastro de MARILIA / ZONA NORTE [ID::897]  
+[10:18:24][34.224.2.240]>  [ID::] acessou o cadastro de MARÍLIA/ ZONA  SUL [ID::923]  
+[10:18:55][34.224.2.240]>  [ID::] acessou o cadastro de MARINGÁ / EBENÉZER/ LEA LEAL [ID::1002]  
+[10:19:26][34.224.2.240]>  [ID::] acessou o cadastro de MARINGA / NEY BRAGA [ID::905]  
+[10:19:26][34.224.2.240]>  [ID::] acessou o cadastro de MARINGÁ/ SANTO ANTONIO / ARISTIDES LOBO [ID::1046]  
+[10:19:57][34.224.2.240]>  [ID::] acessou o cadastro de MATÃO [ID::1090]  
+[10:19:58][34.224.2.240]>  [ID::] acessou o cadastro de MAUÁ [ID::1037]  
+[10:20:28][34.224.2.240]>  [ID::] acessou o cadastro de MINISTRO ANDREAZZA [ID::912]  
+[10:20:29][34.224.2.240]>  [ID::] acessou o cadastro de MIRACATU- CE  [ID::1077]  
+[10:20:59][34.224.2.240]>  [ID::] acessou o cadastro de MIRANTE DO PARANAPANEMA [ID::1188]  
+[10:21:30][34.224.2.240]>  [ID::] acessou o cadastro de MISSIONARIO VIRTUAL [ID::1249]  
+[10:21:31][34.224.2.240]>  [ID::] acessou o cadastro de MO&Ccedil;AMBIQUE [ID::1085]  
+[10:22:02][34.224.2.240]>  [ID::] acessou o cadastro de MOÇAMBIQUE [ID::1084]  
+[10:22:02][34.224.2.240]>  [ID::] acessou o cadastro de MOGI DAS CRUZES [ID::1101]  
+[10:22:33][34.224.2.240]>  [ID::] acessou o cadastro de MOGI MIRIM [ID::1237]  
+[10:22:33][34.224.2.240]>  [ID::] acessou o cadastro de MONGUAGUA - SP [ID::974]  
+[10:23:04][34.224.2.240]>  [ID::] acessou o cadastro de MONTE NEGRO [ID::1253]  
+[10:23:05][34.224.2.240]>  [ID::] acessou o cadastro de MONTES CLAROS [ID::1164]  
+[10:23:35][34.224.2.240]>  [ID::] acessou o cadastro de MOSSORÓ [ID::1049]  
+[10:23:36][34.224.2.240]>  [ID::] acessou o cadastro de Movimentação entre contas DGEM [ID::1220]  
+[10:24:07][34.224.2.240]>  [ID::] acessou o cadastro de NÃO IDENTIFICADOS [ID::1196]  
+[10:24:50][34.224.2.240]>  [ID::] acessou o cadastro de NATAL / PLANALTO [ID::985]  
+[10:24:50][34.224.2.240]>  [ID::] acessou o cadastro de NOVA ANDRADINA [ID::1008]  
+[10:25:21][34.224.2.240]>  [ID::] acessou o cadastro de OSASCO [ID::922]  
+[10:25:22][34.224.2.240]>  [ID::] acessou o cadastro de Outras Entradas - Ofertas e/ou vendas de materiais [ID::1219]  
+[10:25:52][34.224.2.240]>  [ID::] acessou o cadastro de PACAJÚS [ID::1040]  
+[10:25:53][34.224.2.240]>  [ID::] acessou o cadastro de PALMAS [ID::1138]  
+[10:26:23][34.224.2.240]>  [ID::] acessou o cadastro de PARÁ DE MINAS [ID::940]  
+[10:26:24][34.224.2.240]>  [ID::] acessou o cadastro de PARAGUAI / ASSUNÇÃO [ID::1087]  
+[10:26:55][34.224.2.240]>  [ID::] acessou o cadastro de PARANAÍBA [ID::1111]  
+[10:27:25][34.224.2.240]>  [ID::] acessou o cadastro de PARANAVA&Iacute; I [ID::1020]  
+[10:27:26][34.224.2.240]>  [ID::] acessou o cadastro de PARANAVAÍ II [ID::1107]  
+[10:27:57][34.224.2.240]>  [ID::] acessou o cadastro de PARQUE IMIGRANTES [ID::1044]  
+[10:27:57][34.224.2.240]>  [ID::] acessou o cadastro de PARQUE JAÇATUBA [ID::1015]  
+[10:28:28][34.224.2.240]>  [ID::] acessou o cadastro de PATO BRANCO - CE [ID::967]  
+[10:28:29][34.224.2.240]>  [ID::] acessou o cadastro de PATROCÍNIO /CE [ID::1115]  
+[10:28:59][34.224.2.240]>  [ID::] acessou o cadastro de PATU [ID::1179]  
+[10:29:00][34.224.2.240]>  [ID::] acessou o cadastro de PERU - IQUITO [ID::1227]  
+[10:29:30][34.224.2.240]>  [ID::] acessou o cadastro de PERU- AREQUIPA [ID::1123]  
+[10:30:33][34.224.2.240]>  [ID::] acessou o cadastro de PERUIBE-CE [ID::1003]  
+[10:30:34][34.224.2.240]>  [ID::] acessou o cadastro de PILAR DO SUL [ID::913]  
+[10:31:04][34.224.2.240]>  [ID::] acessou o cadastro de PINDAMONHANGABA [ID::949]  
+[10:31:05][34.224.2.240]>  [ID::] acessou o cadastro de PINHAIS [ID::1028]  
+[10:31:35][34.224.2.240]>  [ID::] acessou o cadastro de PIRAPORA [ID::1148]  
+[10:32:06][34.224.2.240]>  [ID::] acessou o cadastro de PLACIDO DE CASTRO - CE [ID::1025]  
+[10:32:07][34.224.2.240]>  [ID::] acessou o cadastro de POÁ [ID::1081]  
+[10:32:38][34.224.2.240]>  [ID::] acessou o cadastro de PONTA PORÃ - CE [ID::1147]  
+[10:32:38][34.224.2.240]>  [ID::] acessou o cadastro de PORECATÚ [ID::1110]  
+[10:33:09][34.224.2.240]>  [ID::] acessou o cadastro de PORTO ALEGRE I [ID::1075]  
+[10:33:10][34.224.2.240]>  [ID::] acessou o cadastro de PORTO FERREIRA [ID::968]  
+[10:33:40][34.224.2.240]>  [ID::] acessou o cadastro de PORTO UNIÃO /  CE [ID::1120]  
+[10:33:41][34.224.2.240]>  [ID::] acessou o cadastro de PORTO VELHO [ID::1174]  
+[10:34:11][34.224.2.240]>  [ID::] acessou o cadastro de PORTUGAL - BARREIRO [ID::1064]  
+[10:34:47][34.224.2.240]>  [ID::] acessou o cadastro de PORTUGAL- BRAGA [ID::1063]  
+[10:35:18][34.224.2.240]>  [ID::] acessou o cadastro de POUSO ALEGRE [ID::1051]  
+[10:35:49][34.224.2.240]>  [ID::] acessou o cadastro de POXOR&Eacute;U [ID::1018]  
+[10:35:50][34.224.2.240]>  [ID::] acessou o cadastro de PRESIDENTE EPITÁCIO [ID::1153]  
+[10:36:20][34.224.2.240]>  [ID::] acessou o cadastro de PRESIDENTE MÉDICE/CE [ID::1163]  
+[10:36:51][34.224.2.240]>  [ID::] acessou o cadastro de PRESIDENTE PRUDENTE [ID::1109]  
+[10:36:52][34.224.2.240]>  [ID::] acessou o cadastro de PRESIDENTE VENCESLAU [ID::969]  
+[10:37:23][34.224.2.240]>  [ID::] acessou o cadastro de PROVISION - Empreendedores de Miss&otilde;es [ID::1195]  
+[10:37:23][34.224.2.240]>  [ID::] acessou o cadastro de RECIFE [ID::1038]  
+[10:37:54][34.224.2.240]>  [ID::] acessou o cadastro de RECIFE II [ID::1232]  
+[10:37:55][34.224.2.240]>  [ID::] acessou o cadastro de REDENÇÃO [ID::1167]  
+[10:38:26][34.224.2.240]>  [ID::] acessou o cadastro de REGISTRO [ID::1016]  
+[10:38:26][34.224.2.240]>  [ID::] acessou o cadastro de RENDIMENTOS POUPANÇA [ID::1235]  
+[10:38:57][34.224.2.240]>  [ID::] acessou o cadastro de RIBEIRÃO PIRES [ID::1108]  
+[10:38:58][34.224.2.240]>  [ID::] acessou o cadastro de RIBEIRÃO PRETO [ID::951]  
+[10:39:28][34.224.2.240]>  [ID::] acessou o cadastro de RIO BRANCO [ID::976]  
+[10:39:59][34.224.2.240]>  [ID::] acessou o cadastro de RIO CLARO [ID::930]  
+[10:40:00][34.224.2.240]>  [ID::] acessou o cadastro de RIO DE JANEIRO [ID::916]  
+[10:40:31][34.224.2.240]>  [ID::] acessou o cadastro de RIO GRANDE DA SERRA [ID::1011]  
+[10:41:02][34.224.2.240]>  [ID::] acessou o cadastro de RIO NEGRINHO [ID::1031]  
+[10:41:02][34.224.2.240]>  [ID::] acessou o cadastro de RIO VERDE [ID::1033]  
+[10:41:33][34.224.2.240]>  [ID::] acessou o cadastro de RIO VERDE 2 [ID::1244]  
+[10:42:04][34.224.2.240]>  [ID::] acessou o cadastro de RIVERA I [ID::1175]  
+[10:42:05][34.224.2.240]>  [ID::] acessou o cadastro de ROLIM DE MOURA [ID::1082]  
+[10:42:35][34.224.2.240]>  [ID::] acessou o cadastro de RONDONÓPOLIS [ID::910]  
+[10:42:36][34.224.2.240]>  [ID::] acessou o cadastro de ROSARIO DO SUL [ID::927]  
+[10:43:07][34.224.2.240]>  [ID::] acessou o cadastro de SALVADOR - SARAMANDAIA - CE [ID::1047]  
+[10:43:08][34.224.2.240]>  [ID::] acessou o cadastro de SALVADOR VALERIA - CE [ID::1095]  
+[10:43:39][34.224.2.240]>  [ID::] acessou o cadastro de SANTA ISABEL DO IVA&Iacute; [ID::1089]  
+[10:44:09][34.224.2.240]>  [ID::] acessou o cadastro de SANTA RITA DO PARDO [ID::901]  
+[10:44:10][34.224.2.240]>  [ID::] acessou o cadastro de SANTA TEREZINHA [ID::1224]  
+[10:44:41][34.224.2.240]>  [ID::] acessou o cadastro de SANTANA [ID::957]  
+[10:44:41][34.224.2.240]>  [ID::] acessou o cadastro de SANTANA DO LIVRAMENTO [ID::1055]  
+[10:45:12][34.224.2.240]>  [ID::] acessou o cadastro de SANTO AMARO I -  ARARIBA [ID::1158]  
+[10:45:13][34.224.2.240]>  [ID::] acessou o cadastro de SANTO AMARO II / SÃO LUÍS [ID::1104]  
+[10:45:44][34.224.2.240]>  [ID::] acessou o cadastro de SANTO ANASTÁCIO [ID::938]  
+[10:45:44][34.224.2.240]>  [ID::] acessou o cadastro de SANTO ANDRÉ [ID::1151]  
+[10:46:16][34.224.2.240]>  [ID::] acessou o cadastro de SANTO ANTÔNIO DA PLATINA [ID::953]  
+[10:46:17][34.224.2.240]>  [ID::] acessou o cadastro de SANTO ESTEVÃO [ID::892]  
+[10:46:48][34.224.2.240]>  [ID::] acessou o cadastro de SANTOS-CE [ID::1242]  
+[10:47:19][34.224.2.240]>  [ID::] acessou o cadastro de SÃO BENTO [ID::986]  
+[10:47:20][34.224.2.240]>  [ID::] acessou o cadastro de SAO CAETANO DO SUL - BOA VISTA [ID::1233]  
+[10:47:51][34.224.2.240]>  [ID::] acessou o cadastro de SAO CAETANO DO SUL - OSVALDO CRUZ [ID::1054]  
+[10:47:52][34.224.2.240]>  [ID::] acessou o cadastro de SAO CAETANO DO SUL - VILA GERTY [ID::909]  
+[10:48:23][34.224.2.240]>  [ID::] acessou o cadastro de SAO JOAO CLIMACO [ID::933]  
+[10:48:23][34.224.2.240]>  [ID::] acessou o cadastro de SÃO JOÃO DO IVAÍ [ID::954]  
+[10:48:54][34.224.2.240]>  [ID::] acessou o cadastro de SÃO JOSÉ DO RIO PRETO [ID::1019]  
+[10:48:55][34.224.2.240]>  [ID::] acessou o cadastro de SÃO JOSÉ DOS CAMPOS I / MORUMBI [ID::1140]  
+[10:49:27][34.224.2.240]>  [ID::] acessou o cadastro de SÃO JOSÉ DOS CAMPOS II / SÃO VICENTE-CE [ID::980]  
+[10:50:05][34.224.2.240]>  [ID::] acessou o cadastro de SÃO JOSE DOS PINHAIS-COLONIA DO RIO GRANDE  - CE [ID::1184]  
+[10:50:06][34.224.2.240]>  [ID::] acessou o cadastro de SÃO lUÍZ [ID::972]  
+[10:50:37][34.224.2.240]>  [ID::] acessou o cadastro de SÃO MATEUS [ID::1165]  
+[10:50:38][34.224.2.240]>  [ID::] acessou o cadastro de SÃO PAULO DE OLIVENÇA  [ID::1074]  
+[10:51:09][34.224.2.240]>  [ID::] acessou o cadastro de SAUDE [ID::1172]  
+[10:51:40][34.224.2.240]>  [ID::] acessou o cadastro de SENA MADUREIRA - CE [ID::1024]  
+[10:51:40][34.224.2.240]>  [ID::] acessou o cadastro de SERTANEJA - CE [ID::1170]  
+[10:52:11][34.224.2.240]>  [ID::] acessou o cadastro de SERTÃOZINHO [ID::1142]  
+[10:52:12][34.224.2.240]>  [ID::] acessou o cadastro de SOBRADINHO [ID::937]  
+[10:52:43][34.224.2.240]>  [ID::] acessou o cadastro de SOROCABA / LARANJEIRAS [ID::1150]  
+[10:52:44][34.224.2.240]>  [ID::] acessou o cadastro de SOROCABA / VILA HELENA [ID::920]  
+[10:53:15][34.224.2.240]>  [ID::] acessou o cadastro de SUIÇA [ID::1071]  
+[10:53:15][34.224.2.240]>  [ID::] acessou o cadastro de SUIÇA [ID::1072]  
+[10:53:46][34.224.2.240]>  [ID::] acessou o cadastro de SUMARÉ [ID::1017]  
+[10:53:47][34.224.2.240]>  [ID::] acessou o cadastro de SUZANO - CE [ID::1032]  
+[10:54:18][34.224.2.240]>  [ID::] acessou o cadastro de TABOÃO DA SERRA [ID::1146]  
+[10:54:19][34.224.2.240]>  [ID::] acessou o cadastro de TAUBATÉ  [ID::1021]  
+[10:54:49][34.224.2.240]>  [ID::] acessou o cadastro de TIETÊ [ID::914]  
+[10:55:21][34.224.2.240]>  [ID::] acessou o cadastro de TOLEDO [ID::918]  
+[10:55:52][34.224.2.240]>  [ID::] acessou o cadastro de TRÊS LAGOAS [ID::926]  
+[10:56:23][34.224.2.240]>  [ID::] acessou o cadastro de TUCURUVI-CE [ID::1243]  
+[10:56:23][34.224.2.240]>  [ID::] acessou o cadastro de TUPI [ID::1114]  
+[10:56:54][34.224.2.240]>  [ID::] acessou o cadastro de UBAÍRA [ID::990]  
+[10:56:55][34.224.2.240]>  [ID::] acessou o cadastro de UBATUBA [ID::998]  
+[10:57:26][34.224.2.240]>  [ID::] acessou o cadastro de UBATUBA ESTUFA II [ID::1230]  
+[10:57:27][34.224.2.240]>  [ID::] acessou o cadastro de UBERLÂNDIA /CE [ID::958]  
+[10:57:58][34.224.2.240]>  [ID::] acessou o cadastro de UBIRATÃ [ID::1000]  
+[10:58:29][34.224.2.240]>  [ID::] acessou o cadastro de URAÍ [ID::921]  
+[10:58:30][34.224.2.240]>  [ID::] acessou o cadastro de URUGUAI  [ID::1176]  
+[10:59:01][34.224.2.240]>  [ID::] acessou o cadastro de URUGUAI - SALTO [ID::1080]  
+[10:59:01][34.224.2.240]>  [ID::] acessou o cadastro de URUGUAI / ARTIGAS I E II [ID::1027]  
+[10:59:32][34.224.2.240]>  [ID::] acessou o cadastro de URUGUAI / FRONTEIRA URUGUAI [ID::906]  
+[10:59:33][34.224.2.240]>  [ID::] acessou o cadastro de URUGUAI MONTEVIDÉO [ID::917]  
+[11:00:04][34.224.2.240]>  [ID::] acessou o cadastro de URUGUAIANA [ID::1112]  
+[11:00:05][34.224.2.240]>  [ID::] acessou o cadastro de UTINGA [ID::1079]  
+[11:00:36][34.224.2.240]>  [ID::] acessou o cadastro de VARGEM GRANDE DO SUL [ID::950]  
+[11:01:38][34.224.2.240]>  [ID::] acessou o cadastro de VARGEM GRANDE PAULISTA [ID::929]  
+[11:01:39][34.224.2.240]>  [ID::] acessou o cadastro de VARZEA GRANDE [ID::1001]  
+[11:02:10][34.224.2.240]>  [ID::] acessou o cadastro de VENDA NOVA [ID::907]  
+[11:02:41][34.224.2.240]>  [ID::] acessou o cadastro de VERA CRUZ D´OESTE [ID::931]  
+[11:02:42][34.224.2.240]>  [ID::] acessou o cadastro de VIETNA [ID::1122]  
+[11:03:13][34.224.2.240]>  [ID::] acessou o cadastro de VIETNA [ID::1121]  
+[11:03:14][34.224.2.240]>  [ID::] acessou o cadastro de VILA ARAPUÁ [ID::1035]  
+[11:03:44][34.224.2.240]>  [ID::] acessou o cadastro de VILA BARCELONA [ID::1223]  
+[11:03:45][34.224.2.240]>  [ID::] acessou o cadastro de VILA FORMOSA [ID::977]  
+[11:04:16][34.224.2.240]>  [ID::] acessou o cadastro de VILA HELENA [ID::1100]  
+[11:04:47][34.224.2.240]>  [ID::] acessou o cadastro de VILA RICA  - SÃO PAULO [ID::928]  
+[11:04:48][34.224.2.240]>  [ID::] acessou o cadastro de VILA RICA -MT [ID::993]  
+[11:05:19][34.224.2.240]>  [ID::] acessou o cadastro de VILA VELHA - CE [ID::1228]  
+[11:05:50][34.224.2.240]>  [ID::] acessou o cadastro de VILHENA/CE [ID::1048]  
+[11:05:51][34.224.2.240]>  [ID::] acessou o cadastro de VOTUPORANGA [ID::942]  
+[11:06:22][34.224.2.240]>  [ID::] acessou o cadastro de XINGUARA [ID::982]  
+[11:06:22][34.224.2.240]>  [ID::] acessou o cadastro de zz [ID::1251]  
+[12:11:16][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:11:16][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=907 
+[12:11:16][34.224.2.240]> # ------------------------------------------------------>  
+[12:11:16][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:11:16][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1168 
+[12:11:16][34.224.2.240]> # ------------------------------------------------------>  
+[12:11:47][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:11:47][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1102 
+[12:11:47][34.224.2.240]> # ------------------------------------------------------>  
+[12:11:47][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:11:47][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1050 
+[12:11:47][34.224.2.240]> # ------------------------------------------------------>  
+[12:11:48][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:11:48][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=944 
+[12:11:48][34.224.2.240]> # ------------------------------------------------------>  
+[12:12:18][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:12:18][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1140 
+[12:12:18][34.224.2.240]> # ------------------------------------------------------>  
+[12:12:18][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:12:18][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1006 
+[12:12:18][34.224.2.240]> # ------------------------------------------------------>  
+[12:14:13][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:14:13][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=990 
+[12:14:13][34.224.2.240]> # ------------------------------------------------------>  
+[12:14:43][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:14:43][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1073 
+[12:14:43][34.224.2.240]> # ------------------------------------------------------>  
+[12:14:44][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:14:44][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=940 
+[12:14:44][34.224.2.240]> # ------------------------------------------------------>  
+[12:15:14][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:15:14][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1148 
+[12:15:14][34.224.2.240]> # ------------------------------------------------------>  
+[12:15:44][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:15:44][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1158 
+[12:15:44][34.224.2.240]> # ------------------------------------------------------>  
+[12:15:45][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:15:45][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1008 
+[12:15:45][34.224.2.240]> # ------------------------------------------------------>  
+[12:15:45][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:15:45][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1012 
+[12:15:45][34.224.2.240]> # ------------------------------------------------------>  
+[12:16:16][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:16:16][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1104 
+[12:16:16][34.224.2.240]> # ------------------------------------------------------>  
+[12:16:16][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:16:16][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=975 
+[12:16:16][34.224.2.240]> # ------------------------------------------------------>  
+[12:16:47][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:16:47][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1068 
+[12:16:47][34.224.2.240]> # ------------------------------------------------------>  
+[12:16:47][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:16:47][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1003 
+[12:16:47][34.224.2.240]> # ------------------------------------------------------>  
+[12:16:47][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:16:47][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1010 
+[12:16:47][34.224.2.240]> # ------------------------------------------------------>  
+[12:16:47][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:16:47][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=901 
+[12:16:47][34.224.2.240]> # ------------------------------------------------------>  
+[12:17:18][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:17:18][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1031 
+[12:17:18][34.224.2.240]> # ------------------------------------------------------>  
+[12:17:18][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:17:18][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1098 
+[12:17:18][34.224.2.240]> # ------------------------------------------------------>  
+[12:17:19][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:17:19][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1178 
+[12:17:19][34.224.2.240]> # ------------------------------------------------------>  
+[12:17:49][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:17:49][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=959 
+[12:17:49][34.224.2.240]> # ------------------------------------------------------>  
+[12:17:50][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:17:50][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=957 
+[12:17:50][34.224.2.240]> # ------------------------------------------------------>  
+[12:18:20][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:18:20][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1117 
+[12:18:20][34.224.2.240]> # ------------------------------------------------------>  
+[12:18:21][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:18:21][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1139 
+[12:18:21][34.224.2.240]> # ------------------------------------------------------>  
+[12:18:21][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:18:21][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=972 
+[12:18:21][34.224.2.240]> # ------------------------------------------------------>  
+[12:18:52][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:18:52][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=954 
+[12:18:52][34.224.2.240]> # ------------------------------------------------------>  
+[12:18:52][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:18:52][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1124 
+[12:18:52][34.224.2.240]> # ------------------------------------------------------>  
+[12:18:52][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:18:52][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=969 
+[12:18:52][34.224.2.240]> # ------------------------------------------------------>  
+[12:18:52][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:18:52][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=913 
+[12:18:52][34.224.2.240]> # ------------------------------------------------------>  
+[12:19:23][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:19:23][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1100 
+[12:19:23][34.224.2.240]> # ------------------------------------------------------>  
+[12:19:23][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:19:23][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1089 
+[12:19:23][34.224.2.240]> # ------------------------------------------------------>  
+[12:19:54][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:19:54][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=938 
+[12:19:54][34.224.2.240]> # ------------------------------------------------------>  
+[12:19:54][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:19:54][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1185 
+[12:19:54][34.224.2.240]> # ------------------------------------------------------>  
+[12:19:54][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:19:54][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1114 
+[12:19:54][34.224.2.240]> # ------------------------------------------------------>  
+[12:19:54][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:19:54][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1200 
+[12:19:54][34.224.2.240]> # ------------------------------------------------------>  
+[12:20:25][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:20:25][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1244 
+[12:20:25][34.224.2.240]> # ------------------------------------------------------>  
+[12:20:25][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:20:25][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1051 
+[12:20:25][34.224.2.240]> # ------------------------------------------------------>  
+[12:20:25][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:20:25][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1166 
+[12:20:25][34.224.2.240]> # ------------------------------------------------------>  
+[12:20:56][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:20:56][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1020 
+[12:20:56][34.224.2.240]> # ------------------------------------------------------>  
+[12:20:56][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:20:56][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=897 
+[12:20:56][34.224.2.240]> # ------------------------------------------------------>  
+[12:21:27][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:21:27][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1056 
+[12:21:27][34.224.2.240]> # ------------------------------------------------------>  
+[12:21:27][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:21:27][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=943 
+[12:21:27][34.224.2.240]> # ------------------------------------------------------>  
+[12:21:27][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:21:27][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1170 
+[12:21:27][34.224.2.240]> # ------------------------------------------------------>  
+[12:21:58][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:21:58][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=929 
+[12:21:58][34.224.2.240]> # ------------------------------------------------------>  
+[12:21:58][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:21:58][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=914 
+[12:21:58][34.224.2.240]> # ------------------------------------------------------>  
+[12:21:58][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:21:58][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1023 
+[12:21:58][34.224.2.240]> # ------------------------------------------------------>  
+[12:22:29][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:22:29][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=910 
+[12:22:29][34.224.2.240]> # ------------------------------------------------------>  
+[12:22:29][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:22:29][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=920 
+[12:22:29][34.224.2.240]> # ------------------------------------------------------>  
+[12:22:29][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:22:29][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1245 
+[12:22:29][34.224.2.240]> # ------------------------------------------------------>  
+[12:23:00][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:23:00][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1061 
+[12:23:00][34.224.2.240]> # ------------------------------------------------------>  
+[12:23:00][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:23:00][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1103 
+[12:23:00][34.224.2.240]> # ------------------------------------------------------>  
+[12:23:00][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:23:00][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1093 
+[12:23:00][34.224.2.240]> # ------------------------------------------------------>  
+[12:23:31][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:23:31][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=978 
+[12:23:31][34.224.2.240]> # ------------------------------------------------------>  
+[12:23:31][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:23:31][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=956 
+[12:23:31][34.224.2.240]> # ------------------------------------------------------>  
+[12:23:31][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:23:31][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=998 
+[12:23:31][34.224.2.240]> # ------------------------------------------------------>  
+[12:24:02][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:24:02][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=918 
+[12:24:02][34.224.2.240]> # ------------------------------------------------------>  
+[12:24:02][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:24:02][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=898 
+[12:24:02][34.224.2.240]> # ------------------------------------------------------>  
+[12:24:02][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:24:02][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1246 
+[12:24:02][34.224.2.240]> # ------------------------------------------------------>  
+[12:24:33][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:24:33][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=924 
+[12:24:33][34.224.2.240]> # ------------------------------------------------------>  
+[12:24:33][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:24:33][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1037 
+[12:24:33][34.224.2.240]> # ------------------------------------------------------>  
+[12:24:33][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:24:33][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1022 
+[12:24:33][34.224.2.240]> # ------------------------------------------------------>  
+[12:24:34][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:24:34][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=922 
+[12:24:34][34.224.2.240]> # ------------------------------------------------------>  
+[12:25:05][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:25:05][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1236 
+[12:25:05][34.224.2.240]> # ------------------------------------------------------>  
+[12:25:35][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:25:35][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1167 
+[12:25:35][34.224.2.240]> # ------------------------------------------------------>  
+[12:25:35][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:25:35][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1111 
+[12:25:35][34.224.2.240]> # ------------------------------------------------------>  
+[12:25:36][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:25:36][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=919 
+[12:25:36][34.224.2.240]> # ------------------------------------------------------>  
+[12:25:36][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:25:36][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=992 
+[12:25:36][34.224.2.240]> # ------------------------------------------------------>  
+[12:26:06][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:26:06][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1007 
+[12:26:06][34.224.2.240]> # ------------------------------------------------------>  
+[12:26:07][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:26:07][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1150 
+[12:26:07][34.224.2.240]> # ------------------------------------------------------>  
+[12:26:07][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:26:07][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1152 
+[12:26:07][34.224.2.240]> # ------------------------------------------------------>  
+[12:26:37][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:26:37][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=976 
+[12:26:37][34.224.2.240]> # ------------------------------------------------------>  
+[12:26:38][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:26:38][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=942 
+[12:26:38][34.224.2.240]> # ------------------------------------------------------>  
+[12:26:38][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:26:38][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=947 
+[12:26:38][34.224.2.240]> # ------------------------------------------------------>  
+[12:27:08][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:27:08][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1081 
+[12:27:08][34.224.2.240]> # ------------------------------------------------------>  
+[12:27:09][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:27:09][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1054 
+[12:27:09][34.224.2.240]> # ------------------------------------------------------>  
+[12:27:09][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:27:09][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=930 
+[12:27:09][34.224.2.240]> # ------------------------------------------------------>  
+[12:27:40][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:27:40][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1018 
+[12:27:40][34.224.2.240]> # ------------------------------------------------------>  
+[12:28:10][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:28:10][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=985 
+[12:28:10][34.224.2.240]> # ------------------------------------------------------>  
+[12:28:10][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:28:10][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1078 
+[12:28:10][34.224.2.240]> # ------------------------------------------------------>  
+[12:28:11][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:28:11][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1153 
+[12:28:11][34.224.2.240]> # ------------------------------------------------------>  
+[12:28:41][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:28:41][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1053 
+[12:28:41][34.224.2.240]> # ------------------------------------------------------>  
+[12:28:41][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:28:41][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=948 
+[12:28:41][34.224.2.240]> # ------------------------------------------------------>  
+[12:28:42][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:28:42][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1137 
+[12:28:42][34.224.2.240]> # ------------------------------------------------------>  
+[12:28:42][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:28:42][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1011 
+[12:28:42][34.224.2.240]> # ------------------------------------------------------>  
+[12:29:13][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:29:13][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=923 
+[12:29:13][34.224.2.240]> # ------------------------------------------------------>  
+[12:29:43][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:29:43][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1000 
+[12:29:43][34.224.2.240]> # ------------------------------------------------------>  
+[12:29:43][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:29:43][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1002 
+[12:29:43][34.224.2.240]> # ------------------------------------------------------>  
+[12:29:44][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:29:44][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1045 
+[12:29:44][34.224.2.240]> # ------------------------------------------------------>  
+[12:30:14][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:30:14][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=970 
+[12:30:14][34.224.2.240]> # ------------------------------------------------------>  
+[12:30:14][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:30:14][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1049 
+[12:30:14][34.224.2.240]> # ------------------------------------------------------>  
+[12:30:15][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:30:15][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1165 
+[12:30:15][34.224.2.240]> # ------------------------------------------------------>  
+[12:30:45][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:30:45][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1086 
+[12:30:45][34.224.2.240]> # ------------------------------------------------------>  
+[12:31:16][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:31:16][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1099 
+[12:31:16][34.224.2.240]> # ------------------------------------------------------>  
+[12:31:16][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:31:16][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1065 
+[12:31:16][34.224.2.240]> # ------------------------------------------------------>  
+[12:31:46][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:31:46][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=963 
+[12:31:46][34.224.2.240]> # ------------------------------------------------------>  
+[12:31:47][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:31:47][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1017 
+[12:31:47][34.224.2.240]> # ------------------------------------------------------>  
+[12:31:47][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:31:47][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1059 
+[12:31:47][34.224.2.240]> # ------------------------------------------------------>  
+[12:31:47][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:31:47][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1131 
+[12:31:47][34.224.2.240]> # ------------------------------------------------------>  
+[12:32:18][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:32:18][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1052 
+[12:32:18][34.224.2.240]> # ------------------------------------------------------>  
+[12:32:18][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:32:18][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1034 
+[12:32:18][34.224.2.240]> # ------------------------------------------------------>  
+[12:32:18][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:32:18][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=912 
+[12:32:18][34.224.2.240]> # ------------------------------------------------------>  
+[12:32:49][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:32:49][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1028 
+[12:32:49][34.224.2.240]> # ------------------------------------------------------>  
+[12:33:20][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:33:20][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1129 
+[12:33:20][34.224.2.240]> # ------------------------------------------------------>  
+[12:33:50][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:33:50][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1240 
+[12:33:50][34.224.2.240]> # ------------------------------------------------------>  
+[12:33:51][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:33:51][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1237 
+[12:33:51][34.224.2.240]> # ------------------------------------------------------>  
+[12:33:51][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:33:51][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1169 
+[12:33:51][34.224.2.240]> # ------------------------------------------------------>  
+[12:34:22][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:34:22][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1066 
+[12:34:22][34.224.2.240]> # ------------------------------------------------------>  
+[12:34:52][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:34:52][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1149 
+[12:34:52][34.224.2.240]> # ------------------------------------------------------>  
+[12:34:53][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:34:53][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1039 
+[12:34:53][34.224.2.240]> # ------------------------------------------------------>  
+[12:35:23][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:35:23][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=988 
+[12:35:23][34.224.2.240]> # ------------------------------------------------------>  
+[12:35:23][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:35:23][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1187 
+[12:35:23][34.224.2.240]> # ------------------------------------------------------>  
+[12:35:24][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:35:24][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=902 
+[12:35:24][34.224.2.240]> # ------------------------------------------------------>  
+[12:35:54][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:35:54][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=891 
+[12:35:54][34.224.2.240]> # ------------------------------------------------------>  
+[12:35:54][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:35:55][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1074 
+[12:35:55][34.224.2.240]> # ------------------------------------------------------>  
+[12:35:55][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:35:55][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1088 
+[12:35:55][34.224.2.240]> # ------------------------------------------------------>  
+[12:36:25][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:36:25][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=928 
+[12:36:25][34.224.2.240]> # ------------------------------------------------------>  
+[12:36:26][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:36:26][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=951 
+[12:36:26][34.224.2.240]> # ------------------------------------------------------>  
+[12:36:26][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:36:26][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1110 
+[12:36:26][34.224.2.240]> # ------------------------------------------------------>  
+[12:36:56][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:36:56][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=896 
+[12:36:56][34.224.2.240]> # ------------------------------------------------------>  
+[12:36:57][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:36:57][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1248 
+[12:36:57][34.224.2.240]> # ------------------------------------------------------>  
+[12:36:57][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:36:57][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1030 
+[12:36:57][34.224.2.240]> # ------------------------------------------------------>  
+[12:37:28][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:37:28][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1145 
+[12:37:28][34.224.2.240]> # ------------------------------------------------------>  
+[12:37:28][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:37:28][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1242 
+[12:37:28][34.224.2.240]> # ------------------------------------------------------>  
+[12:37:28][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:37:28][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1029 
+[12:37:28][34.224.2.240]> # ------------------------------------------------------>  
+[12:37:59][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:37:59][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1004 
+[12:37:59][34.224.2.240]> # ------------------------------------------------------>  
+[12:37:59][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:37:59][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1101 
+[12:37:59][34.224.2.240]> # ------------------------------------------------------>  
+[12:37:59][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:37:59][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=905 
+[12:37:59][34.224.2.240]> # ------------------------------------------------------>  
+[12:38:30][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:38:30][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1125 
+[12:38:30][34.224.2.240]> # ------------------------------------------------------>  
+[12:38:30][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:38:30][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1172 
+[12:38:30][34.224.2.240]> # ------------------------------------------------------>  
+[12:38:30][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:38:30][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1019 
+[12:38:30][34.224.2.240]> # ------------------------------------------------------>  
+[12:39:01][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:39:01][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1016 
+[12:39:01][34.224.2.240]> # ------------------------------------------------------>  
+[12:39:01][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:39:01][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1096 
+[12:39:01][34.224.2.240]> # ------------------------------------------------------>  
+[12:39:01][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:39:01][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1097 
+[12:39:01][34.224.2.240]> # ------------------------------------------------------>  
+[12:39:32][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:39:32][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1057 
+[12:39:32][34.224.2.240]> # ------------------------------------------------------>  
+[12:39:32][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:39:32][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1038 
+[12:39:32][34.224.2.240]> # ------------------------------------------------------>  
+[12:39:32][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:39:32][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=909 
+[12:39:32][34.224.2.240]> # ------------------------------------------------------>  
+[12:40:03][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:40:03][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1055 
+[12:40:03][34.224.2.240]> # ------------------------------------------------------>  
+[12:40:03][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:40:03][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1212 
+[12:40:03][34.224.2.240]> # ------------------------------------------------------>  
+[12:40:03][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:40:03][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=932 
+[12:40:03][34.224.2.240]> # ------------------------------------------------------>  
+[12:40:34][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:40:34][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1190 
+[12:40:34][34.224.2.240]> # ------------------------------------------------------>  
+[12:40:34][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:40:34][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1174 
+[12:40:34][34.224.2.240]> # ------------------------------------------------------>  
+[12:40:34][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:40:34][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=989 
+[12:40:34][34.224.2.240]> # ------------------------------------------------------>  
+[12:40:35][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:40:35][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=953 
+[12:40:35][34.224.2.240]> # ------------------------------------------------------>  
+[12:41:05][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:41:05][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=950 
+[12:41:05][34.224.2.240]> # ------------------------------------------------------>  
+[12:41:05][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:41:05][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=968 
+[12:41:05][34.224.2.240]> # ------------------------------------------------------>  
+[12:41:06][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:41:06][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1040 
+[12:41:06][34.224.2.240]> # ------------------------------------------------------>  
+[12:41:36][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:41:36][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=987 
+[12:41:36][34.224.2.240]> # ------------------------------------------------------>  
+[12:41:36][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:41:36][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1001 
+[12:41:36][34.224.2.240]> # ------------------------------------------------------>  
+[12:42:07][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:42:07][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1079 
+[12:42:07][34.224.2.240]> # ------------------------------------------------------>  
+[12:42:07][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:42:07][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=979 
+[12:42:07][34.224.2.240]> # ------------------------------------------------------>  
+[12:42:08][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:42:08][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1252 
+[12:42:08][34.224.2.240]> # ------------------------------------------------------>  
+[12:42:38][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:42:38][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1138 
+[12:42:38][34.224.2.240]> # ------------------------------------------------------>  
+[12:42:39][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:42:39][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1042 
+[12:42:39][34.224.2.240]> # ------------------------------------------------------>  
+[12:42:39][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:42:39][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=926 
+[12:42:39][34.224.2.240]> # ------------------------------------------------------>  
+[12:43:09][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:43:09][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1013 
+[12:43:09][34.224.2.240]> # ------------------------------------------------------>  
+[12:43:10][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:43:10][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1083 
+[12:43:10][34.224.2.240]> # ------------------------------------------------------>  
+[12:43:10][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:43:10][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1224 
+[12:43:10][34.224.2.240]> # ------------------------------------------------------>  
+[12:43:40][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:43:40][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1188 
+[12:43:40][34.224.2.240]> # ------------------------------------------------------>  
+[12:43:41][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:43:41][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1229 
+[12:43:41][34.224.2.240]> # ------------------------------------------------------>  
+[12:43:41][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:43:41][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1021 
+[12:43:41][34.224.2.240]> # ------------------------------------------------------>  
+[12:43:41][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:43:41][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1035 
+[12:43:41][34.224.2.240]> # ------------------------------------------------------>  
+[12:44:12][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:44:12][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1133 
+[12:44:12][34.224.2.240]> # ------------------------------------------------------>  
+[12:44:12][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:44:12][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1151 
+[12:44:12][34.224.2.240]> # ------------------------------------------------------>  
+[12:44:13][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:44:13][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1090 
+[12:44:13][34.224.2.240]> # ------------------------------------------------------>  
+[12:44:43][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:44:43][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=921 
+[12:44:43][34.224.2.240]> # ------------------------------------------------------>  
+[12:44:43][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:44:43][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=911 
+[12:44:43][34.224.2.240]> # ------------------------------------------------------>  
+[12:45:45][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:45:45][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=927 
+[12:45:45][34.224.2.240]> # ------------------------------------------------------>  
+[12:45:45][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:45:45][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1141 
+[12:45:45][34.224.2.240]> # ------------------------------------------------------>  
+[12:45:46][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:45:46][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=893 
+[12:45:46][34.224.2.240]> # ------------------------------------------------------>  
+[12:46:16][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:46:16][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1036 
+[12:46:16][34.224.2.240]> # ------------------------------------------------------>  
+[12:46:16][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:46:16][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=946 
+[12:46:16][34.224.2.240]> # ------------------------------------------------------>  
+[12:46:17][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:46:17][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1135 
+[12:46:17][34.224.2.240]> # ------------------------------------------------------>  
+[12:46:17][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:46:17][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1041 
+[12:46:17][34.224.2.240]> # ------------------------------------------------------>  
+[12:46:47][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:46:47][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=962 
+[12:46:47][34.224.2.240]> # ------------------------------------------------------>  
+[12:46:48][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:46:48][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1094 
+[12:46:48][34.224.2.240]> # ------------------------------------------------------>  
+[12:47:18][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:47:18][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1232 
+[12:47:18][34.224.2.240]> # ------------------------------------------------------>  
+[12:47:18][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:47:18][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=977 
+[12:47:18][34.224.2.240]> # ------------------------------------------------------>  
+[12:47:19][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:47:19][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=949 
+[12:47:19][34.224.2.240]> # ------------------------------------------------------>  
+[12:47:49][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:47:49][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=931 
+[12:47:49][34.224.2.240]> # ------------------------------------------------------>  
+[12:47:49][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:47:49][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=996 
+[12:47:49][34.224.2.240]> # ------------------------------------------------------>  
+[12:47:50][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:47:50][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1044 
+[12:47:50][34.224.2.240]> # ------------------------------------------------------>  
+[12:48:20][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:48:20][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1046 
+[12:48:20][34.224.2.240]> # ------------------------------------------------------>  
+[12:48:21][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:48:21][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=941 
+[12:48:21][34.224.2.240]> # ------------------------------------------------------>  
+[12:48:21][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:48:21][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=993 
+[12:48:21][34.224.2.240]> # ------------------------------------------------------>  
+[12:48:52][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:48:52][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1154 
+[12:48:52][34.224.2.240]> # ------------------------------------------------------>  
+[12:49:22][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:49:22][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1108 
+[12:49:22][34.224.2.240]> # ------------------------------------------------------>  
+[12:49:23][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:49:23][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=934 
+[12:49:23][34.224.2.240]> # ------------------------------------------------------>  
+[12:49:23][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:49:23][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=982 
+[12:49:23][34.224.2.240]> # ------------------------------------------------------>  
+[12:49:23][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:49:23][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=973 
+[12:49:23][34.224.2.240]> # ------------------------------------------------------>  
+[12:49:54][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:49:54][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1109 
+[12:49:54][34.224.2.240]> # ------------------------------------------------------>  
+[12:49:54][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:49:54][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=933 
+[12:49:54][34.224.2.240]> # ------------------------------------------------------>  
+[12:49:54][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:49:54][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=937 
+[12:49:54][34.224.2.240]> # ------------------------------------------------------>  
+[12:49:54][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:49:54][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1213 
+[12:49:54][34.224.2.240]> # ------------------------------------------------------>  
+[12:50:25][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:50:25][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1241 
+[12:50:26][34.224.2.240]> # ------------------------------------------------------>  
+[12:50:56][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:50:56][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1194 
+[12:50:56][34.224.2.240]> # ------------------------------------------------------>  
+[12:50:56][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:50:56][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1146 
+[12:50:56][34.224.2.240]> # ------------------------------------------------------>  
+[12:50:57][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:50:57][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=936 
+[12:50:57][34.224.2.240]> # ------------------------------------------------------>  
+[12:51:27][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:51:27][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1127 
+[12:51:27][34.224.2.240]> # ------------------------------------------------------>  
+[12:51:27][34.224.2.240]> #### Acesso não autorizado ###### 
+[12:51:27][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/lancamentos-campo.php?id=1116 
+[12:51:27][34.224.2.240]> # ------------------------------------------------------>  
+[13:18:31][34.224.2.240]>  [ID::] acessou o cadastro de ANDRADINA  [ID::955]  
+[13:19:02][34.224.2.240]>  [ID::] acessou o cadastro de CARAGUATATUBA-CE [ID::1132]  
+[13:19:03][34.224.2.240]>  [ID::] acessou o cadastro de CORUMBA [ID::1186]  
+[13:19:34][34.224.2.240]>  [ID::] acessou o cadastro de CUBA [ID::1173]  
+[13:20:05][34.224.2.240]>  [ID::] acessou o cadastro de CURITIBA - JARDIM INDEPENDENCIA - CE [ID::1118]  
+[13:20:06][34.224.2.240]>  [ID::] acessou o cadastro de ESPANHA  [ID::1156]  
+[13:20:37][34.224.2.240]>  [ID::] acessou o cadastro de ESPANHA [ID::1157]  
+[13:20:37][34.224.2.240]>  [ID::] acessou o cadastro de FLORIANOPOLIS [ID::1113]  
+[13:21:09][34.224.2.240]>  [ID::] acessou o cadastro de GOIATUBA  [ID::904]  
+[13:21:40][34.224.2.240]>  [ID::] acessou o cadastro de GUINÉ BISSAU [ID::1143]  
+[13:21:40][34.224.2.240]>  [ID::] acessou o cadastro de GUINÉ BISSAU [ID::1144]  
+[13:22:11][34.224.2.240]>  [ID::] acessou o cadastro de IMPERATRIZ DO MARANHÃO II [ID::1225]  
+[13:22:12][34.224.2.240]>  [ID::] acessou o cadastro de ITACOATIARA - CE [ID::1043]  
+[13:22:43][34.224.2.240]>  [ID::] acessou o cadastro de JARDIM MACEDÔNIA / MOEMA [ID::915]  
+[13:23:14][34.224.2.240]>  [ID::] acessou o cadastro de LOANDA [ID::1171]  
+[13:23:45][34.224.2.240]>  [ID::] acessou o cadastro de MACEI&Oacute; -  [ID::1058]  
+[13:23:46][34.224.2.240]>  [ID::] acessou o cadastro de MANDAGUARI [ID::1130]  
+[13:24:17][34.224.2.240]>  [ID::] acessou o cadastro de MONGUAGUA - CE [ID::995]  
+[13:24:17][34.224.2.240]>  [ID::] acessou o cadastro de RIACHÃO DO JACUÍ/PE [ID::1191]  
+[13:24:48][34.224.2.240]>  [ID::] acessou o cadastro de SANTA BÁRBARA D OESTE    [ID::1005]  
+[13:24:49][34.224.2.240]>  [ID::] acessou o cadastro de SANTA MARIA   [ID::1060]  
+[13:25:20][34.224.2.240]>  [ID::] acessou o cadastro de SAO JOSE DOS CAMPOS III  [ID::903]  
+[13:25:21][34.224.2.240]>  [ID::] acessou o cadastro de SIDROLÃNDIA  [ID::1091]  
+[13:25:51][34.224.2.240]>  [ID::] acessou o cadastro de SINOP [ID::899]  
+[13:25:52][34.224.2.240]>  [ID::] acessou o cadastro de TATUÍ [ID::1183]  
+[13:26:23][34.224.2.240]>  [ID::] acessou o cadastro de TELEMACO BORBA - CE [ID::1126]  
+[13:26:54][34.224.2.240]>  [ID::] acessou o cadastro de TEODORO SAMPAIO [ID::1189]  
+[13:26:55][34.224.2.240]>  [ID::] acessou o cadastro de VILA EMA - [ID::1177]  
+[13:27:26][34.224.2.240]>  [ID::] acessou o cadastro de VILA INDUSTRIAL - CE [ID::1062]  
+[14:02:39][34.224.2.240]> #### Acesso não autorizado ###### 
+[14:02:39][34.224.2.240]> Algum usuario não identificado tentou acessar a /app/listar-pendentes-consistencia.php 
+[14:02:39][34.224.2.240]> # ------------------------------------------------------>  

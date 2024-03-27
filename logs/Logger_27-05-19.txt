@@ -1,0 +1,29 @@
+[09:12:01][177.138.69.180]> Aux Financeiro [8] fez o login no sistema. 
+[10:24:07][177.138.69.180]> Aux Financeiro [8] acessou listagem de campos . 
+[10:24:16][177.138.69.180]> Aux Financeiro [ID::8] acessou o cadastro de MATÃO [ID::1090]  
+[10:41:51][177.138.69.180]> Aux Financeiro [ID::8] atualizou o cadastro de MATÃO [ID::1090]  
+[10:41:51][177.138.69.180]> Aux Financeiro [8] acessou listagem de campos . 
+[10:41:58][177.138.69.180]> Aux Financeiro [ID::8] acessou o cadastro de MATÃO [ID::1090]  
+[10:44:47][177.138.69.180]> Aux Financeiro [8] acessou listagem de campos . 
+[10:59:07][177.138.69.180]> Aux Financeiro [8] acessou as remessas do campo 1187 . 
+[10:59:10][177.138.69.180]> Aux Financeiro [8] acessou as remessas do campo 1187 . 
+[11:04:03][177.138.69.180]> Aux Financeiro [8] acessou as remessas do campo 1187 . 
+[11:28:45][177.138.69.180]> Aux Financeiro [8] acessou listagem de campos . 
+[11:33:48][177.138.69.180]> Aux Financeiro [8] acessou listagem de campos . 
+[14:01:23][66.249.83.19]> #### Acesso não autorizado ###### 
+[14:01:23][66.249.83.19]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960 
+[14:01:23][66.249.83.19]> # ------------------------------------------------------>  
+[16:45:48][170.244.29.116]> #### Acesso não autorizado ###### 
+[16:45:48][170.244.29.116]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[16:45:48][170.244.29.116]> # ------------------------------------------------------>  
+[16:45:56][170.244.29.116]> Administrador Financeiro [5] fez o login no sistema. 
+[16:46:03][170.244.29.116]> Administrador Financeiro [5] acessou listagem de campos . 
+[16:46:13][170.244.29.116]> Administrador Financeiro [5] acessou as remessas do campo 1068 . 
+[16:49:12][170.244.29.116]> Administrador Financeiro [5] acessou as remessas do campo 1068 . 
+[16:49:59][177.138.69.180]> Aux Financeiro [ID::8] acessou o cadastro de ARAÇATUBA [ID::1262]  
+[16:50:29][177.138.69.180]> Aux Financeiro [8] acessou listagem de campos . 
+[17:01:06][177.138.69.180]> Aux Financeiro [8] saiu do sistema . 
+[17:29:16][170.244.29.116]> Administrador Financeiro [5] acessou listagem de campos . 
+[17:29:44][170.244.29.116]> Administrador Financeiro [5] acessou as remessas do campo 1055 . 
+[17:29:48][170.244.29.116]> Administrador Financeiro [5] acessou as remessas do campo 1055 . 
+[17:53:23][170.244.29.116]> Administrador Financeiro [5] acessou as remessas do campo 1055 . 

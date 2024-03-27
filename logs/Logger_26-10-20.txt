@@ -1,0 +1,25 @@
+[09:35:00][200.207.96.34]> Aux Financeiro [8] fez o login no sistema. 
+[11:15:11][200.207.96.34]> Aux Financeiro [8] acessou listagem de campos . 
+[11:15:20][200.207.96.34]> Aux Financeiro [ID::8] acessou o cadastro de CONCEIÇÃO DA FEIRA [ID::1050]  
+[11:30:48][200.207.96.34]> Aux Financeiro [8] acessou listagem de campos . 
+[11:39:21][200.207.96.34]> Aux Financeiro [8] acessou listagem de campos . 
+[11:40:15][200.207.96.34]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 82153   Valor:: 140  NmDocto :: 8293917  
+[11:40:46][200.207.96.34]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:40:46][200.207.96.34]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 82153  
+[11:40:46][200.207.96.34]> # Valor :: 140  
+[11:40:46][200.207.96.34]> # Referente ao mes :: 2020-03-15 
+[11:40:46][200.207.96.34]> # Usuario atribuido ID::1007 
+[11:40:46][200.207.96.34]> ############################################## ------------------------------------------------------------ 
+[11:41:42][200.207.96.34]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 82622   Valor:: 90  NmDocto :: 8863155  
+[11:42:05][200.207.96.34]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:42:05][200.207.96.34]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 82622  
+[11:42:05][200.207.96.34]> # Valor :: 90  
+[11:42:05][200.207.96.34]> # Referente ao mes :: 2020-05-15 
+[11:42:05][200.207.96.34]> # Usuario atribuido ID::1007 
+[11:42:05][200.207.96.34]> ############################################## ------------------------------------------------------------ 
+[11:42:32][200.207.96.34]> Aux Financeiro [8] acessou as remessas do campo 1007 . 
+[11:43:18][200.207.96.34]> Aux Financeiro [8] acessou listagem de campos . 
+[15:54:02][200.207.96.34]> Aux Financeiro [ID::8] acessou o cadastro de ARTUR ALVIM [ID::1036]  
+[15:54:08][200.207.96.34]> Aux Financeiro [8] acessou listagem de campos . 
+[17:28:23][200.207.96.34]> Aux Financeiro [8] saiu do sistema . 
+[17:28:26][200.207.96.34]>  [8] saiu do sistema . 

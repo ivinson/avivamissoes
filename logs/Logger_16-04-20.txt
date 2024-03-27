@@ -1,0 +1,20 @@
+[09:07:36][191.17.54.26]> Aux Financeiro [8] fez o login no sistema. 
+[09:31:30][191.17.54.26]> Aux Financeiro [8] acessou listagem de campos . 
+[09:31:36][191.17.54.26]> Aux Financeiro [8] acessou as remessas do campo 1149 . 
+[09:56:18][191.17.54.26]> Aux Financeiro [8] acessou listagem de campos . 
+[09:56:31][191.17.54.26]> Aux Financeiro [8] acessou as remessas do campo 1240 . 
+[09:57:45][191.17.54.26]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 80154   Valor:: 274  NmDocto :: 5802410  
+[09:58:19][191.17.54.26]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[09:58:19][191.17.54.26]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 80154  
+[09:58:19][191.17.54.26]> # Valor :: 274  
+[09:58:19][191.17.54.26]> # Referente ao mes :: 2020-02-15 
+[09:58:19][191.17.54.26]> # Usuario atribuido ID::1240 
+[09:58:19][191.17.54.26]> ############################################## ------------------------------------------------------------ 
+[09:58:24][191.17.54.26]> Aux Financeiro [8] acessou listagem de campos . 
+[09:58:31][191.17.54.26]> Aux Financeiro [8] acessou as remessas do campo 1240 . 
+[11:42:18][191.17.54.26]> Aux Financeiro [8] acessou listagem de campos . 
+[11:42:25][191.17.54.26]> Aux Financeiro [8] acessou as remessas do campo 1018 . 
+[11:42:28][191.17.54.26]> Aux Financeiro [8] acessou as remessas do campo 1018 . 
+[13:46:01][191.17.54.26]> Aux Financeiro [8] acessou listagem de campos . 
+[14:54:44][191.17.54.26]> Aux Financeiro [ID::8] acessou o cadastro de MARACAS [ID::1246]  
+[17:10:38][191.17.54.26]> Aux Financeiro [8] saiu do sistema . 

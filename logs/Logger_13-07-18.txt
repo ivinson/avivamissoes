@@ -1,0 +1,50 @@
+[09:05:37][189.110.16.231]> Aux Financeiro [8] fez o login no sistema. 
+[09:19:56][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[09:20:01][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[10:31:41][189.110.16.231]> Aux Financeiro [8] saiu do sistema . 
+[10:31:47][189.110.16.231]>  [8] saiu do sistema . 
+[15:07:40][189.110.16.231]> Aux Financeiro [8] fez o login no sistema. 
+[15:11:23][189.110.16.231]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 69262   Valor:: 2000.33  NmDocto :: 591055  
+[15:11:42][189.110.16.231]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:11:42][189.110.16.231]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 69262  
+[15:11:42][189.110.16.231]> # Valor :: 2000.33  
+[15:11:42][189.110.16.231]> # Referente ao mes :: 2018-05-15 
+[15:11:42][189.110.16.231]> # Usuario atribuido ID::909 
+[15:11:42][189.110.16.231]> ############################################## ------------------------------------------------------------ 
+[15:17:50][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:18:00][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[15:23:18][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:23:26][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[15:24:17][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[15:24:23][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[15:27:21][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:27:27][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[15:31:25][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:31:35][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1021 . 
+[15:33:24][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1021 . 
+[15:35:12][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:35:21][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[15:37:45][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[15:38:20][189.110.16.231]> Aux Financeiro [8] deletou a remessa 68899 do campo id=1152. 
+[15:38:21][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[15:38:25][189.110.16.231]> Aux Financeiro [8] deletou a remessa 68458 do campo id=1152. 
+[15:38:26][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[15:41:19][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:41:28][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[15:41:52][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:41:56][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[15:42:34][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:42:42][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[15:45:12][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:45:20][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[15:48:33][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:48:46][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 1166 . 
+[15:50:18][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:50:25][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 923 . 
+[15:51:39][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:51:51][189.110.16.231]> Aux Financeiro [8] acessou as remessas do campo 921 . 
+[15:56:17][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[15:56:23][189.110.16.231]> Aux Financeiro [ID::8] acessou o cadastro de VILA BARCELONA [ID::1223]  
+[15:56:25][189.110.16.231]> Aux Financeiro [8] acessou listagem de campos . 
+[17:55:23][189.110.16.231]> Aux Financeiro [8] saiu do sistema . 
+[17:55:30][189.110.16.231]>  [8] saiu do sistema . 

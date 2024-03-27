@@ -1,0 +1,71 @@
+[01:29:50][201.42.212.34]> Ivani Valim  [2] fez o login no sistema. 
+[01:32:04][201.42.212.34]> Ivani Valim  [2] acessou listagem de campos . 
+[01:32:16][201.42.212.34]> Ivani Valim  [2] acessou as remessas do campo 1054 . 
+[01:32:32][201.42.212.34]> Ivani Valim  [2] acessou as remessas do campo 1054 . 
+[01:33:18][201.42.212.34]> Ivani Valim  [2] acessou as remessas do campo 1054 . 
+[01:33:21][201.42.212.34]> Ivani Valim  [2] acessou listagem de campos . 
+[01:33:28][201.42.212.34]> Ivani Valim  [ID::2] acessou o cadastro de SAO CAETANO DO SUL - OSVALDO CRUZ [ID::1054]  
+[01:33:49][201.42.212.34]> Ivani Valim  [2] acessou listagem de campos . 
+[01:35:12][201.42.212.34]> Ivani Valim  [ID::2] acessou o cadastro de S&Atilde;O CAETANO DO SUL- BOA VISTA [ID::1233]  
+[01:35:17][201.42.212.34]> Ivani Valim  [2] acessou listagem de campos . 
+[01:35:21][201.42.212.34]> Ivani Valim  [2] acessou as remessas do campo 1233 . 
+[01:35:23][201.42.212.34]> Ivani Valim  [2] acessou listagem de campos . 
+[02:10:50][66.249.64.87]> #### Acesso não autorizado ###### 
+[02:10:50][66.249.64.87]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1105&idLancamento=16664&type=delete 
+[02:10:50][66.249.64.87]> # ------------------------------------------------------>  
+[02:28:47][66.249.64.87]> #### Acesso não autorizado ###### 
+[02:28:47][66.249.64.87]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=916&idLancamento=19452&type=delete 
+[02:28:47][66.249.64.87]> # ------------------------------------------------------>  
+[04:53:12][66.249.64.91]> #### Acesso não autorizado ###### 
+[04:53:12][66.249.64.91]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1105&idLancamento=16673&type=delete 
+[04:53:12][66.249.64.91]> # ------------------------------------------------------>  
+[07:31:54][66.249.64.91]> #### Acesso não autorizado ###### 
+[07:31:54][66.249.64.91]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1105&idLancamento=16665&type=delete 
+[07:31:54][66.249.64.91]> # ------------------------------------------------------>  
+[08:47:54][66.249.64.87]> #### Acesso não autorizado ###### 
+[08:47:55][66.249.64.87]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1185&ano=2013 
+[08:47:55][66.249.64.87]> # ------------------------------------------------------>  
+[09:06:50][177.102.218.14]> #### Acesso não autorizado ###### 
+[09:06:50][177.102.218.14]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[09:06:50][177.102.218.14]> # ------------------------------------------------------>  
+[09:08:46][177.102.218.14]> #### Acesso não autorizado ###### 
+[09:08:46][177.102.218.14]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[09:08:46][177.102.218.14]> # ------------------------------------------------------>  
+[09:20:10][177.102.218.14]> #### Acesso não autorizado ###### 
+[09:20:10][177.102.218.14]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[09:20:10][177.102.218.14]> # ------------------------------------------------------>  
+[09:20:23][177.102.218.14]> Karina Machado Pereira [4] fez o login no sistema. 
+[09:20:33][177.102.218.14]> Karina Machado Pereira [4] acessou listagem de campos . 
+[09:20:59][177.102.218.14]> Karina Machado Pereira [ID::4] acessou o cadastro de SALVADOR VALERIA - CE [ID::1095]  
+[09:24:31][177.102.218.14]> Karina Machado Pereira [4] acessou listagem de campos . 
+[09:24:41][177.102.218.14]> Karina Machado Pereira [4] acessou as remessas do campo 1095 . 
+[09:25:03][177.102.218.14]> Karina Machado Pereira [4] acessou as remessas do campo 1095 . 
+[09:29:41][177.102.218.14]> Karina Machado Pereira [4] acessou listagem de campos . 
+[09:44:07][66.249.64.95]> #### Acesso não autorizado ###### 
+[09:44:07][66.249.64.95]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1105&idLancamento=16666&type=delete 
+[09:44:07][66.249.64.95]> # ------------------------------------------------------>  
+[10:12:34][66.249.64.87]> #### Acesso não autorizado ###### 
+[10:12:34][66.249.64.87]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1178 
+[10:12:34][66.249.64.87]> # ------------------------------------------------------>  
+[10:44:30][66.249.64.91]> #### Acesso não autorizado ###### 
+[10:44:30][66.249.64.91]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1178 
+[10:44:30][66.249.64.91]> # ------------------------------------------------------>  
+[11:56:55][66.249.64.91]> #### Acesso não autorizado ###### 
+[11:56:55][66.249.64.91]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1178&idLancamento=27568&type=delete 
+[11:56:55][66.249.64.91]> # ------------------------------------------------------>  
+[13:40:49][66.249.64.91]> #### Acesso não autorizado ###### 
+[13:40:49][66.249.64.91]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1178&idLancamento=28562&type=delete 
+[13:40:49][66.249.64.91]> # ------------------------------------------------------>  
+[17:33:15][66.249.64.91]> #### Acesso não autorizado ###### 
+[17:33:15][66.249.64.91]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1105&idLancamento=28325&type=delete 
+[17:33:15][66.249.64.91]> # ------------------------------------------------------>  
+[18:06:21][177.102.218.14]> #### Acesso não autorizado ###### 
+[18:06:21][177.102.218.14]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[18:06:21][177.102.218.14]> # ------------------------------------------------------>  
+[18:06:30][177.102.218.14]> Karina Machado Pereira [4] fez o login no sistema. 
+[18:06:35][177.102.218.14]> Karina Machado Pereira [4] acessou listagem de campos . 
+[18:06:42][177.102.218.14]> Karina Machado Pereira [4] acessou as remessas do campo 1146 . 
+[18:06:57][177.102.218.14]> Karina Machado Pereira [4] acessou as remessas do campo 1146 . 
+[21:14:06][66.249.64.87]> #### Acesso não autorizado ###### 
+[21:14:06][66.249.64.87]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1178&idLancamento=28642&type=delete 
+[21:14:06][66.249.64.87]> # ------------------------------------------------------>  

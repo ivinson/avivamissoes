@@ -1,0 +1,33 @@
+[11:26:02][179.97.179.69]> adm com a senha 123 tentou logar no sistema. 
+[11:26:20][179.97.179.69]> Administrador Financeiro [5] fez o login no sistema. 
+[11:29:24][179.97.179.69]> Administrador Financeiro [5] acessou listagem de campos . 
+[11:29:44][179.97.179.69]> Administrador Financeiro [5] acessou listagem de campos . 
+[11:30:11][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 1140 . 
+[11:30:24][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 1140 . 
+[11:30:31][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 1140 . 
+[11:30:50][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 1140 . 
+[11:30:54][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 1140 . 
+[11:31:00][179.97.179.69]> Administrador Financeiro [5] acessou listagem de campos . 
+[11:31:13][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 980 . 
+[11:31:18][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 980 . 
+[11:31:30][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 980 . 
+[11:31:50][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 980 . 
+[11:33:02][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 980 . 
+[11:33:07][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 980 . 
+[11:33:13][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 980 . 
+[11:33:24][179.97.179.69]> Administrador Financeiro [5] acessou listagem de campos . 
+[11:33:36][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 1102 . 
+[11:33:40][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 1102 . 
+[11:33:51][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 1102 . 
+[12:05:22][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 1102 . 
+[12:05:27][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 1102 . 
+[12:05:30][179.97.179.69]> Administrador Financeiro [5] acessou listagem de campos . 
+[12:05:40][179.97.179.69]> Administrador Financeiro [5] acessou listagem de campos . 
+[12:05:52][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 1137 . 
+[12:05:56][179.97.179.69]> Administrador Financeiro [5] acessou as remessas do campo 1137 . 
+[17:38:02][201.13.195.57]> #### Acesso não autorizado ###### 
+[17:38:02][201.13.195.57]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1109&ano=2013 
+[17:38:02][201.13.195.57]> # ------------------------------------------------------>  
+[17:38:10][201.13.195.57]> #### Acesso não autorizado ###### 
+[17:38:10][201.13.195.57]> Algum usuario não identificado tentou acessar a /listar-pendentes-consistencia.php?action=confirm&idUsuario=914 
+[17:38:10][201.13.195.57]> # ------------------------------------------------------>  

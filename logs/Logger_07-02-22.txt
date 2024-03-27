@@ -1,0 +1,32 @@
+[12:17:18][187.2.173.223]> Financeiro2 com a senha #Aux@2108 tentou logar no sistema. 
+[12:17:43][187.2.173.223]> Aux Financeiro [8] fez o login no sistema. 
+[12:19:17][187.2.173.223]> Aux Financeiro [8] acessou listagem de campos . 
+[12:19:32][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[12:19:35][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[12:19:51][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[12:20:19][187.2.173.223]> Aux Financeiro [8] acessou listagem de campos . 
+[12:20:29][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[12:20:38][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[12:20:43][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[12:20:50][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[12:21:08][187.2.173.223]> Aux Financeiro [8] saiu do sistema . 
+[12:21:10][187.2.173.223]> #### Acesso não autorizado ###### 
+[12:21:10][187.2.173.223]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=943&ano=2020 
+[12:21:10][187.2.173.223]> # ------------------------------------------------------>  
+[12:21:12][187.2.173.223]> #### Acesso não autorizado ###### 
+[12:21:12][187.2.173.223]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=943&ano=2021 
+[12:21:12][187.2.173.223]> # ------------------------------------------------------>  
+[12:21:13][187.2.173.223]> #### Acesso não autorizado ###### 
+[12:21:13][187.2.173.223]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=943 
+[12:21:13][187.2.173.223]> # ------------------------------------------------------>  
+[12:21:13][187.2.173.223]>  [8] acessou listagem de campos . 
+[12:21:13][187.2.173.223]> #### Acesso não autorizado ###### 
+[12:21:13][187.2.173.223]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=943&ano=2020 
+[12:21:13][187.2.173.223]> # ------------------------------------------------------>  
+[12:21:14][187.2.173.223]> #### Acesso não autorizado ###### 
+[12:21:14][187.2.173.223]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=943&ano=2021 
+[12:21:14][187.2.173.223]> # ------------------------------------------------------>  
+[12:21:14][187.2.173.223]> #### Acesso não autorizado ###### 
+[12:21:14][187.2.173.223]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=943 
+[12:21:14][187.2.173.223]> # ------------------------------------------------------>  
+[12:21:14][187.2.173.223]>  [8] acessou listagem de campos . 

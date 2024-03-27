@@ -1,0 +1,43 @@
+[09:08:56][201.93.235.242]> Aux Financeiro [8] fez o login no sistema. 
+[09:09:04][201.93.235.242]> Aux Financeiro [8] acessou listagem de campos . 
+[09:09:13][201.93.235.242]> Aux Financeiro [8] acessou as remessas do campo 1138 . 
+[09:58:08][201.93.235.242]> Aux Financeiro [8] acessou listagem de campos . 
+[09:58:14][201.93.235.242]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[10:22:04][189.0.122.117]> Administrador Financeiro [5] acessou as remessas do campo 1231 . 
+[10:22:09][201.93.235.242]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[10:22:10][189.0.122.117]> Administrador Financeiro [5] acessou as remessas do campo 1231 . 
+[10:22:13][201.93.235.242]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[10:22:26][201.93.235.242]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[10:23:13][201.93.235.242]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[10:23:42][201.93.235.242]> Aux Financeiro [8] acessou listagem de campos . 
+[10:24:04][201.93.235.242]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[10:31:44][189.0.122.117]> Administrador Financeiro [5] deletou a remessa 69893 do campo id=1231. 
+[10:31:45][189.0.122.117]> Administrador Financeiro [5] acessou as remessas do campo 1231 . 
+[10:43:34][201.93.235.242]> Aux Financeiro [8] acessou listagem de campos . 
+[10:43:42][201.93.235.242]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[10:43:45][201.93.235.242]> Aux Financeiro [8] acessou listagem de campos . 
+[10:46:58][201.93.235.242]> Aux Financeiro [8] acessou as remessas do campo 1102 . 
+[13:08:23][170.244.30.99]> #### Acesso não autorizado ###### 
+[13:08:23][170.244.30.99]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[13:08:23][170.244.30.99]> # ------------------------------------------------------>  
+[13:08:32][170.244.30.99]> Administrador Financeiro [5] fez o login no sistema. 
+[13:08:36][170.244.30.99]> Administrador Financeiro [5] acessou listagem de campos . 
+[13:08:47][170.244.30.99]> Administrador Financeiro [5] acessou as remessas do campo 1159 . 
+[13:08:52][170.244.30.99]> Administrador Financeiro [5] acessou as remessas do campo 1159 . 
+[13:09:01][170.244.30.99]> Administrador Financeiro [5] acessou as remessas do campo 1159 . 
+[13:09:10][170.244.30.99]> Administrador Financeiro [5] acessou as remessas do campo 1159 . 
+[13:09:18][170.244.30.99]> Administrador Financeiro [5] acessou as remessas do campo 1159 . 
+[13:09:53][170.244.30.99]> Administrador Financeiro [5] acessou as remessas do campo 1159 . 
+[13:14:23][201.93.235.242]> Aux Financeiro [8] acessou listagem de campos . 
+[13:14:33][201.93.235.242]> Aux Financeiro [8] acessou as remessas do campo 969 . 
+[13:18:21][170.244.30.99]> Administrador Financeiro [5] acessou as remessas do campo 1159 . 
+[13:38:56][177.102.218.174]> Aux Financeiro [8] acessou as remessas do campo 969 . 
+[14:12:10][200.207.110.120]> Aux Financeiro [8] saiu do sistema . 
+[14:34:03][177.102.231.39]> financeiro2 com a senha #Aviva@2018 tentou logar no sistema. 
+[14:34:22][177.102.231.39]> Aux Financeiro [8] fez o login no sistema. 
+[14:52:47][177.102.231.39]> Aux Financeiro [8] acessou listagem de campos . 
+[17:20:28][191.19.100.223]> Aux Financeiro [8] saiu do sistema . 
+[17:28:33][191.19.100.223]> Aux Financeiro [8] fez o login no sistema. 
+[17:28:37][191.19.100.223]> Aux Financeiro [8] acessou listagem de campos . 
+[17:28:45][191.19.100.223]> Aux Financeiro [8] acessou as remessas do campo 909 . 
+[17:44:14][191.19.100.223]> Aux Financeiro [8] saiu do sistema . 

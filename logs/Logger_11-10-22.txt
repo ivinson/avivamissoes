@@ -1,0 +1,49 @@
+[09:25:50][191.19.33.81]> Aux Financeiro [8] fez o login no sistema. 
+[09:51:40][191.19.33.81]> Aux Financeiro [8] acessou listagem de campos . 
+[09:53:13][191.19.33.81]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91650   Valor:: 50.18  NmDocto :: 552238  
+[09:53:26][191.19.33.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[09:53:26][191.19.33.81]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91650  
+[09:53:26][191.19.33.81]> # Valor :: 50.18  
+[09:53:26][191.19.33.81]> # Referente ao mes :: 2022-09-15 
+[09:53:26][191.19.33.81]> # Usuario atribuido ID::1219 
+[09:53:26][191.19.33.81]> ############################################## ------------------------------------------------------------ 
+[09:56:51][191.19.33.81]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[09:57:21][191.19.33.81]> Aux Financeiro [8] acessou listagem de campos . 
+[10:36:19][191.19.33.81]> Aux Financeiro [8] acessou listagem de campos . 
+[10:36:43][191.19.33.81]> Aux Financeiro [8] acessou as remessas do campo 972 . 
+[10:37:01][191.19.33.81]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91579   Valor:: 77  NmDocto :: 1646419  
+[10:37:26][191.19.33.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:37:26][191.19.33.81]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91579  
+[10:37:26][191.19.33.81]> # Valor :: 77  
+[10:37:26][191.19.33.81]> # Referente ao mes :: 2022-07-15 
+[10:37:26][191.19.33.81]> # Usuario atribuido ID::972 
+[10:37:26][191.19.33.81]> ############################################## ------------------------------------------------------------ 
+[10:37:30][191.19.33.81]> Aux Financeiro [8] acessou as remessas do campo 972 . 
+[10:37:53][191.19.33.81]> Aux Financeiro [8] acessou listagem de campos . 
+[10:38:00][191.19.33.81]> Aux Financeiro [8] acessou as remessas do campo 1292 . 
+[10:38:26][191.19.33.81]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91622   Valor:: 2.5  NmDocto :: 2222386  
+[10:38:35][191.19.33.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:38:35][191.19.33.81]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91622  
+[10:38:35][191.19.33.81]> # Valor :: 2.5  
+[10:38:35][191.19.33.81]> # Referente ao mes :: 2022-09-15 
+[10:38:35][191.19.33.81]> # Usuario atribuido ID::1298 
+[10:38:35][191.19.33.81]> ############################################## ------------------------------------------------------------ 
+[10:39:55][191.19.33.81]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91638   Valor:: 20  NmDocto :: 1100565  
+[10:40:10][191.19.33.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:40:10][191.19.33.81]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91638  
+[10:40:10][191.19.33.81]> # Valor :: 20  
+[10:40:10][191.19.33.81]> # Referente ao mes :: 2022-09-15 
+[10:40:10][191.19.33.81]> # Usuario atribuido ID::1298 
+[10:40:10][191.19.33.81]> ############################################## ------------------------------------------------------------ 
+[10:40:52][191.19.33.81]> Aux Financeiro [8] acessou listagem de campos . 
+[10:41:00][191.19.33.81]> Aux Financeiro [8] acessou as remessas do campo 1261 . 
+[10:41:04][191.19.33.81]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91658   Valor:: 10  NmDocto :: 1505338  
+[10:41:13][191.19.33.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:41:13][191.19.33.81]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91658  
+[10:41:13][191.19.33.81]> # Valor :: 10  
+[10:41:13][191.19.33.81]> # Referente ao mes :: 2022-09-15 
+[10:41:13][191.19.33.81]> # Usuario atribuido ID::1298 
+[10:41:13][191.19.33.81]> ############################################## ------------------------------------------------------------ 
+[10:43:55][191.19.33.81]> Aux Financeiro [8] acessou listagem de campos . 
+[16:47:00][191.19.33.81]> Aux Financeiro [8] acessou as remessas do campo 1260 . 
+[17:02:57][191.19.33.81]> Aux Financeiro [8] saiu do sistema . 

@@ -1,0 +1,56 @@
+[10:17:10][189.97.86.2]> Aux Financeiro [8] fez o login no sistema. 
+[13:55:35][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[13:55:43][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1055 . 
+[13:55:45][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1055 . 
+[13:55:54][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1055 . 
+[14:11:02][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[14:11:10][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 937 . 
+[14:11:14][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 937 . 
+[14:45:49][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[14:45:56][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[14:48:27][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[14:48:35][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[14:48:41][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[14:49:12][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[14:49:43][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[14:50:05][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[15:23:31][189.97.86.2]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72192   Valor:: 62  NmDocto :: 1041959  
+[15:24:27][189.97.86.2]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:24:27][189.97.86.2]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72192  
+[15:24:27][189.97.86.2]> # Valor :: 62  
+[15:24:27][189.97.86.2]> # Referente ao mes :: 2018-09-15 
+[15:24:27][189.97.86.2]> # Usuario atribuido ID::940 
+[15:24:27][189.97.86.2]> ############################################## ------------------------------------------------------------ 
+[15:25:02][189.97.86.2]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72408   Valor:: 75  NmDocto :: 1061954  
+[15:25:25][189.97.86.2]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:25:25][189.97.86.2]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72408  
+[15:25:25][189.97.86.2]> # Valor :: 75  
+[15:25:25][189.97.86.2]> # Referente ao mes :: 2018-10-15 
+[15:25:25][189.97.86.2]> # Usuario atribuido ID::940 
+[15:25:25][189.97.86.2]> ############################################## ------------------------------------------------------------ 
+[15:25:28][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[15:26:32][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[15:26:51][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[15:28:34][189.97.86.2]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 75371   Valor:: 230.5  NmDocto :: 1133849  
+[15:29:00][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[15:29:41][189.97.86.2]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:29:41][189.97.86.2]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 75371  
+[15:29:41][189.97.86.2]> # Valor :: 230.5  
+[15:29:41][189.97.86.2]> # Referente ao mes :: 2019-02-15 
+[15:29:41][189.97.86.2]> # Usuario atribuido ID::1051 
+[15:29:41][189.97.86.2]> ############################################## ------------------------------------------------------------ 
+[15:31:29][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[15:33:38][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[15:40:01][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[15:40:05][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[15:40:14][189.97.86.2]> Aux Financeiro [ID::8] acessou o cadastro de POUSO ALEGRE [ID::1051]  
+[15:40:51][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[15:40:59][189.97.86.2]> Aux Financeiro [ID::8] acessou o cadastro de PARÁ DE MINAS [ID::940]  
+[15:42:43][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[15:42:49][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[15:42:52][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[16:04:27][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[16:04:33][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1213 . 
+[16:04:40][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[16:04:49][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[17:08:30][189.97.86.2]> Aux Financeiro [8] saiu do sistema . 

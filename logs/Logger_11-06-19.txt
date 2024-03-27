@@ -1,0 +1,66 @@
+[09:14:57][177.102.219.103]> Aux Financeiro [8] fez o login no sistema. 
+[09:34:37][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[10:01:07][66.249.83.17]> #### Acesso não autorizado ###### 
+[10:01:07][66.249.83.17]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960 
+[10:01:07][66.249.83.17]> # ------------------------------------------------------>  
+[10:22:07][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[10:28:04][177.102.219.103]> Aux Financeiro [ID::8] acessou o cadastro de Biblioteca Mission&aacute;ria [ID::1266]  
+[10:28:08][177.102.219.103]> Aux Financeiro [ID::8] atualizou o cadastro de Biblioteca Missionária [ID::1266]  
+[10:28:08][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[10:28:19][177.102.219.103]> Aux Financeiro [ID::8] acessou o cadastro de Outras Entradas - Ofertas Diversas [ID::1219]  
+[10:28:22][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[10:28:25][177.102.219.103]> Aux Financeiro [ID::8] acessou o cadastro de Biblioteca Missionária [ID::1266]  
+[10:28:28][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[10:28:33][177.102.219.103]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 75249   Valor:: 299  NmDocto :: 1281577  
+[10:29:16][177.102.219.103]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:29:16][177.102.219.103]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 75249  
+[10:29:16][177.102.219.103]> # Valor :: 299  
+[10:29:16][177.102.219.103]> # Referente ao mes :: 2019-05-15 
+[10:29:16][177.102.219.103]> # Usuario atribuido ID::1266 
+[10:29:16][177.102.219.103]> ############################################## ------------------------------------------------------------ 
+[10:37:39][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[10:37:45][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[10:37:49][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[10:37:52][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[10:37:56][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[10:54:12][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[11:03:06][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[11:03:10][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[11:09:41][177.102.219.103]> # Extrato Bradesco [Exclusao] ## 
+[11:09:41][177.102.219.103]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[11:09:41][177.102.219.103]> # ID :: 75221 
+[11:09:41][177.102.219.103]> # ----------------------------------------------------------- 
+[11:27:43][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[13:59:37][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[13:59:46][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[15:02:16][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[15:02:22][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[15:02:39][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[15:07:25][177.102.219.103]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 75259   Valor:: 360  NmDocto :: 1027812  
+[15:07:52][177.102.219.103]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:07:52][177.102.219.103]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 75259  
+[15:07:52][177.102.219.103]> # Valor :: 360  
+[15:07:52][177.102.219.103]> # Referente ao mes :: 2019-01-15 
+[15:07:52][177.102.219.103]> # Usuario atribuido ID::1103 
+[15:07:52][177.102.219.103]> ############################################## ------------------------------------------------------------ 
+[15:07:56][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[15:08:19][177.102.219.103]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 75388   Valor:: 370  NmDocto :: 7681988  
+[15:08:33][177.102.219.103]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:08:33][177.102.219.103]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 75388  
+[15:08:33][177.102.219.103]> # Valor :: 370  
+[15:08:33][177.102.219.103]> # Referente ao mes :: 2019-02-15 
+[15:08:33][177.102.219.103]> # Usuario atribuido ID::1103 
+[15:08:33][177.102.219.103]> ############################################## ------------------------------------------------------------ 
+[15:08:40][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[15:11:35][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[15:11:41][177.102.219.103]> Aux Financeiro [ID::8] acessou o cadastro de JAÇANA [ID::1103]  
+[15:11:44][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[16:24:29][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1032 . 
+[16:27:07][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1032 . 
+[16:27:10][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1032 . 
+[16:27:23][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[16:37:43][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[16:37:55][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 969 . 
+[16:38:00][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 969 . 
+[16:43:57][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[17:25:15][177.102.219.103]> Aux Financeiro [8] saiu do sistema . 

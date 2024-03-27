@@ -1,0 +1,49 @@
+[09:36:04][201.13.190.181]>  [] acessou listagem de campos . 
+[09:36:24][201.13.190.181]> Aux Financeiro [8] fez o login no sistema. 
+[10:35:40][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[10:35:49][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1154 . 
+[10:35:52][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1154 . 
+[10:39:14][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1154 . 
+[10:42:10][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[10:42:14][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1236 . 
+[10:42:16][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1236 . 
+[10:44:31][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1236 . 
+[14:22:48][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[14:22:53][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1154 . 
+[14:22:55][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1154 . 
+[15:07:49][201.13.190.181]> Alessandra Moreto [6] fez o login no sistema. 
+[15:09:08][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[15:24:38][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[16:03:19][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:05:45][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:06:11][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[16:10:11][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[16:11:59][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:12:06][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:13:22][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:13:23][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[16:14:00][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:14:03][201.13.190.181]> Aux Financeiro [ID::8] acessou o cadastro de RIBAS DO RIO PARDO [ID::1339]  
+[16:14:04][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[16:14:22][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[16:14:23][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[16:14:25][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[16:14:28][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[16:14:50][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[16:15:09][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:15:11][201.13.190.181]> Aux Financeiro [ID::8] acessou o cadastro de RIBAS DO RIO PARDO [ID::1339]  
+[16:16:21][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:16:40][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:16:42][201.13.190.181]> Aux Financeiro [ID::8] acessou o cadastro de RIBAS DO RIO PARDO [ID::1339]  
+[16:16:47][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:18:35][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:19:19][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[16:20:00][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:32:07][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:32:09][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1339 . 
+[16:50:54][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:59:22][201.13.190.181]> Aux Financeiro [8] saiu do sistema . 
+[17:57:39][170.244.29.195]> #### Acesso não autorizado ###### 
+[17:57:39][170.244.29.195]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[17:57:39][170.244.29.195]> # ------------------------------------------------------>  
+[17:57:46][170.244.29.195]> Administrador Financeiro [5] fez o login no sistema. 

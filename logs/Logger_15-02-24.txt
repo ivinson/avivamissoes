@@ -1,0 +1,23 @@
+[09:12:44][177.94.2.83]> Aux Financeiro [8] fez o login no sistema. 
+[15:13:32][177.94.2.83]> Aux Financeiro [8] acessou listagem de campos . 
+[15:13:51][177.94.2.83]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 97315   Valor:: 171.61  NmDocto :: 5392103  
+[15:14:11][177.94.2.83]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:14:11][177.94.2.83]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 97315  
+[15:14:11][177.94.2.83]> # Valor :: 171.61  
+[15:14:11][177.94.2.83]> # Referente ao mes :: 2023-11-15 
+[15:14:11][177.94.2.83]> # Usuario atribuido ID::1190 
+[15:14:11][177.94.2.83]> ############################################## ------------------------------------------------------------ 
+[15:14:40][177.94.2.83]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 96633   Valor:: 163.9  NmDocto :: 5392104  
+[15:14:54][177.94.2.83]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:14:54][177.94.2.83]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 96633  
+[15:14:54][177.94.2.83]> # Valor :: 163.9  
+[15:14:54][177.94.2.83]> # Referente ao mes :: 2023-10-15 
+[15:14:54][177.94.2.83]> # Usuario atribuido ID::1190 
+[15:14:54][177.94.2.83]> ############################################## ------------------------------------------------------------ 
+[15:15:02][177.94.2.83]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[15:15:03][177.94.2.83]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[17:14:17][177.94.2.83]> Aux Financeiro [8] acessou listagem de campos . 
+[17:14:35][177.94.2.83]> Aux Financeiro [8] acessou as remessas do campo 1100 . 
+[17:14:36][177.94.2.83]> Aux Financeiro [8] acessou as remessas do campo 1100 . 
+[17:16:06][177.94.2.83]> Aux Financeiro [8] saiu do sistema . 
+[17:16:08][177.94.2.83]>  [8] saiu do sistema . 

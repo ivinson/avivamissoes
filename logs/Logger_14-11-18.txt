@@ -1,0 +1,53 @@
+[09:18:49][179.98.226.13]> Aux Financeiro [8] fez o login no sistema. 
+[10:46:35][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[10:46:59][179.98.226.13]> Aux Financeiro [8] acessou as remessas do campo 1109 . 
+[10:49:53][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[10:50:27][179.98.226.13]> Aux Financeiro [ID::8] acessou o cadastro de GUARULHOS [ID::944]  
+[10:50:41][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[10:55:42][179.98.226.13]> Aux Financeiro [ID::8] acessou o cadastro de ROLIM DE MOURA [ID::1082]  
+[10:55:50][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[10:56:03][179.98.226.13]> Aux Financeiro [ID::8] acessou o cadastro de CASA VERDE  [ID::911]  
+[10:56:13][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[10:56:23][179.98.226.13]> Aux Financeiro [ID::8] acessou o cadastro de ITAJAI [ID::1129]  
+[10:57:16][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[10:58:56][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[11:05:48][179.98.226.13]> Aux Financeiro [8] acessou as remessas do campo 948 . 
+[11:05:59][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[11:06:09][179.98.226.13]> Aux Financeiro [ID::8] acessou o cadastro de CAMPINAS CENTRO [ID::948]  
+[11:07:34][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[11:07:46][179.98.226.13]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[11:14:18][189.78.185.74]> #### Acesso não autorizado ###### 
+[11:14:18][189.78.185.74]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[11:14:18][189.78.185.74]> # ------------------------------------------------------>  
+[11:14:27][189.78.185.74]> Administrador Financeiro [5] fez o login no sistema. 
+[11:14:36][189.78.185.74]> Administrador Financeiro [5] acessou listagem de campos . 
+[11:14:48][189.78.185.74]> Administrador Financeiro [5] acessou as remessas do campo 988 . 
+[11:27:03][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[11:27:16][179.98.226.13]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[11:27:33][179.98.226.13]> Aux Financeiro [8] deletou a remessa 71352 do campo id=1152. 
+[11:27:35][179.98.226.13]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[11:30:24][179.98.226.13]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[13:26:11][179.98.226.13]> Aux Financeiro [8] fez o login no sistema. 
+[13:57:20][189.78.185.74]> Administrador Financeiro [5] acessou as remessas do campo 960 . 
+[13:57:24][189.78.185.74]> Administrador Financeiro [5] acessou listagem de campos . 
+[13:57:31][189.78.185.74]> Administrador Financeiro [5] acessou as remessas do campo 913 . 
+[14:41:11][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[14:41:20][179.98.226.13]> Aux Financeiro [8] acessou as remessas do campo 1160 . 
+[14:55:04][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[14:55:19][179.98.226.13]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[15:20:06][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[15:21:46][179.98.226.13]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 70024   Valor:: 105  NmDocto :: 605556  
+[15:23:20][179.98.226.13]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[15:23:50][179.98.226.13]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:23:50][179.98.226.13]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 70024  
+[15:23:50][179.98.226.13]> # Valor :: 105  
+[15:23:50][179.98.226.13]> # Referente ao mes :: 2018-06-15 
+[15:23:50][179.98.226.13]> # Usuario atribuido ID::988 
+[15:23:50][179.98.226.13]> ############################################## ------------------------------------------------------------ 
+[15:23:55][179.98.226.13]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[15:24:19][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[15:24:24][179.98.226.13]> Aux Financeiro [8] acessou as remessas do campo 1237 . 
+[15:51:26][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[15:51:41][179.98.226.13]> Aux Financeiro [ID::8] acessou o cadastro de JUAZEIRO DO NORTE - CEARÁ [ID::898]  
+[15:52:30][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 
+[17:43:15][179.98.226.13]> Aux Financeiro [8] acessou listagem de campos . 

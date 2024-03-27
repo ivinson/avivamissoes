@@ -1,0 +1,14 @@
+[00:34:16][66.249.64.87]> #### Acesso não autorizado ###### 
+[00:34:16][66.249.64.87]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1178&idLancamento=28462&type=delete 
+[00:34:16][66.249.64.87]> # ------------------------------------------------------>  
+[10:19:16][177.102.218.14]> #### Acesso não autorizado ###### 
+[10:19:16][177.102.218.14]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[10:19:16][177.102.218.14]> # ------------------------------------------------------>  
+[10:20:31][177.102.218.14]> Karina Machado Pereira [4] fez o login no sistema. 
+[16:23:37][177.102.218.14]> Sineide Silva [3] fez o login no sistema. 
+[16:23:41][177.102.218.14]> Sineide Silva [3] acessou listagem de campos . 
+[16:23:50][177.102.218.14]> Sineide Silva [ID::3] acessou o cadastro de DIADEMA [ID::1159]  
+[16:24:38][177.102.218.14]> Sineide Silva [ID::3] atualizou o cadastro de DIADEMA [ID::1159]  
+[16:24:38][177.102.218.14]> Sineide Silva [3] acessou listagem de campos . 
+[16:27:20][177.102.218.14]> Sineide Silva [ID::3] acessou o cadastro de DIADEMA [ID::1159]  
+[18:25:52][177.102.218.14]> Sineide Silva [3] saiu do sistema . 

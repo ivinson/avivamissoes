@@ -1,0 +1,31 @@
+[09:11:53][200.150.189.126]> Aux Financeiro [8] fez o login no sistema. 
+[09:30:01][200.150.189.126]> Aux Financeiro [8] saiu do sistema . 
+[09:53:25][200.150.189.126]> financeiro com a senha #Aux@2018 tentou logar no sistema. 
+[09:53:46][200.150.189.126]> financeiro2 com a senha @Aux@2018 tentou logar no sistema. 
+[09:54:09][200.150.189.126]> Aux Financeiro [8] fez o login no sistema. 
+[09:54:14][200.150.189.126]> Aux Financeiro [8] acessou listagem de campos . 
+[09:54:20][200.150.189.126]> Aux Financeiro [ID::8] acessou o cadastro de JARAGUA [ID::1137]  
+[09:54:23][200.150.189.126]> Aux Financeiro [8] acessou listagem de campos . 
+[09:54:29][200.150.189.126]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[09:54:32][200.150.189.126]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[09:54:42][200.150.189.126]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[09:55:33][200.150.189.126]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[09:56:21][200.150.189.126]> Aux Financeiro [8] acessou listagem de campos . 
+[09:58:22][200.150.189.126]> Aux Financeiro [ID::8] acessou o cadastro de JARAGUA [ID::1137]  
+[09:58:26][200.150.189.126]> Aux Financeiro [8] acessou listagem de campos . 
+[10:00:25][200.150.189.126]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[10:08:11][200.150.189.126]> Aux Financeiro [8] acessou listagem de campos . 
+[10:08:56][200.150.189.126]> Aux Financeiro [8] acessou as remessas do campo 1081 . 
+[10:14:47][200.150.189.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 77217   Valor:: 318.5  NmDocto :: 1041345  
+[10:14:50][200.150.189.126]> Aux Financeiro [8] acessou listagem de campos . 
+[10:14:59][200.150.189.126]> Aux Financeiro [8] acessou as remessas do campo 1105 . 
+[10:15:37][200.150.189.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:15:37][200.150.189.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 77217  
+[10:15:37][200.150.189.126]> # Valor :: 318.5  
+[10:15:37][200.150.189.126]> # Referente ao mes :: 2019-08-15 
+[10:15:37][200.150.189.126]> # Usuario atribuido ID::1105 
+[10:15:37][200.150.189.126]> ############################################## ------------------------------------------------------------ 
+[10:15:43][200.150.189.126]> Aux Financeiro [8] acessou as remessas do campo 1105 . 
+[10:16:59][200.150.189.126]> Aux Financeiro [8] acessou listagem de campos . 
+[10:31:56][200.150.189.126]> Aux Financeiro [8] acessou listagem de campos . 
+[10:33:14][200.150.189.126]> Aux Financeiro [8] saiu do sistema . 

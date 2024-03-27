@@ -1,0 +1,48 @@
+[09:03:33][201.13.190.181]>  [] acessou listagem de campos . 
+[09:03:48][201.13.190.181]> Aux Financeiro [8] fez o login no sistema. 
+[09:35:46][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[11:33:43][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[11:34:42][201.13.190.181]> Aux Financeiro [8] saiu do sistema . 
+[11:34:54][201.13.190.181]>  [8] acessou listagem de campos . 
+[11:35:12][201.13.190.181]> Aux Financeiro [8] fez o login no sistema. 
+[11:35:16][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[11:35:52][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[11:35:58][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1095 . 
+[11:36:00][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1095 . 
+[11:36:06][201.13.190.181]> Aux Financeiro [8] saiu do sistema . 
+[11:42:24][201.13.190.181]>  [] acessou listagem de campos . 
+[11:42:38][201.13.190.181]> Aux Financeiro [8] fez o login no sistema. 
+[11:42:45][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[11:44:30][201.13.190.181]> Aux Financeiro [8] fez o login no sistema. 
+[11:44:48][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[13:15:50][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[13:23:46][201.13.190.181]> alessandra.moreto com a senha Metodoindutivo tentou logar no sistema. 
+[13:24:01][201.13.190.181]> Alessandra Moreto [6] fez o login no sistema. 
+[13:25:19][201.13.190.181]> Alessandra Moreto [6] fez o login no sistema. 
+[13:25:56][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[13:26:29][201.13.190.181]> Alessandra Moreto [6] acessou listagem de campos . 
+[14:06:51][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[14:08:28][201.13.190.181]> Aux Financeiro [ID::8] acessou o cadastro de RIBAS DO RIO PARDO [ID::1339]  
+[14:10:51][201.13.190.181]> Aux Financeiro [ID::8] atualizou o cadastro de RIBAS DO RIO PARDO [ID::1339]  
+[14:10:52][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[14:10:55][201.13.190.181]> Aux Financeiro [ID::8] acessou o cadastro de RIBAS DO RIO PARDO [ID::1339]  
+[14:11:25][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[15:27:47][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:28:46][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:28:46][201.13.190.181]> Aux Financeiro [8] acessou listagem de campos . 
+[16:28:52][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1236 . 
+[16:28:56][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1236 . 
+[16:28:59][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1236 . 
+[16:29:06][201.13.190.181]> Aux Financeiro [8] acessou as remessas do campo 1236 . 
+[16:53:41][201.13.190.181]> Aux Financeiro [8] saiu do sistema . 
+[16:55:07][201.13.190.181]>  [8] acessou listagem de campos . 
+[16:55:22][201.13.190.181]> Aux Financeiro [8] fez o login no sistema. 
+[17:02:10][201.13.190.181]> Aux Financeiro [8] saiu do sistema . 
+[19:34:53][170.244.29.195]> #### Acesso não autorizado ###### 
+[19:34:53][170.244.29.195]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[19:34:53][170.244.29.195]> # ------------------------------------------------------>  
+[19:42:28][187.121.71.157]> alessandra com a senha #Dgem@2017b1c2 tentou logar no sistema. 
+[19:42:32][187.121.71.157]> admin com a senha #03Demaio tentou logar no sistema. 
+[19:42:37][187.121.71.157]> admin com a senha #03Demaio tentou logar no sistema. 
+[19:42:41][187.121.71.157]> Ivinson Lima [1] fez o login no sistema. 
+[19:43:10][187.121.71.157]> Ivinson Lima [1] acessou listagem de campos . 

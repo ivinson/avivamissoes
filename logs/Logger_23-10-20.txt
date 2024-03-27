@@ -1,0 +1,52 @@
+[09:13:52][200.207.96.152]> Aux Financeiro [8] fez o login no sistema. 
+[09:42:35][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[09:42:41][200.207.96.152]> Aux Financeiro [ID::8] acessou o cadastro de PORTO VELHO [ID::1174]  
+[10:11:47][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[10:44:35][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[10:44:41][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 926 . 
+[11:15:36][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[11:15:44][200.207.96.152]> Aux Financeiro [ID::8] acessou o cadastro de PORTO VELHO [ID::1174]  
+[11:17:20][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[11:17:29][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 926 . 
+[11:26:23][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[11:26:29][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[11:43:11][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[11:43:18][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 979 . 
+[11:46:50][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[11:46:57][200.207.96.152]> Aux Financeiro [ID::8] acessou o cadastro de PORTO VELHO [ID::1174]  
+[11:52:55][200.207.96.152]> Aux Financeiro [ID::8] atualizou o cadastro de PORTO VELHO [ID::1174]  
+[11:52:56][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[11:59:19][200.207.96.152]> Aux Financeiro [ID::8] acessou o cadastro de VARGEM GRANDE DO SUL [ID::950]  
+[13:42:25][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[16:50:50][200.207.96.152]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 81607   Valor:: 378  NmDocto :: 4945014  
+[16:51:26][200.207.96.152]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:51:26][200.207.96.152]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 81607  
+[16:51:26][200.207.96.152]> # Valor :: 378  
+[16:51:26][200.207.96.152]> # Referente ao mes :: 2020-02-15 
+[16:51:26][200.207.96.152]> # Usuario atribuido ID::893 
+[16:51:26][200.207.96.152]> ############################################## ------------------------------------------------------------ 
+[16:51:30][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[16:51:41][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 893 . 
+[16:54:47][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[16:54:53][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[17:09:31][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[17:32:23][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[17:32:27][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[17:32:41][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[17:33:16][200.207.96.152]> Aux Financeiro [8] acessou listagem de campos . 
+[17:34:41][200.207.96.152]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 79283   Valor:: 366  NmDocto :: 1033076  
+[17:35:20][200.207.96.152]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:35:20][200.207.96.152]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 79283  
+[17:35:20][200.207.96.152]> # Valor :: 366  
+[17:35:20][200.207.96.152]> # Referente ao mes :: 2019-12-15 
+[17:35:20][200.207.96.152]> # Usuario atribuido ID::1050 
+[17:35:20][200.207.96.152]> ############################################## ------------------------------------------------------------ 
+[17:35:28][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[17:35:32][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[17:42:01][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[17:42:03][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[17:42:09][200.207.96.152]> Aux Financeiro [8] deletou a remessa 78797 do campo id=1050. 
+[17:42:11][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[17:42:15][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[17:44:35][200.207.96.152]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[17:51:35][200.207.96.152]> Aux Financeiro [8] saiu do sistema . 

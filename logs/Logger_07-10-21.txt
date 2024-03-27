@@ -1,0 +1,25 @@
+[10:07:00][200.158.33.105]> Aux Financeiro [8] fez o login no sistema. 
+[14:47:42][200.158.33.105]> Aux Financeiro [8] acessou listagem de campos . 
+[14:47:52][200.158.33.105]> Aux Financeiro [ID::8] acessou o cadastro de TOLEDO [ID::918]  
+[14:49:13][200.158.33.105]> Aux Financeiro [8] acessou listagem de campos . 
+[14:49:17][200.158.33.105]> Aux Financeiro [8] acessou as remessas do campo 918 . 
+[14:55:59][200.158.33.105]> Aux Financeiro [8] acessou listagem de campos . 
+[15:22:46][200.158.33.105]> Aux Financeiro [8] acessou as remessas do campo 1022 . 
+[15:34:10][200.158.33.105]> Aux Financeiro [8] acessou listagem de campos . 
+[15:45:59][200.158.33.105]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[15:47:11][200.158.33.105]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[15:47:45][200.158.33.105]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[15:48:22][200.158.33.105]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[15:50:52][200.158.33.105]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[15:51:27][200.158.33.105]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[15:52:10][200.158.33.105]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[15:54:44][200.158.33.105]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[15:56:30][200.158.33.105]> # Extrato Bradesco [Exclusao] ## 
+[15:56:30][200.158.33.105]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[15:56:30][200.158.33.105]> # ID :: 87752 
+[15:56:30][200.158.33.105]> # ----------------------------------------------------------- 
+[15:58:13][200.158.33.105]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[16:09:05][200.158.33.105]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[16:09:10][200.158.33.105]> Aux Financeiro [8] acessou listagem de campos . 
+[17:01:18][200.158.33.105]> Aux Financeiro [8] saiu do sistema . 
+[17:01:23][200.158.33.105]>  [8] saiu do sistema . 

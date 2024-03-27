@@ -1,0 +1,28 @@
+[09:20:19][179.212.91.28]> Aux Financeiro [8] fez o login no sistema. 
+[09:38:50][179.212.91.28]> Aux Financeiro [8] acessou listagem de campos . 
+[09:38:57][179.212.91.28]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[09:39:07][179.212.91.28]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[09:39:13][179.212.91.28]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[09:39:18][179.212.91.28]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[09:39:26][179.212.91.28]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[10:10:10][179.212.91.28]> Aux Financeiro [8] acessou listagem de campos . 
+[10:11:29][179.212.91.28]> Aux Financeiro [8] acessou as remessas do campo 1018 . 
+[10:11:32][179.212.91.28]> Aux Financeiro [8] acessou as remessas do campo 1018 . 
+[10:12:00][179.212.91.28]> Aux Financeiro [8] acessou listagem de campos . 
+[10:12:23][179.212.91.28]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 79631   Valor:: 463.16  NmDocto :: 1458522  
+[10:12:52][179.212.91.28]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:12:52][179.212.91.28]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 79631  
+[10:12:52][179.212.91.28]> # Valor :: 463.16  
+[10:12:52][179.212.91.28]> # Referente ao mes :: 2019-11-15 
+[10:12:52][179.212.91.28]> # Usuario atribuido ID::1018 
+[10:12:52][179.212.91.28]> ############################################## ------------------------------------------------------------ 
+[10:12:59][179.212.91.28]> Aux Financeiro [8] acessou as remessas do campo 1018 . 
+[10:14:31][179.212.91.28]> Aux Financeiro [8] acessou listagem de campos . 
+[10:14:37][179.212.91.28]> Aux Financeiro [ID::8] acessou o cadastro de POXORÉU [ID::1018]  
+[10:15:26][179.212.91.28]> Aux Financeiro [8] acessou listagem de campos . 
+[10:34:52][179.212.91.28]> Aux Financeiro [8] acessou as remessas do campo 1020 . 
+[10:35:08][179.212.91.28]> Aux Financeiro [8] acessou as remessas do campo 1020 . 
+[10:35:52][179.212.91.28]> Aux Financeiro [8] acessou listagem de campos . 
+[12:11:05][179.212.91.28]> Aux Financeiro [ID::8] acessou o cadastro de PARANAVAÍ I [ID::1020]  
+[13:25:43][179.212.91.28]> Aux Financeiro [8] acessou listagem de campos . 
+[16:56:29][179.212.91.28]> Aux Financeiro [8] saiu do sistema . 

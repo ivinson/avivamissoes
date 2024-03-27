@@ -1,0 +1,142 @@
+[00:38:22][66.249.64.87]> #### Acesso não autorizado ###### 
+[00:38:22][66.249.64.87]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[00:38:22][66.249.64.87]> # ------------------------------------------------------>  
+[05:08:47][207.46.13.10]> #### Acesso não autorizado ###### 
+[05:08:47][207.46.13.10]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[05:08:47][207.46.13.10]> # ------------------------------------------------------>  
+[10:24:43][177.9.183.81]> #### Acesso não autorizado ###### 
+[10:24:43][177.9.183.81]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[10:24:43][177.9.183.81]> # ------------------------------------------------------>  
+[10:25:03][177.9.183.81]> Karina Machado Pereira [4] fez o login no sistema. 
+[13:01:47][177.9.183.81]> Sineide Silva [3] fez o login no sistema. 
+[13:29:03][177.9.183.81]> Sineide Silva [3] acessou listagem de campos . 
+[13:29:10][177.9.183.81]> Sineide Silva [3] acessou as remessas do campo 1181 . 
+[13:29:30][177.9.183.81]> Sineide Silva [3] acessou listagem de campos . 
+[13:29:38][177.9.183.81]> Sineide Silva [3] acessou as remessas do campo 1036 . 
+[13:29:39][177.9.183.81]> Sineide Silva [3] acessou as remessas do campo 1036 . 
+[14:23:45][66.249.64.218]> #### Acesso não autorizado ###### 
+[14:23:45][66.249.64.218]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=976&type=reprocessamento 
+[14:23:45][66.249.64.218]> # ------------------------------------------------------>  
+[14:32:51][66.249.83.159]> #### Acesso não autorizado ###### 
+[14:32:51][66.249.83.159]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1232 
+[14:32:51][66.249.83.159]> # ------------------------------------------------------>  
+[14:37:16][177.9.183.81]> #### Acesso não autorizado ###### 
+[14:37:16][177.9.183.81]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[14:37:16][177.9.183.81]> # ------------------------------------------------------>  
+[14:37:32][177.9.183.81]> Karina Machado Pereira [4] fez o login no sistema. 
+[15:22:39][177.9.183.81]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 38311   Valor:: 15  NmDocto :: 174120  
+[15:23:18][177.9.183.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:23:18][177.9.183.81]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 38311  
+[15:23:18][177.9.183.81]> # Valor :: 15  
+[15:23:18][177.9.183.81]> # Referente ao mes :: 2016-06-15 
+[15:23:18][177.9.183.81]> # Usuario atribuido ID::924 
+[15:23:18][177.9.183.81]> ############################################## ------------------------------------------------------------ 
+[15:24:17][177.9.183.81]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 36651   Valor:: 46  NmDocto :: 7743605  
+[15:24:31][177.9.183.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:24:31][177.9.183.81]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 36651  
+[15:24:31][177.9.183.81]> # Valor :: 46  
+[15:24:31][177.9.183.81]> # Referente ao mes :: 2016-06-15 
+[15:24:31][177.9.183.81]> # Usuario atribuido ID::924 
+[15:24:31][177.9.183.81]> ############################################## ------------------------------------------------------------ 
+[15:25:03][177.9.183.81]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 36708   Valor:: 106  NmDocto :: 2797713  
+[15:25:19][177.9.183.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:25:19][177.9.183.81]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 36708  
+[15:25:19][177.9.183.81]> # Valor :: 106  
+[15:25:19][177.9.183.81]> # Referente ao mes :: 2016-06-15 
+[15:25:19][177.9.183.81]> # Usuario atribuido ID::924 
+[15:25:19][177.9.183.81]> ############################################## ------------------------------------------------------------ 
+[15:25:35][177.9.183.81]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 36638   Valor:: 55  NmDocto :: 188084  
+[15:26:09][177.9.183.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:26:09][177.9.183.81]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 36638  
+[15:26:09][177.9.183.81]> # Valor :: 55  
+[15:26:09][177.9.183.81]> # Referente ao mes :: 2016-06-15 
+[15:26:09][177.9.183.81]> # Usuario atribuido ID::924 
+[15:26:09][177.9.183.81]> ############################################## ------------------------------------------------------------ 
+[15:27:17][177.9.183.81]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 39020   Valor:: 37  NmDocto :: 7633713  
+[15:27:40][177.9.183.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:27:40][177.9.183.81]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 39020  
+[15:27:40][177.9.183.81]> # Valor :: 37  
+[15:27:40][177.9.183.81]> # Referente ao mes :: 2016-06-15 
+[15:27:40][177.9.183.81]> # Usuario atribuido ID::924 
+[15:27:40][177.9.183.81]> ############################################## ------------------------------------------------------------ 
+[15:29:37][177.9.183.81]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 36624   Valor:: 16  NmDocto :: 6982061  
+[15:31:34][177.9.183.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:31:34][177.9.183.81]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 36624  
+[15:31:34][177.9.183.81]> # Valor :: 16  
+[15:31:34][177.9.183.81]> # Referente ao mes :: 2016-05-15 
+[15:31:34][177.9.183.81]> # Usuario atribuido ID::924 
+[15:31:34][177.9.183.81]> ############################################## ------------------------------------------------------------ 
+[15:32:12][177.9.183.81]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 35505   Valor:: 312  NmDocto :: 9192805  
+[15:32:36][177.9.183.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:32:36][177.9.183.81]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 35505  
+[15:32:36][177.9.183.81]> # Valor :: 312  
+[15:32:36][177.9.183.81]> # Referente ao mes :: 2016-05-15 
+[15:32:36][177.9.183.81]> # Usuario atribuido ID::924 
+[15:32:36][177.9.183.81]> ############################################## ------------------------------------------------------------ 
+[15:33:05][177.9.183.81]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 36605   Valor:: 112  NmDocto :: 2100070  
+[15:33:24][177.9.183.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:33:24][177.9.183.81]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 36605  
+[15:33:24][177.9.183.81]> # Valor :: 112  
+[15:33:24][177.9.183.81]> # Referente ao mes :: 2016-05-15 
+[15:33:24][177.9.183.81]> # Usuario atribuido ID::924 
+[15:33:24][177.9.183.81]> ############################################## ------------------------------------------------------------ 
+[15:33:43][177.9.183.81]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 35279   Valor:: 50  NmDocto :: 9068276  
+[15:34:02][177.9.183.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:34:02][177.9.183.81]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 35279  
+[15:34:02][177.9.183.81]> # Valor :: 50  
+[15:34:02][177.9.183.81]> # Referente ao mes :: 2016-05-15 
+[15:34:02][177.9.183.81]> # Usuario atribuido ID::924 
+[15:34:02][177.9.183.81]> ############################################## ------------------------------------------------------------ 
+[15:34:50][177.9.183.81]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 35440   Valor:: 142  NmDocto :: 188084  
+[15:35:04][177.9.183.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:35:04][177.9.183.81]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 35440  
+[15:35:04][177.9.183.81]> # Valor :: 142  
+[15:35:04][177.9.183.81]> # Referente ao mes :: 2016-05-15 
+[15:35:04][177.9.183.81]> # Usuario atribuido ID::924 
+[15:35:04][177.9.183.81]> ############################################## ------------------------------------------------------------ 
+[15:35:53][177.9.183.81]> Karina Machado Pereira [4] acessou listagem de campos . 
+[15:36:11][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 1044 . 
+[15:57:38][177.9.183.81]> Karina Machado Pereira [4] acessou listagem de campos . 
+[15:57:47][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 1007 . 
+[15:57:55][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 1007 . 
+[15:59:00][177.9.183.81]> Karina Machado Pereira [4] acessou listagem de campos . 
+[15:59:25][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 998 . 
+[15:59:34][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 998 . 
+[16:01:19][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 998 . 
+[16:01:23][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 998 . 
+[16:02:43][177.9.183.81]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:02:50][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 919 . 
+[16:02:54][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 919 . 
+[16:05:18][177.9.183.81]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 38745   Valor:: 73.55  NmDocto :: 1000395  
+[16:05:51][177.9.183.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:05:51][177.9.183.81]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 38745  
+[16:05:51][177.9.183.81]> # Valor :: 73.55  
+[16:05:51][177.9.183.81]> # Referente ao mes :: 2015-06-15 
+[16:05:51][177.9.183.81]> # Usuario atribuido ID::919 
+[16:05:51][177.9.183.81]> ############################################## ------------------------------------------------------------ 
+[16:16:46][177.9.183.81]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:17:04][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 1116 . 
+[16:17:11][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 1116 . 
+[16:17:36][177.9.183.81]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:17:42][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 1194 . 
+[16:17:45][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 1194 . 
+[16:21:44][177.9.183.81]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:22:04][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 915 . 
+[16:22:14][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 915 . 
+[16:23:37][177.9.183.81]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:23:46][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 932 . 
+[16:23:53][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 932 . 
+[16:29:06][177.9.183.81]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:29:27][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 915 . 
+[16:33:12][177.9.183.81]> Karina Machado Pereira [4] acessou as remessas do campo 915 . 
+[16:34:16][138.118.76.102]>  [] acessou listagem de campos . 
+[16:59:07][177.9.183.81]> Administrador Financeiro [5] fez o login no sistema. 
+[16:59:13][177.9.183.81]> Administrador Financeiro [5] acessou listagem de campos . 
+[17:00:43][177.9.183.81]> Administrador Financeiro [ID::5] acessou o cadastro de VIETNA [ID::1122]  
+[17:01:17][177.9.183.81]> Administrador Financeiro [ID::5] atualizou o cadastro de VIETNA [ID::1122]  
+[17:01:18][177.9.183.81]> Administrador Financeiro [5] acessou listagem de campos . 
+[17:02:17][177.9.183.81]> Administrador Financeiro [5] acessou listagem de campos . 
+[17:21:38][177.9.183.81]> Sineide Silva [3] saiu do sistema . 
+[17:56:47][66.249.64.91]> #### Acesso não autorizado ###### 
+[17:56:47][66.249.64.91]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1199&abertos=y 
+[17:56:47][66.249.64.91]> # ------------------------------------------------------>  

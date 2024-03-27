@@ -1,0 +1,38 @@
+[11:51:42][179.99.160.205]> #### Acesso não autorizado ###### 
+[11:51:42][179.99.160.205]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[11:51:42][179.99.160.205]> # ------------------------------------------------------>  
+[11:51:52][179.99.160.205]> Administrador Financeiro [5] fez o login no sistema. 
+[11:51:56][179.99.160.205]> Administrador Financeiro [5] acessou listagem de campos . 
+[11:52:03][179.99.160.205]> Administrador Financeiro [5] acessou as remessas do campo 1045 . 
+[11:52:08][179.99.160.205]> Administrador Financeiro [5] acessou as remessas do campo 1045 . 
+[11:53:39][179.99.160.205]> Aux Financeiro [8] fez o login no sistema. 
+[11:53:44][179.99.160.205]> Aux Financeiro [8] acessou listagem de campos . 
+[11:53:53][179.99.160.205]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[11:53:57][179.99.160.205]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[11:57:06][179.99.160.205]> Aux Financeiro [8] acessou listagem de campos . 
+[11:58:20][179.99.160.205]> Aux Financeiro [8] acessou as remessas do campo 987 . 
+[11:59:35][179.99.160.205]> Aux Financeiro [8] acessou listagem de campos . 
+[11:59:44][179.99.160.205]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[12:00:02][179.99.160.205]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[12:02:55][179.99.160.205]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[12:02:58][179.99.160.205]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[12:03:07][179.99.160.205]> Aux Financeiro [8] deletou a remessa 72555 do campo id=1045. 
+[12:03:08][179.99.160.205]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[12:03:11][179.99.160.205]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[12:17:07][179.99.160.205]> Aux Financeiro [8] acessou listagem de campos . 
+[12:17:19][179.99.160.205]> Aux Financeiro [ID::8] acessou o cadastro de NOVA ANDRADINA [ID::1008]  
+[12:21:52][179.99.160.205]> Aux Financeiro [ID::8] atualizou o cadastro de NOVA ANDRADINA [ID::1008]  
+[12:21:53][179.99.160.205]> Aux Financeiro [8] acessou listagem de campos . 
+[12:22:03][179.99.160.205]> Aux Financeiro [ID::8] acessou o cadastro de NOVA ANDRADINA [ID::1008]  
+[12:22:53][179.99.160.205]> Aux Financeiro [8] acessou listagem de campos . 
+[13:11:20][179.99.160.205]> Aux Financeiro [8] acessou as remessas do campo 890 . 
+[13:11:53][179.99.160.205]> Aux Financeiro [8] acessou listagem de campos . 
+[13:22:39][179.99.160.205]> Aux Financeiro [8] acessou as remessas do campo 890 . 
+[13:22:42][179.99.160.205]> Aux Financeiro [8] acessou as remessas do campo 890 . 
+[14:10:18][179.99.160.205]> Aux Financeiro [8] acessou listagem de campos . 
+[16:13:18][179.99.160.205]> Administrador Financeiro [5] acessou listagem de campos . 
+[16:13:28][179.99.160.205]> Administrador Financeiro [5] acessou as remessas do campo 1166 . 
+[16:13:30][179.99.160.205]> Administrador Financeiro [5] acessou as remessas do campo 1166 . 
+[16:16:01][179.99.160.205]> Administrador Financeiro [5] acessou as remessas do campo 1166 . 
+[16:21:52][179.99.160.205]> Administrador Financeiro [5] acessou as remessas do campo 1166 . 
+[16:58:45][179.99.160.205]> Aux Financeiro [8] saiu do sistema . 

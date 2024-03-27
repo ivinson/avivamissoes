@@ -1,0 +1,26 @@
+[09:23:17][201.93.234.70]> Aux Financeiro [8] fez o login no sistema. 
+[09:32:40][201.93.234.70]> Aux Financeiro [8] acessou listagem de campos . 
+[09:32:53][201.93.234.70]> Aux Financeiro [8] acessou as remessas do campo 949 . 
+[09:33:35][201.93.234.70]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 83235   Valor:: 207  NmDocto :: 562953  
+[09:34:09][201.93.234.70]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[09:34:09][201.93.234.70]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 83235  
+[09:34:09][201.93.234.70]> # Valor :: 207  
+[09:34:09][201.93.234.70]> # Referente ao mes :: 2020-08-15 
+[09:34:09][201.93.234.70]> # Usuario atribuido ID::949 
+[09:34:09][201.93.234.70]> ############################################## ------------------------------------------------------------ 
+[11:34:34][201.93.234.70]> Aux Financeiro [8] acessou as remessas do campo 949 . 
+[15:36:33][201.93.234.70]> Aux Financeiro [8] acessou listagem de campos . 
+[15:36:54][201.93.234.70]> Aux Financeiro [8] acessou as remessas do campo 1057 . 
+[16:59:07][201.93.234.70]> Aux Financeiro [8] saiu do sistema . 
+[17:23:01][201.93.234.70]> #### Acesso não autorizado ###### 
+[17:23:01][201.93.234.70]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[17:23:01][201.93.234.70]> # ------------------------------------------------------>  
+[17:23:10][201.93.234.70]> Administrador Financeiro [5] fez o login no sistema. 
+[17:23:18][201.93.234.70]> Administrador Financeiro [5] acessou listagem de campos . 
+[17:23:44][201.93.234.70]> Administrador Financeiro [ID::5] acessou o cadastro de MARINGÁ / EBENÉZER/ LEA LEAL [ID::1002]  
+[17:23:59][201.93.234.70]> Administrador Financeiro [5] acessou listagem de campos . 
+[17:24:08][201.93.234.70]> Administrador Financeiro [ID::5] acessou o cadastro de MARINGÁ/ SANTO ANTONIO / ARISTIDES LOBO [ID::1046]  
+[17:24:30][201.93.234.70]> Administrador Financeiro [5] acessou listagem de campos . 
+[17:24:36][201.93.234.70]> Administrador Financeiro [ID::5] acessou o cadastro de MARINGA / NEY BRAGA [ID::905]  
+[17:24:46][201.93.234.70]> Administrador Financeiro [5] acessou listagem de campos . 
+[17:35:35][201.93.234.70]> Administrador Financeiro [ID::5] acessou o cadastro de BARRETOS [ID::1280]  

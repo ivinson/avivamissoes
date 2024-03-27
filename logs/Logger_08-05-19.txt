@@ -1,0 +1,60 @@
+[08:56:54][189.110.21.91]> Aux Financeiro [8] fez o login no sistema. 
+[08:56:57][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[08:57:06][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 947 . 
+[08:57:09][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 947 . 
+[08:57:15][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[08:57:44][189.110.21.91]> Aux Financeiro [ID::8] acessou o cadastro de CASSILÂNDIA [ID::947]  
+[08:58:21][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[08:58:26][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[09:00:34][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[09:00:37][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[09:00:44][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[09:02:01][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[09:02:19][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[09:03:16][189.110.21.91]> # Extrato Bradesco [Exclusao] ## 
+[09:03:16][189.110.21.91]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[09:03:16][189.110.21.91]> # ID :: 75142 
+[09:03:16][189.110.21.91]> # ----------------------------------------------------------- 
+[09:29:30][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 1107 . 
+[09:31:50][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[09:31:56][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[09:32:21][189.110.21.91]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 74983   Valor:: 48  NmDocto :: 1007894  
+[09:42:37][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[09:42:47][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[09:43:01][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[09:43:11][189.110.21.91]> Aux Financeiro [8] saiu do sistema . 
+[10:08:41][189.110.21.91]> Aux Financeiro [8] fez o login no sistema. 
+[10:08:48][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[10:09:02][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[10:09:35][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[10:13:44][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[10:13:51][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 979 . 
+[10:18:38][189.110.21.91]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 74983   Valor:: 48  NmDocto :: 1007894  
+[10:19:00][189.110.21.91]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:19:00][189.110.21.91]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 74983  
+[10:19:00][189.110.21.91]> # Valor :: 48  
+[10:19:00][189.110.21.91]> # Referente ao mes :: 2019-03-15 
+[10:19:00][189.110.21.91]> # Usuario atribuido ID::1061 
+[10:19:00][189.110.21.91]> ############################################## ------------------------------------------------------------ 
+[10:19:22][189.110.21.91]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 74976   Valor:: 1227  NmDocto :: 1007894  
+[10:19:38][189.110.21.91]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:19:38][189.110.21.91]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 74976  
+[10:19:38][189.110.21.91]> # Valor :: 1227  
+[10:19:38][189.110.21.91]> # Referente ao mes :: 2019-03-15 
+[10:19:38][189.110.21.91]> # Usuario atribuido ID::1061 
+[10:19:38][189.110.21.91]> ############################################## ------------------------------------------------------------ 
+[10:19:42][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[10:19:44][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[10:20:03][189.110.21.91]> Aux Financeiro [8] deletou a remessa 75041 do campo id=1061. 
+[10:20:04][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[10:21:06][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[10:21:09][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[11:18:43][189.110.21.91]> Aux Financeiro [ID::8] acessou o cadastro de BAURU [ID::1141]  
+[13:24:37][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[14:59:48][189.110.21.91]> Aux Financeiro [ID::8] acessou o cadastro de JARDIM ALVORADA [ID::1061]  
+[15:01:10][189.110.21.91]> Aux Financeiro [8] acessou listagem de campos . 
+[15:40:52][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 1242 . 
+[15:40:56][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 1242 . 
+[15:41:00][189.110.21.91]> Aux Financeiro [8] acessou as remessas do campo 1242 . 
+[17:19:13][189.110.21.91]> Aux Financeiro [8] saiu do sistema . 
+[17:19:18][189.110.21.91]>  [8] saiu do sistema . 

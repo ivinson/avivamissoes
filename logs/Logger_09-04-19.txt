@@ -1,0 +1,18 @@
+[09:34:18][177.188.214.215]> Aux Financeiro [8] fez o login no sistema. 
+[09:39:32][177.188.214.215]> Aux Financeiro [8] acessou listagem de campos . 
+[09:56:10][177.188.214.215]> Aux Financeiro [8] acessou listagem de campos . 
+[10:03:19][177.188.214.215]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 74243   Valor:: 100  NmDocto :: 2275152  
+[10:03:44][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 1041 . 
+[10:04:09][177.188.214.215]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:04:09][177.188.214.215]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 74243  
+[10:04:09][177.188.214.215]> # Valor :: 100  
+[10:04:09][177.188.214.215]> # Referente ao mes :: 2019-02-15 
+[10:04:09][177.188.214.215]> # Usuario atribuido ID::1041 
+[10:04:09][177.188.214.215]> ############################################## ------------------------------------------------------------ 
+[10:04:13][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 1041 . 
+[10:50:51][66.249.83.17]> #### Acesso não autorizado ###### 
+[10:50:51][66.249.83.17]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960 
+[10:50:51][66.249.83.17]> # ------------------------------------------------------>  
+[12:55:49][177.188.214.215]> Aux Financeiro [8] acessou listagem de campos . 
+[12:55:57][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 962 . 
+[17:02:51][177.188.214.215]> Aux Financeiro [8] saiu do sistema . 

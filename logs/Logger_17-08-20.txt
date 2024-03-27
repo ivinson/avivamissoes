@@ -1,0 +1,20 @@
+[09:40:38][191.19.101.245]> Aux Financeiro [8] fez o login no sistema. 
+[10:35:33][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[10:35:40][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 997 . 
+[10:43:01][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[14:35:27][191.19.101.245]> Aux Financeiro [ID::8] acessou o cadastro de JATAIZINHO [ID::1268]  
+[14:38:57][191.19.101.245]> Aux Financeiro [ID::8] atualizou o cadastro de JATAIZINHO [ID::1268]  
+[14:38:57][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[14:39:06][191.19.101.245]> Aux Financeiro [ID::8] acessou o cadastro de JATAIZINHO [ID::1268]  
+[14:39:12][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[14:41:50][191.19.101.245]> Aux Financeiro [ID::8] acessou o cadastro de JATAIZINHO [ID::1268]  
+[14:42:57][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[16:14:29][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[16:17:21][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1059 . 
+[16:21:20][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[17:00:27][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[17:00:33][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1158 . 
+[17:02:52][191.19.101.245]> Aux Financeiro [8] saiu do sistema . 
+[22:46:44][66.249.83.5]> #### Acesso não autorizado ###### 
+[22:46:44][66.249.83.5]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960 
+[22:46:44][66.249.83.5]> # ------------------------------------------------------>  

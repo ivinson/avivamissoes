@@ -1,0 +1,77 @@
+[09:04:30][177.9.183.63]> Aux Financeiro [8] fez o login no sistema. 
+[09:23:21][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[10:12:02][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 909 . 
+[13:07:36][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[13:12:03][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[13:14:13][177.9.183.63]> Aux Financeiro [ID::8] acessou o cadastro de ARIQUEMES [ID::987]  
+[13:19:40][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[13:19:45][177.9.183.63]> Aux Financeiro [ID::8] acessou o cadastro de IPIAU / CE [ID::908]  
+[13:23:21][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[13:23:27][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[13:23:30][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[13:23:33][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[13:23:48][177.9.183.63]> Aux Financeiro [ID::8] acessou o cadastro de SANTO ANTÔNIO DA PLATINA [ID::953]  
+[13:27:51][177.9.183.63]> Aux Financeiro [ID::8] atualizou o cadastro de SANTO ANTÔNIO DA PLATINA [ID::953]  
+[13:27:51][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[13:28:08][177.9.183.63]> Aux Financeiro [ID::8] acessou o cadastro de PORTO VELHO [ID::1174]  
+[13:30:55][177.9.183.63]> Aux Financeiro [ID::8] atualizou o cadastro de PORTO VELHO [ID::1174]  
+[13:30:55][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[13:31:04][177.9.183.63]> Aux Financeiro [ID::8] acessou o cadastro de PORTO ALEGRE I [ID::1075]  
+[13:33:42][177.9.183.63]> Aux Financeiro [ID::8] atualizou o cadastro de PORTO ALEGRE I [ID::1075]  
+[13:33:43][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[13:35:29][177.9.183.63]> Aux Financeiro [ID::8] acessou o cadastro de JUAZEIRO DO NORTE - CEARÁ [ID::898]  
+[13:42:28][177.9.183.63]> Aux Financeiro [ID::8] atualizou o cadastro de JUAZEIRO DO NORTE - CEARÁ [ID::898]  
+[13:42:28][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[13:42:36][177.9.183.63]> Aux Financeiro [ID::8] acessou o cadastro de JUAZEIRO DO NORTE - CEARÁ [ID::898]  
+[13:49:44][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[13:49:53][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 1184 . 
+[13:49:56][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 1184 . 
+[14:50:31][177.9.183.63]> Alessandra Moreto [6] fez o login no sistema. 
+[14:50:47][177.9.183.63]> Alessandra Moreto [6] acessou listagem de campos . 
+[14:51:16][177.9.183.63]> Alessandra Moreto [ID::6] acessou o cadastro de CURITIBA / CAPÃO RASO [ID::997]  
+[14:51:27][177.9.183.63]> Alessandra Moreto [6] acessou listagem de campos . 
+[15:01:16][177.9.183.63]> Alessandra Moreto [ID::6] acessou o cadastro de CURITIBA / CAPÃO RASO [ID::997]  
+[15:41:28][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[15:41:30][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[15:42:26][177.9.183.63]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 46530   Valor:: 179  NmDocto :: 5824067  
+[15:42:59][177.9.183.63]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:42:59][177.9.183.63]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 46530  
+[15:42:59][177.9.183.63]> # Valor :: 179  
+[15:42:59][177.9.183.63]> # Referente ao mes :: 2017-02-15 
+[15:42:59][177.9.183.63]> # Usuario atribuido ID::931 
+[15:42:59][177.9.183.63]> ############################################## ------------------------------------------------------------ 
+[15:45:36][177.9.183.63]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 63659   Valor:: 234  NmDocto :: 5705064  
+[15:45:55][177.9.183.63]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:45:55][177.9.183.63]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 63659  
+[15:45:55][177.9.183.63]> # Valor :: 234  
+[15:45:55][177.9.183.63]> # Referente ao mes :: 2017-09-15 
+[15:45:55][177.9.183.63]> # Usuario atribuido ID::931 
+[15:45:55][177.9.183.63]> ############################################## ------------------------------------------------------------ 
+[15:45:59][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[15:47:00][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[15:48:08][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[15:48:12][177.9.183.63]> Aux Financeiro [8] deletou a remessa 66795 do campo id=931. 
+[15:48:14][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[15:48:19][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[15:48:24][177.9.183.63]> Aux Financeiro [ID::8] acessou o cadastro de VERA CRUZ D´OESTE [ID::931]  
+[15:48:26][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[15:48:35][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[15:49:16][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[16:19:24][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[16:26:35][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 1213 . 
+[16:26:40][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 1213 . 
+[16:27:59][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[16:28:05][177.9.183.63]> Aux Financeiro [ID::8] acessou o cadastro de CASA VERDE  [ID::911]  
+[16:29:50][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[16:30:02][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 1184 . 
+[16:30:05][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 1184 . 
+[16:48:19][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[16:48:27][177.9.183.63]> Aux Financeiro [ID::8] acessou o cadastro de CASA VERDE  [ID::911]  
+[16:51:16][177.9.183.63]> Aux Financeiro [ID::8] atualizou o cadastro de CASA VERDE  [ID::911]  
+[16:51:16][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[16:51:35][177.9.183.63]> Aux Financeiro [8] saiu do sistema . 
+[16:51:42][177.9.183.63]>  [8] saiu do sistema . 
+[16:53:17][177.9.183.63]> Aux Financeiro [8] fez o login no sistema. 
+[16:53:20][177.9.183.63]> Aux Financeiro [8] acessou listagem de campos . 
+[16:53:30][177.9.183.63]> Aux Financeiro [8] acessou as remessas do campo 1184 . 
+[17:00:44][177.9.183.63]> Aux Financeiro [8] saiu do sistema . 

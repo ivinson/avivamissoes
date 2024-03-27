@@ -1,0 +1,30 @@
+[09:26:10][201.93.235.176]> Aux Financeiro [8] fez o login no sistema. 
+[09:28:08][201.93.235.176]> Aux Financeiro [8] acessou listagem de campos . 
+[09:28:14][201.93.235.176]> Aux Financeiro [ID::8] acessou o cadastro de AVARÉ [ID::1152]  
+[11:31:38][201.93.235.176]> Aux Financeiro [8] acessou listagem de campos . 
+[11:36:02][201.93.235.176]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[11:40:07][201.93.235.176]> Aux Financeiro [8] acessou listagem de campos . 
+[11:40:31][201.93.235.176]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87141   Valor:: 400  NmDocto :: 1153317  
+[11:41:07][201.93.235.176]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:41:07][201.93.235.176]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87141  
+[11:41:07][201.93.235.176]> # Valor :: 400  
+[11:41:07][201.93.235.176]> # Referente ao mes :: 2021-04-15 
+[11:41:07][201.93.235.176]> # Usuario atribuido ID::1103 
+[11:41:07][201.93.235.176]> ############################################## ------------------------------------------------------------ 
+[11:41:16][201.93.235.176]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[11:43:28][201.93.235.176]> Aux Financeiro [8] acessou listagem de campos . 
+[11:43:33][201.93.235.176]> Aux Financeiro [ID::8] acessou o cadastro de JAÇANA [ID::1103]  
+[11:43:46][201.93.235.176]> Aux Financeiro [8] acessou listagem de campos . 
+[11:45:40][201.93.235.176]> Aux Financeiro [8] saiu do sistema . 
+[13:11:44][201.93.235.176]>  [8] acessou listagem de campos . 
+[13:11:47][201.93.235.176]> Aux Financeiro [8] fez o login no sistema. 
+[13:11:50][201.93.235.176]> Aux Financeiro [8] acessou listagem de campos . 
+[13:12:30][201.93.235.176]> Aux Financeiro [8] acessou as remessas do campo 994 . 
+[13:12:35][201.93.235.176]> Aux Financeiro [8] acessou as remessas do campo 994 . 
+[13:12:38][201.93.235.176]> Aux Financeiro [8] acessou as remessas do campo 994 . 
+[13:12:54][201.93.235.176]> Aux Financeiro [8] acessou as remessas do campo 994 . 
+[13:12:58][201.93.235.176]> Aux Financeiro [8] acessou as remessas do campo 994 . 
+[13:13:01][201.93.235.176]> Aux Financeiro [8] acessou as remessas do campo 994 . 
+[13:13:05][201.93.235.176]> Aux Financeiro [8] acessou as remessas do campo 994 . 
+[14:10:59][201.93.235.176]> Aux Financeiro [8] acessou listagem de campos . 
+[17:01:40][201.93.235.176]> Aux Financeiro [8] saiu do sistema . 

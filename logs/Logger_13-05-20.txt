@@ -1,0 +1,83 @@
+[09:11:01][177.138.65.252]> Aux Financeiro [8] fez o login no sistema. 
+[09:34:24][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[09:34:56][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[09:35:05][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[09:38:24][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[09:38:34][177.138.65.252]> Aux Financeiro [ID::8] acessou o cadastro de AVARÉ [ID::1152]  
+[09:51:31][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[09:51:39][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[09:51:42][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[09:57:30][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[09:57:37][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[09:59:36][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[10:00:15][177.138.65.252]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 74908   Valor:: 732.95  NmDocto :: 591698  
+[10:00:52][177.138.65.252]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:00:52][177.138.65.252]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 74908  
+[10:00:52][177.138.65.252]> # Valor :: 732.95  
+[10:00:52][177.138.65.252]> # Referente ao mes :: 2019-02-15 
+[10:00:52][177.138.65.252]> # Usuario atribuido ID::1151 
+[10:00:52][177.138.65.252]> ############################################## ------------------------------------------------------------ 
+[10:01:06][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[10:01:45][177.138.65.252]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 74935   Valor:: 615.05  NmDocto :: 591256  
+[10:02:02][177.138.65.252]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:02:02][177.138.65.252]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 74935  
+[10:02:03][177.138.65.252]> # Valor :: 615.05  
+[10:02:03][177.138.65.252]> # Referente ao mes :: 2019-03-15 
+[10:02:03][177.138.65.252]> # Usuario atribuido ID::1151 
+[10:02:03][177.138.65.252]> ############################################## ------------------------------------------------------------ 
+[10:02:07][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[10:07:48][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[10:08:30][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1112 . 
+[10:08:33][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1112 . 
+[10:11:19][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[10:11:25][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1022 . 
+[10:11:29][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1022 . 
+[10:11:32][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1022 . 
+[10:18:17][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[10:18:24][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[10:18:27][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[10:28:33][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[10:30:35][177.138.65.252]> Aux Financeiro [ID::8] acessou o cadastro de SANTA ISABEL DO IVAÍ [ID::1089]  
+[10:30:39][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[10:30:45][177.138.65.252]> Aux Financeiro [ID::8] acessou o cadastro de SÃO JOÃO DO IVAÍ [ID::954]  
+[10:31:42][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[10:31:52][177.138.65.252]> Aux Financeiro [ID::8] acessou o cadastro de SÃO JOÃO DO IVAÍ [ID::954]  
+[10:35:14][177.138.65.252]> Aux Financeiro [ID::8] atualizou o cadastro de SÃO JOÃO DO IVAÍ [ID::954]  
+[10:35:14][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[10:35:18][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[10:36:41][177.138.65.252]> Aux Financeiro [ID::8] acessou o cadastro de CAICÓ  [ID::992]  
+[10:37:31][177.138.65.252]> Aux Financeiro [ID::8] atualizou o cadastro de CAICÓ  [ID::992]  
+[10:37:31][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[10:39:14][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[10:39:16][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[10:48:24][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[10:48:29][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[10:48:33][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[10:49:56][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[10:50:00][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[10:50:29][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[10:50:33][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[10:50:38][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[11:05:21][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[11:20:29][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 893 . 
+[13:36:13][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[13:36:24][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[13:38:15][177.138.65.252]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 80585   Valor:: 260  NmDocto :: 1674641  
+[13:38:42][177.138.65.252]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[13:38:42][177.138.65.252]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 80585  
+[13:38:42][177.138.65.252]> # Valor :: 260  
+[13:38:42][177.138.65.252]> # Referente ao mes :: 2020-01-15 
+[13:38:42][177.138.65.252]> # Usuario atribuido ID::1103 
+[13:38:42][177.138.65.252]> ############################################## ------------------------------------------------------------ 
+[14:03:58][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[14:04:04][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[14:04:08][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[16:58:59][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 936 . 
+[16:59:56][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 936 . 
+[17:00:00][177.138.65.252]> Aux Financeiro [8] acessou as remessas do campo 936 . 
+[17:01:05][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[17:01:11][177.138.65.252]> Aux Financeiro [ID::8] acessou o cadastro de AVARÉ [ID::1152]  
+[17:03:17][177.138.65.252]> Aux Financeiro [ID::8] atualizou o cadastro de AVARÉ [ID::1152]  
+[17:03:17][177.138.65.252]> Aux Financeiro [8] acessou listagem de campos . 
+[17:13:22][177.138.65.252]> Aux Financeiro [8] saiu do sistema . 
+[17:13:26][177.138.65.252]>  [8] saiu do sistema . 

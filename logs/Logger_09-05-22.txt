@@ -1,0 +1,13 @@
+[09:14:05][191.8.72.72]> Aux Financeiro [8] fez o login no sistema. 
+[10:46:06][191.8.72.72]> Aux Financeiro [8] acessou listagem de campos . 
+[10:46:11][191.8.72.72]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[10:46:42][191.8.72.72]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[10:48:46][191.8.72.72]> Aux Financeiro [8] acessou listagem de campos . 
+[15:54:07][191.8.72.72]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 90015   Valor:: 3415.39  NmDocto :: 1955373  
+[15:54:35][191.8.72.72]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:54:35][191.8.72.72]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 90015  
+[15:54:35][191.8.72.72]> # Valor :: 3415.39  
+[15:54:35][191.8.72.72]> # Referente ao mes :: 2022-03-15 
+[15:54:35][191.8.72.72]> # Usuario atribuido ID::944 
+[15:54:35][191.8.72.72]> ############################################## ------------------------------------------------------------ 
+[16:05:28][191.8.72.72]> Aux Financeiro [8] saiu do sistema . 

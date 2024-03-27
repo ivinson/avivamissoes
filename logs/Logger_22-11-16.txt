@@ -1,0 +1,75 @@
+[00:13:06][157.55.39.3]> #### Acesso não autorizado ###### 
+[00:13:06][157.55.39.3]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[00:13:06][157.55.39.3]> # ------------------------------------------------------>  
+[01:11:16][66.249.64.214]> #### Acesso não autorizado ###### 
+[01:11:16][66.249.64.214]> Algum usuario não identificado tentou acessar a /listar-pendentes-consistencia.php 
+[01:11:16][66.249.64.214]> # ------------------------------------------------------>  
+[01:23:40][66.249.64.218]> #### Acesso não autorizado ###### 
+[01:23:40][66.249.64.218]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=972 
+[01:23:40][66.249.64.218]> # ------------------------------------------------------>  
+[01:47:04][66.249.64.214]> #### Acesso não autorizado ###### 
+[01:47:04][66.249.64.214]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=971 
+[01:47:04][66.249.64.214]> # ------------------------------------------------------>  
+[03:12:21][66.249.64.222]> #### Acesso não autorizado ###### 
+[03:12:21][66.249.64.222]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=971&idLancamento=26008&type=delete 
+[03:12:21][66.249.64.222]> # ------------------------------------------------------>  
+[03:55:49][66.249.64.218]> #### Acesso não autorizado ###### 
+[03:55:49][66.249.64.218]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=972&idLancamento=28190&type=delete 
+[03:55:49][66.249.64.218]> # ------------------------------------------------------>  
+[04:10:00][66.249.64.214]> #### Acesso não autorizado ###### 
+[04:10:00][66.249.64.214]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=919 
+[04:10:00][66.249.64.214]> # ------------------------------------------------------>  
+[04:39:01][66.249.64.214]> #### Acesso não autorizado ###### 
+[04:39:01][66.249.64.214]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=971&idLancamento=27135&type=delete 
+[04:39:01][66.249.64.214]> # ------------------------------------------------------>  
+[04:41:29][66.249.64.218]> #### Acesso não autorizado ###### 
+[04:41:29][66.249.64.218]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=971&idLancamento=26001&type=delete 
+[04:41:29][66.249.64.218]> # ------------------------------------------------------>  
+[05:01:45][66.249.64.218]> #### Acesso não autorizado ###### 
+[05:01:45][66.249.64.218]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=919&idLancamento=33257&type=delete 
+[05:01:45][66.249.64.218]> # ------------------------------------------------------>  
+[05:35:39][66.249.64.222]> #### Acesso não autorizado ###### 
+[05:35:39][66.249.64.222]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=971&idLancamento=27451&type=delete 
+[05:35:39][66.249.64.222]> # ------------------------------------------------------>  
+[08:05:20][66.249.64.218]> #### Acesso não autorizado ###### 
+[08:05:20][66.249.64.218]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=971&idLancamento=26011&type=delete 
+[08:05:20][66.249.64.218]> # ------------------------------------------------------>  
+[08:05:20][66.249.64.222]> #### Acesso não autorizado ###### 
+[08:05:20][66.249.64.222]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=919&idLancamento=28418&type=delete 
+[08:05:20][66.249.64.222]> # ------------------------------------------------------>  
+[08:17:26][66.249.64.214]> #### Acesso não autorizado ###### 
+[08:17:26][66.249.64.214]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=971&idLancamento=26000&type=delete 
+[08:17:26][66.249.64.214]> # ------------------------------------------------------>  
+[08:17:27][66.249.64.214]> #### Acesso não autorizado ###### 
+[08:17:27][66.249.64.214]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=919&idLancamento=27166&type=delete 
+[08:17:27][66.249.64.214]> # ------------------------------------------------------>  
+[08:37:32][66.249.64.218]> #### Acesso não autorizado ###### 
+[08:37:32][66.249.64.218]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=919&idLancamento=18671&type=delete 
+[08:37:32][66.249.64.218]> # ------------------------------------------------------>  
+[08:53:50][66.249.64.222]> #### Acesso não autorizado ###### 
+[08:53:50][66.249.64.222]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=972&ano=2016 
+[08:53:50][66.249.64.222]> # ------------------------------------------------------>  
+[09:50:08][66.249.64.222]> #### Acesso não autorizado ###### 
+[09:50:08][66.249.64.222]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=971&ano=2010 
+[09:50:08][66.249.64.222]> # ------------------------------------------------------>  
+[10:39:06][66.249.64.218]> #### Acesso não autorizado ###### 
+[10:39:06][66.249.64.218]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=946&ano=2011 
+[10:39:06][66.249.64.218]> # ------------------------------------------------------>  
+[11:34:56][66.249.64.218]> #### Acesso não autorizado ###### 
+[11:34:56][66.249.64.218]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1099&ano=2009 
+[11:34:56][66.249.64.218]> # ------------------------------------------------------>  
+[13:20:26][66.249.64.222]> #### Acesso não autorizado ###### 
+[13:20:26][66.249.64.222]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1029&ano=2014 
+[13:20:26][66.249.64.222]> # ------------------------------------------------------>  
+[14:46:04][66.249.64.214]> #### Acesso não autorizado ###### 
+[14:46:04][66.249.64.214]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1099 
+[14:46:04][66.249.64.214]> # ------------------------------------------------------>  
+[15:22:12][66.249.64.214]> #### Acesso não autorizado ###### 
+[15:22:12][66.249.64.214]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1099&idLancamento=20985&type=delete 
+[15:22:12][66.249.64.214]> # ------------------------------------------------------>  
+[19:29:46][66.249.64.222]> #### Acesso não autorizado ###### 
+[19:29:46][66.249.64.222]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=946&ano=2012 
+[19:29:46][66.249.64.222]> # ------------------------------------------------------>  
+[23:04:56][66.249.64.214]> #### Acesso não autorizado ###### 
+[23:04:56][66.249.64.214]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1097&ano=2012 
+[23:04:56][66.249.64.214]> # ------------------------------------------------------>  

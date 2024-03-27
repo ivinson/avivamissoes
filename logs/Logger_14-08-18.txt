@@ -1,0 +1,36 @@
+[10:44:38][189.46.255.107]> Aux Financeiro [8] fez o login no sistema. 
+[10:44:43][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[10:44:55][189.46.255.107]> Aux Financeiro [ID::8] acessou o cadastro de JOAQUIM TAVORA [ID::1029]  
+[11:40:55][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[11:41:06][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:41:08][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:43:21][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[11:43:27][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:43:30][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:43:40][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:43:42][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[11:44:19][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:44:24][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:44:30][189.46.255.107]> Aux Financeiro [8] deletou a remessa 62048 do campo id=1051. 
+[11:44:30][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:44:33][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:44:37][189.46.255.107]> Aux Financeiro [8] deletou a remessa 63898 do campo id=1051. 
+[11:44:38][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:44:42][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:45:07][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[11:45:12][189.46.255.107]> Aux Financeiro [ID::8] acessou o cadastro de POUSO ALEGRE [ID::1051]  
+[11:49:21][189.46.255.107]> Administrador Financeiro [5] fez o login no sistema. 
+[11:49:30][189.46.255.107]> Administrador Financeiro [5] acessou listagem de campos . 
+[11:49:42][189.46.255.107]> Administrador Financeiro [5] acessou as remessas do campo 989 . 
+[11:49:54][189.46.255.107]> Administrador Financeiro [5] acessou as remessas do campo 989 . 
+[17:44:55][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[17:46:03][189.46.255.107]> Aux Financeiro [ID::8] acessou o cadastro de CAMPINAS ZONA NORTE - SANTA BARBARA [ID::988]  
+[17:48:44][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[17:48:51][189.46.255.107]> Aux Financeiro [ID::8] acessou o cadastro de TUPI [ID::1114]  
+[17:50:55][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[17:53:15][189.46.255.107]> Aux Financeiro [ID::8] acessou o cadastro de PARÁ DE MINAS [ID::940]  
+[17:54:03][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[17:59:46][189.46.255.107]> Aux Financeiro [8] saiu do sistema . 
+[17:59:49][189.46.255.107]> #### Acesso não autorizado ###### 
+[17:59:49][189.46.255.107]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1051 
+[17:59:49][189.46.255.107]> # ------------------------------------------------------>  

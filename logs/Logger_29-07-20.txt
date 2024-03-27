@@ -1,0 +1,28 @@
+[09:13:30][152.250.124.60]> Aux Financeiro [8] fez o login no sistema. 
+[13:45:44][152.250.124.60]> Aux Financeiro [8] acessou listagem de campos . 
+[13:45:51][152.250.124.60]> Aux Financeiro [8] acessou as remessas do campo 987 . 
+[14:29:57][152.250.124.60]> Aux Financeiro [8] acessou listagem de campos . 
+[14:30:04][152.250.124.60]> Aux Financeiro [8] acessou as remessas do campo 1049 . 
+[14:30:08][152.250.124.60]> Aux Financeiro [8] acessou as remessas do campo 1049 . 
+[14:30:12][152.250.124.60]> Aux Financeiro [8] acessou as remessas do campo 1049 . 
+[15:06:13][152.250.124.60]> Aux Financeiro [8] acessou listagem de campos . 
+[16:27:36][152.250.124.60]> Aux Financeiro [8] acessou listagem de campos . 
+[16:28:41][152.250.124.60]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 80162   Valor:: 250  NmDocto :: 1197559  
+[16:29:38][152.250.124.60]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:29:38][152.250.124.60]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 80162  
+[16:29:38][152.250.124.60]> # Valor :: 250  
+[16:29:38][152.250.124.60]> # Referente ao mes :: 2020-01-15 
+[16:29:38][152.250.124.60]> # Usuario atribuido ID::1059 
+[16:29:38][152.250.124.60]> ############################################## ------------------------------------------------------------ 
+[16:34:25][152.250.124.60]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 80161   Valor:: 270  NmDocto :: 1197223  
+[16:34:47][152.250.124.60]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:34:47][152.250.124.60]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 80161  
+[16:34:47][152.250.124.60]> # Valor :: 270  
+[16:34:47][152.250.124.60]> # Referente ao mes :: 2020-02-15 
+[16:34:47][152.250.124.60]> # Usuario atribuido ID::1059 
+[16:34:47][152.250.124.60]> ############################################## ------------------------------------------------------------ 
+[16:55:11][152.250.124.60]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:55:13][152.250.124.60]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:56:16][152.250.124.60]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:56:28][152.250.124.60]> Aux Financeiro [8] saiu do sistema . 
+[16:59:12][152.250.124.60]>  [8] saiu do sistema . 

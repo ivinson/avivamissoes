@@ -1,0 +1,37 @@
+[09:33:35][177.102.219.103]> Aux Financeiro [8] fez o login no sistema. 
+[10:40:42][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[10:40:47][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1083 . 
+[10:41:00][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1083 . 
+[10:41:13][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1083 . 
+[10:41:49][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1083 . 
+[10:42:27][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1083 . 
+[10:50:52][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[10:50:58][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[10:51:02][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[10:51:10][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[10:58:15][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 951 . 
+[10:59:19][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[10:59:40][177.102.219.103]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 75397   Valor:: 281  NmDocto :: 9313602  
+[11:00:17][177.102.219.103]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:00:17][177.102.219.103]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 75397  
+[11:00:17][177.102.219.103]> # Valor :: 281  
+[11:00:17][177.102.219.103]> # Referente ao mes :: 2019-01-15 
+[11:00:17][177.102.219.103]> # Usuario atribuido ID::1188 
+[11:00:17][177.102.219.103]> ############################################## ------------------------------------------------------------ 
+[11:00:27][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1188 . 
+[11:02:27][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1188 . 
+[11:02:33][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1188 . 
+[13:03:12][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[14:26:33][177.102.219.103]> Aux Financeiro [ID::8] acessou o cadastro de MONTENEGRO [ID::1253]  
+[14:26:37][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[14:32:19][177.102.219.103]> Aux Financeiro [ID::8] acessou o cadastro de FOZ DO IGUAÇÚ [ID::943]  
+[14:32:34][177.102.219.103]> Aux Financeiro [ID::8] atualizou o cadastro de FOZ DO IGUAÇÚ [ID::943]  
+[14:32:35][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[15:43:47][177.102.219.103]> Aux Financeiro [ID::8] acessou o cadastro de SACOMÃ [ID::1259]  
+[15:44:59][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[15:45:02][177.102.219.103]> Aux Financeiro [ID::8] acessou o cadastro de ARAÇATUBA [ID::1262]  
+[15:46:30][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[15:46:35][177.102.219.103]> Aux Financeiro [ID::8] acessou o cadastro de VALINHOS [ID::1265]  
+[15:53:29][177.102.219.103]> Aux Financeiro [ID::8] atualizou o cadastro de VALINHOS [ID::1265]  
+[15:53:29][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[16:21:41][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 

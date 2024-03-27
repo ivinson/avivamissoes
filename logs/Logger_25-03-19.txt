@@ -1,0 +1,43 @@
+[09:13:12][179.110.196.140]> Aux Financeiro [8] fez o login no sistema. 
+[09:37:24][179.110.196.140]> Aux Financeiro [8] acessou listagem de campos . 
+[09:38:15][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1011 . 
+[09:38:17][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1011 . 
+[09:38:31][179.110.196.140]> Aux Financeiro [8] acessou listagem de campos . 
+[09:39:04][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1248 . 
+[09:39:06][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1248 . 
+[09:39:15][179.110.196.140]> Aux Financeiro [8] acessou listagem de campos . 
+[09:55:17][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 909 . 
+[09:55:46][179.110.196.140]> Aux Financeiro [8] acessou listagem de campos . 
+[09:55:51][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[09:55:58][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[09:56:07][179.110.196.140]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 73909   Valor:: 3000  NmDocto :: 591862  
+[09:56:24][179.110.196.140]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[09:56:24][179.110.196.140]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 73909  
+[09:56:24][179.110.196.140]> # Valor :: 3000  
+[09:56:24][179.110.196.140]> # Referente ao mes :: 2019-01-15 
+[09:56:24][179.110.196.140]> # Usuario atribuido ID::1219 
+[09:56:24][179.110.196.140]> ############################################## ------------------------------------------------------------ 
+[09:56:30][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[09:56:33][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[10:03:31][179.110.196.140]> Aux Financeiro [8] acessou listagem de campos . 
+[10:04:10][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[10:04:13][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[10:04:20][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[10:05:11][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[10:05:37][179.110.196.140]> Aux Financeiro [8] acessou listagem de campos . 
+[10:05:56][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1140 . 
+[10:05:58][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 1140 . 
+[10:06:03][179.110.196.140]> Aux Financeiro [8] acessou listagem de campos . 
+[10:55:14][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 891 . 
+[10:55:26][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 891 . 
+[10:55:44][179.110.196.140]> Aux Financeiro [8] acessou as remessas do campo 891 . 
+[10:58:16][179.110.196.140]> Aux Financeiro [8] acessou listagem de campos . 
+[12:46:17][179.110.196.140]> Aux Financeiro [8] fez o login no sistema. 
+[15:59:36][179.110.196.140]> #### Acesso não autorizado ###### 
+[15:59:36][179.110.196.140]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[15:59:36][179.110.196.140]> # ------------------------------------------------------>  
+[16:00:07][179.110.196.140]> Administrador Financeiro [5] fez o login no sistema. 
+[16:02:02][179.110.196.140]> Administrador Financeiro [5] acessou listagem de campos . 
+[16:02:40][179.110.196.140]> Administrador Financeiro [5] acessou as remessas do campo 1233 . 
+[16:30:04][200.100.39.154]> Administrador Financeiro [5] acessou as remessas do campo 1233 . 
+[16:56:10][179.110.196.140]> Aux Financeiro [8] saiu do sistema . 

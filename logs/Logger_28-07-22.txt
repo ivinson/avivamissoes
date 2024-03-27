@@ -1,0 +1,26 @@
+[09:25:29][201.93.234.237]> Aux Financeiro [8] fez o login no sistema. 
+[13:25:17][201.93.234.237]> Aux Financeiro [8] acessou listagem de campos . 
+[13:26:09][201.93.234.237]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[13:26:31][201.93.234.237]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 90327   Valor:: 138.4  NmDocto :: 5392097  
+[13:26:52][201.93.234.237]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[13:26:52][201.93.234.237]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 90327  
+[13:26:52][201.93.234.237]> # Valor :: 138.4  
+[13:26:52][201.93.234.237]> # Referente ao mes :: 2022-04-15 
+[13:26:52][201.93.234.237]> # Usuario atribuido ID::1190 
+[13:26:52][201.93.234.237]> ############################################## ------------------------------------------------------------ 
+[13:27:13][201.93.234.237]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 90659   Valor:: 158.95  NmDocto :: 5392097  
+[13:27:29][201.93.234.237]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[13:27:29][201.93.234.237]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 90659  
+[13:27:29][201.93.234.237]> # Valor :: 158.95  
+[13:27:29][201.93.234.237]> # Referente ao mes :: 2022-05-15 
+[13:27:29][201.93.234.237]> # Usuario atribuido ID::1190 
+[13:27:29][201.93.234.237]> ############################################## ------------------------------------------------------------ 
+[13:27:48][201.93.234.237]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[13:28:41][201.93.234.237]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[13:28:44][201.93.234.237]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[13:36:39][201.93.234.237]> Aux Financeiro [8] acessou listagem de campos . 
+[16:10:55][201.93.234.237]> Aux Financeiro [8] acessou as remessas do campo 1242 . 
+[16:10:56][201.93.234.237]> Aux Financeiro [8] acessou as remessas do campo 1242 . 
+[16:11:01][201.93.234.237]> Aux Financeiro [8] acessou as remessas do campo 1242 . 
+[16:11:05][201.93.234.237]> Aux Financeiro [8] acessou as remessas do campo 1242 . 
+[16:56:38][201.93.234.237]> Aux Financeiro [8] saiu do sistema . 

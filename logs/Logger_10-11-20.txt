@@ -1,0 +1,74 @@
+[09:02:00][177.68.136.3]> Aux Financeiro [8] fez o login no sistema. 
+[11:13:06][177.68.136.3]> #### Acesso não autorizado ###### 
+[11:13:06][177.68.136.3]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[11:13:06][177.68.136.3]> # ------------------------------------------------------>  
+[11:13:15][177.68.136.3]> Administrador Financeiro [5] fez o login no sistema. 
+[11:13:19][177.68.136.3]> Administrador Financeiro [5] acessou listagem de campos . 
+[11:43:20][177.68.136.3]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 83668   Valor:: 322  NmDocto :: 2842237  
+[11:43:46][177.68.136.3]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:43:46][177.68.136.3]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 83668  
+[11:43:46][177.68.136.3]> # Valor :: 322  
+[11:43:46][177.68.136.3]> # Referente ao mes :: 2020-09-15 
+[11:43:46][177.68.136.3]> # Usuario atribuido ID::1213 
+[11:43:46][177.68.136.3]> ############################################## ------------------------------------------------------------ 
+[11:43:51][177.68.136.3]> Aux Financeiro [8] acessou listagem de campos . 
+[11:43:57][177.68.136.3]> Aux Financeiro [8] acessou as remessas do campo 1213 . 
+[11:47:51][177.68.136.3]> Aux Financeiro [8] acessou listagem de campos . 
+[11:47:56][177.68.136.3]> Aux Financeiro [8] acessou as remessas do campo 1007 . 
+[11:50:18][177.68.136.3]> Aux Financeiro [8] acessou listagem de campos . 
+[11:50:23][177.68.136.3]> Aux Financeiro [8] acessou as remessas do campo 1165 . 
+[11:50:44][177.68.136.3]> Aux Financeiro [8] acessou listagem de campos . 
+[11:50:50][177.68.136.3]> Aux Financeiro [8] acessou as remessas do campo 1007 . 
+[11:53:39][177.68.136.3]> Aux Financeiro [8] acessou listagem de campos . 
+[11:54:35][177.68.136.3]> Aux Financeiro [8] acessou as remessas do campo 1213 . 
+[11:59:57][177.68.136.3]> Aux Financeiro [8] acessou listagem de campos . 
+[12:04:17][177.68.136.3]> Aux Financeiro [8] acessou as remessas do campo 1101 . 
+[12:11:11][177.68.136.3]> Aux Financeiro [8] acessou listagem de campos . 
+[12:11:17][177.68.136.3]> Aux Financeiro [8] acessou as remessas do campo 1213 . 
+[12:11:48][177.68.136.3]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 83694   Valor:: 125.9  NmDocto :: 5392093  
+[12:12:04][177.68.136.3]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:12:04][177.68.136.3]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 83694  
+[12:12:04][177.68.136.3]> # Valor :: 125.9  
+[12:12:04][177.68.136.3]> # Referente ao mes :: 2020-09-15 
+[12:12:04][177.68.136.3]> # Usuario atribuido ID::1190 
+[12:12:04][177.68.136.3]> ############################################## ------------------------------------------------------------ 
+[12:13:00][177.68.136.3]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 83736   Valor:: 140  NmDocto :: 5789910  
+[12:13:20][177.68.136.3]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:13:20][177.68.136.3]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 83736  
+[12:13:20][177.68.136.3]> # Valor :: 140  
+[12:13:20][177.68.136.3]> # Referente ao mes :: 2020-09-15 
+[12:13:20][177.68.136.3]> # Usuario atribuido ID::1007 
+[12:13:20][177.68.136.3]> ############################################## ------------------------------------------------------------ 
+[12:13:27][177.68.136.3]> Aux Financeiro [8] acessou listagem de campos . 
+[12:13:32][177.68.136.3]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[12:13:35][177.68.136.3]> Aux Financeiro [8] acessou listagem de campos . 
+[12:13:40][177.68.136.3]> Aux Financeiro [8] acessou as remessas do campo 1007 . 
+[12:15:54][177.68.136.3]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 83721   Valor:: 100  NmDocto :: 7350535  
+[12:16:07][177.68.136.3]> Aux Financeiro [8] acessou listagem de campos . 
+[12:16:13][177.68.136.3]> Aux Financeiro [8] acessou as remessas do campo 1075 . 
+[12:16:36][177.68.136.3]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:16:36][177.68.136.3]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 83721  
+[12:16:36][177.68.136.3]> # Valor :: 100  
+[12:16:36][177.68.136.3]> # Referente ao mes :: 2020-09-15 
+[12:16:36][177.68.136.3]> # Usuario atribuido ID::1075 
+[12:16:36][177.68.136.3]> ############################################## ------------------------------------------------------------ 
+[12:17:46][177.68.136.3]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 83696   Valor:: 30  NmDocto :: 4948555  
+[12:18:10][177.68.136.3]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:18:10][177.68.136.3]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 83696  
+[12:18:10][177.68.136.3]> # Valor :: 30  
+[12:18:10][177.68.136.3]> # Referente ao mes :: 2020-09-15 
+[12:18:10][177.68.136.3]> # Usuario atribuido ID::1140 
+[12:18:10][177.68.136.3]> ############################################## ------------------------------------------------------------ 
+[12:19:27][177.68.136.3]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 83724   Valor:: 90  NmDocto :: 7587759  
+[12:19:44][177.68.136.3]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:19:44][177.68.136.3]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 83724  
+[12:19:44][177.68.136.3]> # Valor :: 90  
+[12:19:44][177.68.136.3]> # Referente ao mes :: 2020-09-15 
+[12:19:44][177.68.136.3]> # Usuario atribuido ID::928 
+[12:19:44][177.68.136.3]> ############################################## ------------------------------------------------------------ 
+[13:16:39][177.68.136.3]> Aux Financeiro [8] acessou as remessas do campo 1075 . 
+[13:34:36][177.68.136.3]> Aux Financeiro [8] acessou listagem de campos . 
+[17:09:39][177.68.136.3]> Aux Financeiro [8] saiu do sistema . 
+[17:09:40][177.68.136.3]> #### Acesso não autorizado ###### 
+[17:09:40][177.68.136.3]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[17:09:40][177.68.136.3]> # ------------------------------------------------------>  

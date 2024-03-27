@@ -1,0 +1,72 @@
+[09:44:44][187.57.140.6]> Aux Financeiro [8] fez o login no sistema. 
+[10:45:23][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[10:45:56][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[10:46:00][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[10:47:11][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[10:47:24][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1110 . 
+[10:47:29][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1110 . 
+[10:48:23][187.57.140.6]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72911   Valor:: 301  NmDocto :: 7243713  
+[10:49:03][187.57.140.6]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:49:03][187.57.140.6]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72911  
+[10:49:03][187.57.140.6]> # Valor :: 301  
+[10:49:03][187.57.140.6]> # Referente ao mes :: 2018-11-15 
+[10:49:03][187.57.140.6]> # Usuario atribuido ID::1110 
+[10:49:03][187.57.140.6]> ############################################## ------------------------------------------------------------ 
+[10:49:22][187.57.140.6]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72910   Valor:: 100  NmDocto :: 7243709  
+[10:49:41][187.57.140.6]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:49:41][187.57.140.6]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72910  
+[10:49:41][187.57.140.6]> # Valor :: 100  
+[10:49:41][187.57.140.6]> # Referente ao mes :: 2018-11-15 
+[10:49:41][187.57.140.6]> # Usuario atribuido ID::1110 
+[10:49:41][187.57.140.6]> ############################################## ------------------------------------------------------------ 
+[10:49:44][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1110 . 
+[10:50:01][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[10:50:06][187.57.140.6]> Aux Financeiro [ID::8] acessou o cadastro de PORECATÚ [ID::1110]  
+[10:50:08][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[11:24:38][187.57.140.6]> Aux Financeiro [ID::8] acessou o cadastro de BELEM [ID::1117]  
+[11:29:31][187.57.140.6]> Aux Financeiro [8] saiu do sistema . 
+[11:30:07][187.57.140.6]> Aux Financeiro [8] fez o login no sistema. 
+[11:30:11][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[11:30:18][187.57.140.6]> Aux Financeiro [ID::8] acessou o cadastro de BELEM [ID::1117]  
+[11:30:28][187.57.140.6]> Aux Financeiro [ID::8] atualizou o cadastro de BELEM [ID::1117]  
+[11:30:58][187.57.140.6]> Aux Financeiro [ID::8] atualizou o cadastro de BELEM [ID::1117]  
+[11:30:58][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[11:31:06][187.57.140.6]> Aux Financeiro [ID::8] acessou o cadastro de BELEM [ID::1117]  
+[11:33:05][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[14:52:27][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1028 . 
+[14:52:34][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1028 . 
+[14:52:34][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1028 . 
+[15:02:54][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[15:03:09][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[15:03:14][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[15:07:31][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[15:07:37][187.57.140.6]> Aux Financeiro [ID::8] acessou o cadastro de PARÁ DE MINAS [ID::940]  
+[15:07:40][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[15:08:53][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[15:09:02][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[15:09:31][187.57.140.6]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72818   Valor:: 62  NmDocto :: 1061954  
+[15:10:18][187.57.140.6]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:10:18][187.57.140.6]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72818  
+[15:10:18][187.57.140.6]> # Valor :: 62  
+[15:10:18][187.57.140.6]> # Referente ao mes :: 2018-11-15 
+[15:10:18][187.57.140.6]> # Usuario atribuido ID::940 
+[15:10:18][187.57.140.6]> ############################################## ------------------------------------------------------------ 
+[15:12:22][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[16:02:38][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[16:02:46][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1021 . 
+[16:02:48][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1021 . 
+[16:27:57][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[16:28:09][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[16:28:11][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[16:29:10][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[16:29:16][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[16:29:18][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[17:57:30][187.57.140.6]> Aux Financeiro [8] saiu do sistema . 
+[17:57:38][187.57.140.6]>  [8] saiu do sistema . 
+[18:21:39][170.244.30.206]> #### Acesso não autorizado ###### 
+[18:21:39][170.244.30.206]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[18:21:39][170.244.30.206]> # ------------------------------------------------------>  
+[18:21:49][170.244.30.206]> Administrador Financeiro [5] fez o login no sistema. 
+[18:21:58][170.244.30.206]> Administrador Financeiro [5] acessou listagem de campos . 
+[18:22:14][170.244.30.206]> Administrador Financeiro [5] acessou as remessas do campo 924 . 
+[18:22:20][170.244.30.206]> Administrador Financeiro [5] acessou as remessas do campo 924 . 

@@ -1,0 +1,57 @@
+[09:07:19][201.92.163.16]> Aux Financeiro [8] fez o login no sistema. 
+[13:31:41][201.92.163.16]> Aux Financeiro [8] acessou listagem de campos . 
+[13:31:52][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[13:31:59][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:25:29][201.92.163.16]> Aux Financeiro [8] acessou listagem de campos . 
+[14:25:38][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:28:09][201.92.163.16]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 67116   Valor:: 124.2  NmDocto :: 5245075  
+[14:29:13][201.92.163.16]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:29:13][201.92.163.16]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 67116  
+[14:29:13][201.92.163.16]> # Valor :: 124.2  
+[14:29:13][201.92.163.16]> # Referente ao mes :: 2018-02-15 
+[14:29:13][201.92.163.16]> # Usuario atribuido ID::1246 
+[14:29:13][201.92.163.16]> ############################################## ------------------------------------------------------------ 
+[14:29:42][201.92.163.16]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 67115   Valor:: 120  NmDocto :: 5245075  
+[14:30:05][201.92.163.16]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:30:05][201.92.163.16]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 67115  
+[14:30:05][201.92.163.16]> # Valor :: 120  
+[14:30:05][201.92.163.16]> # Referente ao mes :: 2018-02-15 
+[14:30:05][201.92.163.16]> # Usuario atribuido ID::1246 
+[14:30:05][201.92.163.16]> ############################################## ------------------------------------------------------------ 
+[14:30:34][201.92.163.16]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 67640   Valor:: 61.15  NmDocto :: 5245075  
+[14:31:00][201.92.163.16]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:31:00][201.92.163.16]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 67640  
+[14:31:00][201.92.163.16]> # Valor :: 61.15  
+[14:31:00][201.92.163.16]> # Referente ao mes :: 2018-03-15 
+[14:31:00][201.92.163.16]> # Usuario atribuido ID::1246 
+[14:31:00][201.92.163.16]> ############################################## ------------------------------------------------------------ 
+[14:31:26][201.92.163.16]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 67641   Valor:: 175  NmDocto :: 5245075  
+[14:31:48][201.92.163.16]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:31:48][201.92.163.16]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 67641  
+[14:31:48][201.92.163.16]> # Valor :: 175  
+[14:31:48][201.92.163.16]> # Referente ao mes :: 2018-03-15 
+[14:31:48][201.92.163.16]> # Usuario atribuido ID::1246 
+[14:31:48][201.92.163.16]> ############################################## ------------------------------------------------------------ 
+[14:32:07][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:32:19][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:34:38][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:35:24][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:37:40][201.92.163.16]> Aux Financeiro [8] acessou listagem de campos . 
+[14:39:12][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:39:24][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:40:36][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:40:42][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:41:40][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:48:54][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:49:18][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:50:03][201.92.163.16]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[14:59:22][201.92.163.16]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 69296   Valor:: 36.58  NmDocto :: 5245075  
+[14:59:58][201.92.163.16]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:59:58][201.92.163.16]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 69296  
+[14:59:58][201.92.163.16]> # Valor :: 36.58  
+[14:59:58][201.92.163.16]> # Referente ao mes :: 2018-05-15 
+[14:59:58][201.92.163.16]> # Usuario atribuido ID::1246 
+[14:59:58][201.92.163.16]> ############################################## ------------------------------------------------------------ 
+[15:33:23][201.92.163.16]> Aux Financeiro [8] acessou listagem de campos . 
+[17:12:29][201.92.163.16]> Aux Financeiro [8] saiu do sistema . 
+[17:12:33][201.92.163.16]>  [8] saiu do sistema . 

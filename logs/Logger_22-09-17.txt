@@ -1,0 +1,16 @@
+[10:10:33][200.206.197.225]> #### Acesso não autorizado ###### 
+[10:10:33][200.206.197.225]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[10:10:33][200.206.197.225]> # ------------------------------------------------------>  
+[10:10:41][200.206.197.225]> Karina Machado Pereira [4] fez o login no sistema. 
+[10:10:52][200.206.197.225]> Karina Machado Pereira [4] acessou listagem de campos . 
+[10:11:06][200.206.197.225]> Karina Machado Pereira [4] acessou as remessas do campo 1138 . 
+[10:11:08][200.206.197.225]> Karina Machado Pereira [4] acessou listagem de campos . 
+[10:11:16][200.206.197.225]> Karina Machado Pereira [ID::4] acessou o cadastro de PALMAS [ID::1138]  
+[10:34:48][191.254.90.155]> Administrador Financeiro [ID::5] acessou o cadastro de CAMBÉ [ID::989]  
+[10:35:12][191.254.90.155]> Administrador Financeiro [5] acessou listagem de campos . 
+[10:59:00][200.206.197.225]> #### Acesso não autorizado ###### 
+[10:59:00][200.206.197.225]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[10:59:00][200.206.197.225]> # ------------------------------------------------------>  
+[10:59:18][200.206.197.225]> Karina Machado Pereira [4] fez o login no sistema. 
+[11:00:08][200.206.197.225]> Karina Machado Pereira [4] acessou listagem de campos . 
+[11:00:22][200.206.197.225]> Karina Machado Pereira [4] acessou as remessas do campo 1102 . 

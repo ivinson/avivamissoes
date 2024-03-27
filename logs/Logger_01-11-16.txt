@@ -1,0 +1,622 @@
+[15:08:01][200.207.109.71]> Sineide Silva [3] fez o login no sistema. 
+[15:08:04][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[15:08:16][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 1100 . 
+[15:08:18][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 1100 . 
+[15:11:04][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 1100 . 
+[15:11:07][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 1100 . 
+[15:11:12][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 1100 . 
+[15:11:58][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 1100 . 
+[15:12:23][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 1100 . 
+[15:13:04][201.92.134.144]> Administrador Financeiro [5] fez o login no sistema. 
+[15:13:09][201.92.134.144]> Administrador Financeiro [5] acessou listagem de campos . 
+[15:13:37][200.207.109.71]> Sineide Silva [3] fez o login no sistema. 
+[15:13:45][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[15:13:53][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 1100 . 
+[15:13:54][201.92.134.144]> Administrador Financeiro [5] acessou as remessas do campo 1100 . 
+[15:14:02][201.92.134.144]> Administrador Financeiro [5] acessou as remessas do campo 1100 . 
+[15:14:19][200.207.109.71]> Ivani Valim  [2] acessou listagem de campos . 
+[15:14:20][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 1100 . 
+[15:14:28][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 1100 . 
+[15:14:30][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 1100 . 
+[15:14:35][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 1100 . 
+[15:15:44][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 1100 . 
+[15:18:35][201.92.134.144]> Administrador Financeiro [5] acessou as remessas do campo 1100 . 
+[15:19:24][200.207.109.71]> Sineide Silva [3] fez o login no sistema. 
+[15:19:28][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[15:24:57][200.207.109.71]> Sineide Silva [3] saiu do sistema . 
+[15:26:05][200.207.109.71]> Ivani Valim  [2] acessou listagem de campos . 
+[15:26:12][200.207.109.71]> Ivani Valim  [ID::2] acessou o cadastro de VILA VELHA - CE [ID::1228]  
+[15:27:18][200.207.109.71]>  [3] acessou listagem de campos . 
+[15:27:26][200.207.109.71]> Sineide Silva [3] fez o login no sistema. 
+[15:27:30][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[15:27:51][200.207.109.71]> Sineide Silva [ID::3] acessou o cadastro de VILA VELHA - CE [ID::1228]  
+[15:28:03][200.207.109.71]> Sineide Silva [ID::3] atualizou o cadastro de VILA VELHA - CE [ID::1228]  
+[15:28:03][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[16:23:45][200.207.109.71]> Sineide Silva [ID::3] acessou o cadastro de VILA VELHA - CE [ID::1228]  
+[16:25:42][200.207.109.71]> Ivani Valim  [2] acessou listagem de campos . 
+[16:25:49][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 18/02/2015  
+[16:29:25][200.207.109.71]> # Docto :: 732357 
+[16:29:25][200.207.109.71]> # Valor :: 125.00 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 19/02/2015  
+[16:29:25][200.207.109.71]> # Docto :: 1023131 
+[16:29:25][200.207.109.71]> # Valor :: 20.00 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 10/04/2015  
+[16:29:25][200.207.109.71]> # Docto :: 6354252 
+[16:29:25][200.207.109.71]> # Valor :: 180.00 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 17/04/2015  
+[16:29:25][200.207.109.71]> # Docto :: 7689187 
+[16:29:25][200.207.109.71]> # Valor :: 650.00 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 11/05/2015  
+[16:29:25][200.207.109.71]> # Docto :: 1005713 
+[16:29:25][200.207.109.71]> # Valor :: 1.03 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 18/05/2015  
+[16:29:25][200.207.109.71]> # Docto :: 1705702 
+[16:29:25][200.207.109.71]> # Valor :: 3.70 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 10/06/2015  
+[16:29:25][200.207.109.71]> # Docto :: 1006596 
+[16:29:25][200.207.109.71]> # Valor :: 1.20 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 15/06/2015  
+[16:29:25][200.207.109.71]> # Docto :: 6352604 
+[16:29:25][200.207.109.71]> # Valor :: 60.00 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 17/06/2015  
+[16:29:25][200.207.109.71]> # Docto :: 1706600 
+[16:29:25][200.207.109.71]> # Valor :: 4.31 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 10/07/2015  
+[16:29:25][200.207.109.71]> # Docto :: 1006602 
+[16:29:25][200.207.109.71]> # Valor :: 1.20 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 15/07/2015  
+[16:29:25][200.207.109.71]> # Docto :: 1506896 
+[16:29:25][200.207.109.71]> # Valor :: 0.41 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 17/07/2015  
+[16:29:25][200.207.109.71]> # Docto :: 1707095 
+[16:29:25][200.207.109.71]> # Valor :: 4.67 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 10/08/2015  
+[16:29:25][200.207.109.71]> # Docto :: 1006945 
+[16:29:25][200.207.109.71]> # Valor :: 1.27 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 17/08/2015  
+[16:29:25][200.207.109.71]> # Docto :: 1507461 
+[16:29:25][200.207.109.71]> # Valor :: 0.45 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 17/08/2015  
+[16:29:25][200.207.109.71]> # Docto :: 1706780 
+[16:29:25][200.207.109.71]> # Valor :: 4.49 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:25][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:25][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:25][200.207.109.71]> # Dt :: 10/09/2015  
+[16:29:25][200.207.109.71]> # Docto :: 1006900 
+[16:29:25][200.207.109.71]> # Valor :: 1.28 
+[16:29:25][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:29:27][200.207.109.71]> # UPLOAD[Extrato] ## 
+[16:29:27][200.207.109.71]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[16:29:27][200.207.109.71]> # Dt :: 24/10/2016  
+[16:29:27][200.207.109.71]> # Docto :: 2306341 
+[16:29:27][200.207.109.71]> # Valor :: 4.66 
+[16:29:27][200.207.109.71]> ------------------------------------------------------------------------------ 
+[16:30:12][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40083   Valor:: 303  NmDocto :: 1653078  
+[16:30:40][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[16:30:50][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 995 . 
+[16:30:57][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:30:57][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40083  
+[16:30:57][200.207.109.71]> # Valor :: 303  
+[16:30:57][200.207.109.71]> # Referente ao mes :: 2016-01-15 
+[16:30:57][200.207.109.71]> # Usuario atribuido ID::993 
+[16:30:57][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[16:31:02][200.207.109.71]> Ivani Valim  [2] acessou listagem de campos . 
+[16:31:14][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:31:17][201.92.134.144]> Administrador Financeiro [5] acessou listagem de campos . 
+[16:31:19][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:31:20][201.92.134.144]> Administrador Financeiro [5] saiu do sistema . 
+[16:31:23][201.92.134.144]> Administrador Financeiro [5] fez o login no sistema. 
+[16:31:33][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:31:35][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 995 . 
+[16:31:36][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:31:39][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:31:44][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:31:48][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:31:53][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:31:55][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:31:56][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:31:58][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:32:00][201.92.134.144]> Administrador Financeiro [5] fez o login no sistema. 
+[16:32:00][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:32:03][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:32:04][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:32:08][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:32:13][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 993 . 
+[16:32:50][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40076   Valor:: 0.27  NmDocto :: 406209  
+[16:32:53][201.92.134.144]> Administrador Financeiro [5] fez o login no sistema. 
+[16:33:16][201.92.134.144]> Inicio Processo de consistencia 
+[16:33:16][201.92.134.144]> Iniciado por Administrador Financeiro 
+[16:33:16][201.92.134.144]> Arquivo de excel não foi feito upload.Algum problema aconetceu. 
+[16:33:21][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:33:21][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40076  
+[16:33:21][200.207.109.71]> # Valor :: 0.27  
+[16:33:21][200.207.109.71]> # Referente ao mes :: 2015-12-15 
+[16:33:21][200.207.109.71]> # Usuario atribuido ID::1235 
+[16:33:21][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[16:33:29][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40188   Valor:: 1.27  NmDocto :: 1006945  
+[16:33:44][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:33:44][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40188  
+[16:33:44][200.207.109.71]> # Valor :: 1.27  
+[16:33:44][200.207.109.71]> # Referente ao mes :: 2016-07-15 
+[16:33:44][200.207.109.71]> # Usuario atribuido ID::1235 
+[16:33:44][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[16:33:58][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:33:58][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:33:58][200.207.109.71]> # ID :: 40189 
+[16:33:58][200.207.109.71]> # ----------------------------------------------------------- 
+[16:34:02][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:34:02][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:34:02][200.207.109.71]> # ID :: 40190 
+[16:34:02][200.207.109.71]> # ----------------------------------------------------------- 
+[16:34:07][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:34:07][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:34:07][200.207.109.71]> # ID :: 40185 
+[16:34:07][200.207.109.71]> # ----------------------------------------------------------- 
+[16:34:15][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:34:15][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:34:15][200.207.109.71]> # ID :: 40176 
+[16:34:15][200.207.109.71]> # ----------------------------------------------------------- 
+[16:34:19][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:34:19][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:34:19][200.207.109.71]> # ID :: 40177 
+[16:34:19][200.207.109.71]> # ----------------------------------------------------------- 
+[16:34:24][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:34:24][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:34:24][200.207.109.71]> # ID :: 40178 
+[16:34:24][200.207.109.71]> # ----------------------------------------------------------- 
+[16:34:40][201.92.134.144]> Inicio Processo de consistencia 
+[16:34:40][201.92.134.144]> Iniciado por Administrador Financeiro 
+[16:34:40][201.92.134.144]> Arquivo de excel ok. 
+[16:34:40][201.92.134.144]> Arquivo de excel ./retorno/consistencia/01-11-2016_16_34_40--Entradas-2013-exel-97.xlsx.xls upload ok. 
+[16:34:40][201.92.134.144]> Total de linhas 10. 
+[16:34:40][201.92.134.144]> Total de linhas 7. 
+[16:34:40][201.92.134.144]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 973 já EXISTE mas com valor diferente. 
+[16:34:40][201.92.134.144]> Sem alteração no Banco de Dados : Lançamento de valor * 150.00, ref 12/2012 do usuario ID 973 já EXISTE. 
+[16:34:45][200.207.109.71]> Ivani Valim  [2] acessou listagem de campos . 
+[16:34:52][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 1059 . 
+[16:34:56][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 1059 . 
+[16:35:27][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:35:27][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:35:27][200.207.109.71]> # ID :: 40179 
+[16:35:27][200.207.109.71]> # ----------------------------------------------------------- 
+[16:37:05][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:37:05][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:37:05][200.207.109.71]> # ID :: 40180 
+[16:37:05][200.207.109.71]> # ----------------------------------------------------------- 
+[16:37:08][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:37:08][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:37:08][200.207.109.71]> # ID :: 40181 
+[16:37:08][200.207.109.71]> # ----------------------------------------------------------- 
+[16:37:32][200.207.109.71]> Ivani Valim  [2] acessou listagem de campos . 
+[16:37:37][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 963 . 
+[16:37:45][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 963 . 
+[16:38:13][200.207.109.71]> Ivani Valim  [2] acessou as remessas do campo 963 . 
+[16:38:32][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40183   Valor:: 60  NmDocto :: 6352604  
+[16:39:52][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:39:52][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40183  
+[16:39:52][200.207.109.71]> # Valor :: 60  
+[16:39:52][200.207.109.71]> # Referente ao mes :: 2015-05-15 
+[16:39:52][200.207.109.71]> # Usuario atribuido ID::963 
+[16:39:52][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[16:39:57][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:39:57][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:39:57][200.207.109.71]> # ID :: 40182 
+[16:39:57][200.207.109.71]> # ----------------------------------------------------------- 
+[16:40:00][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:40:00][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:40:00][200.207.109.71]> # ID :: 40184 
+[16:40:00][200.207.109.71]> # ----------------------------------------------------------- 
+[16:40:05][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:40:05][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:40:05][200.207.109.71]> # ID :: 40186 
+[16:40:05][200.207.109.71]> # ----------------------------------------------------------- 
+[16:40:07][200.207.109.71]> # Extrato Bradesco [Exclusao] ## 
+[16:40:07][200.207.109.71]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[16:40:07][200.207.109.71]> # ID :: 40187 
+[16:40:07][200.207.109.71]> # ----------------------------------------------------------- 
+[16:40:49][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40191   Valor:: 1.28  NmDocto :: 1006900  
+[16:41:01][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:41:01][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40191  
+[16:41:01][200.207.109.71]> # Valor :: 1.28  
+[16:41:01][200.207.109.71]> # Referente ao mes :: 2015-08-15 
+[16:41:01][200.207.109.71]> # Usuario atribuido ID::1235 
+[16:41:01][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[16:41:14][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40062   Valor:: 0.4  NmDocto :: 1506639  
+[16:41:24][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:41:24][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40062  
+[16:41:24][200.207.109.71]> # Valor :: 0.4  
+[16:41:24][200.207.109.71]> # Referente ao mes :: 2015-08-15 
+[16:41:24][200.207.109.71]> # Usuario atribuido ID::1235 
+[16:41:24][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[16:41:30][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40063   Valor:: 4.57  NmDocto :: 1706853  
+[16:41:39][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:41:39][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40063  
+[16:41:39][200.207.109.71]> # Valor :: 4.57  
+[16:41:39][200.207.109.71]> # Referente ao mes :: 2015-08-15 
+[16:41:39][200.207.109.71]> # Usuario atribuido ID::1235 
+[16:41:39][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[16:42:03][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40064   Valor:: 1.33  NmDocto :: 1007156  
+[16:42:18][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:42:18][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40064  
+[16:42:18][200.207.109.71]> # Valor :: 1.33  
+[16:42:18][200.207.109.71]> # Referente ao mes :: 2015-09-15 
+[16:42:18][200.207.109.71]> # Usuario atribuido ID::1235 
+[16:42:18][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[16:42:30][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40065   Valor:: 0.41  NmDocto :: 1506694  
+[16:42:41][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:42:41][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40065  
+[16:42:41][200.207.109.71]> # Valor :: 0.41  
+[16:42:41][200.207.109.71]> # Referente ao mes :: 2015-09-15 
+[16:42:41][200.207.109.71]> # Usuario atribuido ID::1235 
+[16:42:41][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[16:42:53][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 38735   Valor:: 1677.59  NmDocto :: 1772  
+[16:43:03][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:43:03][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 38735  
+[16:43:03][200.207.109.71]> # Valor :: 1677.59  
+[16:43:03][200.207.109.71]> # Referente ao mes :: 2015-09-15 
+[16:43:03][200.207.109.71]> # Usuario atribuido ID::1221 
+[16:43:03][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[16:43:12][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40066   Valor:: 4.61  NmDocto :: 1706876  
+[16:43:21][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:43:21][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40066  
+[16:43:21][200.207.109.71]> # Valor :: 4.61  
+[16:43:21][200.207.109.71]> # Referente ao mes :: 2015-09-15 
+[16:43:21][200.207.109.71]> # Usuario atribuido ID::1235 
+[16:43:21][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[16:46:31][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 38736   Valor:: 2700  NmDocto :: 964078  
+[16:46:53][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:46:53][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 38736  
+[16:46:53][200.207.109.71]> # Valor :: 2700  
+[16:46:53][200.207.109.71]> # Referente ao mes :: 2015-09-15 
+[16:46:53][200.207.109.71]> # Usuario atribuido ID::1220 
+[16:46:53][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[16:50:49][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[16:50:57][200.207.109.71]> Sineide Silva [ID::3] acessou o cadastro de MONGUAGU&Aacute; - CE [ID::995]  
+[16:51:47][200.207.109.71]> Sineide Silva [ID::3] atualizou o cadastro de MONGUAGU&Aacute; - CE [ID::995]  
+[16:51:47][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[16:53:37][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 995 . 
+[16:59:17][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[16:59:25][200.207.109.71]> Sineide Silva [ID::3] acessou o cadastro de VILA HELENA [ID::1100]  
+[16:59:46][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[16:59:56][200.207.109.71]> Sineide Silva [3] acessou as remessas do campo 1100 . 
+[17:27:25][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40068   Valor:: 1.15  NmDocto :: 1006136  
+[17:27:38][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:27:38][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40068  
+[17:27:38][200.207.109.71]> # Valor :: 1.15  
+[17:27:38][200.207.109.71]> # Referente ao mes :: 2015-10-15 
+[17:27:38][200.207.109.71]> # Usuario atribuido ID::1235 
+[17:27:38][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[17:27:46][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40069   Valor:: 0.43  NmDocto :: 1506874  
+[17:27:55][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:27:55][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40069  
+[17:27:55][200.207.109.71]> # Valor :: 0.43  
+[17:27:55][200.207.109.71]> # Referente ao mes :: 2015-10-15 
+[17:27:55][200.207.109.71]> # Usuario atribuido ID::1235 
+[17:27:55][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[17:28:02][200.207.109.71]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 40070   Valor:: 4.48  NmDocto :: 1706614  
+[17:28:12][200.207.109.71]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:28:12][200.207.109.71]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 40070  
+[17:28:12][200.207.109.71]> # Valor :: 4.48  
+[17:28:12][200.207.109.71]> # Referente ao mes :: 2015-10-15 
+[17:28:12][200.207.109.71]> # Usuario atribuido ID::1235 
+[17:28:12][200.207.109.71]> ############################################## ------------------------------------------------------------ 
+[17:28:37][201.92.134.144]> Inicio Processo de consistencia 
+[17:28:37][201.92.134.144]> Iniciado por Administrador Financeiro 
+[17:28:37][201.92.134.144]> Arquivo de excel não foi feito upload.Algum problema aconetceu. 
+[17:33:33][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[17:33:36][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[17:33:37][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[17:33:48][200.207.109.71]> Sineide Silva [ID::3] acessou o cadastro de VILA RICA  - S&Atilde;O PAULO [ID::928]  
+[17:46:43][200.207.109.71]> Sineide Silva [3] fez o login no sistema. 
+[17:46:47][200.207.109.71]> Sineide Silva [3] acessou listagem de campos . 
+[18:30:50][200.207.109.71]> Ivani Valim  [2] acessou listagem de campos . 
+[18:32:39][200.207.109.71]> Inicio Processo de consistencia 
+[18:32:39][200.207.109.71]> Iniciado por Ivani Valim  
+[18:32:39][200.207.109.71]> Arquivo de excel ok. 
+[18:32:39][200.207.109.71]> Arquivo de excel ./retorno/consistencia/01-11-2016_18_32_39--Entradas 2013.xlsx upload ok. 
+[18:32:53][200.207.109.71]> Inicio Processo de consistencia 
+[18:32:53][200.207.109.71]> Iniciado por Ivani Valim  
+[18:32:53][200.207.109.71]> Arquivo de excel ok. 
+[18:32:53][200.207.109.71]> Arquivo de excel ./retorno/consistencia/01-11-2016_18_32_53--Entradas Fev2013.xlsx upload ok. 
+[18:33:01][200.207.109.71]> Inicio Processo de consistencia 
+[18:33:01][200.207.109.71]> Iniciado por Ivani Valim  
+[18:33:01][200.207.109.71]> Arquivo de excel ok. 
+[18:33:01][200.207.109.71]> Arquivo de excel ./retorno/consistencia/01-11-2016_18_33_01--Entradas Mar2013.xlsx upload ok. 
+[18:33:08][200.207.109.71]> Inicio Processo de consistencia 
+[18:33:08][200.207.109.71]> Iniciado por Ivani Valim  
+[18:33:08][200.207.109.71]> Arquivo de excel ok. 
+[18:33:08][200.207.109.71]> Arquivo de excel ./retorno/consistencia/01-11-2016_18_33_08--2013.xlsx upload ok. 
+[19:59:13][177.68.26.232]> Inicio Processo de consistencia 
+[19:59:13][177.68.26.232]> Iniciado por Administrador Financeiro 
+[19:59:13][177.68.26.232]> Arquivo de excel ok. 
+[19:59:13][177.68.26.232]> Arquivo de excel ./retorno/consistencia/01-11-2016_19_59_13--Entradas-2013-exel-97.xlsx.xls upload ok. 
+[19:59:13][177.68.26.232]> Total de linhas 250. 
+[19:59:13][177.68.26.232]> Total de linhas 7. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 46.00, ref 12/2012 do usuario ID 1055 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 60.00, ref 12/2012 do usuario ID 1095 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1054 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 60.00, ref 12/2012 do usuario ID 1040 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 892 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1090 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1039 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 77.00, ref 12/2012 do usuario ID 1160 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 188.00, ref 02/2012 do usuario ID 1039 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1112 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 130.00, ref 12/2012 do usuario ID 979 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 596.00, ref 12/2012 do usuario ID 956 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 11/2012 do usuario ID 1039 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1078 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 100.00, ref 12/2012 do usuario ID 1086 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 73.00, ref 12/2012 do usuario ID 961 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1088 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 1,180.00, ref 12/2012 do usuario ID 951 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 500.00, ref 12/2012 do usuario ID 1094 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 17.00, ref 12/2012 do usuario ID 976 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 364.00, ref 10/2012 do usuario ID 950 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1065 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 11/2012 do usuario ID 1001 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 152.00, ref 12/2012 do usuario ID 1001 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 237.00, ref 08/2012 do usuario ID 1017 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 250.00, ref 07/2012 do usuario ID 1017 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 11/2012 do usuario ID 1017 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 1,002.00, ref 10/2012 do usuario ID 1169 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 1,010.00, ref 11/2012 do usuario ID 1169 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 160.00, ref 12/2012 do usuario ID 1073 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 999.00, ref 12/2012 do usuario ID 897 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1066 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1066 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1066 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 750.00, ref 12/2012 do usuario ID 1131 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 250.00, ref 12/2012 do usuario ID 1166 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1017 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 75.00, ref 12/2012 do usuario ID 911 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1082 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 1,240.00, ref 12/2012 do usuario ID 1015 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 50.00, ref 12/2012 do usuario ID 977 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1081 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1081 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1039 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1076 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1076 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1146 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1146 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1110 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1110 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 933 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 386.00, ref 12/2012 do usuario ID 946 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1054 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1124 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 945 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 945 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 60.00, ref 12/2012 do usuario ID 945 já EXISTE. 
+[19:59:13][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 988 já EXISTE mas com valor diferente. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 100.00, ref 11/2012 do usuario ID 1023 já EXISTE. 
+[19:59:13][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 120.00, ref 12/2012 do usuario ID 980 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 25.00, ref 09/2012 do usuario ID 1005 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1140 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1140 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1140 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1097 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 914 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 914 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1138 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 941 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 329.00, ref 11/2012 do usuario ID 1041 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 50.00, ref 12/2012 do usuario ID 1003 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 11/2012 do usuario ID 1109 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1108 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 75.00, ref 12/2012 do usuario ID 986 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 60.00, ref 12/2012 do usuario ID 930 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 1,400.00, ref 12/2012 do usuario ID 1116 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1152 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1152 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1152 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 55.00, ref 12/2012 do usuario ID 1133 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 34.00, ref 11/2012 do usuario ID 1067 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1188 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1188 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1188 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1188 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1037 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 1,169.00, ref 12/2012 do usuario ID 923 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 81.00, ref 12/2012 do usuario ID 987 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1141 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1141 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1141 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1097 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1061 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1061 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 250.00, ref 11/2012 do usuario ID 1052 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 70.00, ref 12/2012 do usuario ID 985 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 100.00, ref 12/2012 do usuario ID 932 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 11/2012 do usuario ID 1148 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 11/2012 do usuario ID 1148 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 993 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 20.00, ref 12/2012 do usuario ID 962 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 16.00, ref 12/2012 do usuario ID 938 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 385.00, ref 11/2012 do usuario ID 1153 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 20.00, ref 12/2012 do usuario ID 939 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 11/2012 do usuario ID 1134 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 10/2012 do usuario ID 1134 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 11/2012 do usuario ID 1134 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 10/2012 do usuario ID 1134 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 944 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1061 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 60.00, ref 12/2012 do usuario ID 1096 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 924 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 30.00, ref 12/2012 do usuario ID 1128 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 10/2012 do usuario ID 989 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 300.00, ref 12/2012 do usuario ID 1038 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 575.10, ref 12/2012 do usuario ID 968 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 968 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 130.00, ref 12/2012 do usuario ID 981 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 115.00, ref 12/2012 do usuario ID 925 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 250.00, ref 12/2012 do usuario ID 1098 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 952 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 952 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 959 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 300.00, ref 12/2012 do usuario ID 1107 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1120 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 285.00, ref 11/2012 do usuario ID 893 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1045 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 200.00, ref 12/2012 do usuario ID 1045 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 340.00, ref 08 e 10/2012 do usuario ID 925 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 150.00, ref 12/2012 do usuario ID 994 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 944 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 922 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 215.00, ref 11/2012 do usuario ID 929 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 829.30, ref 12/2012 do usuario ID 1033 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 178.00, ref 12/2012 do usuario ID 1125 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 14.00, ref 12/2012 do usuario ID 1032 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 562.00, ref 11/2012 do usuario ID 978 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 931 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 931 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 244.00, ref 12/2012 do usuario ID 953 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 160.00, ref 12/2012 do usuario ID 927 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1150 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 991 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 391.00, ref 11/2012 do usuario ID 1083 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 944 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 924 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 148.00, ref 12/2012 do usuario ID 1028 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 924 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 50.00, ref 12/2012 do usuario ID 937 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 170.00, ref 10/2012 do usuario ID 1105 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 180.00, ref 11/2012 do usuario ID 1105 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 240.00, ref 12/2012 do usuario ID 1046 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 70.00, ref 12/2012 do usuario ID 1127 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1137 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1137 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 32.00, ref 12/2012 do usuario ID 1002 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 993 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 1,098.00, ref 12/2012 do usuario ID 960 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 947 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 347.00, ref 12/2012 do usuario ID 920 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1004 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 423.00, ref 12/2012 do usuario ID 913 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 50.00, ref 12/2012 do usuario ID 995 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1150 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 46.25, ref 12/2012 do usuario ID 912 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 60.00, ref 12/2012 do usuario ID 1012 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 291.10, ref 12/2012 do usuario ID 1159 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1159 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 70.00, ref 12/2012 do usuario ID 928 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 272.00, ref 12/2012 do usuario ID 1019 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1075 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 921 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 921 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 22.00, ref 12/2012 do usuario ID 1031 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1097 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 35.00, ref 11/2012 do usuario ID 1000 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 450.00, ref 12/2012 do usuario ID 1059 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 1,252.00, ref 05e06/2012 do usuario ID 1022 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 899 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 67.00, ref 11/2012 do usuario ID 963 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 62.00, ref 12/2012 do usuario ID 1164 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 30.00, ref 12/2012 do usuario ID 1047 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 896 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 896 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1021 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 10/2012 do usuario ID 919 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 513.00, ref 12/2012 do usuario ID 910 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 261.00, ref 11/2012 do usuario ID 1056 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 10/2012 do usuario ID 1135 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 101.00, ref 12/2012 do usuario ID 998 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 915 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 915 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1035 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1035 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 400.00, ref 12/2012 do usuario ID 1057 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 25.00, ref 12/2012 do usuario ID 904 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1109 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor 20.00, ref 12/2012 do usuario ID 1091 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1109 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 978 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1172 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1097 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 35.00, ref 12/2012 do usuario ID 1010 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 180.00, ref 12/2012 do usuario ID 905 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 09/2012 do usuario ID 901 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 50.00, ref 10/2012 do usuario ID 901 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 901 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 100.00, ref 12/2012 do usuario ID 901 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 926 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 1,104.00, ref 12/2012 do usuario ID 1036 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 120.00, ref 12/2012 do usuario ID 1158 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1029 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 926 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 926 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 30.00, ref 12/2012 do usuario ID 1111 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 941 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 50.00, ref 11/2012 do usuario ID 901 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 100.00, ref 12/2012 do usuario ID 901 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 253.00, ref 12/2012 do usuario ID 1188 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 100.00, ref 12/2012 do usuario ID 1068 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1134 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1097 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 924 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 240.00, ref 08/2012 do usuario ID 1011 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1020 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 343.00, ref 12/2012 do usuario ID 1041 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1065 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 90.00, ref 12/2012 do usuario ID 999 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1108 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 930 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 450.00, ref 11/2012 do usuario ID 1103 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor 190.00, ref 12/2012 do usuario ID 1145 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 933 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 11/2012 do usuario ID 947 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor * 220.00, ref 11e12/2012 do usuario ID 942 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Incluido: Lançamento de valor * 180.00, ref 11e12/2012 do usuario ID 1006 foi incluido no Banco de Dados pois não existia. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor * 2,349.00, ref 12/2012 do usuario ID 909 já EXISTE. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 921 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 921 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Incluido como PENDENTE : Lançamento de ref 12/2012 do usuario ID 1021 já EXISTE mas com valor diferente. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor * 150.00, ref 12/2012 do usuario ID 973 já EXISTE. 
+[19:59:14][177.68.26.232]> Sem alteração no Banco de Dados : Lançamento de valor * 150.00, ref 12/2012 do usuario ID 973 já EXISTE. 

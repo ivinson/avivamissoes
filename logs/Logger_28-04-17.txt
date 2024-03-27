@@ -1,0 +1,33 @@
+[10:43:49][201.92.165.91]> Petria Moro [8] fez o login no sistema. 
+[10:44:01][201.92.165.91]> Petria Moro [8] acessou listagem de campos . 
+[10:44:10][201.92.165.91]> Petria Moro [ID::8] acessou o cadastro de SANTO ESTEVÃO [ID::892]  
+[10:54:28][201.92.165.91]> Petria Moro [ID::8] atualizou o cadastro de SANTO ESTEVÃO [ID::892]  
+[10:54:28][201.92.165.91]> Petria Moro [8] acessou listagem de campos . 
+[10:56:11][201.92.165.91]> Petria Moro [ID::8] acessou o cadastro de PRESIDENTE EPITÁCIO [ID::1153]  
+[11:13:25][201.92.165.91]> Petria Moro [ID::8] atualizou o cadastro de PRESIDENTE EPITÁCIO [ID::1153]  
+[11:13:25][201.92.165.91]> Petria Moro [8] acessou listagem de campos . 
+[11:13:33][201.92.165.91]> Petria Moro [8] acessou listagem de campos . 
+[11:13:42][201.92.165.91]> Petria Moro [ID::8] acessou o cadastro de TAUBAT&Eacute;  [ID::1021]  
+[11:19:00][201.92.165.91]> Petria Moro [ID::8] atualizou o cadastro de TAUBATÉ  [ID::1021]  
+[11:19:00][201.92.165.91]> Petria Moro [8] acessou listagem de campos . 
+[11:19:40][201.92.165.91]> Petria Moro [ID::8] acessou o cadastro de ARAPONGAS [ID::1134]  
+[11:26:22][201.92.165.91]> Petria Moro [ID::8] atualizou o cadastro de ARAPONGAS [ID::1134]  
+[11:26:23][201.92.165.91]> Petria Moro [8] acessou listagem de campos . 
+[11:26:33][201.92.165.91]> Petria Moro [ID::8] acessou o cadastro de JANDAIA DO SUL [ID::1181]  
+[11:31:30][201.92.165.91]> Petria Moro [ID::8] atualizou o cadastro de JANDAIA DO SUL [ID::1181]  
+[11:31:31][201.92.165.91]> Petria Moro [8] acessou listagem de campos . 
+[11:31:51][201.92.165.91]> Petria Moro [ID::8] acessou o cadastro de MARINGA / NEY BRAGA [ID::905]  
+[11:49:20][201.92.165.91]> Petria Moro [ID::8] atualizou o cadastro de MARINGA / NEY BRAGA [ID::905]  
+[11:49:20][201.92.165.91]> Petria Moro [8] acessou listagem de campos . 
+[11:49:41][201.92.165.91]> Petria Moro [ID::8] acessou o cadastro de PARANAVA&Iacute; I [ID::1020]  
+[12:05:08][201.92.165.91]> Petria Moro [8] acessou listagem de campos . 
+[12:05:14][201.92.165.91]> Petria Moro [ID::8] acessou o cadastro de UBIRATÃ [ID::1000]  
+[12:59:16][201.92.165.91]> #### Acesso não autorizado ###### 
+[12:59:16][201.92.165.91]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[12:59:16][201.92.165.91]> # ------------------------------------------------------>  
+[12:59:26][201.92.165.91]> Karina Machado Pereira [4] fez o login no sistema. 
+[12:59:59][201.92.165.91]> Karina Machado Pereira [4] acessou listagem de campos . 
+[13:00:04][201.92.165.91]> Karina Machado Pereira [4] acessou as remessas do campo 1169 . 
+[13:38:07][189.18.211.104]> Ivani Valim  [2] fez o login no sistema. 
+[13:39:20][189.18.211.104]> Ivani Valim  [2] acessou listagem de campos . 
+[13:39:37][189.18.211.104]> Ivani Valim  [ID::2] acessou o cadastro de genérico [ID::1178]  

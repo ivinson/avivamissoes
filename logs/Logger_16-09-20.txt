@@ -1,0 +1,25 @@
+[09:06:24][191.205.141.82]> Aux Financeiro [8] fez o login no sistema. 
+[11:13:11][191.205.141.82]> Aux Financeiro [8] fez o login no sistema. 
+[11:46:57][191.205.141.82]> Aux Financeiro [8] acessou listagem de campos . 
+[11:47:04][191.205.141.82]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[13:04:50][191.205.141.82]> Aux Financeiro [8] acessou listagem de campos . 
+[13:04:58][191.205.141.82]> Aux Financeiro [8] acessou as remessas do campo 1088 . 
+[13:05:01][191.205.141.82]> Aux Financeiro [8] acessou as remessas do campo 1088 . 
+[13:05:08][191.205.141.82]> Aux Financeiro [8] acessou listagem de campos . 
+[15:20:31][191.205.141.82]> Aux Financeiro [8] acessou listagem de campos . 
+[15:21:06][191.205.141.82]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[15:21:28][191.205.141.82]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 82690   Valor:: 120  NmDocto :: 201835  
+[15:21:57][191.205.141.82]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:21:57][191.205.141.82]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 82690  
+[15:21:57][191.205.141.82]> # Valor :: 120  
+[15:21:57][191.205.141.82]> # Referente ao mes :: 2020-06-15 
+[15:21:57][191.205.141.82]> # Usuario atribuido ID::1159 
+[15:21:57][191.205.141.82]> ############################################## ------------------------------------------------------------ 
+[15:22:53][191.205.141.82]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 82691   Valor:: 122  NmDocto :: 201839  
+[15:23:10][191.205.141.82]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:23:10][191.205.141.82]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 82691  
+[15:23:10][191.205.141.82]> # Valor :: 122  
+[15:23:10][191.205.141.82]> # Referente ao mes :: 2020-07-15 
+[15:23:10][191.205.141.82]> # Usuario atribuido ID::1159 
+[15:23:10][191.205.141.82]> ############################################## ------------------------------------------------------------ 
+[15:23:17][191.205.141.82]> Aux Financeiro [8] acessou as remessas do campo 1159 . 

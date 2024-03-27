@@ -1,0 +1,18 @@
+[11:17:53][191.17.54.26]> Aux Financeiro [8] fez o login no sistema. 
+[11:27:20][191.17.54.26]> Aux Financeiro [8] acessou listagem de campos . 
+[11:27:25][191.17.54.26]> Aux Financeiro [8] acessou as remessas do campo 1093 . 
+[11:27:29][191.17.54.26]> Aux Financeiro [8] acessou as remessas do campo 1093 . 
+[11:54:31][191.17.54.26]> Aux Financeiro [8] acessou listagem de campos . 
+[16:39:58][191.17.54.26]> Aux Financeiro [8] acessou listagem de campos . 
+[16:40:20][191.17.54.26]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 80140   Valor:: 120.7  NmDocto :: 5392097  
+[16:40:59][191.17.54.26]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:40:59][191.17.54.26]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 80140  
+[16:40:59][191.17.54.26]> # Valor :: 120.7  
+[16:40:59][191.17.54.26]> # Referente ao mes :: 2020-02-15 
+[16:40:59][191.17.54.26]> # Usuario atribuido ID::1190 
+[16:40:59][191.17.54.26]> ############################################## ------------------------------------------------------------ 
+[16:41:04][191.17.54.26]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[16:45:36][191.17.54.26]> Aux Financeiro [8] acessou listagem de campos . 
+[16:48:43][191.17.54.26]> Aux Financeiro [8] acessou as remessas do campo 978 . 
+[16:48:45][191.17.54.26]> Aux Financeiro [8] acessou as remessas do campo 978 . 
+[17:05:21][191.17.54.26]> Aux Financeiro [8] saiu do sistema . 

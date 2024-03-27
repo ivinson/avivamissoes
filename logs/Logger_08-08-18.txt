@@ -1,0 +1,84 @@
+[09:19:42][191.19.100.202]> Aux Financeiro [8] fez o login no sistema. 
+[09:30:31][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[09:30:47][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[09:32:17][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de MIRANTE DO PARANAPANEMA [ID::1188]  
+[09:32:21][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de DRACENA [ID::1006]  
+[09:32:53][191.19.100.202]> Aux Financeiro [ID::8] atualizou o cadastro de MIRANTE DO PARANAPANEMA [ID::1188]  
+[09:32:53][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[09:34:30][191.19.100.202]> Aux Financeiro [ID::8] atualizou o cadastro de DRACENA [ID::1006]  
+[09:34:30][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[09:34:53][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de MIRANTE DO PARANAPANEMA [ID::1188]  
+[09:38:20][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de DRACENA [ID::1006]  
+[09:51:00][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[09:51:10][191.19.100.202]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[09:51:13][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[09:51:20][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de IC&Oacute; [ID::1190]  
+[09:55:09][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[09:55:14][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de IPECAETÁ [ID::1229]  
+[10:44:39][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[13:13:14][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de IPECAETÁ [ID::1229]  
+[13:13:18][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[13:13:23][191.19.100.202]> Aux Financeiro [8] acessou as remessas do campo 890 . 
+[13:14:34][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[13:14:41][191.19.100.202]> Aux Financeiro [8] acessou as remessas do campo 1090 . 
+[13:16:25][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[13:16:46][191.19.100.202]> Aux Financeiro [8] acessou as remessas do campo 1109 . 
+[13:16:51][191.19.100.202]> Aux Financeiro [8] acessou as remessas do campo 1109 . 
+[13:16:57][191.19.100.202]> Aux Financeiro [8] acessou as remessas do campo 1109 . 
+[13:19:08][191.19.100.202]> Aux Financeiro [8] acessou as remessas do campo 1109 . 
+[13:20:02][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[15:54:10][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de ARARAQUARA LARANJEIRAS [ID::1256]  
+[15:54:39][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[15:59:11][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[15:59:17][191.19.100.202]> Aux Financeiro [8] acessou as remessas do campo 1110 . 
+[16:19:01][191.19.100.202]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 70035   Valor:: 118  NmDocto :: 7695711  
+[16:20:10][191.19.100.202]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:20:10][191.19.100.202]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 70035  
+[16:20:10][191.19.100.202]> # Valor :: 118  
+[16:20:10][191.19.100.202]> # Referente ao mes :: 2018-06-15 
+[16:20:10][191.19.100.202]> # Usuario atribuido ID::1110 
+[16:20:10][191.19.100.202]> ############################################## ------------------------------------------------------------ 
+[16:20:26][191.19.100.202]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 70034   Valor:: 130  NmDocto :: 7695707  
+[16:20:40][191.19.100.202]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:20:40][191.19.100.202]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 70034  
+[16:20:40][191.19.100.202]> # Valor :: 130  
+[16:20:40][191.19.100.202]> # Referente ao mes :: 2018-06-15 
+[16:20:40][191.19.100.202]> # Usuario atribuido ID::1110 
+[16:20:40][191.19.100.202]> ############################################## ------------------------------------------------------------ 
+[16:23:47][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[16:23:55][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de PORECATÚ [ID::1110]  
+[16:30:25][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[16:31:47][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de BEZERROS - CE [ID::991]  
+[16:34:11][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[16:34:16][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de BREJO DOS SANTOS [ID::1013]  
+[16:36:44][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[16:36:50][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de ALAGOINHAS  [ID::1078]  
+[16:45:13][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[16:45:22][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de ALAGOINHAS  [ID::1078]  
+[16:48:39][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[16:48:44][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de BATURITÉ [ID::1053]  
+[16:53:52][191.19.100.202]> Aux Financeiro [ID::8] atualizou o cadastro de BATURITÉ [ID::1053]  
+[16:53:52][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[16:54:58][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de FEIRA DE SANTANA - MORADA DO SOL [ID::1192]  
+[16:58:48][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[16:58:55][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de JOÃO PESSOA [ID::1127]  
+[17:00:51][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[17:00:57][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de CATOLÉ DO ROCHA [ID::1124]  
+[17:02:36][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[17:02:42][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de CARUARÚ [ID::1133]  
+[17:04:19][191.19.100.202]> Aux Financeiro [ID::8] atualizou o cadastro de CARUARÚ [ID::1133]  
+[17:04:19][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[17:05:17][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de FEIRA DE SANTANA - CENTRAL [ID::1116]  
+[17:09:10][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[17:32:16][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de CARIACICA [ID::1168]  
+[17:35:19][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[17:35:31][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de PATROCÍNIO /CE [ID::1115]  
+[17:35:59][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[17:36:05][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de PATROCÍNIO /CE [ID::1115]  
+[17:38:16][191.19.100.202]> Aux Financeiro [ID::8] atualizou o cadastro de PATROCÍNIO /CE [ID::1115]  
+[17:38:16][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[17:38:23][191.19.100.202]> Aux Financeiro [ID::8] acessou o cadastro de PATROCÍNIO /CE [ID::1115]  
+[17:40:42][191.19.100.202]> Aux Financeiro [ID::8] atualizou o cadastro de PATROCÍNIO /CE [ID::1115]  
+[17:40:42][191.19.100.202]> Aux Financeiro [8] acessou listagem de campos . 
+[17:43:23][191.19.100.202]> Aux Financeiro [8] saiu do sistema . 
+[17:43:26][191.19.100.202]>  [8] saiu do sistema . 

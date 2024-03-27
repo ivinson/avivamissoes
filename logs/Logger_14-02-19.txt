@@ -1,0 +1,31 @@
+[09:13:23][200.168.13.230]> Aux Financeiro [8] fez o login no sistema. 
+[09:14:05][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[09:14:16][200.168.13.230]> Aux Financeiro [ID::8] acessou o cadastro de UTINGA [ID::1079]  
+[09:15:21][200.168.13.230]> Aux Financeiro [ID::8] atualizou o cadastro de UTINGA [ID::1079]  
+[09:15:21][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[09:15:30][200.168.13.230]> Aux Financeiro [ID::8] acessou o cadastro de UTINGA [ID::1079]  
+[09:15:37][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[10:36:47][170.244.28.211]> #### Acesso não autorizado ###### 
+[10:36:47][170.244.28.211]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[10:36:47][170.244.28.211]> # ------------------------------------------------------>  
+[10:36:56][170.244.28.211]> Administrador Financeiro [5] fez o login no sistema. 
+[10:37:01][170.244.28.211]> Administrador Financeiro [5] acessou listagem de campos . 
+[10:37:12][170.244.28.211]> Administrador Financeiro [5] acessou as remessas do campo 1018 . 
+[10:37:15][170.244.28.211]> Administrador Financeiro [5] acessou as remessas do campo 1018 . 
+[10:46:33][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[10:46:39][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[10:46:42][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[10:46:45][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[10:56:01][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[15:18:02][200.168.13.230]> Aux Financeiro [ID::8] acessou o cadastro de SAO CAETANO DO SUL - BOA VISTA [ID::1233]  
+[16:58:24][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:58:29][200.168.13.230]> Aux Financeiro [8] saiu do sistema . 
+[17:01:31][200.168.13.230]> Aux Financeiro [8] fez o login no sistema. 
+[17:01:34][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[17:01:38][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1018 . 
+[17:01:40][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1018 . 
+[17:01:44][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[17:01:47][200.168.13.230]> Aux Financeiro [ID::8] acessou o cadastro de POXORÉU [ID::1018]  
+[17:02:46][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[17:02:57][200.168.13.230]> Aux Financeiro [ID::8] acessou o cadastro de VENDA NOVA [ID::907]  
+[17:08:23][200.168.13.230]> Aux Financeiro [8] saiu do sistema . 

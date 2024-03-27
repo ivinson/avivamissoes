@@ -1,0 +1,24 @@
+[09:36:57][189.97.86.26]> Aux Financeiro [8] fez o login no sistema. 
+[09:43:46][189.97.86.26]> Aux Financeiro [8] acessou listagem de campos . 
+[16:20:58][189.97.86.26]> Aux Financeiro [ID::8] acessou o cadastro de MARINGÁ/ SANTO ANTONIO / ARISTIDES LOBO [ID::1046]  
+[16:22:27][189.97.86.26]> Aux Financeiro [ID::8] atualizou o cadastro de MARINGÁ/ SANTO ANTONIO / ARISTIDES LOBO [ID::1046]  
+[16:22:27][189.97.86.26]> Aux Financeiro [8] acessou listagem de campos . 
+[17:09:25][189.97.86.26]> Aux Financeiro [8] saiu do sistema . 
+[17:58:13][170.244.29.107]> #### Acesso não autorizado ###### 
+[17:58:13][170.244.29.107]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[17:58:13][170.244.29.107]> # ------------------------------------------------------>  
+[17:58:23][170.244.29.107]> Administrador Financeiro [5] fez o login no sistema. 
+[17:58:27][170.244.29.107]> Administrador Financeiro [5] acessou listagem de campos . 
+[17:58:38][170.244.29.107]> Administrador Financeiro [5] acessou as remessas do campo 1010 . 
+[17:58:43][170.244.29.107]> Administrador Financeiro [5] acessou as remessas do campo 1010 . 
+[17:58:46][170.244.29.107]> Administrador Financeiro [5] acessou as remessas do campo 1010 . 
+[17:58:54][170.244.29.107]> Administrador Financeiro [5] acessou as remessas do campo 1010 . 
+[17:59:04][170.244.29.107]> Administrador Financeiro [5] acessou as remessas do campo 1010 . 
+[18:01:54][170.244.29.107]> Administrador Financeiro [5] acessou listagem de campos . 
+[18:02:27][170.244.29.107]> Administrador Financeiro [5] acessou as remessas do campo 1137 . 
+[18:02:31][170.244.29.107]> Administrador Financeiro [5] acessou as remessas do campo 1137 . 
+[18:02:40][170.244.29.107]> Administrador Financeiro [5] acessou as remessas do campo 1137 . 
+[18:02:53][170.244.29.107]> Administrador Financeiro [5] acessou as remessas do campo 1137 . 
+[18:02:59][170.244.29.107]> Administrador Financeiro [5] acessou as remessas do campo 1137 . 
+[18:04:19][170.244.29.107]> Administrador Financeiro [5] acessou as remessas do campo 1137 . 
+[18:04:42][170.244.29.107]> Administrador Financeiro [5] acessou as remessas do campo 1137 . 

@@ -1,0 +1,18 @@
+[09:58:35][201.93.234.200]> Aux Financeiro [8] fez o login no sistema. 
+[11:41:37][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:41:44][201.93.234.200]> Aux Financeiro [ID::8] acessou o cadastro de ITUMBIARA [ID::891]  
+[11:41:53][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:41:27][201.93.234.200]> Aux Financeiro [ID::8] acessou o cadastro de VALINHOS [ID::1265]  
+[13:43:36][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:49:35][201.93.234.200]> Aux Financeiro [ID::8] acessou o cadastro de BOITUVA [ID::1264]  
+[14:05:06][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:30:56][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:15:11][170.244.28.35]> #### Acesso não autorizado ###### 
+[16:15:11][170.244.28.35]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[16:15:11][170.244.28.35]> # ------------------------------------------------------>  
+[16:15:23][170.244.28.35]> Administrador Financeiro [5] fez o login no sistema. 
+[16:15:29][170.244.28.35]> Administrador Financeiro [5] acessou listagem de campos . 
+[16:15:39][170.244.28.35]> Administrador Financeiro [ID::5] acessou o cadastro de ARAÇATUBA [ID::1262]  
+[16:19:57][201.93.234.200]> Aux Financeiro [ID::8] acessou o cadastro de ARAÇATUBA [ID::1262]  
+[16:24:06][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:09:09][201.93.234.200]> Aux Financeiro [8] saiu do sistema . 

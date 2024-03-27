@@ -1,0 +1,705 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"select",
+				"selectUsuario"
+			],
+			[
+				"tdc",
+				"tdCNPJ"
+			],
+			[
+				"td",
+				"tdValor"
+			],
+			[
+				"C",
+				"CNPJ"
+			],
+			[
+				"sele",
+				"selectAno"
+			],
+			[
+				"sel",
+				"selectMes"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"btn",
+				"btn-step3"
+			],
+			[
+				"bt",
+				"btn-step3"
+			],
+			[
+				"dvv",
+				"dvViewCNPJ"
+			],
+			[
+				"dv",
+				"dvViewCPF"
+			],
+			[
+				"sec",
+				"section1"
+			],
+			[
+				"setu",
+				"setup-content"
+			],
+			[
+				"limit",
+				"limitteste"
+			],
+			[
+				"cli",
+				"clientes"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"Datav",
+				"DataVenc"
+			],
+			[
+				"nosso",
+				"nosso_numero"
+			],
+			[
+				"tb",
+				"tbRemessas"
+			],
+			[
+				"dt",
+				"dtinicio"
+			],
+			[
+				"dtfi",
+				"dtfim"
+			],
+			[
+				"download",
+				"download-remessa"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"form",
+				"formulario"
+			],
+			[
+				"sql",
+				"sqlPendentes"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"ano",
+				"anoRef"
+			],
+			[
+				"mes",
+				"mesRef"
+			],
+			[
+				"CONS",
+				"CONS0000"
+			],
+			[
+				"temp",
+				"tempVl"
+			],
+			[
+				"de",
+				"desc"
+			],
+			[
+				"Des",
+				"Descricao"
+			],
+			[
+				"usu",
+				"usuarioAnterior"
+			],
+			[
+				"row",
+				"rowOptionDetalhamento"
+			],
+			[
+				"DataRef",
+				"DataReferencia"
+			],
+			[
+				"data",
+				"DataBaixa"
+			],
+			[
+				"alert-",
+				"alert-success"
+			],
+			[
+				"vlo",
+				"valor"
+			],
+			[
+				"tem",
+				"tempVl"
+			],
+			[
+				"valo",
+				"valor"
+			],
+			[
+				"fi",
+				"fIdUsuario"
+			],
+			[
+				"datare",
+				"datareferencia"
+			],
+			[
+				"pgt",
+				"PgtosIncluidos"
+			],
+			[
+				"cons",
+				"consistencia"
+			],
+			[
+				"Id",
+				"idUsuario"
+			],
+			[
+				"DataRe",
+				"fDataReferencia"
+			],
+			[
+				"veri",
+				"VerificaLancExiste"
+			],
+			[
+				"Pgtos",
+				"PgtosConflito"
+			],
+			[
+				"Pgto",
+				"PgtosIncluidos"
+			],
+			[
+				"id",
+				"idUsuario"
+			],
+			[
+				"fie",
+				"filename"
+			],
+			[
+				"repl",
+				"replacedHrefHtml"
+			],
+			[
+				"fil",
+				"fileMove"
+			],
+			[
+				"arr",
+				"arrFiles"
+			],
+			[
+				"ja",
+				"javascript"
+			],
+			[
+				"Ane",
+				"AnexoLancamento"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"corres",
+				"correspondentes"
+			],
+			[
+				"Dat",
+				"DataBaixaBoleto"
+			],
+			[
+				"lan",
+				"lancamentosbancarios"
+			],
+			[
+				"Data",
+				"DataBaixa"
+			],
+			[
+				"replace",
+				"str_replace"
+			],
+			[
+				"Nosso",
+				"NossoNumero"
+			],
+			[
+				"Irr",
+				"irregulares"
+			],
+			[
+				"Irregular",
+				"IRREGULAR"
+			],
+			[
+				"fv",
+				"fValor"
+			],
+			[
+				"fdo",
+				"fNroDocto"
+			],
+			[
+				"Nume",
+				"NumeroDocumento"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"Se",
+				"_SESSION"
+			],
+			[
+				"caminho",
+				"caminho_atual"
+			],
+			[
+				"fV",
+				"fValorDEBITO"
+			],
+			[
+				"f",
+				"fValorCREDITO"
+			],
+			[
+				"irre",
+				"IRREGULAR"
+			],
+			[
+				"ex",
+				"ext"
+			],
+			[
+				"alert-a",
+				"alert-danger"
+			],
+			[
+				"La",
+				"Lancamento"
+			],
+			[
+				"m",
+				"mails"
+			],
+			[
+				"Lanca",
+				"lancamentosbancarios"
+			],
+			[
+				"nom",
+				"nome_imagem"
+			],
+			[
+				"sw",
+				"swhere"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"U",
+				"Unidade"
+			],
+			[
+				"ar",
+				"args"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/app2017/emitir-boleto-pastor.php",
+		"/C/xampp/htdocs/app2017/montaConfirmacaoBoleto.php",
+		"/C/xampp/htdocs/app2017/footer.php",
+		"/C/xampp/htdocs/app2017/header-wp.php",
+		"/C/xampp/htdocs/app2017/monta-select-campos.php",
+		"/C/xampp/htdocs/app2017/-- emitir-boleto-pastor.php",
+		"/C/xampp/htdocs/app2017/boletos/boleto_itau.php",
+		"/C/xampp/htdocs/app2017/contas-a-receber.php",
+		"/C/xampp/htdocs/app2017/processar-remessas.php",
+		"/C/xampp/htdocs/app2017/header.php",
+		"/C/xampp/htdocs/app2017/identificar-deposito-extrato.php",
+		"/C/xampp/htdocs/app2017/boletos/include/funcoes_itau.php",
+		"/C/xampp/htdocs/app2017/boletos/include/layout_itau.php",
+		"/C/xampp/htdocs/app2017/config.php",
+		"/C/xampp/htdocs/app2017/download-remessa.php",
+		"/C/Users/ivinson/Desktop/120217 (7).rm",
+		"/C/Users/ivinson/Desktop/120217 (5).rm",
+		"/C/Users/ivinson/Desktop/120217 (6).rm",
+		"/C/Users/ivinson/Desktop/120217 (4).rm",
+		"/C/Users/ivinson/Desktop/120217 (3).rm",
+		"/C/Users/ivinson/Desktop/120217 (1).rm",
+		"/C/Users/ivinson/Desktop/120217.rm",
+		"/C/Users/ivinson/Desktop/120217 (2).rm",
+		"/C/Users/ivinson/Desktop/110217 (6).rm",
+		"/C/Users/ivinson/Desktop/110217 (5).rm",
+		"/C/Users/ivinson/Desktop/110217 (3).rm",
+		"/C/Users/ivinson/Desktop/110217 (4).rm",
+		"/C/Users/ivinson/Desktop/110217 (2).rm",
+		"/C/Users/ivinson/Desktop/110217.rm",
+		"/C/Users/ivinson/Desktop/110217 (1).rm",
+		"/C/Users/ivinson/Desktop/MPC Brasil/Sistema MPC",
+		"/C/Users/ivinson/Pictures/080217.rm",
+		"/C/Users/ivinson/Desktop/100217 (1).rm",
+		"/C/Users/ivinson/Desktop/100217.rm",
+		"/C/Users/ivinson/Cookies/Documents/anotacoes alunos",
+		"/C/Users/ivinson/Desktop/190117.rm",
+		"/C/Users/ivinson/Desktop/index.asp",
+		"/C/Users/ivinson/Desktop/120117 (1).rm",
+		"/C/Users/ivinson/Desktop/120117 (2).rm",
+		"/C/xampp/htdocs/app2017/emitir-boleto-campo.php",
+		"/C/xampp/htdocs/app2017/processar-recebimentos.php",
+		"/C/xampp/htdocs/app2017/retorno/remessa/120117.rm",
+		"/C/xampp/htdocs/app2017/login.php",
+		"/C/xampp/htdocs/app2017/corrigir-competencias.php",
+		"/C/xampp/htdocs/app/processar-remessas.php",
+		"/C/xampp/htdocs/app2017/tasks.txt",
+		"/C/xampp/htdocs/app/corrigir-competencias.php",
+		"/C/xampp/htdocs/app/listar-pendentes-consistencia.php",
+		"/C/xampp/htdocs/app/consistencia.php",
+		"/C/xampp/htdocs/nipo/nipomed.asp",
+		"/C/xampp/htdocs/nipo/get_bairros.asp",
+		"/C/Users/ivinson/Dropbox/Pasta da equipe MPC Brasil/2017/Downloads/androidnewsapp20/codecanyon-10771397-android-news-app/AndroidNewsApp/Php Code Admin/news/api.php",
+		"/C/Users/ivinson/Dropbox/Pasta da equipe MPC Brasil/2017/Downloads/androidnewsapp20/codecanyon-10771397-android-news-app/AndroidNewsApp/Php Code Admin/news/setting.php",
+		"/C/Users/ivinson/Dropbox/Pasta da equipe MPC Brasil/2017/Downloads/androidnewsapp20/codecanyon-10771397-android-news-app/AndroidNewsApp/Read Me.txt",
+		"/C/xampp/htdocs/app/lancamentos-bancarios.php",
+		"/C/xampp/htdocs/app/lancamentos-campo.php",
+		"/C/xampp/htdocs/app/verificar-integridade.php",
+		"/C/xampp/htdocs/app/logger.php",
+		"/C/xampp/htdocs/app/migraca-historico.php",
+		"/C/xampp/htdocs/app/listar-usuarios.php",
+		"/C/xampp/htdocs/app/editar-usuarios.php",
+		"/C/xampp/htdocs/app/utils.php",
+		"/C/xampp/htdocs/app/config.php",
+		"/C/xampp/htdocs/app/retorno/CN01096A.RET",
+		"/C/xampp/htdocs/app/upload.php",
+		"/C/Users/ivinson/Desktop/globais.asp",
+		"/C/Users/ivinson/Desktop/Doctor Migracao/Script Execl Doctor.sql",
+		"/C/xampp/htdocs/app/retorno/RetornoCNAB400Base.php",
+		"/C/xampp/htdocs/app/retorno/itau.php",
+		"/C/Users/ivinson/Desktop/Doctor Migracao/grupo_convenio.xml",
+		"/C/xampp/htdocs/app/retorno/CN19124A.RET",
+		"/C/xampp/htdocs/app/retorno/RetornoCNAB240.php",
+		"/C/xampp/htdocs/app/retorno/RetornoFactory.php",
+		"/C/xampp/htdocs/app/retorno/RetornoCNAB400Conv6.php",
+		"/C/xampp/htdocs/app/retorno/RetornoBase.php",
+		"/C/xampp/htdocs/app/retorno/CB120400.RET",
+		"/C/xampp/htdocs/app/retorno/exemplo_cnab240.php",
+		"/C/xampp/htdocs/app/retorno/exemplo_cnab400conv6.php",
+		"/C/xampp/htdocs/app/retorno/RetornoCNAB400.php",
+		"/C/xampp/htdocs/app/processar-recebimentos.php",
+		"/C/Users/ivinson/Dropbox/Pasta da equipe MPC Brasil/Tarefas.txt",
+		"/C/xampp/htdocs/app/upload-extrato.php",
+		"/C/xampp/htdocs/app/index.php",
+		"/C/Users/ivinson/Desktop/HPGS/intranet.hpgs.com.br-Oct-2016/intranet.hpgs.com.br-Oct-2016",
+		"/C/Users/ivinson/Desktop/HPGS/hpgs.com.br-Oct-2016",
+		"/C/Users/ivinson/Desktop/HPGS/php_errors.log",
+		"/C/Users/ivinson/Desktop/HPGS/apache_stop.bat",
+		"/C/Users/ivinson/Desktop/HPGS/error_log",
+		"/C/xampp/htdocs/app/login.php",
+		"/C/xampp/htdocs/app/listar-extrato.php",
+		"/C/xampp/htdocs/app/etiquetas.php",
+		"/C/xampp/htdocs/app/fpdf/etiqueta.php",
+		"/C/xampp/htdocs/app/rel-cadastros-campo-missionario.php",
+		"/C/xampp/htdocs/app/rel-cadastros-ce.php",
+		"/C/xampp/htdocs/app/rel-cadastros-inativos.php",
+		"/C/Users/ivinson/Desktop/comunicado.txt",
+		"/C/Users/ivinson/Desktop/Demandas Comunicação MPC São Paulo",
+		"/C/Users/ivinson/Desktop/demandas MPC.txt",
+		"/C/Users/ivinson/Desktop/Doctor acessos",
+		"/C/xampp/htdocs/config.php",
+		"/C/xampp/htdocs/wp-config.php",
+		"/C/Users/ivinson/Desktop/wordpress-crud-example-master/wordpress-crud-example-master/sinetiks-schools/init.php",
+		"/C/Users/ivinson/Desktop/wordpress-crud-example-master/wordpress-crud-example-master/sinetiks-schools/example-database.sql",
+		"/C/Users/ivinson/Desktop/wordpress-crud-example-master/wordpress-crud-example-master/README.md",
+		"/C/Users/ivinson/Desktop/wordpress-crud-example-master/wordpress-crud-example-master/sinetiks-schools/schools-create.php",
+		"/C/Users/ivinson/Desktop/wordpress-crud-example-master/wordpress-crud-example-master/sinetiks-schools/schools-list.php",
+		"/C/Users/ivinson/Desktop/wordpress-crud-example-master/wordpress-crud-example-master/sinetiks-schools/schools-update.php",
+		"/C/Users/ivinson/Desktop/wordpress-crud-example-master/wordpress-crud-example-master/sinetiks-schools/style-admin.css",
+		"/C/xampp/htdocs/app/header.php",
+		"/C/xampp/htdocs/app/contatos.php",
+		"/C/xampp/htdocs/app/etiqueta.html",
+		"/C/xampp/htdocs/app/fpdf/tutorial/tuto1.php",
+		"/C/xampp/htdocs/app/etiqueta.php",
+		"/C/Users/ivinson/Desktop/Tste de processamento.txt",
+		"/E/Users/almeida/Desktop/MPC Mobilizacao Artes/Projeto Capital Inicial/Fluxo De inforgraficos",
+		"/E/Users/almeida/Dropbox Ivinson/Dropbox/2016/doctor saude.com.br/scripts/globais.asp",
+		"/C/Users/ivinson/Desktop/divi27pack/Fashion-Child-Theme-Kit/Fashion-Child-Theme-Kit/Read Me! Fashion for Divi INSTRUCTIONS.pdf",
+		"/E/Users/almeida/Desktop/MPC Mobilizacao Artes/Projeto Capital Inicial/Entramos no segundo semestre e queremos compartilh",
+		"/E/Users/almeida/Desktop/MPC Mobilizacao Artes/MPCBRASIL",
+		"/E/Users/almeida/Dropbox Ivinson/Dropbox/2016/hpsaude.com.br/rede_credenciada_mdandrade/iframe_bairros.asp",
+		"/C/xampp/htdocs/app/identificar-deposito-extrato.php",
+		"/C/xampp/htdocs/app/nova-entrada-direta.php",
+		"/C/xampp/htdocs/app/rel-financeiro.php",
+		"/C/xampp/htdocs/app/header-wp.php",
+		"/C/xampp/htdocs/app/editar-lancamentos-bancarios.php",
+		"/C/Users/ivinson/Desktop/Jumpstawps_Wps_Pin_/Wps Pin/MiniBruteforce-pin.exe",
+		"/C/xampp/htdocs/app/logs/Logger_05-08-16.txt",
+		"/C/xampp/htdocs/app/auditoria-lanc.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 201.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\app\\retorno",
+			"C:\\xampp\\htdocs\\app\\",
+			"C:\\xampp\\htdocs\\app\\retorno",
+			"C:\\xampp\\htdocs\\am",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"selectusu",
+			"ajax",
+			"get",
+			"btn-circle",
+			"table",
+			"gl",
+			"glphy",
+			"txtvalor",
+			"msg",
+			"teste",
+			"trata",
+			"idusu",
+			"juros",
+			"valor",
+			"exit",
+			"endereco_rua_numero_complemento",
+			"id_conta",
+			"contax",
+			"corri",
+			"listar-extrat",
+			"corri",
+			"incluir",
+			"join",
+			"emissaoR",
+			"emissao",
+			"lancamentosbancarios",
+			"iniciando",
+			"2408",
+			"1372",
+			"257",
+			"data_ocorrencia",
+			"data",
+			"data_ocorrencia",
+			"ini",
+			"etique",
+			"fpdf",
+			"novo",
+			"nova",
+			"exit",
+			"$_GET",
+			"erro",
+			"logger",
+			"errou",
+			"acessou",
+			"delete",
+			"log",
+			"remessa",
+			"reme",
+			"acess",
+			"exclui",
+			"deletado",
+			"77",
+			"inclu",
+			"nome",
+			"gerado",
+			"logo",
+			"acao",
+			"echo",
+			"debug",
+			"verificaLancamento",
+			"veri",
+			"verific",
+			"insert",
+			"echo",
+			"processamentoretorno",
+			"update",
+			"now",
+			"getdate",
+			"update",
+			"save",
+			"createPreCombo",
+			"recaptcha"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wizard-boleto.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 348.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

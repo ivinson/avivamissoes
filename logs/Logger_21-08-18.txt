@@ -1,0 +1,54 @@
+[06:57:51][187.56.120.39]> Administrador Financeiro [5] fez o login no sistema. 
+[06:59:23][187.56.120.39]> Administrador Financeiro [5] acessou listagem de campos . 
+[06:59:49][187.56.120.39]> Administrador Financeiro [ID::5] acessou o cadastro de PINHAIS [ID::1028]  
+[07:02:51][187.56.120.39]> Administrador Financeiro [5] acessou listagem de campos . 
+[07:03:02][187.56.120.39]> Administrador Financeiro [ID::5] acessou o cadastro de BEZERROS - CE [ID::991]  
+[09:20:27][189.46.255.107]> Aux Financeiro [8] fez o login no sistema. 
+[09:28:14][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[09:28:29][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1109 . 
+[09:28:44][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[09:28:51][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1066 . 
+[09:28:59][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[09:29:15][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[09:29:24][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[09:29:32][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 986 . 
+[09:29:37][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[09:53:40][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[09:55:26][189.46.255.107]> Karina Machado Pereira [4] fez o login no sistema. 
+[09:56:45][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1012 . 
+[09:56:57][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1012 . 
+[09:57:07][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1012 . 
+[09:57:29][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1012 . 
+[10:15:40][189.46.255.107]> Aux Financeiro [8] acessou listagem de campos . 
+[10:16:02][189.46.255.107]> Aux Financeiro [8] acessou as remessas do campo 1155 . 
+[10:36:52][191.8.72.166]> Karina Machado Pereira [4] acessou listagem de campos . 
+[10:37:03][191.8.72.166]> Karina Machado Pereira [4] acessou as remessas do campo 1151 . 
+[10:54:04][170.244.30.52]> #### Acesso não autorizado ###### 
+[10:54:04][170.244.30.52]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[10:54:04][170.244.30.52]> # ------------------------------------------------------>  
+[10:54:12][170.244.30.52]> Administrador Financeiro [5] fez o login no sistema. 
+[10:54:17][170.244.30.52]> Administrador Financeiro [5] acessou listagem de campos . 
+[10:54:27][170.244.30.52]> Administrador Financeiro [5] acessou as remessas do campo 943 . 
+[10:54:32][170.244.30.52]> Administrador Financeiro [5] acessou as remessas do campo 943 . 
+[11:41:51][191.8.72.166]> Karina Machado Pereira [4] acessou listagem de campos . 
+[11:42:00][191.8.72.166]> Karina Machado Pereira [4] acessou as remessas do campo 943 . 
+[11:42:05][191.8.72.166]> Karina Machado Pereira [4] acessou as remessas do campo 943 . 
+[11:50:17][191.8.72.166]> Karina Machado Pereira [4] acessou listagem de campos . 
+[11:50:28][191.8.72.166]> Karina Machado Pereira [4] acessou as remessas do campo 1151 . 
+[11:50:42][191.8.72.166]> Karina Machado Pereira [4] acessou listagem de campos . 
+[11:51:03][191.8.72.166]> Karina Machado Pereira [4] acessou as remessas do campo 1021 . 
+[11:51:27][191.8.72.166]> Karina Machado Pereira [4] acessou listagem de campos . 
+[11:51:32][191.8.72.166]> Karina Machado Pereira [4] acessou as remessas do campo 1152 . 
+[13:21:38][191.8.72.166]> Karina Machado Pereira [4] acessou listagem de campos . 
+[13:22:00][191.8.72.166]> Karina Machado Pereira [4] acessou as remessas do campo 1151 . 
+[16:31:25][191.8.72.166]> Aux Financeiro [8] fez o login no sistema. 
+[17:09:03][191.8.72.166]> Aux Financeiro [8] acessou listagem de campos . 
+[17:09:12][191.8.72.166]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[17:17:50][191.8.72.166]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[17:17:58][191.8.72.166]> Aux Financeiro [8] deletou a remessa 68918 do campo id=968. 
+[17:17:59][191.8.72.166]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[17:19:33][191.8.72.166]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[17:22:51][191.8.72.166]> Aux Financeiro [8] saiu do sistema . 
+[17:28:03][191.8.72.166]> Aux Financeiro [8] fez o login no sistema. 
+[17:28:11][191.8.72.166]> Aux Financeiro [8] acessou listagem de campos . 
+[17:31:18][191.8.72.166]> Aux Financeiro [8] saiu do sistema . 

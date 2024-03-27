@@ -1,0 +1,157 @@
+[09:09:21][200.168.13.230]> financeiro2 com a senha #Aux@20,18 tentou logar no sistema. 
+[09:09:38][200.168.13.230]> Aux Financeiro [8] fez o login no sistema. 
+[09:51:59][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[09:52:16][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 989 . 
+[09:52:19][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 989 . 
+[10:26:10][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[11:47:08][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[11:47:23][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[11:47:25][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[11:48:25][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[11:51:55][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72804   Valor:: 60  NmDocto :: 1041959  
+[11:52:29][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:52:29][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72804  
+[11:52:29][200.168.13.230]> # Valor :: 60  
+[11:52:29][200.168.13.230]> # Referente ao mes :: 2017-12-15 
+[11:52:29][200.168.13.230]> # Usuario atribuido ID::913 
+[11:52:29][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[11:57:07][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[11:57:10][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[13:21:32][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[13:21:42][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[13:21:45][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[13:45:52][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:05:43][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:05:46][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:06:46][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:06:48][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:06:58][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:07:06][200.168.13.230]> Aux Financeiro [ID::8] acessou o cadastro de REDENÇÃO [ID::1167]  
+[14:07:43][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:07:52][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:07:54][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:08:52][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:09:30][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:09:38][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:09:50][200.168.13.230]> Aux Financeiro [8] deletou a remessa 66519 do campo id=1167. 
+[14:09:50][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:09:53][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:10:02][200.168.13.230]> Aux Financeiro [8] deletou a remessa 67266 do campo id=1167. 
+[14:10:03][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:10:05][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:11:13][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:11:45][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1038 . 
+[14:11:47][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1038 . 
+[14:11:55][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:12:01][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:12:03][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:12:10][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:12:16][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1038 . 
+[14:12:18][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1038 . 
+[14:12:30][200.168.13.230]> Aux Financeiro [8] deletou a remessa 73688 do campo id=1038. 
+[14:12:31][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1038 . 
+[14:12:32][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1038 . 
+[14:12:37][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:12:42][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:12:44][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:12:52][200.168.13.230]> Aux Financeiro [8] deletou a remessa 68347 do campo id=1167. 
+[14:12:53][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:12:54][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:13:34][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:13:36][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:13:42][200.168.13.230]> Aux Financeiro [8] deletou a remessa 68772 do campo id=1167. 
+[14:13:43][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:13:47][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:14:19][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:14:21][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:14:27][200.168.13.230]> Aux Financeiro [8] deletou a remessa 69586 do campo id=1167. 
+[14:14:28][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:14:29][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:15:02][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:15:05][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:15:10][200.168.13.230]> Aux Financeiro [8] deletou a remessa 70448 do campo id=1167. 
+[14:15:11][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:15:12][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:15:33][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:15:39][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:15:43][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:16:24][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:16:26][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:16:34][200.168.13.230]> Aux Financeiro [8] deletou a remessa 71249 do campo id=1167. 
+[14:16:34][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:16:36][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:17:12][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:17:14][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:17:20][200.168.13.230]> Aux Financeiro [8] deletou a remessa 73029 do campo id=1167. 
+[14:17:20][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:17:22][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:17:28][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[14:53:39][200.168.13.230]> Aux Financeiro [8] saiu do sistema . 
+[14:53:43][200.168.13.230]>  [8] saiu do sistema . 
+[15:02:37][200.168.13.230]> Aux Financeiro [8] fez o login no sistema. 
+[15:05:55][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[15:24:26][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1213 . 
+[15:24:28][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1213 . 
+[15:25:09][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[15:25:17][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[15:30:02][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[15:30:18][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1155 . 
+[15:30:19][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1155 . 
+[15:56:34][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:13:07][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[16:13:10][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[16:14:52][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:15:28][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 952 . 
+[16:21:34][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 952 . 
+[16:21:50][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:21:57][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 970 . 
+[16:21:58][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 970 . 
+[16:22:25][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:22:37][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 898 . 
+[16:22:39][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 898 . 
+[16:23:29][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:23:44][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1030 . 
+[16:23:47][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1030 . 
+[16:24:40][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:24:45][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1138 . 
+[16:24:51][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1138 . 
+[16:25:08][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:25:12][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[16:25:14][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[16:26:44][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:26:50][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1224 . 
+[16:26:54][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1224 . 
+[16:27:25][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:27:32][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 972 . 
+[16:27:34][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 972 . 
+[16:28:18][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:28:35][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 993 . 
+[16:28:41][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 993 . 
+[16:29:11][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:29:15][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 982 . 
+[16:29:17][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 982 . 
+[16:35:43][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:36:03][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 987 . 
+[16:36:07][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 987 . 
+[16:36:31][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:36:38][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 935 . 
+[16:36:40][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 935 . 
+[16:36:44][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:36:54][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1250 . 
+[16:36:56][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1250 . 
+[16:37:08][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1250 . 
+[16:37:24][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:37:31][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1155 . 
+[16:37:33][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1155 . 
+[16:38:28][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1155 . 
+[16:38:30][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:39:47][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 900 . 
+[16:39:50][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 900 . 
+[16:39:54][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 900 . 
+[16:40:35][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:40:40][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 890 . 
+[16:40:45][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 890 . 
+[16:41:05][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:41:32][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1076 . 
+[16:42:03][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1076 . 
+[17:13:05][200.168.13.230]> Aux Financeiro [8] saiu do sistema . 

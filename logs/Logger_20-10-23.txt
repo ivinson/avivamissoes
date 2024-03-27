@@ -1,0 +1,56 @@
+[09:12:41][152.249.122.86]> Aux Financeiro [8] fez o login no sistema. 
+[16:32:08][152.249.122.86]> Aux Financeiro [8] fez o login no sistema. 
+[16:32:10][152.249.122.86]> Aux Financeiro [8] acessou listagem de campos . 
+[16:32:15][152.249.122.86]> Aux Financeiro [8] acessou as remessas do campo 1261 . 
+[16:32:17][152.249.122.86]> Aux Financeiro [8] acessou as remessas do campo 1261 . 
+[16:32:46][152.249.122.86]> Aux Financeiro [8] acessou as remessas do campo 1261 . 
+[16:37:02][152.249.122.86]> Aux Financeiro [8] acessou listagem de campos . 
+[16:48:52][152.249.122.86]> Aux Financeiro [8] acessou listagem de campos . 
+[16:51:09][152.249.122.86]> Aux Financeiro [8] acessou as remessas do campo 998 . 
+[16:51:12][152.249.122.86]> Aux Financeiro [8] acessou as remessas do campo 998 . 
+[16:54:13][152.249.122.86]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 83626   Valor:: 95.5  NmDocto :: 1613066  
+[16:54:44][152.249.122.86]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:54:44][152.249.122.86]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 83626  
+[16:54:44][152.249.122.86]> # Valor :: 95.5  
+[16:54:44][152.249.122.86]> # Referente ao mes :: 2020-08-15 
+[16:54:44][152.249.122.86]> # Usuario atribuido ID::998 
+[16:54:44][152.249.122.86]> ############################################## ------------------------------------------------------------ 
+[16:55:19][152.249.122.86]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 82723   Valor:: 104  NmDocto :: 9827588  
+[16:55:40][152.249.122.86]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:55:40][152.249.122.86]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 82723  
+[16:55:40][152.249.122.86]> # Valor :: 104  
+[16:55:40][152.249.122.86]> # Referente ao mes :: 2020-07-15 
+[16:55:40][152.249.122.86]> # Usuario atribuido ID::998 
+[16:55:40][152.249.122.86]> ############################################## ------------------------------------------------------------ 
+[16:56:18][152.249.122.86]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 82271   Valor:: 115  NmDocto :: 4198451  
+[16:56:38][152.249.122.86]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:56:38][152.249.122.86]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 82271  
+[16:56:38][152.249.122.86]> # Valor :: 115  
+[16:56:38][152.249.122.86]> # Referente ao mes :: 2020-06-15 
+[16:56:38][152.249.122.86]> # Usuario atribuido ID::998 
+[16:56:38][152.249.122.86]> ############################################## ------------------------------------------------------------ 
+[16:57:16][152.249.122.86]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 84609   Valor:: 50  NmDocto :: 1613066  
+[16:57:35][152.249.122.86]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:57:35][152.249.122.86]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 84609  
+[16:57:35][152.249.122.86]> # Valor :: 50  
+[16:57:35][152.249.122.86]> # Referente ao mes :: 2020-11-15 
+[16:57:35][152.249.122.86]> # Usuario atribuido ID::998 
+[16:57:35][152.249.122.86]> ############################################## ------------------------------------------------------------ 
+[16:58:01][152.249.122.86]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 84136   Valor:: 82  NmDocto :: 8791563  
+[16:58:19][152.249.122.86]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:58:19][152.249.122.86]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 84136  
+[16:58:19][152.249.122.86]> # Valor :: 82  
+[16:58:19][152.249.122.86]> # Referente ao mes :: 2020-10-15 
+[16:58:19][152.249.122.86]> # Usuario atribuido ID::998 
+[16:58:19][152.249.122.86]> ############################################## ------------------------------------------------------------ 
+[16:58:53][152.249.122.86]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 84137   Valor:: 120  NmDocto :: 8791572  
+[16:59:10][152.249.122.86]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:59:10][152.249.122.86]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 84137  
+[16:59:10][152.249.122.86]> # Valor :: 120  
+[16:59:10][152.249.122.86]> # Referente ao mes :: 2020-09-15 
+[16:59:10][152.249.122.86]> # Usuario atribuido ID::998 
+[16:59:10][152.249.122.86]> ############################################## ------------------------------------------------------------ 
+[16:59:16][152.249.122.86]> Aux Financeiro [8] acessou as remessas do campo 998 . 
+[16:59:18][152.249.122.86]> Aux Financeiro [8] acessou as remessas do campo 998 . 
+[17:03:47][152.249.122.86]> Aux Financeiro [8] saiu do sistema . 
+[17:03:49][152.249.122.86]>  [8] saiu do sistema . 

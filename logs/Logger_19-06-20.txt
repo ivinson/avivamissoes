@@ -1,0 +1,59 @@
+[09:15:52][189.97.86.81]> Aux Financeiro [8] fez o login no sistema. 
+[09:35:01][189.97.86.81]> Aux Financeiro [8] saiu do sistema . 
+[10:24:11][189.97.86.81]> Aux Financeiro [8] fez o login no sistema. 
+[10:40:34][189.97.86.81]> Aux Financeiro [8] saiu do sistema . 
+[10:54:07][189.97.86.81]> Aux Financeiro [8] fez o login no sistema. 
+[14:42:50][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[14:42:59][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de TAUBATÉ  [ID::1021]  
+[14:48:37][189.97.86.81]> Aux Financeiro [ID::8] atualizou o cadastro de TAUBATÉ  [ID::1021]  
+[14:48:37][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[14:49:58][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de TAUBATÉ  [ID::1021]  
+[14:52:11][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[14:52:32][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de APARECIDA DO TABOADO [ID::996]  
+[14:54:12][189.97.86.81]> Aux Financeiro [ID::8] atualizou o cadastro de APARECIDA DO TABOADO [ID::996]  
+[14:54:12][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[14:54:19][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de APARECIDA DO TABOADO [ID::996]  
+[14:55:56][189.97.86.81]> Aux Financeiro [ID::8] atualizou o cadastro de APARECIDA DO TABOADO [ID::996]  
+[14:55:56][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[14:56:02][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de APARECIDA DO TABOADO [ID::996]  
+[14:56:18][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[14:58:03][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de COSTA RICA [ID::1187]  
+[15:02:01][189.97.86.81]> Aux Financeiro [ID::8] atualizou o cadastro de COSTA RICA [ID::1187]  
+[15:02:01][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[15:03:01][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de PRESIDENTE EPITÁCIO [ID::1153]  
+[15:29:13][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[15:29:20][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[15:29:35][189.97.86.81]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 81037   Valor:: 74  NmDocto :: 5392093  
+[15:30:12][189.97.86.81]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:30:12][189.97.86.81]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 81037  
+[15:30:12][189.97.86.81]> # Valor :: 74  
+[15:30:12][189.97.86.81]> # Referente ao mes :: 2020-04-15 
+[15:30:12][189.97.86.81]> # Usuario atribuido ID::1190 
+[15:30:12][189.97.86.81]> ############################################## ------------------------------------------------------------ 
+[15:30:18][189.97.86.81]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[15:33:44][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[15:34:40][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de BARRA DO QUARAÍ [ID::962]  
+[15:42:16][189.97.86.81]> Aux Financeiro [ID::8] atualizou o cadastro de BARRA DO QUARAÍ [ID::962]  
+[15:42:16][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[15:42:41][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de URUGUAIANA [ID::1112]  
+[15:46:24][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[15:46:32][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de URUGUAIANA [ID::1112]  
+[15:52:51][189.97.86.81]> Aux Financeiro [ID::8] atualizou o cadastro de URUGUAIANA [ID::1112]  
+[15:52:51][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[15:53:13][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de MANAUS [ID::956]  
+[15:57:46][189.97.86.81]> Aux Financeiro [ID::8] atualizou o cadastro de MANAUS [ID::956]  
+[15:57:46][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[15:57:56][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de MANAUS [ID::956]  
+[16:10:06][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[16:10:37][189.97.86.81]> Aux Financeiro [8] acessou as remessas do campo 986 . 
+[16:10:48][189.97.86.81]> Aux Financeiro [8] acessou as remessas do campo 986 . 
+[16:11:08][189.97.86.81]> Aux Financeiro [8] acessou as remessas do campo 986 . 
+[16:20:05][189.97.86.81]> Aux Financeiro [ID::8] atualizou o cadastro de MANAUS [ID::956]  
+[16:20:05][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[16:20:23][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de MANAUS [ID::956]  
+[16:20:47][189.97.86.81]> Aux Financeiro [ID::8] atualizou o cadastro de MANAUS [ID::956]  
+[16:20:47][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[16:35:08][189.97.86.81]> Aux Financeiro [ID::8] acessou o cadastro de ICÓ [ID::1190]  
+[16:44:36][189.97.86.81]> Aux Financeiro [ID::8] atualizou o cadastro de ICÓ [ID::1190]  
+[16:44:36][189.97.86.81]> Aux Financeiro [8] acessou listagem de campos . 
+[16:55:39][189.97.86.81]> Aux Financeiro [8] saiu do sistema . 

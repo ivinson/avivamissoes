@@ -1,0 +1,1461 @@
+[10:22:20][200.168.13.230]> Aux Financeiro [8] fez o login no sistema. 
+[10:22:27][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[10:22:43][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[10:39:48][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1076 . 
+[10:39:51][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1076 . 
+[10:43:28][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1076 . 
+[10:43:37][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1076 . 
+[10:43:46][200.168.13.230]> Aux Financeiro [8] deletou a remessa 69641 do campo id=1076. 
+[10:43:46][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1076 . 
+[10:43:48][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1076 . 
+[10:46:12][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[10:50:27][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 976 . 
+[10:50:32][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 976 . 
+[10:50:53][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[10:51:13][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 67622   Valor:: 74  NmDocto :: 7896761  
+[10:51:29][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:51:29][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 67622  
+[10:51:29][200.168.13.230]> # Valor :: 74  
+[10:51:29][200.168.13.230]> # Referente ao mes :: 2018-03-15 
+[10:51:29][200.168.13.230]> # Usuario atribuido ID::976 
+[10:51:29][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[10:51:34][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[10:51:43][200.168.13.230]> Aux Financeiro [ID::8] acessou o cadastro de RIO BRANCO [ID::976]  
+[10:51:45][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[10:51:50][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 976 . 
+[10:51:53][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 976 . 
+[11:15:39][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[11:18:18][200.168.13.230]> Aux Financeiro [ID::8] acessou o cadastro de SACOMÃ [ID::1259]  
+[11:18:21][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[11:39:34][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 986 . 
+[11:39:37][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 986 . 
+[11:40:39][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72360   Valor:: 139  NmDocto :: 1042086  
+[11:41:06][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:41:06][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72360  
+[11:41:06][200.168.13.230]> # Valor :: 139  
+[11:41:06][200.168.13.230]> # Referente ao mes :: 2018-10-15 
+[11:41:06][200.168.13.230]> # Usuario atribuido ID::986 
+[11:41:06][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[11:41:37][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 986 . 
+[11:45:18][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[11:45:26][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 986 . 
+[11:45:28][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 986 . 
+[11:45:37][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[12:13:20][200.168.13.230]> Aux Financeiro [ID::8] acessou o cadastro de SACOMÃ [ID::1259]  
+[12:42:20][170.244.29.157]> #### Acesso não autorizado ###### 
+[12:42:20][170.244.29.157]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[12:42:20][170.244.29.157]> # ------------------------------------------------------>  
+[12:42:37][170.244.29.157]> #### Acesso não autorizado ###### 
+[12:42:37][170.244.29.157]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[12:42:37][170.244.29.157]> # ------------------------------------------------------>  
+[13:20:59][170.244.29.157]> Administrador Financeiro [5] fez o login no sistema. 
+[13:21:15][170.244.29.157]> Administrador Financeiro [5] acessou listagem de campos . 
+[13:21:24][170.244.29.157]> Administrador Financeiro [5] acessou as remessas do campo 924 . 
+[13:21:27][170.244.29.157]> Administrador Financeiro [5] acessou as remessas do campo 924 . 
+[13:21:37][170.244.29.157]> Administrador Financeiro [5] acessou as remessas do campo 924 . 
+[13:21:52][170.244.29.157]> Administrador Financeiro [5] acessou listagem de campos . 
+[13:21:58][170.244.29.157]> Administrador Financeiro [ID::5] acessou o cadastro de SACOMÃ [ID::1259]  
+[13:22:43][170.244.29.157]> Administrador Financeiro [5] acessou listagem de campos . 
+[14:00:37][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:00:52][200.168.13.230]> Aux Financeiro [ID::8] acessou o cadastro de REGISTRO [ID::1016]  
+[14:00:54][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:00:58][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:02:28][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:04:00][200.168.13.230]> Aux Financeiro [ID::8] atualizou o cadastro de SACOMÃ [ID::1259]  
+[14:04:01][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:05:22][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1003 . 
+[14:05:27][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:05:32][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1160 . 
+[14:05:42][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1160 . 
+[14:06:04][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1160 . 
+[14:06:37][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1160 . 
+[14:06:50][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:06:58][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:07:00][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:07:07][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:08:47][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:09:42][170.244.29.157]> Administrador Financeiro [5] acessou as remessas do campo 1016 . 
+[14:09:47][170.244.29.157]> Administrador Financeiro [5] acessou as remessas do campo 1016 . 
+[14:09:56][170.244.29.157]> Administrador Financeiro [5] acessou as remessas do campo 1016 . 
+[14:11:12][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:11:20][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:11:23][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:11:32][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:16:18][170.244.29.157]> Administrador Financeiro [5] acessou as remessas do campo 960 . 
+[14:16:55][200.168.13.230]> Aux Financeiro [8] deletou a remessa 72876 do campo id=1016. 
+[14:16:55][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:16:58][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:17:07][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:17:42][200.168.13.230]> # UPLOAD[Extrato] ## 
+[14:17:42][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[14:17:42][200.168.13.230]> # Dt :: 18/12/2018  
+[14:17:42][200.168.13.230]> # Docto :: 2016768 
+[14:17:42][200.168.13.230]> # Valor :: 37.50 
+[14:17:42][200.168.13.230]> ------------------------------------------------------------------------------ 
+[14:17:48][170.244.29.157]> Administrador Financeiro [5] acessou listagem de campos . 
+[14:18:02][170.244.29.157]> Administrador Financeiro [5] acessou as remessas do campo 1016 . 
+[14:18:06][170.244.29.157]> Administrador Financeiro [5] acessou as remessas do campo 1016 . 
+[14:18:41][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:24:45][170.244.29.157]> Administrador Financeiro [5] acessou as remessas do campo 1016 . 
+[14:33:57][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 73711   Valor:: 37.5  NmDocto :: 2016768  
+[14:34:17][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:34:17][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 73711  
+[14:34:17][200.168.13.230]> # Valor :: 37.5  
+[14:34:17][200.168.13.230]> # Referente ao mes :: 2017-08-15 
+[14:34:17][200.168.13.230]> # Usuario atribuido ID::1016 
+[14:34:17][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[14:41:39][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:41:40][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:41:49][200.168.13.230]> Aux Financeiro [8] deletou a remessa 64620 do campo id=1016. 
+[14:41:49][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:41:51][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:43:20][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:43:22][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:43:26][200.168.13.230]> Aux Financeiro [8] deletou a remessa 63087 do campo id=1016. 
+[14:43:27][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:43:29][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:51:04][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[14:51:11][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1146 . 
+[14:51:13][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1146 . 
+[14:52:38][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72507   Valor:: 403.85  NmDocto :: 1449390  
+[14:52:57][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:52:57][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72507  
+[14:52:57][200.168.13.230]> # Valor :: 403.85  
+[14:52:57][200.168.13.230]> # Referente ao mes :: 2018-10-15 
+[14:52:57][200.168.13.230]> # Usuario atribuido ID::1146 
+[14:52:57][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[14:53:05][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1146 . 
+[14:54:18][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[15:05:44][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[15:05:47][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[15:12:44][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[15:12:52][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[15:12:54][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[15:13:30][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[15:25:48][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[15:25:55][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[15:25:56][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[15:26:44][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 64248   Valor:: 315  NmDocto :: 2038321  
+[15:27:13][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:27:13][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 64248  
+[15:27:13][200.168.13.230]> # Valor :: 315  
+[15:27:13][200.168.13.230]> # Referente ao mes :: 2017-11-15 
+[15:27:13][200.168.13.230]> # Usuario atribuido ID::924 
+[15:27:13][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[15:27:43][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 64979   Valor:: 50  NmDocto :: 2038896  
+[15:28:03][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:28:03][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 64979  
+[15:28:03][200.168.13.230]> # Valor :: 50  
+[15:28:03][200.168.13.230]> # Referente ao mes :: 2017-11-15 
+[15:28:03][200.168.13.230]> # Usuario atribuido ID::924 
+[15:28:03][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[15:28:32][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 64954   Valor:: 32  NmDocto :: 188084  
+[15:29:03][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:29:03][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 64954  
+[15:29:03][200.168.13.230]> # Valor :: 32  
+[15:29:03][200.168.13.230]> # Referente ao mes :: 2017-11-15 
+[15:29:03][200.168.13.230]> # Usuario atribuido ID::924 
+[15:29:03][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[15:30:24][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 64949   Valor:: 10  NmDocto :: 2039079  
+[15:30:48][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:30:48][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 64949  
+[15:30:48][200.168.13.230]> # Valor :: 10  
+[15:30:48][200.168.13.230]> # Referente ao mes :: 2017-11-15 
+[15:30:48][200.168.13.230]> # Usuario atribuido ID::924 
+[15:30:48][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[15:31:08][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 64925   Valor:: 15.55  NmDocto :: 174120  
+[15:31:24][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:31:24][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 64925  
+[15:31:24][200.168.13.230]> # Valor :: 15.55  
+[15:31:24][200.168.13.230]> # Referente ao mes :: 2017-11-15 
+[15:31:24][200.168.13.230]> # Usuario atribuido ID::924 
+[15:31:24][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[15:34:33][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72905   Valor:: 60  NmDocto :: 188084  
+[15:35:36][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 64994   Valor:: 46  NmDocto :: 2441655  
+[15:36:55][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[15:39:13][200.168.13.230]> Aux Financeiro [8] fez o login no sistema. 
+[15:39:22][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[15:39:29][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[15:39:31][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[15:40:10][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 64994   Valor:: 46  NmDocto :: 2441655  
+[15:41:15][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:41:15][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 64994  
+[15:41:15][200.168.13.230]> # Valor :: 46  
+[15:41:15][200.168.13.230]> # Referente ao mes :: 2017-12-15 
+[15:41:15][200.168.13.230]> # Usuario atribuido ID::924 
+[15:41:15][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[15:41:47][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 65712   Valor:: 33  NmDocto :: 188084  
+[15:42:04][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:42:04][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 65712  
+[15:42:04][200.168.13.230]> # Valor :: 33  
+[15:42:04][200.168.13.230]> # Referente ao mes :: 2017-12-15 
+[15:42:04][200.168.13.230]> # Usuario atribuido ID::924 
+[15:42:04][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[15:42:57][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 65010   Valor:: 87  NmDocto :: 2038655  
+[15:43:20][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:43:20][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 65010  
+[15:43:20][200.168.13.230]> # Valor :: 87  
+[15:43:20][200.168.13.230]> # Referente ao mes :: 2017-12-15 
+[15:43:20][200.168.13.230]> # Usuario atribuido ID::924 
+[15:43:20][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[15:43:44][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 65765   Valor:: 150  NmDocto :: 9352088  
+[15:44:10][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:44:10][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 65765  
+[15:44:10][200.168.13.230]> # Valor :: 150  
+[15:44:10][200.168.13.230]> # Referente ao mes :: 2017-12-15 
+[15:44:10][200.168.13.230]> # Usuario atribuido ID::924 
+[15:44:10][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[15:44:40][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 65700   Valor:: 20  NmDocto :: 6982061  
+[15:44:58][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:44:58][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 65700  
+[15:44:58][200.168.13.230]> # Valor :: 20  
+[15:44:58][200.168.13.230]> # Referente ao mes :: 2017-12-15 
+[15:44:58][200.168.13.230]> # Usuario atribuido ID::924 
+[15:44:58][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[15:45:25][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 64980   Valor:: 50  NmDocto :: 2038900  
+[15:45:41][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:45:41][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 64980  
+[15:45:41][200.168.13.230]> # Valor :: 50  
+[15:45:41][200.168.13.230]> # Referente ao mes :: 2017-12-15 
+[15:45:41][200.168.13.230]> # Usuario atribuido ID::924 
+[15:45:41][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[15:45:48][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[15:47:13][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[15:50:17][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[15:51:16][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[15:51:20][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[15:51:26][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[15:51:32][200.168.13.230]> Aux Financeiro [8] deletou a remessa 63340 do campo id=1016. 
+[15:51:33][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[15:51:35][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[15:51:47][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 04/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 1310557 
+[16:52:08][200.168.13.230]> # Valor :: 25.00 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 04/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 5467829 
+[16:52:08][200.168.13.230]> # Valor :: 300.00 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 04/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 1518951 
+[16:52:08][200.168.13.230]> # Valor :: 189.00 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 04/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 2607243 
+[16:52:08][200.168.13.230]> # Valor :: 150.00 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 05/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 1010532 
+[16:52:08][200.168.13.230]> # Valor :: 124.10 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 05/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 1061613 
+[16:52:08][200.168.13.230]> # Valor :: 161.00 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 05/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 5894138 
+[16:52:08][200.168.13.230]> # Valor :: 118.00 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 05/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 500591 
+[16:52:08][200.168.13.230]> # Valor :: 1176.75 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 05/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 3748197 
+[16:52:08][200.168.13.230]> # Valor :: 163.00 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 06/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 1006641 
+[16:52:08][200.168.13.230]> # Valor :: 50.00 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 06/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 1033562 
+[16:52:08][200.168.13.230]> # Valor :: 566.40 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 06/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 620693 
+[16:52:08][200.168.13.230]> # Valor :: 1039.00 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:08][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:08][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:08][200.168.13.230]> # Dt :: 06/02/2019  
+[16:52:08][200.168.13.230]> # Docto :: 1740494 
+[16:52:08][200.168.13.230]> # Valor :: 45.00 
+[16:52:08][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 06/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 600591 
+[16:52:09][200.168.13.230]> # Valor :: 264.75 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 06/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 2275101 
+[16:52:09][200.168.13.230]> # Valor :: 282.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 06/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 5270188 
+[16:52:09][200.168.13.230]> # Valor :: 100.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 07/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 1051261 
+[16:52:09][200.168.13.230]> # Valor :: 192.10 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 07/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 1660557 
+[16:52:09][200.168.13.230]> # Valor :: 976.15 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 07/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 7082 
+[16:52:09][200.168.13.230]> # Valor :: 10.21 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 07/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 7082 
+[16:52:09][200.168.13.230]> # Valor :: 59.25 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 07/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 700591 
+[16:52:09][200.168.13.230]> # Valor :: 402.80 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 07/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 38614 
+[16:52:09][200.168.13.230]> # Valor :: 30.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 07/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 1229016 
+[16:52:09][200.168.13.230]> # Valor :: 200.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 1003219 
+[16:52:09][200.168.13.230]> # Valor :: 116.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 1015774 
+[16:52:09][200.168.13.230]> # Valor :: 152.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 1031497 
+[16:52:09][200.168.13.230]> # Valor :: 54.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 1031497 
+[16:52:09][200.168.13.230]> # Valor :: 89.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 1047894 
+[16:52:09][200.168.13.230]> # Valor :: 127.50 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 1051168 
+[16:52:09][200.168.13.230]> # Valor :: 58.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 2184583 
+[16:52:09][200.168.13.230]> # Valor :: 95.30 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 2856917 
+[16:52:09][200.168.13.230]> # Valor :: 200.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 929929 
+[16:52:09][200.168.13.230]> # Valor :: 195.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 4347856 
+[16:52:09][200.168.13.230]> # Valor :: 760.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 4347877 
+[16:52:09][200.168.13.230]> # Valor :: 674.10 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 1092180 
+[16:52:09][200.168.13.230]> # Valor :: 100.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 5106559 
+[16:52:09][200.168.13.230]> # Valor :: 272.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 08/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 9313858 
+[16:52:09][200.168.13.230]> # Valor :: 136.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:09][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:09][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:09][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:09][200.168.13.230]> # Docto :: 70762 
+[16:52:09][200.168.13.230]> # Valor :: 244.00 
+[16:52:09][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 1010943 
+[16:52:10][200.168.13.230]> # Valor :: 485.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 1013253 
+[16:52:10][200.168.13.230]> # Valor :: 1174.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 1021559 
+[16:52:10][200.168.13.230]> # Valor :: 400.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 7766453 
+[16:52:10][200.168.13.230]> # Valor :: 337.50 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 7766459 
+[16:52:10][200.168.13.230]> # Valor :: 54.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 1613254 
+[16:52:10][200.168.13.230]> # Valor :: 29.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 1729081 
+[16:52:10][200.168.13.230]> # Valor :: 90.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 1001101 
+[16:52:10][200.168.13.230]> # Valor :: 100.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 1279086 
+[16:52:10][200.168.13.230]> # Valor :: 69.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 3159086 
+[16:52:10][200.168.13.230]> # Valor :: 45.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 117127 
+[16:52:10][200.168.13.230]> # Valor :: 372.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 879074 
+[16:52:10][200.168.13.230]> # Valor :: 420.25 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 1448321 
+[16:52:10][200.168.13.230]> # Valor :: 78.20 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 1100591 
+[16:52:10][200.168.13.230]> # Valor :: 164.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 423778 
+[16:52:10][200.168.13.230]> # Valor :: 235.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 1101476 
+[16:52:10][200.168.13.230]> # Valor :: 530.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 2102393 
+[16:52:10][200.168.13.230]> # Valor :: 88.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 3656980 
+[16:52:10][200.168.13.230]> # Valor :: 494.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 4246207 
+[16:52:10][200.168.13.230]> # Valor :: 226.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 6695012 
+[16:52:10][200.168.13.230]> # Valor :: 100.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 7015617 
+[16:52:10][200.168.13.230]> # Valor :: 907.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 9848323 
+[16:52:10][200.168.13.230]> # Valor :: 187.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 9848326 
+[16:52:10][200.168.13.230]> # Valor :: 135.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 11/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 2787020 
+[16:52:10][200.168.13.230]> # Valor :: 62.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 12/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 1010780 
+[16:52:10][200.168.13.230]> # Valor :: 157.00 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:10][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:10][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:10][200.168.13.230]> # Dt :: 12/02/2019  
+[16:52:10][200.168.13.230]> # Docto :: 1025750 
+[16:52:10][200.168.13.230]> # Valor :: 85.10 
+[16:52:10][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 12/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1025750 
+[16:52:11][200.168.13.230]> # Valor :: 89.76 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 12/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1025750 
+[16:52:11][200.168.13.230]> # Valor :: 239.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 12/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1040142 
+[16:52:11][200.168.13.230]> # Valor :: 375.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 12/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1150052 
+[16:52:11][200.168.13.230]> # Valor :: 222.80 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 12/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1504085 
+[16:52:11][200.168.13.230]> # Valor :: 184.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 12/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1200591 
+[16:52:11][200.168.13.230]> # Valor :: 100.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 12/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 807480 
+[16:52:11][200.168.13.230]> # Valor :: 500.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 12/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 807480 
+[16:52:11][200.168.13.230]> # Valor :: 159.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 12/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 5146244 
+[16:52:11][200.168.13.230]> # Valor :: 50.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 13/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1041959 
+[16:52:11][200.168.13.230]> # Valor :: 102.50 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 13/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1043157 
+[16:52:11][200.168.13.230]> # Valor :: 130.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 13/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 536194 
+[16:52:11][200.168.13.230]> # Valor :: 80.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 13/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 6088732 
+[16:52:11][200.168.13.230]> # Valor :: 230.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 13/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 100064 
+[16:52:11][200.168.13.230]> # Valor :: 262.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 13/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 5705064 
+[16:52:11][200.168.13.230]> # Valor :: 200.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 13/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 591434 
+[16:52:11][200.168.13.230]> # Valor :: 9000.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 13/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 4554666 
+[16:52:11][200.168.13.230]> # Valor :: 433.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 13/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 6834067 
+[16:52:11][200.168.13.230]> # Valor :: 500.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 14/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1002056 
+[16:52:11][200.168.13.230]> # Valor :: 68.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 14/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1101153 
+[16:52:11][200.168.13.230]> # Valor :: 624.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 14/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1281983 
+[16:52:11][200.168.13.230]> # Valor :: 163.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 14/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 879864 
+[16:52:11][200.168.13.230]> # Valor :: 148.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 14/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 3253444 
+[16:52:11][200.168.13.230]> # Valor :: 43.88 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 14/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1400591 
+[16:52:11][200.168.13.230]> # Valor :: 630.80 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 14/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 3495392 
+[16:52:11][200.168.13.230]> # Valor :: 42.34 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 14/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 7366710 
+[16:52:11][200.168.13.230]> # Valor :: 203.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1030037 
+[16:52:11][200.168.13.230]> # Valor :: 1347.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:11][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:11][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:11][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:11][200.168.13.230]> # Docto :: 1030536 
+[16:52:11][200.168.13.230]> # Valor :: 2035.00 
+[16:52:11][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 1041987 
+[16:52:12][200.168.13.230]> # Valor :: 689.90 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 1070068 
+[16:52:12][200.168.13.230]> # Valor :: 120.00 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 1360661 
+[16:52:12][200.168.13.230]> # Valor :: 870.00 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 1600154 
+[16:52:12][200.168.13.230]> # Valor :: 2097.63 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 1740195 
+[16:52:12][200.168.13.230]> # Valor :: 169.25 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 6307902 
+[16:52:12][200.168.13.230]> # Valor :: 192.10 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 236098 
+[16:52:12][200.168.13.230]> # Valor :: 130.00 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 3186010 
+[16:52:12][200.168.13.230]> # Valor :: 572.80 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 1500591 
+[16:52:12][200.168.13.230]> # Valor :: 707.05 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 3371706 
+[16:52:12][200.168.13.230]> # Valor :: 134.00 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 8529989 
+[16:52:12][200.168.13.230]> # Valor :: 100.00 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 8804384 
+[16:52:12][200.168.13.230]> # Valor :: 84.00 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 9695712 
+[16:52:12][200.168.13.230]> # Valor :: 284.00 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 7091895 
+[16:52:12][200.168.13.230]> # Valor :: 800.00 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 7989625 
+[16:52:12][200.168.13.230]> # Valor :: 25.00 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 15/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 7989630 
+[16:52:12][200.168.13.230]> # Valor :: 342.00 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 1091578 
+[16:52:12][200.168.13.230]> # Valor :: 343.85 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 6008818 
+[16:52:12][200.168.13.230]> # Valor :: 340.22 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 6008860 
+[16:52:12][200.168.13.230]> # Valor :: 340.22 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 6008919 
+[16:52:12][200.168.13.230]> # Valor :: 350.22 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 1042192 
+[16:52:12][200.168.13.230]> # Valor :: 99.50 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 5774103 
+[16:52:12][200.168.13.230]> # Valor :: 266.00 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 121802 
+[16:52:12][200.168.13.230]> # Valor :: 1153.42 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 185150 
+[16:52:12][200.168.13.230]> # Valor :: 218.75 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:12][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:12][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:12][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:12][200.168.13.230]> # Docto :: 591267 
+[16:52:12][200.168.13.230]> # Valor :: 2681.36 
+[16:52:12][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 3253155 
+[16:52:13][200.168.13.230]> # Valor :: 253.27 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 1800591 
+[16:52:13][200.168.13.230]> # Valor :: 448.55 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 202819 
+[16:52:13][200.168.13.230]> # Valor :: 146.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 202822 
+[16:52:13][200.168.13.230]> # Valor :: 257.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 994952 
+[16:52:13][200.168.13.230]> # Valor :: 50.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 4646991 
+[16:52:13][200.168.13.230]> # Valor :: 200.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 5566524 
+[16:52:13][200.168.13.230]> # Valor :: 135.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 7450865 
+[16:52:13][200.168.13.230]> # Valor :: 200.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 7803687 
+[16:52:13][200.168.13.230]> # Valor :: 802.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 18/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 8198482 
+[16:52:13][200.168.13.230]> # Valor :: 300.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 19/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 1042830 
+[16:52:13][200.168.13.230]> # Valor :: 86.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 19/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 1101479 
+[16:52:13][200.168.13.230]> # Valor :: 1517.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 19/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 1448447 
+[16:52:13][200.168.13.230]> # Valor :: 89.55 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 19/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 1900591 
+[16:52:13][200.168.13.230]> # Valor :: 154.27 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 19/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 1900591 
+[16:52:13][200.168.13.230]> # Valor :: 2922.60 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 19/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 1709174 
+[16:52:13][200.168.13.230]> # Valor :: 137.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 19/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 3340958 
+[16:52:13][200.168.13.230]> # Valor :: 120.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 19/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 4646724 
+[16:52:13][200.168.13.230]> # Valor :: 200.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 19/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 5691923 
+[16:52:13][200.168.13.230]> # Valor :: 249.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 19/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 9389508 
+[16:52:13][200.168.13.230]> # Valor :: 230.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 20/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 1005863 
+[16:52:13][200.168.13.230]> # Valor :: 115.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 20/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 1030521 
+[16:52:13][200.168.13.230]> # Valor :: 41.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 20/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 426171 
+[16:52:13][200.168.13.230]> # Valor :: 178.00 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 20/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 78076 
+[16:52:13][200.168.13.230]> # Valor :: 104.80 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:13][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:13][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:13][200.168.13.230]> # Dt :: 20/02/2019  
+[16:52:13][200.168.13.230]> # Docto :: 1083088 
+[16:52:13][200.168.13.230]> # Valor :: 68.50 
+[16:52:13][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 20/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 2000591 
+[16:52:14][200.168.13.230]> # Valor :: 6665.55 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 20/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 964898 
+[16:52:14][200.168.13.230]> # Valor :: 200.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 20/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 1595770 
+[16:52:14][200.168.13.230]> # Valor :: 1639.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 20/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 6396338 
+[16:52:14][200.168.13.230]> # Valor :: 164.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 20/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 3075113 
+[16:52:14][200.168.13.230]> # Valor :: 39.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 21/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 1022606 
+[16:52:14][200.168.13.230]> # Valor :: 220.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 21/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 1112695 
+[16:52:14][200.168.13.230]> # Valor :: 195.85 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 21/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 1330236 
+[16:52:14][200.168.13.230]> # Valor :: 420.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 21/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 2100591 
+[16:52:14][200.168.13.230]> # Valor :: 168.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 21/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 2646658 
+[16:52:14][200.168.13.230]> # Valor :: 100.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 21/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 5802037 
+[16:52:14][200.168.13.230]> # Valor :: 499.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 22/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 1032830 
+[16:52:14][200.168.13.230]> # Valor :: 332.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 22/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 626084 
+[16:52:14][200.168.13.230]> # Valor :: 107.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 22/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 626084 
+[16:52:14][200.168.13.230]> # Valor :: 112.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 22/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 5392097 
+[16:52:14][200.168.13.230]> # Valor :: 145.80 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 22/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 2200591 
+[16:52:14][200.168.13.230]> # Valor :: 1.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 25/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 1011588 
+[16:52:14][200.168.13.230]> # Valor :: 367.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 25/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 1055016 
+[16:52:14][200.168.13.230]> # Valor :: 1464.34 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 25/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 1150052 
+[16:52:14][200.168.13.230]> # Valor :: 100.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 25/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 201191 
+[16:52:14][200.168.13.230]> # Valor :: 190.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 25/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 290979 
+[16:52:14][200.168.13.230]> # Valor :: 270.30 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 25/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 1887710 
+[16:52:14][200.168.13.230]> # Valor :: 40.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 25/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 3301291 
+[16:52:14][200.168.13.230]> # Valor :: 50.00 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 25/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 1753139 
+[16:52:14][200.168.13.230]> # Valor :: 200.40 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:14][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:14][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:14][200.168.13.230]> # Dt :: 25/02/2019  
+[16:52:14][200.168.13.230]> # Docto :: 591581 
+[16:52:14][200.168.13.230]> # Valor :: 1034.90 
+[16:52:14][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 25/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 2506711 
+[16:52:15][200.168.13.230]> # Valor :: 224.70 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 25/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 4146400 
+[16:52:15][200.168.13.230]> # Valor :: 116.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 25/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 5347807 
+[16:52:15][200.168.13.230]> # Valor :: 1407.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 9762548 
+[16:52:15][200.168.13.230]> # Valor :: 286.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 1055016 
+[16:52:15][200.168.13.230]> # Valor :: 148.10 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 557181 
+[16:52:15][200.168.13.230]> # Valor :: 205.85 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 3702780 
+[16:52:15][200.168.13.230]> # Valor :: 264.35 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 1277067 
+[16:52:15][200.168.13.230]> # Valor :: 29.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 2600591 
+[16:52:15][200.168.13.230]> # Valor :: 411.50 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 4587216 
+[16:52:15][200.168.13.230]> # Valor :: 625.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 4587228 
+[16:52:15][200.168.13.230]> # Valor :: 1000.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 4587232 
+[16:52:15][200.168.13.230]> # Valor :: 498.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 2609960 
+[16:52:15][200.168.13.230]> # Valor :: 100.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 2609964 
+[16:52:15][200.168.13.230]> # Valor :: 170.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 4239712 
+[16:52:15][200.168.13.230]> # Valor :: 50.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 4239715 
+[16:52:15][200.168.13.230]> # Valor :: 50.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 4390482 
+[16:52:15][200.168.13.230]> # Valor :: 120.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 4390485 
+[16:52:15][200.168.13.230]> # Valor :: 170.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 26/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 5603803 
+[16:52:15][200.168.13.230]> # Valor :: 350.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 27/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 1011306 
+[16:52:15][200.168.13.230]> # Valor :: 255.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 27/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 1277067 
+[16:52:15][200.168.13.230]> # Valor :: 35.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 27/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 1486981 
+[16:52:15][200.168.13.230]> # Valor :: 525.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 27/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 2700591 
+[16:52:15][200.168.13.230]> # Valor :: 3818.20 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 28/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 1032520 
+[16:52:15][200.168.13.230]> # Valor :: 67.40 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 28/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 3076225 
+[16:52:15][200.168.13.230]> # Valor :: 147.00 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:15][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:15][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:15][200.168.13.230]> # Dt :: 28/02/2019  
+[16:52:15][200.168.13.230]> # Docto :: 3575123 
+[16:52:15][200.168.13.230]> # Valor :: 116.50 
+[16:52:15][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:16][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:16][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:16][200.168.13.230]> # Dt :: 28/02/2019  
+[16:52:16][200.168.13.230]> # Docto :: 3575123 
+[16:52:16][200.168.13.230]> # Valor :: 121.00 
+[16:52:16][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:16][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:16][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:16][200.168.13.230]> # Dt :: 28/02/2019  
+[16:52:16][200.168.13.230]> # Docto :: 591585 
+[16:52:16][200.168.13.230]> # Valor :: 204.25 
+[16:52:16][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:16][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:16][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:16][200.168.13.230]> # Dt :: 28/02/2019  
+[16:52:16][200.168.13.230]> # Docto :: 591862 
+[16:52:16][200.168.13.230]> # Valor :: 3000.00 
+[16:52:16][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:16][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:16][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:16][200.168.13.230]> # Dt :: 28/02/2019  
+[16:52:16][200.168.13.230]> # Docto :: 2800591 
+[16:52:16][200.168.13.230]> # Valor :: 2027.60 
+[16:52:16][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:16][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:16][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:16][200.168.13.230]> # Dt :: 28/02/2019  
+[16:52:16][200.168.13.230]> # Docto :: 4294535 
+[16:52:16][200.168.13.230]> # Valor :: 402.00 
+[16:52:16][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:52:16][200.168.13.230]> # UPLOAD[Extrato] ## 
+[16:52:16][200.168.13.230]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[16:52:16][200.168.13.230]> # Dt :: 28/02/2019  
+[16:52:16][200.168.13.230]> # Docto :: 9239527 
+[16:52:16][200.168.13.230]> # Valor :: 178.00 
+[16:52:16][200.168.13.230]> ------------------------------------------------------------------------------ 
+[16:54:40][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:59:10][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 73749   Valor:: 272  NmDocto :: 5106559  
+[16:59:32][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:59:32][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 73749  
+[16:59:32][200.168.13.230]> # Valor :: 272  
+[16:59:32][200.168.13.230]> # Referente ao mes :: 2018-12-15 
+[16:59:32][200.168.13.230]> # Usuario atribuido ID::1078 
+[16:59:32][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[17:02:02][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 73756   Valor:: 54  NmDocto :: 7766459  
+[17:02:30][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:02:30][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 73756  
+[17:02:30][200.168.13.230]> # Valor :: 54  
+[17:02:30][200.168.13.230]> # Referente ao mes :: 2019-01-15 
+[17:02:30][200.168.13.230]> # Usuario atribuido ID::1231 
+[17:02:30][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[17:03:33][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 73755   Valor:: 337.5  NmDocto :: 7766453  
+[17:03:47][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:03:47][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 73755  
+[17:03:47][200.168.13.230]> # Valor :: 337.5  
+[17:03:47][200.168.13.230]> # Referente ao mes :: 2019-01-15 
+[17:03:47][200.168.13.230]> # Usuario atribuido ID::1231 
+[17:03:47][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[17:04:24][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 73901   Valor:: 35  NmDocto :: 1277067  
+[17:04:38][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:04:38][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 73901  
+[17:04:38][200.168.13.230]> # Valor :: 35  
+[17:04:38][200.168.13.230]> # Referente ao mes :: 2019-01-15 
+[17:04:38][200.168.13.230]> # Usuario atribuido ID::1222 
+[17:04:38][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[17:05:33][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 996 . 
+[17:05:41][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[17:06:21][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 996 . 
+[17:06:23][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 996 . 
+[17:06:29][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[17:07:32][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 73874   Valor:: 100  NmDocto :: 1150052  
+[17:26:28][200.168.13.230]> Aux Financeiro [8] fez o login no sistema. 

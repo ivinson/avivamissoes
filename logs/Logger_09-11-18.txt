@@ -1,0 +1,331 @@
+[09:07:33][177.138.68.44]> Aux Financeiro [8] fez o login no sistema. 
+[09:13:30][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[09:14:24][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[09:14:31][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 916 . 
+[10:36:29][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[10:36:37][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1102 . 
+[10:37:27][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[10:37:32][177.138.68.44]> Aux Financeiro [ID::8] acessou o cadastro de EMBÚ-GUAÇÚ [ID::1102]  
+[10:37:36][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[10:37:44][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1102 . 
+[10:44:02][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[15:54:00][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[15:54:34][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[15:58:04][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[16:32:52][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72161   Valor:: 1338.25  NmDocto :: 7766542  
+[16:33:16][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:33:16][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72161  
+[16:33:16][177.138.68.44]> # Valor :: 1338.25  
+[16:33:16][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[16:33:16][177.138.68.44]> # Usuario atribuido ID::1231 
+[16:33:16][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:33:40][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[16:36:36][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72234   Valor:: 186.8  NmDocto :: 1506035  
+[16:36:58][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:36:58][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72234  
+[16:36:58][177.138.68.44]> # Valor :: 186.8  
+[16:36:58][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[16:36:58][177.138.68.44]> # Usuario atribuido ID::1185 
+[16:36:58][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:38:07][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72225   Valor:: 150  NmDocto :: 1150052  
+[16:38:24][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[16:38:30][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 975 . 
+[16:38:39][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:38:39][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72225  
+[16:38:39][177.138.68.44]> # Valor :: 150  
+[16:38:39][177.138.68.44]> # Referente ao mes :: 2018-08-15 
+[16:38:39][177.138.68.44]> # Usuario atribuido ID::975 
+[16:38:39][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:39:14][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72129   Valor:: 219.9  NmDocto :: 1075671  
+[16:39:34][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:39:34][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72129  
+[16:39:34][177.138.68.44]> # Valor :: 219.9  
+[16:39:34][177.138.68.44]> # Referente ao mes :: 2018-08-15 
+[16:39:34][177.138.68.44]> # Usuario atribuido ID::1180 
+[16:39:34][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:39:36][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[16:39:43][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1180 . 
+[16:40:05][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72094   Valor:: 221.1  NmDocto :: 1016631  
+[16:40:20][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:40:20][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72094  
+[16:40:20][177.138.68.44]> # Valor :: 221.1  
+[16:40:20][177.138.68.44]> # Referente ao mes :: 2018-07-15 
+[16:40:20][177.138.68.44]> # Usuario atribuido ID::1180 
+[16:40:20][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:40:52][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72203   Valor:: 1885  NmDocto :: 1121479  
+[16:41:00][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[16:41:06][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1036 . 
+[16:41:25][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:41:25][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72203  
+[16:41:25][177.138.68.44]> # Valor :: 1885  
+[16:41:25][177.138.68.44]> # Referente ao mes :: 2018-08-15 
+[16:41:25][177.138.68.44]> # Usuario atribuido ID::1036 
+[16:41:25][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:42:32][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[16:43:56][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[16:44:49][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72242   Valor:: 630  NmDocto :: 6736519  
+[16:45:06][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:45:06][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72242  
+[16:45:06][177.138.68.44]> # Valor :: 630  
+[16:45:06][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[16:45:06][177.138.68.44]> # Usuario atribuido ID::1135 
+[16:45:06][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:45:31][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72123   Valor:: 45  NmDocto :: 3159086  
+[16:45:43][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[16:45:48][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 962 . 
+[16:46:00][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:46:00][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72123  
+[16:46:00][177.138.68.44]> # Valor :: 45  
+[16:46:00][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[16:46:00][177.138.68.44]> # Usuario atribuido ID::962 
+[16:46:00][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:46:03][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 962 . 
+[16:46:35][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[16:46:42][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1053 . 
+[16:48:08][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1053 . 
+[16:48:16][177.138.68.44]> Aux Financeiro [8] deletou a remessa 66474 do campo id=1053. 
+[16:48:16][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1053 . 
+[16:49:18][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72246   Valor:: 334  NmDocto :: 5774103  
+[16:49:40][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:49:40][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72246  
+[16:49:40][177.138.68.44]> # Valor :: 334  
+[16:49:40][177.138.68.44]> # Referente ao mes :: 2018-10-15 
+[16:49:40][177.138.68.44]> # Usuario atribuido ID::1013 
+[16:49:40][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:50:09][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72219   Valor:: 542.9  NmDocto :: 3253421  
+[16:50:26][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:50:26][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72219  
+[16:50:26][177.138.68.44]> # Valor :: 542.9  
+[16:50:26][177.138.68.44]> # Referente ao mes :: 2018-02-15 
+[16:50:26][177.138.68.44]> # Usuario atribuido ID::989 
+[16:50:26][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:51:02][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72220   Valor:: 43.88  NmDocto :: 3253436  
+[16:51:21][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[16:51:27][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 989 . 
+[16:52:03][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:52:03][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72220  
+[16:52:03][177.138.68.44]> # Valor :: 43.88  
+[16:52:03][177.138.68.44]> # Referente ao mes :: 2018-07-15 
+[16:52:03][177.138.68.44]> # Usuario atribuido ID::989 
+[16:52:03][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:52:09][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 989 . 
+[16:53:21][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72124   Valor:: 200  NmDocto :: 9975792  
+[16:53:33][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[16:53:43][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1052 . 
+[16:53:55][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:53:55][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72124  
+[16:53:55][177.138.68.44]> # Valor :: 200  
+[16:53:55][177.138.68.44]> # Referente ao mes :: 2018-07-15 
+[16:53:55][177.138.68.44]> # Usuario atribuido ID::1052 
+[16:53:55][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:54:40][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72120   Valor:: 812  NmDocto :: 1011608  
+[16:55:00][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:55:00][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72120  
+[16:55:00][177.138.68.44]> # Valor :: 812  
+[16:55:00][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[16:55:00][177.138.68.44]> # Usuario atribuido ID::1097 
+[16:55:00][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:55:06][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[16:55:11][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1097 . 
+[16:57:30][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72095   Valor:: 263.05  NmDocto :: 1060595  
+[16:57:48][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:57:48][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72095  
+[16:57:48][177.138.68.44]> # Valor :: 263.05  
+[16:57:48][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[16:57:48][177.138.68.44]> # Usuario atribuido ID::948 
+[16:57:48][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:58:33][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72119   Valor:: 163.6  NmDocto :: 1140605  
+[16:58:53][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:58:53][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72119  
+[16:58:53][177.138.68.44]> # Valor :: 163.6  
+[16:58:53][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[16:58:53][177.138.68.44]> # Usuario atribuido ID::988 
+[16:58:53][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[16:59:43][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72137   Valor:: 60  NmDocto :: 5145380  
+[17:00:06][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:00:06][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72137  
+[17:00:06][177.138.68.44]> # Valor :: 60  
+[17:00:06][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:00:06][177.138.68.44]> # Usuario atribuido ID::1133 
+[17:00:06][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:00:52][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72249   Valor:: 79  NmDocto :: 6110863  
+[17:01:08][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:01:08][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72249  
+[17:01:08][177.138.68.44]> # Valor :: 79  
+[17:01:08][177.138.68.44]> # Referente ao mes :: 2018-10-15 
+[17:01:08][177.138.68.44]> # Usuario atribuido ID::934 
+[17:01:08][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:02:40][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[17:02:47][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 934 . 
+[17:03:19][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[17:03:26][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 934 . 
+[17:05:37][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 934 . 
+[17:05:43][177.138.68.44]> Aux Financeiro [8] deletou a remessa 71303 do campo id=934. 
+[17:05:43][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 934 . 
+[17:07:47][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72239   Valor:: 148  NmDocto :: 879162  
+[17:08:12][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:08:12][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72239  
+[17:08:12][177.138.68.44]> # Valor :: 148  
+[17:08:12][177.138.68.44]> # Referente ao mes :: 2018-07-15 
+[17:08:12][177.138.68.44]> # Usuario atribuido ID::1099 
+[17:08:12][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:08:37][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72238   Valor:: 398  NmDocto :: 879161  
+[17:08:51][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:08:51][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72238  
+[17:08:51][177.138.68.44]> # Valor :: 398  
+[17:08:51][177.138.68.44]> # Referente ao mes :: 2018-07-15 
+[17:08:51][177.138.68.44]> # Usuario atribuido ID::1099 
+[17:08:51][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:08:53][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[17:09:00][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1099 . 
+[17:09:49][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72185   Valor:: 7403.65  NmDocto :: 1055016  
+[17:10:13][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:10:13][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72185  
+[17:10:13][177.138.68.44]> # Valor :: 7403.65  
+[17:10:13][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:10:13][177.138.68.44]> # Usuario atribuido ID::1131 
+[17:10:13][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:10:23][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[17:10:29][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[17:12:28][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72241   Valor:: 87  NmDocto :: 6331281  
+[17:12:44][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:12:44][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72241  
+[17:12:44][177.138.68.44]> # Valor :: 87  
+[17:12:44][177.138.68.44]> # Referente ao mes :: 2018-10-15 
+[17:12:44][177.138.68.44]> # Usuario atribuido ID::1012 
+[17:12:44][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:13:20][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[17:13:25][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 890 . 
+[17:14:25][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72221   Valor:: 70  NmDocto :: 4937595  
+[17:15:21][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:15:21][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72221  
+[17:15:21][177.138.68.44]> # Valor :: 70  
+[17:15:21][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:15:21][177.138.68.44]> # Usuario atribuido ID::1219 
+[17:15:21][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:16:33][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 890 . 
+[17:16:36][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[17:16:45][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[17:22:54][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[17:23:11][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1213 . 
+[17:23:58][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72103   Valor:: 1955  NmDocto :: 2842525  
+[17:24:11][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:24:11][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72103  
+[17:24:11][177.138.68.44]> # Valor :: 1955  
+[17:24:11][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:24:11][177.138.68.44]> # Usuario atribuido ID::1213 
+[17:24:11][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:24:15][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1213 . 
+[17:29:15][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72149   Valor:: 650  NmDocto :: 1226565  
+[17:29:30][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:29:30][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72149  
+[17:29:30][177.138.68.44]> # Valor :: 650  
+[17:29:30][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:29:30][177.138.68.44]> # Usuario atribuido ID::1187 
+[17:29:30][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:29:50][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72140   Valor:: 2000  NmDocto :: 1226550  
+[17:30:06][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:30:06][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72140  
+[17:30:06][177.138.68.44]> # Valor :: 2000  
+[17:30:06][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:30:06][177.138.68.44]> # Usuario atribuido ID::1187 
+[17:30:06][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:30:47][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72154   Valor:: 130  NmDocto :: 1025750  
+[17:31:39][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[17:32:09][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[17:32:17][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1105 . 
+[17:35:34][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72109   Valor:: 62  NmDocto :: 8486015  
+[17:35:51][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:35:51][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72109  
+[17:35:51][177.138.68.44]> # Valor :: 62  
+[17:35:51][177.138.68.44]> # Referente ao mes :: 2018-08-15 
+[17:35:51][177.138.68.44]> # Usuario atribuido ID::1248 
+[17:35:51][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:36:21][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72178   Valor:: 525  NmDocto :: 1022933  
+[17:36:42][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:36:42][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72178  
+[17:36:42][177.138.68.44]> # Valor :: 525  
+[17:36:42][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:36:42][177.138.68.44]> # Usuario atribuido ID::960 
+[17:36:42][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:37:31][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72197   Valor:: 551.85  NmDocto :: 780542  
+[17:37:47][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:37:47][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72197  
+[17:37:47][177.138.68.44]> # Valor :: 551.85  
+[17:37:47][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:37:47][177.138.68.44]> # Usuario atribuido ID::1042 
+[17:37:47][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:38:12][177.138.68.44]> Aux Financeiro [8] acessou listagem de campos . 
+[17:38:20][177.138.68.44]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[17:39:00][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72217   Valor:: 180  NmDocto :: 2224086  
+[17:39:13][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:39:13][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72217  
+[17:39:13][177.138.68.44]> # Valor :: 180  
+[17:39:13][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:39:13][177.138.68.44]> # Usuario atribuido ID::1159 
+[17:39:13][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:39:37][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72228   Valor:: 225  NmDocto :: 189169  
+[17:39:49][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:39:49][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72228  
+[17:39:49][177.138.68.44]> # Valor :: 225  
+[17:39:49][177.138.68.44]> # Referente ao mes :: 2018-08-15 
+[17:39:49][177.138.68.44]> # Usuario atribuido ID::1154 
+[17:39:49][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:40:21][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72232   Valor:: 400  NmDocto :: 7970245  
+[17:40:35][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:40:35][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72232  
+[17:40:35][177.138.68.44]> # Valor :: 400  
+[17:40:35][177.138.68.44]> # Referente ao mes :: 2018-08-15 
+[17:40:35][177.138.68.44]> # Usuario atribuido ID::1102 
+[17:40:35][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:41:08][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72233   Valor:: 525  NmDocto :: 7970248  
+[17:41:22][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:41:22][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72233  
+[17:41:22][177.138.68.44]> # Valor :: 525  
+[17:41:22][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:41:22][177.138.68.44]> # Usuario atribuido ID::1102 
+[17:41:22][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:43:00][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72250   Valor:: 714  NmDocto :: 6088481  
+[17:43:17][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:43:17][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72250  
+[17:43:17][177.138.68.44]> # Valor :: 714  
+[17:43:17][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:43:17][177.138.68.44]> # Usuario atribuido ID::939 
+[17:43:17][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:43:43][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72237   Valor:: 297  NmDocto :: 117715  
+[17:44:00][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:44:00][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72237  
+[17:44:00][177.138.68.44]> # Valor :: 297  
+[17:44:00][177.138.68.44]> # Referente ao mes :: 2018-07-15 
+[17:44:00][177.138.68.44]> # Usuario atribuido ID::1056 
+[17:44:00][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:44:25][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72153   Valor:: 5686.6  NmDocto :: 1231002  
+[17:44:40][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:44:40][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72153  
+[17:44:40][177.138.68.44]> # Valor :: 5686.6  
+[17:44:40][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:44:40][177.138.68.44]> # Usuario atribuido ID::944 
+[17:44:40][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:45:08][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72099   Valor:: 604.65  NmDocto :: 307885  
+[17:45:26][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:45:26][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72099  
+[17:45:26][177.138.68.44]> # Valor :: 604.65  
+[17:45:26][177.138.68.44]> # Referente ao mes :: 2018-08-15 
+[17:45:26][177.138.68.44]> # Usuario atribuido ID::1022 
+[17:45:26][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:45:53][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72171   Valor:: 166.85  NmDocto :: 5392093  
+[17:46:09][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:46:09][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72171  
+[17:46:09][177.138.68.44]> # Valor :: 166.85  
+[17:46:09][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:46:09][177.138.68.44]> # Usuario atribuido ID::1190 
+[17:46:09][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:46:34][177.138.68.44]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72107   Valor:: 32.1  NmDocto :: 1000557  
+[17:46:56][177.138.68.44]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:46:56][177.138.68.44]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72107  
+[17:46:56][177.138.68.44]> # Valor :: 32.1  
+[17:46:56][177.138.68.44]> # Referente ao mes :: 2018-09-15 
+[17:46:56][177.138.68.44]> # Usuario atribuido ID::1199 
+[17:46:56][177.138.68.44]> ############################################## ------------------------------------------------------------ 
+[17:47:00][177.138.68.44]> Aux Financeiro [8] saiu do sistema . 
+[17:47:03][177.138.68.44]>  [8] saiu do sistema . 

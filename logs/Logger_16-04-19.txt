@@ -1,0 +1,72 @@
+[11:26:33][177.188.214.215]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 74076   Valor:: 20  NmDocto :: 7989070  
+[11:27:01][177.188.214.215]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:27:01][177.188.214.215]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 74076  
+[11:27:01][177.188.214.215]> # Valor :: 20  
+[11:27:01][177.188.214.215]> # Referente ao mes :: 2019-02-15 
+[11:27:01][177.188.214.215]> # Usuario atribuido ID::993 
+[11:27:01][177.188.214.215]> ############################################## ------------------------------------------------------------ 
+[11:27:27][177.188.214.215]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 74077   Valor:: 392  NmDocto :: 7989075  
+[11:27:43][177.188.214.215]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:27:43][177.188.214.215]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 74077  
+[11:27:43][177.188.214.215]> # Valor :: 392  
+[11:27:43][177.188.214.215]> # Referente ao mes :: 2019-02-15 
+[11:27:43][177.188.214.215]> # Usuario atribuido ID::993 
+[11:27:43][177.188.214.215]> ############################################## ------------------------------------------------------------ 
+[11:27:48][177.188.214.215]> Aux Financeiro [8] acessou listagem de campos . 
+[11:27:59][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 993 . 
+[11:30:28][177.188.214.215]> Aux Financeiro [8] acessou listagem de campos . 
+[11:31:46][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:31:49][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:33:03][177.188.214.215]> Aux Financeiro [8] acessou listagem de campos . 
+[11:33:10][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 969 . 
+[11:33:13][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 969 . 
+[11:34:15][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 969 . 
+[11:36:03][177.188.214.215]> Aux Financeiro [8] acessou listagem de campos . 
+[11:36:12][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[11:36:27][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[11:38:19][177.188.214.215]> Aux Financeiro [8] acessou listagem de campos . 
+[11:42:31][177.79.24.206]> #### Acesso não autorizado ###### 
+[11:42:31][177.79.24.206]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[11:42:31][177.79.24.206]> # ------------------------------------------------------>  
+[11:42:57][177.79.103.212]> Administrador Financeiro [5] fez o login no sistema. 
+[11:43:06][177.79.24.206]> Administrador Financeiro [5] acessou listagem de campos . 
+[11:43:31][177.79.103.212]> Administrador Financeiro [5] acessou as remessas do campo 1009 . 
+[11:43:58][177.79.24.206]> Administrador Financeiro [5] acessou as remessas do campo 1009 . 
+[11:44:14][177.79.103.212]> Administrador Financeiro [5] acessou as remessas do campo 1009 . 
+[11:44:24][177.79.24.206]> Administrador Financeiro [5] acessou as remessas do campo 1009 . 
+[11:44:35][177.79.103.212]> Administrador Financeiro [5] acessou as remessas do campo 1009 . 
+[11:45:14][177.79.103.212]> Administrador Financeiro [5] acessou as remessas do campo 1009 . 
+[11:56:14][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 962 . 
+[12:03:40][177.79.24.206]> Administrador Financeiro [5] acessou listagem de campos . 
+[12:03:51][177.79.24.206]> Administrador Financeiro [5] acessou as remessas do campo 1032 . 
+[12:36:35][177.79.102.55]> Administrador Financeiro [5] acessou listagem de campos . 
+[12:36:53][177.79.102.55]> Administrador Financeiro [5] acessou as remessas do campo 996 . 
+[12:36:58][177.79.102.55]> Administrador Financeiro [5] acessou as remessas do campo 996 . 
+[12:37:12][177.79.102.55]> Administrador Financeiro [5] acessou as remessas do campo 996 . 
+[13:09:06][177.79.102.55]> Administrador Financeiro [5] acessou listagem de campos . 
+[13:09:17][177.79.102.55]> Administrador Financeiro [5] acessou as remessas do campo 920 . 
+[13:09:21][177.79.103.250]> Administrador Financeiro [5] acessou as remessas do campo 920 . 
+[13:22:23][177.188.214.215]> Aux Financeiro [8] acessou listagem de campos . 
+[13:22:30][177.188.214.215]> Aux Financeiro [ID::8] acessou o cadastro de ARTUR ALVIM [ID::1036]  
+[13:22:39][177.188.214.215]> Aux Financeiro [8] acessou listagem de campos . 
+[13:27:37][177.188.214.215]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 74254   Valor:: 224.7  NmDocto :: 8103593  
+[13:29:18][177.188.214.215]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[13:29:18][177.188.214.215]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 74254  
+[13:29:18][177.188.214.215]> # Valor :: 224.7  
+[13:29:18][177.188.214.215]> # Referente ao mes :: 2019-02-15 
+[13:29:18][177.188.214.215]> # Usuario atribuido ID::1065 
+[13:29:18][177.188.214.215]> ############################################## ------------------------------------------------------------ 
+[13:29:36][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[14:13:23][177.188.214.215]> Aux Financeiro [8] acessou listagem de campos . 
+[14:13:32][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[14:13:35][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[14:13:42][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[14:13:53][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[14:14:00][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[14:28:51][177.188.214.215]> Aux Financeiro [8] fez o login no sistema. 
+[14:41:33][177.188.214.215]> Aux Financeiro [8] acessou listagem de campos . 
+[14:41:44][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[14:41:47][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[14:43:36][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[14:44:59][177.188.214.215]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[17:01:48][189.110.22.39]> Aux Financeiro [8] saiu do sistema . 

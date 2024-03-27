@@ -1,0 +1,359 @@
+[09:08:28][177.68.137.126]> Aux Financeiro [8] fez o login no sistema. 
+[09:20:12][177.68.137.126]> Aux Financeiro [8] acessou listagem de campos . 
+[09:20:20][177.68.137.126]> Aux Financeiro [ID::8] acessou o cadastro de SANTARÉM [ID::1297]  
+[09:25:37][177.68.137.126]> Aux Financeiro [ID::8] atualizou o cadastro de SANTARÉM [ID::1297]  
+[09:25:38][177.68.137.126]> Aux Financeiro [8] acessou listagem de campos . 
+[09:25:43][177.68.137.126]> Aux Financeiro [ID::8] acessou o cadastro de SANTAR&Eacute;M [ID::1296]  
+[09:26:25][177.68.137.126]> Aux Financeiro [8] acessou listagem de campos . 
+[09:26:32][177.68.137.126]> Aux Financeiro [ID::8] acessou o cadastro de SANTAR&Eacute;M [ID::1296]  
+[09:26:44][177.68.137.126]> Aux Financeiro [ID::8] atualizou o cadastro de  [ID::1296]  
+[09:26:45][177.68.137.126]> Aux Financeiro [8] acessou listagem de campos . 
+[09:26:50][177.68.137.126]> Aux Financeiro [ID::8] acessou o cadastro de  [ID::1296]  
+[09:31:27][177.68.137.126]> Aux Financeiro [8] acessou listagem de campos . 
+[09:31:41][177.68.137.126]> Aux Financeiro [ID::8] acessou o cadastro de  [ID::1296]  
+[09:31:47][177.68.137.126]> Aux Financeiro [ID::8] atualizou o cadastro de  [ID::1296]  
+[09:31:47][177.68.137.126]> Aux Financeiro [8] acessou listagem de campos . 
+[10:54:22][177.68.137.126]> Aux Financeiro [8] fez o login no sistema. 
+[11:09:49][177.68.137.126]> Aux Financeiro [8] acessou listagem de campos . 
+[11:09:56][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 898 . 
+[11:14:58][177.68.137.126]> Aux Financeiro [8] acessou listagem de campos . 
+[11:19:46][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1054 . 
+[11:20:33][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1054 . 
+[11:21:16][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1054 . 
+[11:21:50][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1054 . 
+[11:22:06][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[11:22:06][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[11:22:06][177.68.137.126]> # ID :: 87765 
+[11:22:06][177.68.137.126]> # ----------------------------------------------------------- 
+[11:24:07][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1260 . 
+[11:25:07][177.68.137.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87771   Valor:: 1800  NmDocto :: 6767318  
+[11:25:24][177.68.137.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:25:24][177.68.137.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87771  
+[11:25:24][177.68.137.126]> # Valor :: 1800  
+[11:25:24][177.68.137.126]> # Referente ao mes :: 2021-08-15 
+[11:25:24][177.68.137.126]> # Usuario atribuido ID::1260 
+[11:25:24][177.68.137.126]> ############################################## ------------------------------------------------------------ 
+[11:25:27][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1260 . 
+[11:26:29][177.68.137.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87699   Valor:: 56  NmDocto :: 1168081  
+[11:26:49][177.68.137.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:26:49][177.68.137.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87699  
+[11:26:49][177.68.137.126]> # Valor :: 56  
+[11:26:49][177.68.137.126]> # Referente ao mes :: 2021-08-15 
+[11:26:49][177.68.137.126]> # Usuario atribuido ID::972 
+[11:26:49][177.68.137.126]> ############################################## ------------------------------------------------------------ 
+[11:27:33][177.68.137.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87790   Valor:: 442.6  NmDocto :: 2611597  
+[11:27:54][177.68.137.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:27:54][177.68.137.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87790  
+[11:27:54][177.68.137.126]> # Valor :: 442.6  
+[11:27:54][177.68.137.126]> # Referente ao mes :: 2021-03-15 
+[11:27:54][177.68.137.126]> # Usuario atribuido ID::1165 
+[11:27:54][177.68.137.126]> ############################################## ------------------------------------------------------------ 
+[11:28:41][177.68.137.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87695   Valor:: 232.55  NmDocto :: 5804140  
+[11:29:09][177.68.137.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:29:09][177.68.137.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87695  
+[11:29:09][177.68.137.126]> # Valor :: 232.55  
+[11:29:09][177.68.137.126]> # Referente ao mes :: 2021-07-15 
+[11:29:09][177.68.137.126]> # Usuario atribuido ID::1295 
+[11:29:09][177.68.137.126]> ############################################## ------------------------------------------------------------ 
+[11:30:05][177.68.137.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87746   Valor:: 855  NmDocto :: 3280115  
+[11:30:20][177.68.137.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:30:20][177.68.137.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87746  
+[11:30:20][177.68.137.126]> # Valor :: 855  
+[11:30:20][177.68.137.126]> # Referente ao mes :: 2021-08-15 
+[11:30:20][177.68.137.126]> # Usuario atribuido ID::918 
+[11:30:20][177.68.137.126]> ############################################## ------------------------------------------------------------ 
+[11:31:02][177.68.137.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87769   Valor:: 100  NmDocto :: 5211231  
+[11:31:16][177.68.137.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:31:16][177.68.137.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87769  
+[11:31:16][177.68.137.126]> # Valor :: 100  
+[11:31:16][177.68.137.126]> # Referente ao mes :: 2021-09-15 
+[11:31:16][177.68.137.126]> # Usuario atribuido ID::1114 
+[11:31:16][177.68.137.126]> ############################################## ------------------------------------------------------------ 
+[11:41:29][177.68.137.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87740   Valor:: 1174  NmDocto :: 112873  
+[11:41:49][177.68.137.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:41:49][177.68.137.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87740  
+[11:41:49][177.68.137.126]> # Valor :: 1174  
+[11:41:49][177.68.137.126]> # Referente ao mes :: 2021-06-15 
+[11:41:49][177.68.137.126]> # Usuario atribuido ID::1100 
+[11:41:49][177.68.137.126]> ############################################## ------------------------------------------------------------ 
+[11:42:20][177.68.137.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87738   Valor:: 819  NmDocto :: 112065  
+[11:42:42][177.68.137.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:42:42][177.68.137.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87738  
+[11:42:42][177.68.137.126]> # Valor :: 819  
+[11:42:42][177.68.137.126]> # Referente ao mes :: 2021-05-15 
+[11:42:42][177.68.137.126]> # Usuario atribuido ID::1100 
+[11:42:42][177.68.137.126]> ############################################## ------------------------------------------------------------ 
+[11:44:17][177.68.137.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87739   Valor:: 676  NmDocto :: 112454  
+[11:45:01][177.68.137.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:45:01][177.68.137.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87739  
+[11:45:01][177.68.137.126]> # Valor :: 676  
+[11:45:01][177.68.137.126]> # Referente ao mes :: 2021-08-15 
+[11:45:01][177.68.137.126]> # Usuario atribuido ID::1100 
+[11:45:01][177.68.137.126]> ############################################## ------------------------------------------------------------ 
+[11:45:04][177.68.137.126]> Aux Financeiro [8] acessou listagem de campos . 
+[11:45:10][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1100 . 
+[11:48:35][177.68.137.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87742   Valor:: 80  NmDocto :: 7587598  
+[11:48:52][177.68.137.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:48:52][177.68.137.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87742  
+[11:48:52][177.68.137.126]> # Valor :: 80  
+[11:48:52][177.68.137.126]> # Referente ao mes :: 2021-08-15 
+[11:48:52][177.68.137.126]> # Usuario atribuido ID::928 
+[11:48:52][177.68.137.126]> ############################################## ------------------------------------------------------------ 
+[12:53:04][177.68.137.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87762   Valor:: 407  NmDocto :: 212124  
+[12:53:21][177.68.137.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:53:21][177.68.137.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87762  
+[12:53:21][177.68.137.126]> # Valor :: 407  
+[12:53:21][177.68.137.126]> # Referente ao mes :: 2021-08-15 
+[12:53:21][177.68.137.126]> # Usuario atribuido ID::982 
+[12:53:21][177.68.137.126]> ############################################## ------------------------------------------------------------ 
+[12:53:26][177.68.137.126]> Aux Financeiro [8] acessou listagem de campos . 
+[12:53:33][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 982 . 
+[13:11:50][177.68.137.126]> Aux Financeiro [8] fez o login no sistema. 
+[13:13:31][177.68.137.126]> Aux Financeiro [8] saiu do sistema . 
+[13:22:47][177.68.137.126]> Aux Financeiro [8] fez o login no sistema. 
+[13:24:35][177.68.137.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:25:47][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 982 . 
+[13:37:00][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 994 . 
+[13:37:55][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 930 . 
+[13:38:27][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[13:38:55][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1041 . 
+[13:39:28][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1148 . 
+[13:39:55][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1243 . 
+[13:40:33][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[13:41:04][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 893 . 
+[13:41:51][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[13:42:36][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[13:42:36][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[13:42:36][177.68.137.126]> # ID :: 87688 
+[13:42:36][177.68.137.126]> # ----------------------------------------------------------- 
+[13:43:41][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 914 . 
+[13:44:23][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1053 . 
+[13:44:54][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[13:45:29][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 980 . 
+[13:45:59][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1172 . 
+[13:46:35][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1067 . 
+[13:46:46][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[13:46:46][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[13:46:46][177.68.137.126]> # ID :: 87694 
+[13:46:46][177.68.137.126]> # ----------------------------------------------------------- 
+[13:47:45][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1114 . 
+[13:48:29][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1252 . 
+[13:49:03][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1112 . 
+[13:50:22][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 993 . 
+[13:50:50][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[13:50:50][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[13:50:50][177.68.137.126]> # ID :: 87696 
+[13:50:50][177.68.137.126]> # ----------------------------------------------------------- 
+[13:51:40][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1164 . 
+[13:58:45][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1127 . 
+[14:00:44][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1286 . 
+[14:02:50][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 990 . 
+[14:06:00][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1222 . 
+[14:06:29][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1012 . 
+[14:07:08][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 948 . 
+[14:07:38][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1013 . 
+[14:08:10][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1265 . 
+[14:08:41][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1056 . 
+[14:10:15][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[14:10:15][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[14:10:15][177.68.137.126]> # ID :: 87700 
+[14:10:15][177.68.137.126]> # ----------------------------------------------------------- 
+[14:18:37][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[14:19:04][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1279 . 
+[14:19:40][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1267 . 
+[14:20:07][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1245 . 
+[14:20:51][177.68.137.126]> Aux Financeiro [8] acessou listagem de campos . 
+[14:21:36][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 941 . 
+[14:22:03][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1222 . 
+[14:22:35][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1090 . 
+[14:22:47][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[14:22:47][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[14:22:47][177.68.137.126]> # ID :: 87708 
+[14:22:47][177.68.137.126]> # ----------------------------------------------------------- 
+[14:23:01][177.68.137.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 87702   Valor:: 200  NmDocto :: 826170  
+[14:23:10][177.68.137.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:23:10][177.68.137.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 87702  
+[14:23:10][177.68.137.126]> # Valor :: 200  
+[14:23:10][177.68.137.126]> # Referente ao mes :: 2021-09-15 
+[14:23:10][177.68.137.126]> # Usuario atribuido ID::1219 
+[14:23:10][177.68.137.126]> ############################################## ------------------------------------------------------------ 
+[14:25:18][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1081 . 
+[14:25:45][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1192 . 
+[14:26:19][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1108 . 
+[14:26:45][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1183 . 
+[14:27:13][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 934 . 
+[14:27:49][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1106 . 
+[14:28:16][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1095 . 
+[14:29:01][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 962 . 
+[14:29:35][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1039 . 
+[14:29:46][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[14:29:46][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[14:29:46][177.68.137.126]> # ID :: 87729 
+[14:29:46][177.68.137.126]> # ----------------------------------------------------------- 
+[14:30:53][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1133 . 
+[14:31:19][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 945 . 
+[14:31:46][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 970 . 
+[14:32:16][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1181 . 
+[14:35:33][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 926 . 
+[14:36:00][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1294 . 
+[14:36:25][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1024 . 
+[14:37:10][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 977 . 
+[14:38:53][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[14:38:53][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[14:38:53][177.68.137.126]> # ID :: 87734 
+[14:38:53][177.68.137.126]> # ----------------------------------------------------------- 
+[14:39:38][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1293 . 
+[14:40:08][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1044 . 
+[14:40:46][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 932 . 
+[14:41:16][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[14:42:14][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1040 . 
+[14:42:47][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 892 . 
+[14:43:16][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 981 . 
+[14:43:41][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1014 . 
+[14:44:11][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1282 . 
+[14:44:39][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 925 . 
+[14:45:08][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1006 . 
+[14:45:35][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1278 . 
+[14:46:02][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[14:46:02][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[14:46:02][177.68.137.126]> # ID :: 87741 
+[14:46:02][177.68.137.126]> # ----------------------------------------------------------- 
+[14:49:10][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[14:50:07][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1022 . 
+[14:50:53][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[14:51:32][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 986 . 
+[14:52:11][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1241 . 
+[14:52:48][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1033 . 
+[14:53:27][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1083 . 
+[14:54:46][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[14:55:27][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 942 . 
+[14:55:55][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1187 . 
+[14:56:51][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1256 . 
+[14:57:27][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1255 . 
+[14:58:15][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 954 . 
+[14:59:00][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[14:59:11][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[14:59:11][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[14:59:11][177.68.137.126]> # ID :: 87747 
+[14:59:11][177.68.137.126]> # ----------------------------------------------------------- 
+[15:03:43][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1004 . 
+[15:04:08][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1101 . 
+[15:04:39][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 956 . 
+[15:05:06][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 953 . 
+[15:05:36][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1042 . 
+[15:18:20][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1160 . 
+[15:19:18][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1010 . 
+[15:19:52][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1268 . 
+[15:20:25][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 969 . 
+[15:20:59][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[15:21:43][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 896 . 
+[15:22:12][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1275 . 
+[15:22:40][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1066 . 
+[15:23:06][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[15:23:36][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[15:25:04][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1055 . 
+[15:25:31][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 979 . 
+[15:25:42][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[15:25:42][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[15:25:42][177.68.137.126]> # ID :: 87754 
+[15:25:42][177.68.137.126]> # ----------------------------------------------------------- 
+[15:26:35][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1179 . 
+[15:27:03][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1145 . 
+[15:27:32][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 958 . 
+[15:27:59][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1047 . 
+[15:28:36][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[15:29:14][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 891 . 
+[15:30:11][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1199 . 
+[15:30:37][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 975 . 
+[15:45:28][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1002 . 
+[15:46:13][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1082 . 
+[15:47:56][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1023 . 
+[15:48:34][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1272 . 
+[15:49:03][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1110 . 
+[15:49:14][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[15:49:14][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[15:49:14][177.68.137.126]> # ID :: 87761 
+[15:49:14][177.68.137.126]> # ----------------------------------------------------------- 
+[15:50:12][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1274 . 
+[15:50:51][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 993 . 
+[15:51:20][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1229 . 
+[15:51:53][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 921 . 
+[15:54:53][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 997 . 
+[15:56:07][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1009 . 
+[15:56:40][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1028 . 
+[15:57:13][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 936 . 
+[16:05:18][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 989 . 
+[16:06:19][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1259 . 
+[16:07:12][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1194 . 
+[16:07:55][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[16:10:01][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 923 . 
+[16:10:53][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1053 . 
+[16:11:22][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1030 . 
+[16:11:50][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1009 . 
+[16:12:42][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1148 . 
+[16:12:57][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[16:12:57][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[16:12:57][177.68.137.126]> # ID :: 87767 
+[16:12:57][177.68.137.126]> # ----------------------------------------------------------- 
+[16:15:19][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1009 . 
+[16:17:31][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 901 . 
+[16:17:58][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1188 . 
+[16:18:28][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1017 . 
+[16:18:54][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1094 . 
+[16:19:22][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[16:19:48][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1134 . 
+[16:20:54][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1105 . 
+[16:22:14][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 909 . 
+[16:22:44][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[16:22:57][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[16:22:57][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[16:22:57][177.68.137.126]> # ID :: 87768 
+[16:22:57][177.68.137.126]> # ----------------------------------------------------------- 
+[16:24:17][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1252 . 
+[16:25:30][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1248 . 
+[16:26:23][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1038 . 
+[16:26:56][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1258 . 
+[16:27:29][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1097 . 
+[16:27:55][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1088 . 
+[16:29:06][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1031 . 
+[16:29:19][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[16:29:19][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[16:29:19][177.68.137.126]> # ID :: 87774 
+[16:29:19][177.68.137.126]> # ----------------------------------------------------------- 
+[16:30:31][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1277 . 
+[16:31:00][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1180 . 
+[16:31:30][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1025 . 
+[16:32:00][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 930 . 
+[16:32:30][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1253 . 
+[16:32:58][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 905 . 
+[16:33:41][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1021 . 
+[16:34:09][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1116 . 
+[16:35:03][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1036 . 
+[16:38:18][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1107 . 
+[16:38:59][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1129 . 
+[16:39:25][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 973 . 
+[16:40:02][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[16:40:35][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 987 . 
+[16:41:06][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[16:41:43][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1109 . 
+[16:42:11][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[16:43:01][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1270 . 
+[16:43:30][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 894 . 
+[16:44:02][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[16:44:48][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[16:44:48][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[16:44:48][177.68.137.126]> # ID :: 87776 
+[16:44:48][177.68.137.126]> # ----------------------------------------------------------- 
+[16:45:41][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1285 . 
+[16:46:11][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1146 . 
+[16:48:33][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1172 . 
+[16:49:03][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 978 . 
+[16:49:33][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 987 . 
+[16:50:01][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 1075 . 
+[16:50:31][177.68.137.126]> Aux Financeiro [8] acessou as remessas do campo 964 . 
+[16:50:41][177.68.137.126]> # Extrato Bradesco [Exclusao] ## 
+[16:50:41][177.68.137.126]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[16:50:41][177.68.137.126]> # ID :: 87779 
+[16:50:41][177.68.137.126]> # ----------------------------------------------------------- 
+[16:52:48][177.68.137.126]> Aux Financeiro [8] saiu do sistema . 
+[16:52:52][177.68.137.126]>  [8] saiu do sistema . 

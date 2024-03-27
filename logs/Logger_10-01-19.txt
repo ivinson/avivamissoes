@@ -1,0 +1,84 @@
+[09:13:17][179.98.224.133]> Aux Financeiro [8] fez o login no sistema. 
+[09:35:41][179.98.224.133]> Aux Financeiro [8] acessou listagem de campos . 
+[10:29:54][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[10:30:00][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[10:52:57][179.98.224.133]> Aux Financeiro [8] acessou listagem de campos . 
+[10:53:07][179.98.224.133]> Aux Financeiro [ID::8] acessou o cadastro de CLEVELÂNDIA [ID::1012]  
+[10:56:03][179.98.224.133]> Aux Financeiro [8] acessou listagem de campos . 
+[10:56:09][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[10:56:20][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[10:57:14][179.98.224.133]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72904   Valor:: 127.5  NmDocto :: 1007894  
+[10:57:49][179.98.224.133]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:57:49][179.98.224.133]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72904  
+[10:57:49][179.98.224.133]> # Valor :: 127.5  
+[10:57:49][179.98.224.133]> # Referente ao mes :: 2018-11-15 
+[10:57:49][179.98.224.133]> # Usuario atribuido ID::1061 
+[10:57:49][179.98.224.133]> ############################################## ------------------------------------------------------------ 
+[10:58:49][179.98.224.133]> Aux Financeiro [8] acessou listagem de campos . 
+[10:58:57][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[10:59:00][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[10:59:17][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[11:14:51][179.98.224.133]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72903   Valor:: 94  NmDocto :: 1007894  
+[11:15:08][179.98.224.133]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:15:08][179.98.224.133]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72903  
+[11:15:08][179.98.224.133]> # Valor :: 94  
+[11:15:08][179.98.224.133]> # Referente ao mes :: 2018-11-15 
+[11:15:08][179.98.224.133]> # Usuario atribuido ID::1061 
+[11:15:08][179.98.224.133]> ############################################## ------------------------------------------------------------ 
+[11:15:12][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[13:16:17][179.98.224.133]> Aux Financeiro [8] acessou listagem de campos . 
+[13:16:39][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[13:17:04][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[13:17:51][179.98.224.133]> Aux Financeiro [8] acessou listagem de campos . 
+[13:17:58][179.98.224.133]> Aux Financeiro [ID::8] acessou o cadastro de JAÇANA [ID::1103]  
+[13:21:43][179.98.224.133]> Aux Financeiro [8] acessou listagem de campos . 
+[13:21:49][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[13:23:47][179.98.224.133]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72830   Valor:: 350  NmDocto :: 7681668  
+[14:04:21][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[14:04:52][179.98.224.133]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:04:52][179.98.224.133]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72830  
+[14:04:52][179.98.224.133]> # Valor :: 350  
+[14:04:52][179.98.224.133]> # Referente ao mes :: 2018-08-15 
+[14:04:52][179.98.224.133]> # Usuario atribuido ID::1103 
+[14:04:52][179.98.224.133]> ############################################## ------------------------------------------------------------ 
+[14:05:10][179.98.224.133]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72930   Valor:: 360  NmDocto :: 7681908  
+[14:05:26][179.98.224.133]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:05:26][179.98.224.133]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72930  
+[14:05:26][179.98.224.133]> # Valor :: 360  
+[14:05:26][179.98.224.133]> # Referente ao mes :: 2018-09-15 
+[14:05:26][179.98.224.133]> # Usuario atribuido ID::1103 
+[14:05:26][179.98.224.133]> ############################################## ------------------------------------------------------------ 
+[14:05:31][179.98.224.133]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[15:55:10][179.98.224.133]> Karina Machado Pereira [4] fez o login no sistema. 
+[15:55:34][179.98.224.133]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:05:39][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1151 . 
+[16:05:42][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1151 . 
+[16:07:59][179.98.224.133]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:08:07][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1223 . 
+[16:08:10][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1223 . 
+[16:08:17][179.98.224.133]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:08:23][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1021 . 
+[16:08:25][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1021 . 
+[16:09:24][179.98.224.133]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:09:30][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1152 . 
+[16:09:32][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1152 . 
+[16:11:28][179.98.224.133]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:11:34][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1150 . 
+[16:11:36][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1150 . 
+[16:11:44][179.98.224.133]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:11:50][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1137 . 
+[16:11:53][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1137 . 
+[16:12:01][179.98.224.133]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:12:05][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1166 . 
+[16:12:08][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 1166 . 
+[16:12:11][179.98.224.133]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:12:17][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 897 . 
+[16:12:21][179.98.224.133]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:12:38][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 923 . 
+[16:12:41][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 923 . 
+[16:12:45][179.98.224.133]> Karina Machado Pereira [4] acessou listagem de campos . 
+[16:12:55][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 921 . 
+[16:12:57][179.98.224.133]> Karina Machado Pereira [4] acessou as remessas do campo 921 . 
+[16:49:32][179.98.224.133]> Aux Financeiro [8] acessou listagem de campos . 
+[17:04:40][179.98.224.133]> Aux Financeiro [8] saiu do sistema . 
+[17:04:44][179.98.224.133]>  [8] saiu do sistema . 

@@ -1,0 +1,48 @@
+[09:26:44][189.46.255.59]> Aux Financeiro [8] fez o login no sistema. 
+[09:32:42][189.46.255.59]> Aux Financeiro [8] acessou listagem de campos . 
+[09:32:46][189.46.255.59]> Aux Financeiro [8] acessou as remessas do campo 1004 . 
+[09:34:47][189.46.255.59]> Aux Financeiro [8] acessou listagem de campos . 
+[10:41:34][189.46.255.59]> #### Acesso não autorizado ###### 
+[10:41:34][189.46.255.59]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[10:41:34][189.46.255.59]> # ------------------------------------------------------>  
+[10:41:41][189.46.255.59]> Administrador Financeiro [5] fez o login no sistema. 
+[10:41:44][189.46.255.59]> Administrador Financeiro [5] acessou listagem de campos . 
+[14:56:51][189.46.255.59]> Aux Financeiro [8] acessou listagem de campos . 
+[14:57:10][189.46.255.59]> Administrador Financeiro [5] acessou listagem de campos . 
+[14:57:18][189.46.255.59]> Administrador Financeiro [5] acessou as remessas do campo 1000 . 
+[14:57:21][189.46.255.59]> Administrador Financeiro [5] acessou as remessas do campo 1000 . 
+[14:57:58][189.46.255.59]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[14:58:00][189.46.255.59]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[14:58:56][189.46.255.59]> Administrador Financeiro [5] acessou as remessas do campo 1000 . 
+[14:59:19][189.46.255.59]> Aux Financeiro [8] acessou listagem de campos . 
+[14:59:42][189.46.255.59]> Aux Financeiro [ID::8] acessou o cadastro de POXORÉU [ID::1018]  
+[14:59:42][189.46.255.59]> Aux Financeiro [ID::8] acessou o cadastro de POXORÉU [ID::1018]  
+[14:59:52][189.46.255.59]> Aux Financeiro [8] acessou listagem de campos . 
+[14:59:58][189.46.255.59]> Aux Financeiro [ID::8] acessou o cadastro de POXORÉU [ID::1018]  
+[15:04:24][189.46.255.59]> Aux Financeiro [8] fez o login no sistema. 
+[15:04:36][189.46.255.59]> Aux Financeiro [8] acessou listagem de campos . 
+[15:04:42][189.46.255.59]> Aux Financeiro [ID::8] acessou o cadastro de PRESIDENTE EPITÁCIO [ID::1153]  
+[15:47:07][189.46.255.59]> Aux Financeiro [8] acessou listagem de campos . 
+[15:47:13][189.46.255.59]> Aux Financeiro [ID::8] acessou o cadastro de JARDIM PETRONI [ID::1169]  
+[15:47:27][189.46.255.59]> Aux Financeiro [8] acessou listagem de campos . 
+[15:47:35][189.46.255.59]> Aux Financeiro [ID::8] acessou o cadastro de PARQUE JAÇATUBA [ID::1015]  
+[15:47:58][189.46.255.59]> Aux Financeiro [ID::8] atualizou o cadastro de PARQUE JAÇATUBA [ID::1015]  
+[15:47:59][189.46.255.59]> Aux Financeiro [8] acessou listagem de campos . 
+[15:48:06][189.46.255.59]> Aux Financeiro [ID::8] acessou o cadastro de ITANHAÉM [ID::1160]  
+[15:48:14][189.46.255.59]> Aux Financeiro [8] acessou listagem de campos . 
+[15:50:05][189.46.255.59]> Aux Financeiro [8] acessou listagem de campos . 
+[15:50:29][189.46.255.59]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 76259   Valor:: 2000  NmDocto :: 591294  
+[15:50:48][189.46.255.59]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:50:48][189.46.255.59]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 76259  
+[15:50:48][189.46.255.59]> # Valor :: 2000  
+[15:50:48][189.46.255.59]> # Referente ao mes :: 2019-06-15 
+[15:50:48][189.46.255.59]> # Usuario atribuido ID::1219 
+[15:50:48][189.46.255.59]> ############################################## ------------------------------------------------------------ 
+[15:50:48][189.46.255.59]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:50:48][189.46.255.59]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 76259  
+[15:50:48][189.46.255.59]> # Valor :: 2000  
+[15:50:48][189.46.255.59]> # Referente ao mes :: 2019-06-15 
+[15:50:48][189.46.255.59]> # Usuario atribuido ID::1219 
+[15:50:48][189.46.255.59]> ############################################## ------------------------------------------------------------ 
+[17:05:36][189.46.255.59]> Aux Financeiro [8] saiu do sistema . 
+[17:05:39][189.46.255.59]>  [8] saiu do sistema . 

@@ -1,0 +1,18 @@
+[08:57:30][191.19.101.245]> Aux Financeiro [8] fez o login no sistema. 
+[10:53:35][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[15:53:19][191.19.101.245]> #### Acesso não autorizado ###### 
+[15:53:19][191.19.101.245]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[15:53:19][191.19.101.245]> # ------------------------------------------------------>  
+[15:53:19][66.249.83.9]> #### Acesso não autorizado ###### 
+[15:53:19][66.249.83.9]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960 
+[15:53:19][66.249.83.9]> # ------------------------------------------------------>  
+[15:53:27][191.19.101.245]> Administrador Financeiro [5] fez o login no sistema. 
+[15:53:32][191.19.101.245]> Administrador Financeiro [5] acessou listagem de campos . 
+[16:09:01][191.19.101.245]> Aux Financeiro [ID::8] acessou o cadastro de PRESIDENTE VENCESLAU [ID::969]  
+[16:10:18][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[17:08:24][191.19.101.245]> Aux Financeiro [ID::8] acessou o cadastro de PRESIDENTE VENCESLAU [ID::969]  
+[17:13:22][191.19.101.245]> Aux Financeiro [ID::8] atualizou o cadastro de PRESIDENTE VENCESLAU [ID::969]  
+[17:13:23][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[17:13:30][191.19.101.245]> Aux Financeiro [ID::8] acessou o cadastro de PRESIDENTE VENCESLAU [ID::969]  
+[17:14:57][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[17:15:00][191.19.101.245]> Aux Financeiro [8] saiu do sistema . 

@@ -1,0 +1,50 @@
+[14:21:08][191.19.101.245]> Aux Financeiro [8] fez o login no sistema. 
+[14:21:11][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[14:21:19][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[14:24:52][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[14:25:09][191.19.101.245]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 82242   Valor:: 300  NmDocto :: 5603009  
+[14:25:41][191.19.101.245]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:25:41][191.19.101.245]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 82242  
+[14:25:41][191.19.101.245]> # Valor :: 300  
+[14:25:41][191.19.101.245]> # Referente ao mes :: 2020-04-15 
+[14:25:41][191.19.101.245]> # Usuario atribuido ID::1103 
+[14:25:41][191.19.101.245]> ############################################## ------------------------------------------------------------ 
+[14:25:55][191.19.101.245]> Aux Financeiro [ID::8] acessou o cadastro de JAÇANA [ID::1103]  
+[14:26:29][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[14:26:50][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[14:49:35][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[14:49:45][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1029 . 
+[15:11:33][191.19.101.245]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 82212   Valor:: 73  NmDocto :: 5094074  
+[15:11:58][191.19.101.245]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:11:58][191.19.101.245]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 82212  
+[15:11:58][191.19.101.245]> # Valor :: 73  
+[15:11:58][191.19.101.245]> # Referente ao mes :: 2020-06-15 
+[15:11:58][191.19.101.245]> # Usuario atribuido ID::1279 
+[15:11:58][191.19.101.245]> ############################################## ------------------------------------------------------------ 
+[15:12:32][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[15:12:40][191.19.101.245]> Aux Financeiro [ID::8] acessou o cadastro de ARACI [ID::1279]  
+[15:13:27][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[15:13:39][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1279 . 
+[15:15:26][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[15:15:33][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1030 . 
+[15:16:30][191.19.101.245]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 82275   Valor:: 154  NmDocto :: 562953  
+[15:16:54][191.19.101.245]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:16:54][191.19.101.245]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 82275  
+[15:16:54][191.19.101.245]> # Valor :: 154  
+[15:16:54][191.19.101.245]> # Referente ao mes :: 2020-06-15 
+[15:16:54][191.19.101.245]> # Usuario atribuido ID::949 
+[15:16:54][191.19.101.245]> ############################################## ------------------------------------------------------------ 
+[15:17:19][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[15:17:29][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 949 . 
+[15:33:03][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[15:33:09][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[15:35:24][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[15:35:35][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1172 . 
+[15:35:41][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[15:36:00][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1233 . 
+[15:36:04][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[15:36:28][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1044 . 
+[16:08:28][191.19.101.245]> Aux Financeiro [8] saiu do sistema . 
+[22:37:08][66.249.83.31]> #### Acesso não autorizado ###### 
+[22:37:08][66.249.83.31]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960 
+[22:37:08][66.249.83.31]> # ------------------------------------------------------>  

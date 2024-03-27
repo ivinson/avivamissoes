@@ -1,0 +1,21 @@
+[09:19:04][189.97.86.26]> Aux Financeiro [8] fez o login no sistema. 
+[13:11:33][189.97.86.26]> Aux Financeiro [8] acessou listagem de campos . 
+[13:11:52][189.97.86.26]> Aux Financeiro [ID::8] acessou o cadastro de GOIÂNIA [ID::1010]  
+[13:14:13][189.97.86.26]> Aux Financeiro [ID::8] atualizou o cadastro de GOIÂNIA [ID::1010]  
+[13:14:13][189.97.86.26]> Aux Financeiro [8] acessou listagem de campos . 
+[14:12:02][189.97.86.26]> Aux Financeiro [ID::8] acessou o cadastro de SANTANA DO LIVRAMENTO [ID::1055]  
+[14:24:20][189.97.86.26]> Aux Financeiro [8] acessou listagem de campos . 
+[15:09:32][189.97.86.26]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA VILA RIO NEGRO [ID::1149]  
+[15:09:54][189.97.86.26]> Aux Financeiro [8] acessou listagem de campos . 
+[15:10:03][189.97.86.26]> Aux Financeiro [ID::8] acessou o cadastro de CAMPINAS  BONFIM /JD. AURELIA  [ID::1065]  
+[15:10:14][189.97.86.26]> Aux Financeiro [8] acessou listagem de campos . 
+[15:27:54][66.249.83.51]> #### Acesso não autorizado ###### 
+[15:27:54][66.249.83.51]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960 
+[15:27:54][66.249.83.51]> # ------------------------------------------------------>  
+[15:33:47][189.97.86.26]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[15:35:10][189.97.86.26]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[15:36:09][189.97.86.26]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[15:36:21][189.97.86.26]> Aux Financeiro [8] deletou a remessa 76113 do campo id=1223. 
+[15:36:21][189.97.86.26]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[15:38:42][189.97.86.26]> Aux Financeiro [8] acessou listagem de campos . 
+[17:06:48][189.97.86.26]> Aux Financeiro [8] saiu do sistema . 

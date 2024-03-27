@@ -1,0 +1,12 @@
+[10:16:24][189.97.86.26]> Aux Financeiro [8] fez o login no sistema. 
+[13:40:27][189.97.86.26]> Aux Financeiro [8] acessou listagem de campos . 
+[13:40:42][189.97.86.26]> Aux Financeiro [ID::8] acessou o cadastro de SANTA TEREZINHA [ID::1224]  
+[13:50:06][189.97.86.26]> Aux Financeiro [ID::8] atualizou o cadastro de SANTA TEREZINHA [ID::1224]  
+[13:50:06][189.97.86.26]> Aux Financeiro [8] acessou listagem de campos . 
+[13:50:07][189.97.86.26]> Aux Financeiro [8] acessou listagem de campos . 
+[13:50:12][189.97.86.26]> Aux Financeiro [ID::8] acessou o cadastro de CARIACICA [ID::1168]  
+[17:12:02][189.97.86.26]> Aux Financeiro [8] acessou listagem de campos . 
+[17:12:05][189.97.86.26]> Aux Financeiro [8] saiu do sistema . 
+[17:13:29][66.249.83.49]> #### Acesso não autorizado ###### 
+[17:13:29][66.249.83.49]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960 
+[17:13:29][66.249.83.49]> # ------------------------------------------------------>  

@@ -1,0 +1,76 @@
+[09:13:46][152.250.215.108]> Aux Financeiro [8] fez o login no sistema. 
+[09:59:56][152.250.215.108]> Aux Financeiro [8] fez o login no sistema. 
+[09:59:56][152.250.215.108]> Aux Financeiro [8] fez o login no sistema. 
+[10:00:01][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[10:10:16][152.250.215.108]> Aux Financeiro [ID::8] acessou o cadastro de MARABÁ [ID::1030]  
+[10:10:16][152.250.215.108]> Aux Financeiro [ID::8] acessou o cadastro de MARABÁ [ID::1030]  
+[10:10:19][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[10:13:53][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[10:14:04][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 902 . 
+[10:14:57][152.250.215.108]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 73532   Valor:: 228  NmDocto :: 1578099  
+[10:15:30][152.250.215.108]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:15:30][152.250.215.108]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 73532  
+[10:15:30][152.250.215.108]> # Valor :: 228  
+[10:15:30][152.250.215.108]> # Referente ao mes :: 2018-12-15 
+[10:15:30][152.250.215.108]> # Usuario atribuido ID::902 
+[10:15:30][152.250.215.108]> ############################################## ------------------------------------------------------------ 
+[10:17:14][152.250.215.108]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72409   Valor:: 322.7  NmDocto :: 1578099  
+[10:17:44][152.250.215.108]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:17:44][152.250.215.108]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72409  
+[10:17:44][152.250.215.108]> # Valor :: 322.7  
+[10:17:44][152.250.215.108]> # Referente ao mes :: 2018-10-15 
+[10:17:44][152.250.215.108]> # Usuario atribuido ID::902 
+[10:17:44][152.250.215.108]> ############################################## ------------------------------------------------------------ 
+[10:20:23][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 902 . 
+[10:20:44][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 902 . 
+[10:23:54][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[10:25:58][170.244.28.105]> Administrador Financeiro [5] acessou as remessas do campo 936 . 
+[10:39:06][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[10:39:09][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[11:09:56][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[11:10:38][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[11:10:40][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[11:10:50][152.250.215.108]> Aux Financeiro [8] deletou a remessa 67251 do campo id=1131. 
+[11:10:51][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[11:10:54][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[11:13:43][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[11:13:47][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[11:13:49][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[11:24:48][152.250.215.108]> Aux Financeiro [8] fez o login no sistema. 
+[11:28:34][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[11:28:40][152.250.215.108]> Aux Financeiro [ID::8] acessou o cadastro de BARRA DO QUARAÍ [ID::962]  
+[11:29:29][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[14:15:50][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[14:16:04][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 891 . 
+[14:16:06][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 891 . 
+[14:21:36][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[14:22:05][152.250.215.108]> Aux Financeiro [ID::8] acessou o cadastro de S&Atilde;O JOS&Eacute; DO RIO PARDO [ID::1260]  
+[14:22:18][152.250.215.108]> Aux Financeiro [ID::8] atualizou o cadastro de SÃO JOSÉ DO RIO PARDO [ID::1260]  
+[14:22:18][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[14:22:52][152.250.215.108]> Aux Financeiro [ID::8] acessou o cadastro de SÃO JOSÉ DO RIO PARDO [ID::1260]  
+[14:23:17][152.250.215.108]> Aux Financeiro [ID::8] atualizou o cadastro de SÃO JOSÉ DO RIO PARDO [ID::1260]  
+[14:23:17][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[14:31:22][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[15:18:27][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1036 . 
+[15:18:28][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1036 . 
+[15:18:37][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1036 . 
+[15:18:40][152.250.215.108]> Aux Financeiro [8] acessou as remessas do campo 1036 . 
+[15:37:31][152.250.215.108]> Aux Financeiro [ID::8] acessou o cadastro de JANDAIA DO SUL [ID::1181]  
+[15:39:25][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[15:39:30][152.250.215.108]> Aux Financeiro [ID::8] acessou o cadastro de ITÚ [ID::1166]  
+[15:52:01][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[15:52:54][152.250.215.108]> Aux Financeiro [ID::8] acessou o cadastro de SÃO JOSÉ DO RIO PARDO [ID::1260]  
+[15:55:03][152.250.215.108]> Aux Financeiro [ID::8] atualizou o cadastro de SÃO JOSÉ DO RIO PARDO [ID::1260]  
+[15:55:03][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[15:55:41][152.250.215.108]> Aux Financeiro [ID::8] acessou o cadastro de SÃO JOSÉ DO RIO PARDO [ID::1260]  
+[15:57:40][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[15:58:50][152.250.215.108]> Aux Financeiro [ID::8] acessou o cadastro de SÃO JOSÉ DO RIO PARDO [ID::1260]  
+[16:02:00][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[16:03:08][152.250.215.108]> Aux Financeiro [ID::8] acessou o cadastro de SÃO JOSÉ DO RIO PARDO [ID::1260]  
+[16:03:25][152.250.215.108]> Aux Financeiro [ID::8] atualizou o cadastro de SÃO JOSÉ DO RIO PARDO [ID::1260]  
+[16:03:25][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[16:17:42][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[16:17:47][152.250.215.108]> Aux Financeiro [ID::8] acessou o cadastro de MARABÁ [ID::1030]  
+[16:19:12][152.250.215.108]> Aux Financeiro [8] acessou listagem de campos . 
+[17:23:48][152.250.215.108]> Aux Financeiro [8] saiu do sistema . 
+[17:23:54][152.250.215.108]>  [8] saiu do sistema . 

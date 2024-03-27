@@ -1,0 +1,20 @@
+[09:14:32][200.100.188.18]> Aux Financeiro [8] fez o login no sistema. 
+[10:34:12][200.100.188.18]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86124   Valor:: 280  NmDocto :: 2916815  
+[10:34:40][200.100.188.18]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:34:40][200.100.188.18]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86124  
+[10:34:40][200.100.188.18]> # Valor :: 280  
+[10:34:40][200.100.188.18]> # Referente ao mes :: 2021-04-15 
+[10:34:40][200.100.188.18]> # Usuario atribuido ID::1212 
+[10:34:40][200.100.188.18]> ############################################## ------------------------------------------------------------ 
+[10:34:45][200.100.188.18]> Aux Financeiro [8] acessou listagem de campos . 
+[10:34:52][200.100.188.18]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[14:20:41][191.182.89.218]>  [] acessou listagem de campos . 
+[17:02:53][200.100.188.18]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[17:02:57][200.100.188.18]> Aux Financeiro [8] acessou listagem de campos . 
+[17:03:02][200.100.188.18]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[17:03:05][200.100.188.18]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[17:03:10][200.100.188.18]> Aux Financeiro [8] acessou listagem de campos . 
+[17:30:10][200.100.188.18]> Aux Financeiro [8] saiu do sistema . 
+[17:30:11][200.100.188.18]> #### Acesso não autorizado ###### 
+[17:30:11][200.100.188.18]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[17:30:11][200.100.188.18]> # ------------------------------------------------------>  

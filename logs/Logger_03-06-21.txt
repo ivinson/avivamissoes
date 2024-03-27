@@ -1,0 +1,377 @@
+[09:47:45][177.9.214.203]> Aux Financeiro [8] fez o login no sistema. 
+[10:48:26][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[10:49:26][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86422   Valor:: 75  NmDocto :: 2399175  
+[10:49:44][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:49:44][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86422  
+[10:49:44][177.9.214.203]> # Valor :: 75  
+[10:49:44][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[10:49:44][177.9.214.203]> # Usuario atribuido ID::985 
+[10:49:44][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[10:51:47][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86400   Valor:: 200  NmDocto :: 1101288  
+[10:52:10][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:52:10][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86400  
+[10:52:10][177.9.214.203]> # Valor :: 200  
+[10:52:10][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[10:52:10][177.9.214.203]> # Usuario atribuido ID::1219 
+[10:52:10][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[10:54:23][177.9.214.203]> Aux Financeiro [ID::8] acessou o cadastro de SOS MISSOES MUNDIAIS [ID::1290]  
+[10:54:29][177.9.214.203]> Aux Financeiro [ID::8] atualizou o cadastro de SOS MISSOES MUNDIAIS [ID::1290]  
+[10:54:29][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[10:58:19][177.9.214.203]> Aux Financeiro [ID::8] acessou o cadastro de PROJETO ANGOLA [ID::1291]  
+[10:58:22][177.9.214.203]> Aux Financeiro [ID::8] atualizou o cadastro de PROJETO ANGOLA [ID::1291]  
+[10:58:22][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[11:03:32][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[11:04:24][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86459   Valor:: 500.33  NmDocto :: 195376  
+[11:04:54][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:04:54][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86459  
+[11:04:54][177.9.214.203]> # Valor :: 500.33  
+[11:04:54][177.9.214.203]> # Referente ao mes :: 2021-05-15 
+[11:04:54][177.9.214.203]> # Usuario atribuido ID::1291 
+[11:04:54][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:09:14][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1291 . 
+[11:09:25][177.9.214.203]> Aux Financeiro [8] deletou a remessa 86509 do campo id=1291. 
+[11:09:26][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1291 . 
+[11:10:34][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86458   Valor:: 50.33  NmDocto :: 127549  
+[11:11:07][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:11:07][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86458  
+[11:11:07][177.9.214.203]> # Valor :: 50.33  
+[11:11:07][177.9.214.203]> # Referente ao mes :: 2021-05-15 
+[11:11:07][177.9.214.203]> # Usuario atribuido ID::1291 
+[11:11:07][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:11:12][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1291 . 
+[11:13:50][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86469   Valor:: 200.33  NmDocto :: 236362  
+[11:14:10][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:14:10][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86469  
+[11:14:10][177.9.214.203]> # Valor :: 200.33  
+[11:14:10][177.9.214.203]> # Referente ao mes :: 2021-05-15 
+[11:14:10][177.9.214.203]> # Usuario atribuido ID::1291 
+[11:14:10][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:14:51][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86468   Valor:: 102  NmDocto :: 9694267  
+[11:15:07][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:15:07][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86468  
+[11:15:07][177.9.214.203]> # Valor :: 102  
+[11:15:07][177.9.214.203]> # Referente ao mes :: 2021-05-15 
+[11:15:07][177.9.214.203]> # Usuario atribuido ID::1291 
+[11:15:07][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:18:01][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86413   Valor:: 100  NmDocto :: 6327925  
+[11:18:16][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:18:16][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86413  
+[11:18:16][177.9.214.203]> # Valor :: 100  
+[11:18:16][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[11:18:16][177.9.214.203]> # Usuario atribuido ID::1219 
+[11:18:16][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:19:27][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86465   Valor:: 250  NmDocto :: 811869  
+[11:19:42][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:19:42][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86465  
+[11:19:42][177.9.214.203]> # Valor :: 250  
+[11:19:42][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[11:19:42][177.9.214.203]> # Usuario atribuido ID::1138 
+[11:19:42][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:24:18][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86461   Valor:: 10  NmDocto :: 2353248  
+[11:24:32][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:24:32][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86461  
+[11:24:32][177.9.214.203]> # Valor :: 10  
+[11:24:32][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[11:24:32][177.9.214.203]> # Usuario atribuido ID::967 
+[11:24:32][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:25:09][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86504   Valor:: 160  NmDocto :: 562159  
+[11:25:25][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:25:25][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86504  
+[11:25:25][177.9.214.203]> # Valor :: 160  
+[11:25:25][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[11:25:25][177.9.214.203]> # Usuario atribuido ID::949 
+[11:25:25][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:26:03][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86483   Valor:: 35  NmDocto :: 1036445  
+[11:26:18][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:26:18][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86483  
+[11:26:18][177.9.214.203]> # Valor :: 35  
+[11:26:18][177.9.214.203]> # Referente ao mes :: 2020-08-15 
+[11:26:18][177.9.214.203]> # Usuario atribuido ID::1075 
+[11:26:18][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:26:20][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[11:26:26][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1075 . 
+[11:26:29][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1075 . 
+[11:26:43][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[11:39:34][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86472   Valor:: 265  NmDocto :: 1684097  
+[11:39:48][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:39:48][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86472  
+[11:39:48][177.9.214.203]> # Valor :: 265  
+[11:39:48][177.9.214.203]> # Referente ao mes :: 2020-12-15 
+[11:39:48][177.9.214.203]> # Usuario atribuido ID::1153 
+[11:39:48][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:42:04][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86471   Valor:: 218  NmDocto :: 1684097  
+[11:42:22][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:42:22][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86471  
+[11:42:22][177.9.214.203]> # Valor :: 218  
+[11:42:22][177.9.214.203]> # Referente ao mes :: 2021-02-15 
+[11:42:22][177.9.214.203]> # Usuario atribuido ID::1153 
+[11:42:22][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:43:28][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86470   Valor:: 113  NmDocto :: 1684097  
+[11:43:44][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:43:44][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86470  
+[11:43:44][177.9.214.203]> # Valor :: 113  
+[11:43:44][177.9.214.203]> # Referente ao mes :: 2021-03-15 
+[11:43:44][177.9.214.203]> # Usuario atribuido ID::1153 
+[11:43:44][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:44:35][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86430   Valor:: 200  NmDocto :: 1306072  
+[11:44:50][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:44:50][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86430  
+[11:44:50][177.9.214.203]> # Valor :: 200  
+[11:44:50][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[11:44:50][177.9.214.203]> # Usuario atribuido ID::927 
+[11:44:50][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:45:51][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86425   Valor:: 60  NmDocto :: 1653081  
+[11:46:07][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:46:07][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86425  
+[11:46:07][177.9.214.203]> # Valor :: 60  
+[11:46:07][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[11:46:07][177.9.214.203]> # Usuario atribuido ID::1224 
+[11:46:07][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:46:54][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86497   Valor:: 1000  NmDocto :: 2856519  
+[11:47:27][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:47:27][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86497  
+[11:47:27][177.9.214.203]> # Valor :: 1000  
+[11:47:27][177.9.214.203]> # Referente ao mes :: 2020-08-15 
+[11:47:27][177.9.214.203]> # Usuario atribuido ID::1104 
+[11:47:27][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:48:20][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:48:55][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:48:58][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:49:28][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:49:30][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:49:36][177.9.214.203]> Aux Financeiro [8] deletou a remessa 82995 do campo id=1104. 
+[11:49:36][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:49:40][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:50:30][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:50:35][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:50:46][177.9.214.203]> Aux Financeiro [8] deletou a remessa 83980 do campo id=1104. 
+[11:50:47][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:50:49][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:50:56][177.9.214.203]> Aux Financeiro [8] deletou a remessa 84507 do campo id=1104. 
+[11:50:56][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:50:58][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:51:36][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:51:38][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:51:45][177.9.214.203]> Aux Financeiro [8] deletou a remessa 84976 do campo id=1104. 
+[11:51:45][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:51:47][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:54:35][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86474   Valor:: 20  NmDocto :: 5919066  
+[11:55:00][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:55:00][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86474  
+[11:55:00][177.9.214.203]> # Valor :: 20  
+[11:55:00][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[11:55:00][177.9.214.203]> # Usuario atribuido ID::1289 
+[11:55:00][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:57:40][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86475   Valor:: 26  NmDocto :: 5919066  
+[11:58:01][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:58:01][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86475  
+[11:58:01][177.9.214.203]> # Valor :: 26  
+[11:58:01][177.9.214.203]> # Referente ao mes :: 2021-03-15 
+[11:58:01][177.9.214.203]> # Usuario atribuido ID::1289 
+[11:58:01][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[11:58:30][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[11:58:34][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1289 . 
+[11:59:25][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1289 . 
+[11:59:55][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1289 . 
+[12:01:25][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1260 . 
+[12:01:51][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86478   Valor:: 2000  NmDocto :: 6767818  
+[12:02:10][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:02:10][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86478  
+[12:02:10][177.9.214.203]> # Valor :: 2000  
+[12:02:10][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[12:02:10][177.9.214.203]> # Usuario atribuido ID::1260 
+[12:02:10][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[12:03:23][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86408   Valor:: 640.25  NmDocto :: 591175  
+[12:03:46][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:03:46][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86408  
+[12:03:46][177.9.214.203]> # Valor :: 640.25  
+[12:03:46][177.9.214.203]> # Referente ao mes :: 2021-01-15 
+[12:03:46][177.9.214.203]> # Usuario atribuido ID::1172 
+[12:03:46][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[12:04:21][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1172 . 
+[12:04:52][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1172 . 
+[12:07:42][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1054 . 
+[12:08:29][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1054 . 
+[12:08:57][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1054 . 
+[12:09:59][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86451   Valor:: 50  NmDocto :: 1753139  
+[12:10:14][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:10:14][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86451  
+[12:10:14][177.9.214.203]> # Valor :: 50  
+[12:10:14][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[12:10:14][177.9.214.203]> # Usuario atribuido ID::937 
+[12:10:14][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[12:10:49][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[12:10:54][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 937 . 
+[12:11:26][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86140   Valor:: 50  NmDocto :: 1753139  
+[12:11:40][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:11:40][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86140  
+[12:11:40][177.9.214.203]> # Valor :: 50  
+[12:11:40][177.9.214.203]> # Referente ao mes :: 2021-02-15 
+[12:11:40][177.9.214.203]> # Usuario atribuido ID::937 
+[12:11:40][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[12:12:33][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 937 . 
+[12:12:36][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 937 . 
+[12:20:31][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 937 . 
+[12:23:26][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86416   Valor:: 838.95  NmDocto :: 152662  
+[12:23:53][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:23:53][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86416  
+[12:23:53][177.9.214.203]> # Valor :: 838.95  
+[12:23:53][177.9.214.203]> # Referente ao mes :: 2020-08-15 
+[12:23:53][177.9.214.203]> # Usuario atribuido ID::920 
+[12:23:53][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[12:24:40][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:25:17][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:25:52][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:26:22][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:26:24][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:26:32][177.9.214.203]> Aux Financeiro [8] deletou a remessa 84007 do campo id=920. 
+[12:26:32][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:26:34][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:26:38][177.9.214.203]> Aux Financeiro [8] deletou a remessa 84533 do campo id=920. 
+[12:26:38][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:26:41][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:26:46][177.9.214.203]> Aux Financeiro [8] deletou a remessa 84999 do campo id=920. 
+[12:26:46][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:26:48][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:26:53][177.9.214.203]> Aux Financeiro [8] deletou a remessa 85444 do campo id=920. 
+[12:26:53][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:26:55][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[12:37:44][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86506   Valor:: 100  NmDocto :: 1310311  
+[12:38:05][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:38:05][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86506  
+[12:38:05][177.9.214.203]> # Valor :: 100  
+[12:38:05][177.9.214.203]> # Referente ao mes :: 2021-05-15 
+[12:38:05][177.9.214.203]> # Usuario atribuido ID::1290 
+[12:38:05][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[12:38:35][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86499   Valor:: 100  NmDocto :: 5398139  
+[12:39:03][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:39:03][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86499  
+[12:39:03][177.9.214.203]> # Valor :: 100  
+[12:39:03][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[12:39:03][177.9.214.203]> # Usuario atribuido ID::1290 
+[12:39:03][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[12:39:07][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[12:39:11][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1290 . 
+[12:39:30][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1290 . 
+[12:46:59][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86488   Valor:: 760  NmDocto :: 3280115  
+[12:47:14][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:47:14][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86488  
+[12:47:14][177.9.214.203]> # Valor :: 760  
+[12:47:14][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[12:47:14][177.9.214.203]> # Usuario atribuido ID::918 
+[12:47:14][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[12:48:00][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86446   Valor:: 1216.7  NmDocto :: 591554  
+[12:48:13][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:48:13][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86446  
+[12:48:13][177.9.214.203]> # Valor :: 1216.7  
+[12:48:13][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[12:48:13][177.9.214.203]> # Usuario atribuido ID::1035 
+[12:48:13][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[12:49:09][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86428   Valor:: 270  NmDocto :: 212928  
+[12:49:24][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:49:24][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86428  
+[12:49:24][177.9.214.203]> # Valor :: 270  
+[12:49:24][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[12:49:24][177.9.214.203]> # Usuario atribuido ID::982 
+[12:49:24][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[12:50:00][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[12:50:17][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[12:51:05][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1100 . 
+[12:51:19][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1100 . 
+[12:53:25][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[12:53:31][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 953 . 
+[12:53:34][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 953 . 
+[12:54:35][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[12:54:40][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[12:55:13][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[12:55:19][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1290 . 
+[12:55:38][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86502   Valor:: 1590  NmDocto :: 591981  
+[12:55:48][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[12:55:48][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86502  
+[12:55:48][177.9.214.203]> # Valor :: 1590  
+[12:55:48][177.9.214.203]> # Referente ao mes :: 2021-04-15 
+[12:55:48][177.9.214.203]> # Usuario atribuido ID::909 
+[12:55:48][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[14:54:13][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[14:54:52][177.9.214.203]> Aux Financeiro [ID::8] acessou o cadastro de MANAUS 3 [ID::1292]  
+[15:02:41][177.9.214.203]> Aux Financeiro [ID::8] atualizou o cadastro de MANAUS 3 [ID::1292]  
+[15:02:41][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[15:48:37][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 978 . 
+[15:49:15][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[15:49:49][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[15:52:17][177.9.214.203]> # Extrato Bradesco [Exclusao] ## 
+[15:52:17][177.9.214.203]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[15:52:17][177.9.214.203]> # ID :: 86397 
+[15:52:17][177.9.214.203]> # ----------------------------------------------------------- 
+[16:10:13][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1067 . 
+[16:10:48][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1019 . 
+[16:11:15][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1081 . 
+[16:11:54][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 994 . 
+[16:14:05][177.9.214.203]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 86492   Valor:: 30  NmDocto :: 78346  
+[16:14:23][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[16:14:26][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1290 . 
+[16:14:42][177.9.214.203]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:14:42][177.9.214.203]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 86492  
+[16:14:42][177.9.214.203]> # Valor :: 30  
+[16:14:42][177.9.214.203]> # Referente ao mes :: 2021-05-15 
+[16:14:42][177.9.214.203]> # Usuario atribuido ID::1290 
+[16:14:42][177.9.214.203]> ############################################## ------------------------------------------------------------ 
+[16:18:13][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[16:18:17][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1290 . 
+[16:18:51][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1290 . 
+[16:21:59][177.9.214.203]> # Extrato Bradesco [Exclusao] ## 
+[16:21:59][177.9.214.203]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[16:21:59][177.9.214.203]> # ID :: 86409 
+[16:21:59][177.9.214.203]> # ----------------------------------------------------------- 
+[16:22:06][177.9.214.203]> Aux Financeiro [8] acessou listagem de campos . 
+[16:22:12][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 994 . 
+[16:22:15][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 994 . 
+[16:22:18][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 994 . 
+[16:25:25][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1105 . 
+[16:26:03][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 970 . 
+[16:28:50][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1275 . 
+[16:29:23][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1127 . 
+[16:29:51][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1245 . 
+[16:31:53][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1192 . 
+[16:43:17][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1164 . 
+[16:45:04][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1012 . 
+[16:45:32][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1112 . 
+[16:46:10][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 900 . 
+[16:46:37][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1101 . 
+[16:47:05][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 914 . 
+[16:47:43][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 900 . 
+[16:48:44][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1013 . 
+[16:49:18][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1114 . 
+[16:53:39][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1286 . 
+[16:54:06][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 948 . 
+[16:54:24][177.9.214.203]> # Extrato Bradesco [Exclusao] ## 
+[16:54:24][177.9.214.203]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[16:54:24][177.9.214.203]> # ID :: 86412 
+[16:54:24][177.9.214.203]> # ----------------------------------------------------------- 
+[16:55:21][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1256 . 
+[16:55:46][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1022 . 
+[16:56:17][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1282 . 
+[16:56:46][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:56:50][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:56:57][177.9.214.203]> Aux Financeiro [8] deletou a remessa 84054 do campo id=1271. 
+[16:56:57][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:56:59][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:57:24][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:57:26][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:57:33][177.9.214.203]> Aux Financeiro [8] deletou a remessa 84586 do campo id=1271. 
+[16:57:33][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:58:10][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:58:12][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:58:18][177.9.214.203]> Aux Financeiro [8] deletou a remessa 83593 do campo id=1271. 
+[16:58:19][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[16:58:21][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1271 . 
+[17:01:36][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[17:02:09][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1029 . 
+[17:02:41][177.9.214.203]> Aux Financeiro [8] acessou as remessas do campo 1134 . 
+[17:02:51][177.9.214.203]> # Extrato Bradesco [Exclusao] ## 
+[17:02:51][177.9.214.203]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[17:02:51][177.9.214.203]> # ID :: 86415 
+[17:02:51][177.9.214.203]> # ----------------------------------------------------------- 
+[17:05:53][177.9.214.203]> Aux Financeiro [8] saiu do sistema . 
+[17:05:58][177.9.214.203]>  [8] saiu do sistema . 
+[17:06:01][177.9.214.203]>  [8] saiu do sistema . 

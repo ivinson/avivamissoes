@@ -1,0 +1,24 @@
+[11:15:14][177.138.65.117]> financeiro2 com a senha #Aux@@2018 tentou logar no sistema. 
+[11:15:27][177.138.65.117]> Aux Financeiro [8] fez o login no sistema. 
+[11:30:43][177.138.65.117]> Aux Financeiro [8] acessou listagem de campos . 
+[11:31:15][177.138.65.117]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 92994   Valor:: 137.7  NmDocto :: 5392097  
+[11:31:42][177.138.65.117]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:31:42][177.138.65.117]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 92994  
+[11:31:42][177.138.65.117]> # Valor :: 137.7  
+[11:31:42][177.138.65.117]> # Referente ao mes :: 2022-12-15 
+[11:31:42][177.138.65.117]> # Usuario atribuido ID::1190 
+[11:31:42][177.138.65.117]> ############################################## ------------------------------------------------------------ 
+[11:31:48][177.138.65.117]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[11:31:50][177.138.65.117]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[11:32:14][177.138.65.117]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 93299   Valor:: 163.15  NmDocto :: 5392097  
+[11:32:29][177.138.65.117]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:32:29][177.138.65.117]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 93299  
+[11:32:29][177.138.65.117]> # Valor :: 163.15  
+[11:32:29][177.138.65.117]> # Referente ao mes :: 2023-01-15 
+[11:32:29][177.138.65.117]> # Usuario atribuido ID::1190 
+[11:32:29][177.138.65.117]> ############################################## ------------------------------------------------------------ 
+[11:33:37][177.138.65.117]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[11:33:39][177.138.65.117]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[13:58:26][177.138.65.117]> Aux Financeiro [8] acessou listagem de campos . 
+[13:58:41][177.138.65.117]> Aux Financeiro [8] acessou listagem de campos . 
+[17:04:50][177.138.65.117]> Aux Financeiro [8] saiu do sistema . 

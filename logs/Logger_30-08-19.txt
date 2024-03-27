@@ -1,0 +1,23 @@
+[09:13:43][189.97.86.2]> Aux Financeiro [8] fez o login no sistema. 
+[10:30:33][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[10:30:39][189.97.86.2]> Aux Financeiro [ID::8] acessou o cadastro de JAÇANA [ID::1103]  
+[10:39:01][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[10:42:01][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1068 . 
+[10:42:03][189.97.86.2]> Aux Financeiro [8] acessou as remessas do campo 1068 . 
+[10:42:11][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[11:18:23][189.97.86.2]> Aux Financeiro [ID::8] acessou o cadastro de COSTA RICA [ID::1187]  
+[11:18:27][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[11:18:39][189.97.86.2]> Aux Financeiro [ID::8] acessou o cadastro de SAMAMBAIA [ID::1258]  
+[11:18:42][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[11:18:48][189.97.86.2]> Aux Financeiro [ID::8] acessou o cadastro de APARECIDA DO TABOADO [ID::996]  
+[11:18:50][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[12:12:10][189.97.86.2]> Aux Financeiro [ID::8] acessou o cadastro de APARECIDA DO TABOADO [ID::996]  
+[12:59:20][66.249.83.15]> #### Acesso não autorizado ###### 
+[12:59:20][66.249.83.15]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960 
+[12:59:20][66.249.83.15]> # ------------------------------------------------------>  
+[15:09:16][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[15:09:21][189.97.86.2]> Aux Financeiro [ID::8] acessou o cadastro de CAÇAPAVA [ID::1068]  
+[15:15:01][189.97.86.2]> Aux Financeiro [8] acessou listagem de campos . 
+[17:28:13][189.97.86.2]> #### Acesso não autorizado ###### 
+[17:28:13][189.97.86.2]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1153 
+[17:28:13][189.97.86.2]> # ------------------------------------------------------>  

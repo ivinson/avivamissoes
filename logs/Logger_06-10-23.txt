@@ -1,0 +1,29 @@
+[09:05:05][191.255.16.215]> Aux Financeiro [8] fez o login no sistema. 
+[09:45:52][191.255.16.215]> Aux Financeiro [8] acessou listagem de campos . 
+[09:45:59][191.255.16.215]> Aux Financeiro [8] acessou as remessas do campo 897 . 
+[11:34:29][191.255.16.215]> Aux Financeiro [8] acessou listagem de campos . 
+[11:47:36][191.255.16.215]> Aux Financeiro [8] acessou listagem de campos . 
+[11:50:01][191.255.16.215]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[11:50:12][191.255.16.215]> Aux Financeiro [8] acessou listagem de campos . 
+[11:50:20][191.255.16.215]> Aux Financeiro [8] acessou as remessas do campo 1052 . 
+[11:50:26][191.255.16.215]> Aux Financeiro [8] acessou listagem de campos . 
+[11:50:55][191.255.16.215]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 94636   Valor:: 200  NmDocto :: 6748768  
+[11:51:17][191.255.16.215]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:51:18][191.255.16.215]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 94636  
+[11:51:18][191.255.16.215]> # Valor :: 200  
+[11:51:18][191.255.16.215]> # Referente ao mes :: 2023-03-15 
+[11:51:18][191.255.16.215]> # Usuario atribuido ID::1052 
+[11:51:18][191.255.16.215]> ############################################## ------------------------------------------------------------ 
+[11:51:22][191.255.16.215]> Aux Financeiro [8] acessou as remessas do campo 1052 . 
+[12:22:24][191.255.16.215]> Aux Financeiro [8] acessou listagem de campos . 
+[12:22:29][191.255.16.215]> Aux Financeiro [ID::8] acessou o cadastro de PATROCÍNIO /CE [ID::1115]  
+[12:22:32][191.255.16.215]> Aux Financeiro [8] acessou listagem de campos . 
+[14:47:14][191.255.16.215]> Aux Financeiro [8] acessou as remessas do campo 894 . 
+[14:47:17][191.255.16.215]> Aux Financeiro [8] acessou as remessas do campo 894 . 
+[14:47:22][191.255.16.215]> Aux Financeiro [8] acessou as remessas do campo 894 . 
+[14:47:25][191.255.16.215]> Aux Financeiro [8] acessou as remessas do campo 894 . 
+[14:47:40][191.255.16.215]> Aux Financeiro [8] acessou listagem de campos . 
+[14:47:44][191.255.16.215]> Aux Financeiro [ID::8] acessou o cadastro de ASSIS -CE [ID::894]  
+[14:48:04][191.255.16.215]> Aux Financeiro [8] acessou listagem de campos . 
+[17:12:57][191.255.16.215]> Aux Financeiro [8] saiu do sistema . 
+[17:13:00][191.255.16.215]>  [8] saiu do sistema . 

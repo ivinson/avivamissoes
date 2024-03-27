@@ -1,0 +1,24 @@
+[09:13:56][201.93.234.70]> Aux Financeiro [8] fez o login no sistema. 
+[15:31:30][201.93.234.70]> Aux Financeiro [8] fez o login no sistema. 
+[15:36:31][201.93.234.70]> Aux Financeiro [8] acessou listagem de campos . 
+[15:36:40][201.93.234.70]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[15:37:26][201.93.234.70]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 79436   Valor:: 170  NmDocto :: 1003076  
+[15:37:57][201.93.234.70]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:37:57][201.93.234.70]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 79436  
+[15:37:57][201.93.234.70]> # Valor :: 170  
+[15:37:57][201.93.234.70]> # Referente ao mes :: 2020-01-15 
+[15:37:57][201.93.234.70]> # Usuario atribuido ID::1050 
+[15:37:57][201.93.234.70]> ############################################## ------------------------------------------------------------ 
+[15:39:34][201.93.234.70]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[15:39:43][201.93.234.70]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[15:40:30][201.93.234.70]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 83236   Valor:: 300  NmDocto :: 5603624  
+[15:40:50][201.93.234.70]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:40:50][201.93.234.70]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 83236  
+[15:40:50][201.93.234.70]> # Valor :: 300  
+[15:40:50][201.93.234.70]> # Referente ao mes :: 2020-06-15 
+[15:40:50][201.93.234.70]> # Usuario atribuido ID::1103 
+[15:40:50][201.93.234.70]> ############################################## ------------------------------------------------------------ 
+[15:41:35][201.93.234.70]> Aux Financeiro [8] acessou listagem de campos . 
+[15:41:40][201.93.234.70]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[15:55:15][201.93.234.70]> Aux Financeiro [8] acessou listagem de campos . 
+[16:51:20][201.93.234.70]> Aux Financeiro [8] saiu do sistema . 

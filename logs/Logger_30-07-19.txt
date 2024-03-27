@@ -1,0 +1,9 @@
+[09:16:08][177.94.128.119]> Aux Financeiro [8] fez o login no sistema. 
+[13:10:24][177.94.128.119]> Aux Financeiro [8] acessou listagem de campos . 
+[13:50:42][177.136.98.247]> #### Acesso não autorizado ###### 
+[13:50:42][177.136.98.247]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[13:50:42][177.136.98.247]> # ------------------------------------------------------>  
+[13:50:50][177.136.98.247]> Administrador Financeiro [5] fez o login no sistema. 
+[13:50:54][177.136.98.247]> Administrador Financeiro [5] acessou listagem de campos . 
+[13:51:01][177.136.98.247]> Administrador Financeiro [5] acessou as remessas do campo 1199 . 
+[16:55:46][177.94.128.119]> Aux Financeiro [8] saiu do sistema . 

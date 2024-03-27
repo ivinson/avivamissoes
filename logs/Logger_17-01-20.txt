@@ -1,0 +1,644 @@
+[09:24:36][189.68.199.88]> Aux Financeiro [8] fez o login no sistema. 
+[09:47:24][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[09:47:41][189.68.199.88]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 78625   Valor:: 170  NmDocto :: 5392079  
+[09:48:42][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[09:48:44][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[09:50:43][189.68.199.88]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[09:50:43][189.68.199.88]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 78625  
+[09:50:43][189.68.199.88]> # Valor :: 170  
+[09:50:43][189.68.199.88]> # Referente ao mes :: 2019-11-15 
+[09:50:43][189.68.199.88]> # Usuario atribuido ID::1190 
+[09:50:43][189.68.199.88]> ############################################## ------------------------------------------------------------ 
+[09:50:47][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[10:19:34][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[10:46:45][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:00:28][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 969 . 
+[11:00:31][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 969 . 
+[11:01:00][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:01:23][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1033 . 
+[11:01:26][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1033 . 
+[11:03:08][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1033 . 
+[11:03:12][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1033 . 
+[11:03:21][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1033 . 
+[11:04:05][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:04:12][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1244 . 
+[11:04:16][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1244 . 
+[11:04:34][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:04:40][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[11:05:17][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[11:10:35][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:10:48][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 901 . 
+[11:10:53][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 901 . 
+[11:11:16][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:11:23][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 938 . 
+[11:11:26][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 938 . 
+[11:11:35][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:11:44][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 926 . 
+[11:11:46][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 926 . 
+[11:12:03][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:12:09][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 958 . 
+[11:12:12][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 958 . 
+[11:12:32][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:12:36][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1001 . 
+[11:22:59][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1001 . 
+[11:29:46][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:29:55][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 911 . 
+[11:29:58][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 911 . 
+[11:30:29][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:30:37][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1056 . 
+[11:30:40][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1056 . 
+[11:30:48][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:30:59][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 944 . 
+[11:31:02][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 944 . 
+[11:31:23][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:31:37][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1199 . 
+[11:31:39][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1199 . 
+[11:32:25][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:32:30][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[11:32:32][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[11:32:40][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:32:49][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[11:32:51][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[11:32:54][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:33:03][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[11:33:09][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[11:34:31][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:34:47][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1023 . 
+[11:34:49][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1023 . 
+[11:35:02][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:35:28][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1164 . 
+[11:35:30][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1164 . 
+[11:35:47][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:35:53][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 922 . 
+[11:35:55][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 922 . 
+[11:35:58][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:36:09][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[11:36:12][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[11:36:34][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:36:40][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 949 . 
+[11:36:46][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 949 . 
+[11:38:42][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:38:52][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:38:54][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[11:39:04][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:39:09][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 916 . 
+[11:39:11][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 916 . 
+[11:39:14][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 916 . 
+[11:39:21][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:39:25][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 957 . 
+[11:39:28][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 957 . 
+[11:39:47][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:39:51][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1261 . 
+[11:39:53][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1261 . 
+[11:40:17][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:40:24][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1158 . 
+[11:40:49][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1158 . 
+[11:40:59][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1158 . 
+[11:41:03][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1158 . 
+[11:41:10][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:41:16][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:41:18][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[11:41:35][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:41:41][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1140 . 
+[11:41:42][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1140 . 
+[11:41:53][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:42:01][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 980 . 
+[11:42:04][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 980 . 
+[11:42:24][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:42:30][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1146 . 
+[11:42:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1146 . 
+[11:43:07][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:43:22][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1021 . 
+[11:43:26][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1021 . 
+[11:43:49][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:43:56][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1243 . 
+[11:43:59][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1243 . 
+[11:44:25][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:44:30][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1114 . 
+[11:44:37][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1114 . 
+[11:45:02][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1114 . 
+[11:45:06][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1114 . 
+[11:45:12][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:45:24][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 929 . 
+[11:45:26][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 929 . 
+[11:49:11][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:49:18][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 907 . 
+[11:49:20][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 907 . 
+[11:49:37][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 907 . 
+[11:49:41][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 907 . 
+[11:49:43][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:49:51][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1228 . 
+[11:49:53][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1228 . 
+[11:49:58][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1228 . 
+[11:50:10][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1228 . 
+[11:50:26][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:50:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1036 . 
+[11:50:34][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1036 . 
+[11:50:56][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:51:01][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:51:03][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:51:12][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:51:19][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:51:48][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:52:17][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:53:56][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:53:58][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:54:09][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:54:15][189.68.199.88]> Aux Financeiro [8] deletou a remessa 69907 do campo id=1159. 
+[11:54:16][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:54:19][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:54:41][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[11:54:47][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[11:54:50][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[12:43:57][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:44:09][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1044 . 
+[12:44:11][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1044 . 
+[12:44:24][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:44:34][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1093 . 
+[12:44:38][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1093 . 
+[12:44:46][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:44:51][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1160 . 
+[12:44:53][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1160 . 
+[12:45:22][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:45:27][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1241 . 
+[12:45:29][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1241 . 
+[12:45:47][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:45:53][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[12:45:55][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[12:46:23][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:46:29][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1240 . 
+[12:46:31][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1240 . 
+[12:46:49][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:46:53][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1034 . 
+[12:46:55][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1034 . 
+[12:47:02][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:47:14][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1169 . 
+[12:47:16][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1169 . 
+[12:47:25][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:47:32][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1007 . 
+[12:47:34][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1007 . 
+[12:47:54][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:47:58][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1037 . 
+[12:48:01][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1037 . 
+[12:48:54][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:48:59][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1077 . 
+[12:49:01][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1077 . 
+[12:49:04][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:49:13][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1101 . 
+[12:49:15][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1101 . 
+[12:49:29][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1101 . 
+[12:49:33][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:49:45][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1015 . 
+[12:49:48][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1015 . 
+[12:50:17][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:50:24][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1003 . 
+[12:50:26][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1003 . 
+[12:50:44][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:50:48][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1081 . 
+[12:52:17][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1081 . 
+[12:52:38][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:52:43][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[12:52:45][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[12:53:58][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:54:11][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1108 . 
+[12:54:21][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1108 . 
+[12:54:39][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:54:45][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1011 . 
+[12:54:48][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1011 . 
+[12:56:59][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:57:04][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[12:57:05][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[12:57:16][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:57:21][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1242 . 
+[12:57:24][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1242 . 
+[12:57:33][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:57:39][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1233 . 
+[12:57:43][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1233 . 
+[12:57:59][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:58:04][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1054 . 
+[12:58:06][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1054 . 
+[12:58:13][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:58:18][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 909 . 
+[12:58:20][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 909 . 
+[12:58:47][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:58:53][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[12:58:55][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[12:59:07][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[12:59:20][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1165 . 
+[12:59:31][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1165 . 
+[12:59:45][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:00:32][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1172 . 
+[13:00:34][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1172 . 
+[13:01:16][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:01:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1032 . 
+[13:01:35][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1032 . 
+[13:01:49][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:01:54][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 998 . 
+[13:01:56][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 998 . 
+[13:02:25][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:02:39][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1079 . 
+[13:02:41][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1079 . 
+[13:02:46][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:02:56][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1035 . 
+[13:02:58][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1035 . 
+[13:03:24][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:03:30][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[13:03:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[13:03:48][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:03:55][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 977 . 
+[13:03:57][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 977 . 
+[13:22:37][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:22:44][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1100 . 
+[13:22:46][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1100 . 
+[13:22:54][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:23:06][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 928 . 
+[13:23:11][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 928 . 
+[13:23:25][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:23:29][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1094 . 
+[13:23:31][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1094 . 
+[13:24:04][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:24:09][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1262 . 
+[13:24:12][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1262 . 
+[13:24:33][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:24:38][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 973 . 
+[13:24:40][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 973 . 
+[13:24:59][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:25:05][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1256 . 
+[13:25:07][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1256 . 
+[13:25:14][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1256 . 
+[13:25:18][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1256 . 
+[13:25:37][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:25:40][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[13:25:43][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[13:26:00][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:26:05][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 925 . 
+[13:26:07][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 925 . 
+[13:26:33][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:26:37][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1141 . 
+[13:26:39][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1141 . 
+[13:26:57][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:27:03][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1263 . 
+[13:27:06][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1263 . 
+[13:27:25][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:27:31][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 978 . 
+[13:27:32][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 978 . 
+[13:27:45][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:27:50][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[13:27:55][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[13:28:28][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:28:34][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1097 . 
+[13:28:37][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1097 . 
+[13:28:55][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:29:01][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 948 . 
+[13:29:04][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 948 . 
+[13:29:26][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:29:31][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[13:29:34][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[13:30:02][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[13:30:09][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[13:30:14][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[13:30:18][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[13:31:21][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:31:28][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:31:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1022 . 
+[13:31:36][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1022 . 
+[13:31:56][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:32:01][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[13:32:05][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[13:32:34][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:32:39][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1166 . 
+[13:32:41][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1166 . 
+[13:32:59][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:33:13][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1039 . 
+[13:33:15][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1039 . 
+[13:33:49][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:33:55][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1083 . 
+[13:33:57][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1083 . 
+[13:35:08][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:35:19][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1096 . 
+[13:35:21][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1096 . 
+[13:39:06][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1096 . 
+[13:39:10][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1096 . 
+[13:39:19][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1096 . 
+[13:39:53][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:40:02][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[13:40:05][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[13:41:28][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1096 . 
+[13:44:52][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:45:10][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1245 . 
+[13:45:12][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1245 . 
+[13:45:30][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1245 . 
+[13:45:40][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1245 . 
+[13:46:28][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:46:46][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 897 . 
+[13:46:50][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 897 . 
+[13:46:57][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:47:03][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 923 . 
+[13:47:05][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 923 . 
+[13:47:07][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 923 . 
+[13:47:26][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:47:30][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1090 . 
+[13:47:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1090 . 
+[13:47:58][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:48:06][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[13:48:08][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[13:48:19][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[13:48:26][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[13:48:50][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[13:49:04][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:49:09][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[13:49:13][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[13:49:17][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[13:49:23][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[13:50:11][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[13:52:05][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[13:52:09][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[13:52:18][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[13:52:21][189.68.199.88]> Aux Financeiro [8] deletou a remessa 68610 do campo id=968. 
+[13:52:21][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[13:52:24][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[13:52:42][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[13:53:21][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:53:29][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 951 . 
+[13:53:39][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 951 . 
+[13:53:55][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:54:01][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 930 . 
+[13:54:03][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 930 . 
+[13:54:14][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:54:19][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1019 . 
+[13:54:22][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1019 . 
+[13:55:02][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:55:07][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1142 . 
+[13:55:10][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1142 . 
+[13:55:21][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:55:26][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[13:55:28][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[13:55:36][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[13:55:39][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[13:56:12][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:56:20][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[13:56:22][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[13:56:31][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:56:36][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1017 . 
+[13:56:39][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1017 . 
+[13:56:55][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:56:59][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 914 . 
+[13:57:02][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 914 . 
+[13:57:33][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:57:38][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 950 . 
+[13:57:40][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 950 . 
+[13:58:01][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:58:06][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 942 . 
+[13:58:08][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 942 . 
+[13:59:30][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:59:40][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 963 . 
+[13:59:42][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 963 . 
+[14:00:02][189.68.199.88]> Aux Financeiro [8] deletou a remessa 78346 do campo id=963. 
+[14:00:02][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 963 . 
+[14:00:04][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 963 . 
+[14:00:29][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:00:37][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1134 . 
+[14:00:42][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1134 . 
+[14:04:03][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:04:10][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 975 . 
+[14:04:13][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 975 . 
+[14:04:41][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:04:47][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1180 . 
+[14:04:49][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1180 . 
+[14:05:16][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:05:20][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 989 . 
+[14:05:22][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 989 . 
+[14:05:49][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:06:21][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1088 . 
+[14:06:25][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1088 . 
+[14:06:29][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:06:38][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1088 . 
+[14:06:42][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1088 . 
+[14:06:53][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:06:58][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 893 . 
+[14:07:02][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 893 . 
+[14:07:33][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:07:38][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 941 . 
+[14:07:40][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 941 . 
+[14:07:57][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:08:03][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[14:08:05][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[14:08:17][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:08:22][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1274 . 
+[14:08:24][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1274 . 
+[14:08:39][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:08:43][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 896 . 
+[14:08:46][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 896 . 
+[14:09:55][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:10:01][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1041 . 
+[14:10:03][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1041 . 
+[14:10:28][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:10:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1181 . 
+[14:10:35][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1181 . 
+[14:19:40][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:19:46][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1066 . 
+[14:19:49][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1066 . 
+[14:20:06][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:20:11][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1130 . 
+[14:20:13][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1130 . 
+[14:20:30][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:20:36][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1002 . 
+[14:20:38][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1002 . 
+[14:21:08][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:21:14][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 905 . 
+[14:21:16][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 905 . 
+[14:21:34][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:21:39][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[14:21:41][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[14:21:44][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[14:21:51][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[14:22:03][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[14:22:05][189.68.199.88]> Aux Financeiro [8] deletou a remessa 75171 do campo id=1046. 
+[14:22:05][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[14:22:07][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[14:27:38][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:27:43][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1020 . 
+[14:27:45][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1020 . 
+[14:27:50][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1020 . 
+[14:27:58][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1020 . 
+[14:28:01][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1020 . 
+[14:28:13][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:28:18][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1107 . 
+[14:28:20][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1107 . 
+[14:28:47][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:28:52][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1110 . 
+[14:28:54][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1110 . 
+[14:29:24][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:29:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1089 . 
+[14:29:36][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1089 . 
+[14:29:58][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:30:03][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 954 . 
+[14:30:07][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 954 . 
+[14:30:21][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:30:26][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 918 . 
+[14:30:29][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 918 . 
+[14:30:40][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:30:45][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[14:30:47][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[14:30:59][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:31:04][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 921 . 
+[14:31:05][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 921 . 
+[14:31:26][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:31:31][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[14:31:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[14:32:06][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:32:10][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1086 . 
+[14:32:13][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1086 . 
+[14:33:03][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:37:48][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1086 . 
+[14:37:51][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1086 . 
+[14:42:06][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:42:11][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1135 . 
+[14:59:44][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1135 . 
+[14:59:51][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:00:00][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1012 . 
+[15:01:41][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1012 . 
+[15:01:56][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:02:01][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 936 . 
+[15:02:04][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 936 . 
+[15:02:54][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:03:29][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[15:03:31][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[15:03:45][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:03:53][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[15:03:58][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[15:04:22][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[15:05:41][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[15:06:27][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[15:06:34][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[15:06:46][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:06:52][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1128 . 
+[15:06:59][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1128 . 
+[15:07:07][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:07:16][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 960 . 
+[15:07:18][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 960 . 
+[15:07:27][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:07:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1059 . 
+[15:07:37][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1059 . 
+[15:07:47][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:07:53][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 997 . 
+[15:08:07][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 997 . 
+[15:08:20][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:08:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1042 . 
+[15:08:35][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1042 . 
+[15:12:59][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:13:05][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1067 . 
+[15:13:07][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1067 . 
+[15:20:54][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:21:00][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1105 . 
+[15:21:02][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1105 . 
+[15:21:11][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:21:17][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1057 . 
+[15:21:20][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1057 . 
+[15:21:52][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:21:57][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1106 . 
+[15:21:59][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1106 . 
+[15:22:09][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:22:16][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1149 . 
+[15:22:18][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1149 . 
+[15:25:16][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:25:22][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1248 . 
+[15:25:25][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1248 . 
+[15:25:52][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:25:57][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 939 . 
+[15:26:00][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 939 . 
+[15:26:14][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:26:19][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 946 . 
+[15:26:28][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:26:32][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 939 . 
+[15:26:34][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 939 . 
+[15:26:48][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 939 . 
+[15:26:50][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:27:02][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 946 . 
+[15:27:05][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 946 . 
+[15:30:26][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:33:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1129 . 
+[15:33:35][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1129 . 
+[15:33:46][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:33:52][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 932 . 
+[15:33:56][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 932 . 
+[15:34:16][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:34:22][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 902 . 
+[15:34:24][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 902 . 
+[15:34:37][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:34:43][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1029 . 
+[15:34:47][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1029 . 
+[15:35:19][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:35:26][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 967 . 
+[15:35:28][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 967 . 
+[15:35:43][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:35:49][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1028 . 
+[15:37:16][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1028 . 
+[15:37:20][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:37:30][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1031 . 
+[15:37:32][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1031 . 
+[15:40:24][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:40:30][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 953 . 
+[15:40:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 953 . 
+[15:40:41][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:40:53][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1184 . 
+[15:41:06][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1184 . 
+[15:41:26][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:41:30][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1267 . 
+[15:41:32][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1267 . 
+[15:41:49][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:41:54][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1170 . 
+[15:41:56][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1170 . 
+[15:42:10][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:42:15][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 962 . 
+[15:42:18][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 962 . 
+[15:42:34][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:42:40][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 934 . 
+[15:42:42][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 934 . 
+[15:42:59][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:43:04][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 979 . 
+[15:43:28][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 979 . 
+[15:43:57][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:44:04][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1014 . 
+[15:44:06][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1014 . 
+[15:44:17][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:44:23][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1075 . 
+[15:44:27][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1075 . 
+[15:45:00][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:45:06][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 927 . 
+[15:45:11][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 927 . 
+[15:45:22][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:45:27][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1055 . 
+[15:45:29][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1055 . 
+[15:45:46][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:45:52][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 937 . 
+[15:45:54][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 937 . 
+[15:47:22][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:47:33][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1112 . 
+[15:47:38][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1112 . 
+[15:49:30][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:54:00][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 952 . 
+[15:54:03][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 952 . 
+[15:54:48][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:55:54][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1181 . 
+[15:55:56][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1181 . 
+[15:57:49][189.68.199.88]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 73807   Valor:: 120  NmDocto :: 1070068  
+[15:58:09][189.68.199.88]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:58:09][189.68.199.88]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 73807  
+[15:58:09][189.68.199.88]> # Valor :: 120  
+[15:58:09][189.68.199.88]> # Referente ao mes :: 2019-01-15 
+[15:58:09][189.68.199.88]> # Usuario atribuido ID::1181 
+[15:58:09][189.68.199.88]> ############################################## ------------------------------------------------------------ 
+[15:58:14][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1181 . 
+[16:18:19][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[16:24:54][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[16:24:57][189.68.199.88]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[16:28:42][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[16:41:01][189.68.199.88]> Aux Financeiro [ID::8] acessou o cadastro de GUARULHOS [ID::944]  
+[16:41:35][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[16:41:42][189.68.199.88]> Aux Financeiro [ID::8] acessou o cadastro de CAMPINA GRANDE [ID::1052]  
+[16:41:58][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[16:42:02][189.68.199.88]> Aux Financeiro [ID::8] acessou o cadastro de ROLIM DE MOURA [ID::1082]  
+[16:52:50][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[17:01:16][189.68.199.88]> Aux Financeiro [8] saiu do sistema . 
+[17:01:19][189.68.199.88]>  [8] saiu do sistema . 

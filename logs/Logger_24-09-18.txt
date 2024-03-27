@@ -1,0 +1,103 @@
+[09:32:01][201.92.165.126]> Aux Financeiro [8] fez o login no sistema. 
+[09:44:05][201.92.165.126]> Aux Financeiro [8] saiu do sistema . 
+[09:58:37][201.92.165.126]> Aux Financeiro [8] fez o login no sistema. 
+[10:00:29][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[10:49:45][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CAMPINAS CENTRO [ID::948]  
+[10:51:32][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de CAMPINAS CENTRO [ID::948]  
+[10:51:32][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[10:51:44][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CAMPINAS CENTRO [ID::948]  
+[10:53:42][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de CAMPINAS CENTRO [ID::948]  
+[10:53:43][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[10:55:58][201.92.165.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 70049   Valor:: 30  NmDocto :: 5923496  
+[11:00:00][201.92.165.126]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 70049   Valor:: 30  NmDocto :: 5923496  
+[11:00:11][201.92.165.126]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:00:11][201.92.165.126]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 70049  
+[11:00:11][201.92.165.126]> # Valor :: 30  
+[11:00:11][201.92.165.126]> # Referente ao mes :: 2018-07-15 
+[11:00:11][201.92.165.126]> # Usuario atribuido ID::1219 
+[11:00:11][201.92.165.126]> ############################################## ------------------------------------------------------------ 
+[11:13:13][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[11:13:24][201.92.165.126]> Aux Financeiro [8] acessou as remessas do campo 1082 . 
+[12:56:50][201.92.165.126]> Aux Financeiro [8] saiu do sistema . 
+[13:12:55][201.92.165.126]> Aux Financeiro [8] fez o login no sistema. 
+[13:13:55][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:14:06][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de APUCARANA [ID::963]  
+[13:15:01][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:15:10][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de ANDIRÁ [ID::1086]  
+[13:17:37][201.92.165.126]> Aux Financeiro [8] fez o login no sistema. 
+[13:18:03][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:19:00][201.92.165.126]> Aux Financeiro [8] acessou as remessas do campo 1086 . 
+[13:19:04][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:19:20][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de BANDEIRANTES [ID::1135]  
+[13:21:43][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:21:49][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CLEVELÂNDIA [ID::1012]  
+[13:23:10][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:23:41][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CORNÉLIO PROCÓPIO [ID::936]  
+[13:25:25][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:25:41][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CONSELHEIRO MAIRINK /  CE [ID::1128]  
+[13:28:42][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:28:48][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA - VILA 7 DE SETEMBRO [ID::960]  
+[13:42:20][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:42:26][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA / BACACHERI [ID::1059]  
+[13:44:51][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:44:57][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA / BACACHERI [ID::1059]  
+[13:45:22][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de CURITIBA / BACACHERI [ID::1059]  
+[13:45:22][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:45:30][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA FAZENDINHA [ID::1105]  
+[13:50:45][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:50:52][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA VILA RIO NEGRO [ID::1149]  
+[13:52:33][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[13:52:38][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA / XAXIM / VILA MARIANA [ID::1042]  
+[14:08:59][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de CURITIBA / XAXIM / VILA MARIANA [ID::1042]  
+[14:08:59][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[14:09:03][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[14:09:10][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA VILA RIO NEGRO [ID::1149]  
+[14:31:05][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[14:31:14][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA ALMIRANTE TAMANDAR&Eacute; [ID::1067]  
+[14:35:27][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de CURITIBA ALMIRANTE TAMANDARÉ [ID::1067]  
+[14:35:27][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[14:37:03][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA / CAPÃO RASO [ID::997]  
+[14:40:41][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de CURITIBA / CAPÃO RASO [ID::997]  
+[14:40:41][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[14:41:38][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA FAZENDINHA [ID::1105]  
+[14:42:24][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[14:42:34][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA - JARDIM INDEPENDENCIA - CE [ID::1118]  
+[14:42:37][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[14:45:44][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA NEOVILE/CAMPO ALEGRE [ID::1057]  
+[14:53:50][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de CURITIBA NEOVILE/CAMPO ALEGRE [ID::1057]  
+[14:53:50][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[14:55:05][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA / PORTÃO [ID::1248]  
+[14:57:02][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[14:57:13][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA SABARÁ - CE [ID::1106]  
+[15:02:11][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de CURITIBA SABARÁ - CE [ID::1106]  
+[15:02:12][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[15:10:02][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de FRANCISCO BELTRÃO [ID::939]  
+[15:13:31][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de FRANCISCO BELTRÃO [ID::939]  
+[15:13:31][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[15:13:42][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de IBAITI [ID::946]  
+[15:15:34][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de IBAITI [ID::946]  
+[15:15:35][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[15:15:45][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de ITAJAI [ID::1129]  
+[15:20:51][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de ITAJAI [ID::1129]  
+[15:20:51][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[15:21:48][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de ITAJAI [ID::1129]  
+[15:22:30][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de ITAJAI [ID::1129]  
+[15:22:31][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[15:22:33][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[15:22:43][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de JABOTI [ID::932]  
+[15:23:58][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[15:24:04][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de JACAREZINHO  [ID::902]  
+[15:25:38][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de JACAREZINHO  [ID::902]  
+[15:25:38][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[15:27:26][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de JOAQUIM TAVORA [ID::1029]  
+[15:32:32][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de JOAQUIM TAVORA [ID::1029]  
+[15:32:32][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[15:33:02][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de PATO BRANCO - CE [ID::967]  
+[15:34:16][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[15:34:21][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de PINHAIS [ID::1028]  
+[15:35:08][201.92.165.126]> Aux Financeiro [ID::8] atualizou o cadastro de PINHAIS [ID::1028]  
+[15:35:08][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[15:35:17][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de PORTO UNIÃO /  CE [ID::1120]  
+[15:36:07][201.92.165.126]> Aux Financeiro [8] acessou listagem de campos . 
+[15:36:41][201.92.165.126]> Aux Financeiro [ID::8] acessou o cadastro de PORTO UNIÃO /  CE [ID::1120]  
+[15:41:03][201.92.165.126]> Aux Financeiro [8] saiu do sistema . 

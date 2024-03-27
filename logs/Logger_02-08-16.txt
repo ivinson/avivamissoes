@@ -1,0 +1,140 @@
+[09:44:58][66.249.64.183]> #### Acesso não autorizado ###### 
+[09:44:58][66.249.64.183]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=919&abertos=y 
+[09:44:58][66.249.64.183]> # ------------------------------------------------------>  
+[09:45:45][66.249.64.183]> #### Acesso não autorizado ###### 
+[09:45:45][66.249.64.183]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=994&abertos=y 
+[09:45:45][66.249.64.183]> # ------------------------------------------------------>  
+[09:48:21][66.249.64.183]> #### Acesso não autorizado ###### 
+[09:48:21][66.249.64.183]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1159&type=reprocessamento 
+[09:48:21][66.249.64.183]> # ------------------------------------------------------>  
+[10:29:05][191.23.59.218]> Ivani Valim  [2] fez o login no sistema. 
+[10:32:57][177.138.68.129]> #### Acesso não autorizado ###### 
+[10:32:57][177.138.68.129]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[10:32:57][177.138.68.129]> # ------------------------------------------------------>  
+[10:33:07][177.138.68.129]> Karina Machado Pereira [4] fez o login no sistema. 
+[10:51:36][177.138.68.129]> Sineide Silva [3] acessou listagem de campos . 
+[10:53:42][191.23.59.218]> Ivani Valim  [2] acessou listagem de campos . 
+[10:53:49][191.23.59.218]> Ivani Valim  [2] acessou as remessas do campo 952 . 
+[10:53:54][191.23.59.218]> Ivani Valim  [2] acessou as remessas do campo 952 . 
+[10:54:09][191.23.59.218]> Ivani Valim  [2] acessou as remessas do campo 952 . 
+[10:54:18][191.23.59.218]> Ivani Valim  [2] acessou as remessas do campo 952 . 
+[10:54:21][191.23.59.218]> Ivani Valim  [2] acessou as remessas do campo 952 . 
+[10:54:26][191.23.59.218]> Ivani Valim  [2] acessou as remessas do campo 952 . 
+[10:56:34][191.23.59.218]> # UPLOAD[Extrato] ## 
+[10:56:34][191.23.59.218]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[10:56:34][191.23.59.218]> # Dt :: 05/05/2016  
+[10:56:34][191.23.59.218]> # Docto :: 1040051 
+[10:56:34][191.23.59.218]> # Valor :: 2127.00 
+[10:56:34][191.23.59.218]> ------------------------------------------------------------------------------ 
+[10:56:35][191.23.59.218]> # UPLOAD[Extrato] ## 
+[10:56:35][191.23.59.218]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[10:56:35][191.23.59.218]> # Dt :: 06/05/2016  
+[10:56:35][191.23.59.218]> # Docto :: 1033290 
+[10:56:35][191.23.59.218]> # Valor :: 1000.00 
+[10:56:35][191.23.59.218]> ------------------------------------------------------------------------------ 
+[10:56:35][191.23.59.218]> # UPLOAD[Extrato] ## 
+[10:56:35][191.23.59.218]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[10:56:35][191.23.59.218]> # Dt :: 09/05/2016  
+[10:56:35][191.23.59.218]> # Docto :: 1033157 
+[10:56:35][191.23.59.218]> # Valor :: 30.00 
+[10:56:35][191.23.59.218]> ------------------------------------------------------------------------------ 
+[10:56:36][191.23.59.218]> # UPLOAD[Extrato] ## 
+[10:56:36][191.23.59.218]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[10:56:36][191.23.59.218]> # Dt :: 10/05/2016  
+[10:56:36][191.23.59.218]> # Docto :: 219013 
+[10:56:36][191.23.59.218]> # Valor :: 80.00 
+[10:56:36][191.23.59.218]> ------------------------------------------------------------------------------ 
+[10:56:36][191.23.59.218]> # UPLOAD[Extrato] ## 
+[10:56:36][191.23.59.218]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[10:56:36][191.23.59.218]> # Dt :: 12/05/2016  
+[10:56:36][191.23.59.218]> # Docto :: 7214493 
+[10:56:36][191.23.59.218]> # Valor :: 27.00 
+[10:56:36][191.23.59.218]> ------------------------------------------------------------------------------ 
+[10:56:37][191.23.59.218]> # UPLOAD[Extrato] ## 
+[10:56:37][191.23.59.218]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[10:56:37][191.23.59.218]> # Dt :: 16/05/2016  
+[10:56:37][191.23.59.218]> # Docto :: 2445304 
+[10:56:37][191.23.59.218]> # Valor :: 110.00 
+[10:56:37][191.23.59.218]> ------------------------------------------------------------------------------ 
+[10:56:39][191.23.59.218]> # UPLOAD[Extrato] ## 
+[10:56:39][191.23.59.218]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[10:56:39][191.23.59.218]> # Dt :: 30/05/2016  
+[10:56:39][191.23.59.218]> # Docto :: 1041345 
+[10:56:39][191.23.59.218]> # Valor :: 205.00 
+[10:56:39][191.23.59.218]> ------------------------------------------------------------------------------ 
+[10:56:39][191.23.59.218]> # UPLOAD[Extrato] ## 
+[10:56:39][191.23.59.218]> # O usuario Ivani Valim (2) gerou um lacamento bancario atraves do upload de extrato.  
+[10:56:39][191.23.59.218]> # Dt :: 30/05/2016  
+[10:56:39][191.23.59.218]> # Docto :: 1306072 
+[10:56:39][191.23.59.218]> # Valor :: 142.00 
+[10:56:39][191.23.59.218]> ------------------------------------------------------------------------------ 
+[10:56:40][191.23.59.218]> # UPLOAD[Operacao Irregular] ## 
+[10:56:40][191.23.59.218]> # O usuario Ivani Valim (2 deletou um lacamento de bancario atraves do upload de extrato.  
+[10:56:40][191.23.59.218]> # Docto :: 7279200 
+[10:56:40][191.23.59.218]> # Valor :: 77 
+[10:56:40][191.23.59.218]> ---------------------------------------------------------------------------------------------------------------------- 
+[10:56:40][191.23.59.218]> # UPLOAD[Operacao Irregular] ## 
+[10:56:40][191.23.59.218]> # O usuario Ivani Valim (2 deletou um lacamento de bancario atraves do upload de extrato.  
+[10:56:40][191.23.59.218]> # Docto :: 7279222 
+[10:56:40][191.23.59.218]> # Valor :: 179 
+[10:56:40][191.23.59.218]> ---------------------------------------------------------------------------------------------------------------------- 
+[10:57:26][191.23.59.218]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 37931   Valor:: 160  NmDocto :: 332625  
+[10:57:54][191.23.59.218]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:57:54][191.23.59.218]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 37931  
+[10:57:54][191.23.59.218]> # Valor :: 160  
+[10:57:54][191.23.59.218]> # Referente ao mes :: 2016-05-15 
+[10:57:54][191.23.59.218]> # Usuario atribuido ID::952 
+[10:57:54][191.23.59.218]> ############################################## ------------------------------------------------------------ 
+[10:58:11][191.23.59.218]> Ivani Valim  [ID::2] acessou IDENTIFICACAO de LANC de ID:: 37932   Valor:: 317  NmDocto :: 332630  
+[10:58:23][191.23.59.218]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:58:23][191.23.59.218]> # O usuario Ivani Valim (2) fez uma IDENTIFICACAO do Lancamento de ID:: 37932  
+[10:58:23][191.23.59.218]> # Valor :: 317  
+[10:58:23][191.23.59.218]> # Referente ao mes :: 2016-05-15 
+[10:58:23][191.23.59.218]> # Usuario atribuido ID::952 
+[10:58:23][191.23.59.218]> ############################################## ------------------------------------------------------------ 
+[10:58:56][191.23.59.218]> # Extrato Bradesco [Exclusao] ## 
+[10:58:56][191.23.59.218]> # O usuario Ivani Valim (2) excluiu manualmente um lacamento bancario. 
+[10:58:56][191.23.59.218]> # ID :: 37937 
+[10:58:56][191.23.59.218]> # ----------------------------------------------------------- 
+[11:54:07][191.23.59.218]> Ivani Valim  [2] acessou listagem de campos . 
+[11:54:16][191.23.59.218]> Ivani Valim  [2] acessou as remessas do campo 1232 . 
+[11:54:22][191.23.59.218]> Ivani Valim  [2] acessou as remessas do campo 1232 . 
+[11:54:25][191.23.59.218]> Ivani Valim  [2] acessou listagem de campos . 
+[11:54:30][191.23.59.218]> Ivani Valim  [2] acessou as remessas do campo 1038 . 
+[12:13:41][177.138.68.129]> Karina Machado Pereira [4] acessou listagem de campos . 
+[12:13:48][177.138.68.129]> Karina Machado Pereira [4] acessou as remessas do campo 1109 . 
+[12:15:12][177.138.68.129]> Karina Machado Pereira [4] acessou listagem de campos . 
+[12:15:18][177.138.68.129]> Karina Machado Pereira [4] acessou as remessas do campo 1230 . 
+[12:16:56][177.138.68.129]> Karina Machado Pereira [4] acessou listagem de campos . 
+[12:26:27][177.138.68.129]> Karina Machado Pereira [4] acessou as remessas do campo 1036 . 
+[13:22:13][66.249.64.187]> #### Acesso não autorizado ###### 
+[13:22:13][66.249.64.187]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=994 
+[13:22:13][66.249.64.187]> # ------------------------------------------------------>  
+[14:56:30][191.23.59.218]> Ivani Valim  [2] fez o login no sistema. 
+[15:13:42][191.23.59.218]> Ivani Valim  [2] acessou listagem de campos . 
+[15:13:49][191.23.59.218]> Ivani Valim  [2] acessou as remessas do campo 1159 . 
+[15:29:40][191.23.59.218]> Ivani Valim  [2] acessou as remessas do campo 1159 . 
+[15:29:48][191.23.59.218]> Ivani Valim  [2] acessou listagem de campos . 
+[16:24:59][177.138.68.129]> #### Acesso não autorizado ###### 
+[16:24:59][177.138.68.129]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[16:24:59][177.138.68.129]> # ------------------------------------------------------>  
+[16:25:28][177.138.68.129]> Karina Machado Pereira [4] fez o login no sistema. 
+[18:04:50][177.138.68.129]> Sineide Silva [3] saiu do sistema . 
+[21:24:26][66.249.64.183]> #### Acesso não autorizado ###### 
+[21:24:26][66.249.64.183]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1174 
+[21:24:26][66.249.64.183]> # ------------------------------------------------------>  
+[22:18:41][157.55.39.233]> #### Acesso não autorizado ###### 
+[22:18:41][157.55.39.233]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[22:18:41][157.55.39.233]> # ------------------------------------------------------>  
+[22:19:29][66.249.64.185]> #### Acesso não autorizado ###### 
+[22:19:29][66.249.64.185]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=935 
+[22:19:29][66.249.64.185]> # ------------------------------------------------------>  
+[22:22:40][66.249.64.185]> #### Acesso não autorizado ###### 
+[22:22:40][66.249.64.185]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=941&type=reprocessamento 
+[22:22:40][66.249.64.185]> # ------------------------------------------------------>  
+[22:37:29][66.249.64.185]> #### Acesso não autorizado ###### 
+[22:37:29][66.249.64.185]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=935&abertos=y 
+[22:37:29][66.249.64.185]> # ------------------------------------------------------>  
+[22:38:35][66.249.64.185]> #### Acesso não autorizado ###### 
+[22:38:35][66.249.64.185]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=976&abertos=y 
+[22:38:35][66.249.64.185]> # ------------------------------------------------------>  

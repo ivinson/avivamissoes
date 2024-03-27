@@ -1,0 +1,26 @@
+[02:45:59][187.3.220.156]>  [ID::] acessou o cadastro de URUGUAIANA [ID::1112]  
+[02:46:00][187.3.220.156]>  [] acessou listagem de campos . 
+[09:42:21][201.93.235.222]> Aux Financeiro [8] fez o login no sistema. 
+[15:03:06][201.93.235.222]> Aux Financeiro [8] acessou listagem de campos . 
+[15:59:37][201.93.235.222]> Aux Financeiro [8] fez o login no sistema. 
+[15:59:41][201.93.235.222]> Aux Financeiro [8] acessou listagem de campos . 
+[16:07:20][201.93.235.222]> Aux Financeiro [ID::8] acessou o cadastro de JAÇANA [ID::1103]  
+[16:07:24][201.93.235.222]> Aux Financeiro [8] acessou listagem de campos . 
+[16:09:25][201.93.235.222]> Aux Financeiro [ID::8] acessou o cadastro de TOLEDO [ID::918]  
+[16:09:31][201.93.235.222]> Aux Financeiro [8] acessou listagem de campos . 
+[16:10:05][201.93.235.222]> Aux Financeiro [8] acessou as remessas do campo 918 . 
+[16:10:09][201.93.235.222]> Aux Financeiro [8] acessou as remessas do campo 918 . 
+[16:11:02][201.93.235.222]> Aux Financeiro [8] acessou as remessas do campo 918 . 
+[16:11:19][201.93.235.222]> Aux Financeiro [8] acessou listagem de campos . 
+[16:21:15][201.93.235.222]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 81737   Valor:: 250  NmDocto :: 5603949  
+[16:21:16][201.93.235.222]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 81737   Valor:: 250  NmDocto :: 5603949  
+[16:21:53][201.93.235.222]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[16:22:05][201.93.235.222]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:22:05][201.93.235.222]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 81737  
+[16:22:05][201.93.235.222]> # Valor :: 250  
+[16:22:05][201.93.235.222]> # Referente ao mes :: 2020-03-15 
+[16:22:05][201.93.235.222]> # Usuario atribuido ID::1103 
+[16:22:05][201.93.235.222]> ############################################## ------------------------------------------------------------ 
+[16:22:10][201.93.235.222]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[16:28:03][201.93.235.222]> Aux Financeiro [8] acessou listagem de campos . 
+[17:04:52][201.93.235.222]> Aux Financeiro [8] saiu do sistema . 

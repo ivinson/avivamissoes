@@ -1,0 +1,51 @@
+[10:06:11][189.78.188.10]> Aux Financeiro [8] fez o login no sistema. 
+[10:19:06][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[10:19:23][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 1021 . 
+[10:22:49][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[10:23:04][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 1243 . 
+[10:23:15][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[10:24:01][189.78.188.10]> Aux Financeiro [ID::8] acessou o cadastro de TUCURUVI-CE [ID::1243]  
+[10:30:59][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[10:31:13][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 939 . 
+[10:41:59][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[13:46:04][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 898 . 
+[13:47:10][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 898 . 
+[13:47:22][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 898 . 
+[13:49:54][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[13:50:07][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 939 . 
+[14:05:45][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 939 . 
+[14:38:40][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[14:38:55][189.78.188.10]> Aux Financeiro [ID::8] acessou o cadastro de TOLEDO [ID::918]  
+[14:54:12][189.78.188.10]> Aux Financeiro [8] fez o login no sistema. 
+[15:10:25][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[15:10:50][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 923 . 
+[15:11:15][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[15:11:27][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 948 . 
+[15:11:34][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 948 . 
+[15:11:40][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 948 . 
+[15:14:02][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[15:14:15][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 923 . 
+[15:14:28][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 923 . 
+[15:14:36][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 923 . 
+[15:15:38][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[15:17:05][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 923 . 
+[15:21:50][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[15:21:59][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 1106 . 
+[15:22:05][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[15:22:15][189.78.188.10]> Aux Financeiro [ID::8] acessou o cadastro de CURITIBA SABARÁ - CE [ID::1106]  
+[15:26:14][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[16:16:40][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[16:22:42][189.78.188.10]> Aux Financeiro [ID::8] acessou o cadastro de MONTE NEGRO [ID::1253]  
+[17:09:18][170.244.30.223]> #### Acesso não autorizado ###### 
+[17:09:18][170.244.30.223]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[17:09:18][170.244.30.223]> # ------------------------------------------------------>  
+[17:09:27][170.244.30.223]> Administrador Financeiro [5] fez o login no sistema. 
+[17:09:48][170.244.30.223]> Administrador Financeiro [5] acessou listagem de campos . 
+[17:10:01][170.244.30.223]> Administrador Financeiro [5] acessou as remessas do campo 981 . 
+[17:10:10][170.244.30.223]> Administrador Financeiro [5] acessou as remessas do campo 981 . 
+[17:38:08][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[17:43:02][189.78.188.10]> Aux Financeiro [8] saiu do sistema . 
+[17:51:32][189.78.188.10]> Aux Financeiro [8] fez o login no sistema. 
+[17:51:37][189.78.188.10]> Aux Financeiro [8] acessou listagem de campos . 
+[17:51:46][189.78.188.10]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[17:53:33][189.78.188.10]> Aux Financeiro [8] saiu do sistema . 

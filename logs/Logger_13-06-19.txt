@@ -1,0 +1,27 @@
+[09:50:16][177.102.219.103]> Aux Financeiro [8] fez o login no sistema. 
+[13:05:19][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[13:05:50][177.102.219.103]> Aux Financeiro [ID::8] acessou o cadastro de MANDAGUARI [ID::1130]  
+[13:13:45][177.102.219.103]> Aux Financeiro [ID::8] atualizou o cadastro de MANDAGUARI [ID::1130]  
+[13:13:45][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[16:13:23][177.102.219.103]> Aux Financeiro [8] acessou listagem de campos . 
+[16:47:34][177.102.219.103]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 75253   Valor:: 173  NmDocto :: 1015774  
+[16:55:31][177.102.219.103]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:55:31][177.102.219.103]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 75253  
+[16:55:31][177.102.219.103]> # Valor :: 173  
+[16:55:31][177.102.219.103]> # Referente ao mes :: 2019-04-15 
+[16:55:31][177.102.219.103]> # Usuario atribuido ID::1124 
+[16:55:31][177.102.219.103]> ############################################## ------------------------------------------------------------ 
+[16:55:41][177.102.219.103]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 75254   Valor:: 191  NmDocto :: 1015774  
+[16:56:05][177.102.219.103]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:56:05][177.102.219.103]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 75254  
+[16:56:05][177.102.219.103]> # Valor :: 191  
+[16:56:05][177.102.219.103]> # Referente ao mes :: 2019-03-15 
+[16:56:05][177.102.219.103]> # Usuario atribuido ID::1124 
+[16:56:05][177.102.219.103]> ############################################## ------------------------------------------------------------ 
+[16:56:11][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[17:00:29][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[17:00:33][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[17:00:35][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[17:01:21][177.102.219.103]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[17:01:50][177.102.219.103]> Aux Financeiro [8] saiu do sistema . 
+[17:01:53][177.102.219.103]>  [8] saiu do sistema . 

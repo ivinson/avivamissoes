@@ -1,0 +1,31 @@
+[09:09:49][191.254.227.51]> Aux Financeiro [8] fez o login no sistema. 
+[09:48:56][191.254.227.51]> Aux Financeiro [8] acessou listagem de campos . 
+[09:49:31][191.254.227.51]> Aux Financeiro [ID::8] acessou o cadastro de ROLIM DE MOURA [ID::1082]  
+[11:54:02][191.254.227.51]> Aux Financeiro [8] saiu do sistema . 
+[12:48:19][191.254.227.51]> Aux Financeiro [8] fez o login no sistema. 
+[12:48:22][191.254.227.51]> Aux Financeiro [8] acessou listagem de campos . 
+[12:48:36][191.254.227.51]> Aux Financeiro [ID::8] acessou o cadastro de JACAREZINHO  [ID::902]  
+[12:49:32][191.254.227.51]> Aux Financeiro [8] acessou listagem de campos . 
+[12:55:34][191.254.227.51]> Aux Financeiro [ID::8] acessou o cadastro de FOZ DO IGUAÇÚ [ID::943]  
+[12:56:50][191.254.227.51]> Aux Financeiro [ID::8] atualizou o cadastro de FOZ DO IGUAÇÚ [ID::943]  
+[12:56:50][191.254.227.51]> Aux Financeiro [8] acessou listagem de campos . 
+[12:56:57][191.254.227.51]> Aux Financeiro [ID::8] acessou o cadastro de FOZ DO IGUAÇÚ [ID::943]  
+[12:58:13][191.254.227.51]> Aux Financeiro [ID::8] atualizou o cadastro de FOZ DO IGUAÇÚ [ID::943]  
+[12:58:13][191.254.227.51]> Aux Financeiro [8] acessou listagem de campos . 
+[14:45:33][191.254.227.51]> Aux Financeiro [ID::8] acessou o cadastro de Boleto Pastores [ID::1269]  
+[14:45:38][191.254.227.51]> Aux Financeiro [ID::8] atualizou o cadastro de Boleto Pastores [ID::1269]  
+[14:45:38][191.254.227.51]> Aux Financeiro [8] acessou listagem de campos . 
+[15:48:57][191.254.227.51]> Aux Financeiro [ID::8] acessou o cadastro de COMODORO / CE   [ID::890]  
+[16:29:17][191.254.227.51]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 76701   Valor:: 152.45  NmDocto :: 5392093  
+[16:29:45][191.254.227.51]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:29:45][191.254.227.51]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 76701  
+[16:29:45][191.254.227.51]> # Valor :: 152.45  
+[16:29:45][191.254.227.51]> # Referente ao mes :: 2019-07-15 
+[16:29:45][191.254.227.51]> # Usuario atribuido ID::1190 
+[16:29:45][191.254.227.51]> ############################################## ------------------------------------------------------------ 
+[17:03:11][191.254.227.51]> Aux Financeiro [8] acessou listagem de campos . 
+[17:03:18][191.254.227.51]> Aux Financeiro [ID::8] acessou o cadastro de ROLIM DE MOURA [ID::1082]  
+[17:04:26][191.254.227.51]> Aux Financeiro [8] saiu do sistema . 
+[18:36:24][66.249.83.49]> #### Acesso não autorizado ###### 
+[18:36:24][66.249.83.49]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960 
+[18:36:24][66.249.83.49]> # ------------------------------------------------------>  

@@ -1,0 +1,9 @@
+[09:28:43][177.94.37.190]> Administrador Financeiro [5] fez o login no sistema. 
+[09:29:41][177.94.37.190]> Administrador Financeiro [5] acessou listagem de campos . 
+[09:29:54][177.94.37.190]> Administrador Financeiro [5] acessou as remessas do campo 1015 . 
+[09:30:11][177.94.37.190]> Administrador Financeiro [5] acessou as remessas do campo 1015 . 
+[13:59:38][170.244.29.43]> #### Acesso não autorizado ###### 
+[13:59:38][170.244.29.43]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[13:59:38][170.244.29.43]> # ------------------------------------------------------>  
+[13:59:46][170.244.29.43]> adm com a senha 1234567 tentou logar no sistema. 
+[13:59:56][170.244.29.43]> Administrador Financeiro [5] fez o login no sistema. 

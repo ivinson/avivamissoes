@@ -1,0 +1,132 @@
+[09:11:10][201.92.161.66]> Aux Financeiro [8] fez o login no sistema. 
+[09:21:13][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[09:21:23][201.92.161.66]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[09:40:13][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[09:40:21][201.92.161.66]> Aux Financeiro [8] acessou as remessas do campo 979 . 
+[11:07:12][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:07:27][201.92.161.66]> Aux Financeiro [8] acessou as remessas do campo 909 . 
+[11:09:53][201.92.161.66]> Aux Financeiro [8] acessou as remessas do campo 909 . 
+[11:10:00][201.92.161.66]> Aux Financeiro [8] deletou a remessa 68446 do campo id=909. 
+[11:10:00][201.92.161.66]> Aux Financeiro [8] acessou as remessas do campo 909 . 
+[11:10:42][201.92.161.66]> Aux Financeiro [8] acessou as remessas do campo 909 . 
+[11:10:46][201.92.161.66]> Aux Financeiro [8] deletou a remessa 68887 do campo id=909. 
+[11:10:47][201.92.161.66]> Aux Financeiro [8] acessou as remessas do campo 909 . 
+[11:11:54][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:11:58][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:19:50][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:22:02][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:23:52][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de ARTUR ALVIM [ID::1036]  
+[11:24:37][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de ARTUR ALVIM [ID::1036]  
+[11:24:37][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:24:55][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de IPIRANGA [ID::1093]  
+[11:26:00][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de IPIRANGA [ID::1093]  
+[11:26:01][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:26:21][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de DIADEMA [ID::1159]  
+[11:27:49][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de DIADEMA [ID::1159]  
+[11:27:49][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:28:02][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de ITANHAÉM-CE [ID::1160]  
+[11:29:03][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de ITANHAÉM-CE [ID::1160]  
+[11:29:03][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:29:18][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de GUARUJÁ [ID::1045]  
+[11:30:48][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de GUARUJÁ [ID::1045]  
+[11:30:49][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:31:00][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de ITAQUAQUECETUBA [ID::1241]  
+[11:32:37][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de ITAQUAQUECETUBA [ID::1241]  
+[11:32:37][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:32:58][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de PARQUE IMIGRANTES [ID::1044]  
+[11:34:04][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de PARQUE IMIGRANTES [ID::1044]  
+[11:34:04][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:34:13][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de PARQUE JAÇATUBA [ID::1015]  
+[11:35:37][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de PARQUE JAÇATUBA [ID::1015]  
+[11:35:37][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:36:15][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de JARDIM ALVORADA [ID::1061]  
+[11:38:13][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de JARDIM ALVORADA [ID::1061]  
+[11:38:13][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:38:27][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de JARDIM SÃO ROBERTO [ID::1007]  
+[11:39:56][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de JARDIM SÃO ROBERTO [ID::1007]  
+[11:39:57][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:40:08][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de JARDIM CALUX [ID::1240]  
+[11:41:09][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de JARDIM CALUX [ID::1240]  
+[11:41:09][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:41:20][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de MAUÁ [ID::1037]  
+[11:42:00][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de MAUÁ [ID::1037]  
+[11:42:00][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:42:15][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de JARDIM LAURA  [ID::1034]  
+[11:44:04][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de JARDIM LAURA  [ID::1034]  
+[11:44:04][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:44:18][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de MOGI DAS CRUZES [ID::1101]  
+[11:45:56][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de MOGI DAS CRUZES [ID::1101]  
+[11:45:57][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:46:12][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de JARDIM PETRONI [ID::1169]  
+[11:48:21][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de JARDIM PETRONI [ID::1169]  
+[11:48:22][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:48:37][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de SAO CAETANO DO SUL - VILA GERTY [ID::909]  
+[11:50:08][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de SAO CAETANO DO SUL - VILA GERTY [ID::909]  
+[11:50:08][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:50:45][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de VILA BARCELONA [ID::1223]  
+[11:52:59][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de VILA BARCELONA [ID::1223]  
+[11:52:59][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:53:14][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de POÁ [ID::1081]  
+[11:54:52][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de POÁ [ID::1081]  
+[11:54:53][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:55:04][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de SAO CAETANO DO SUL - BOA VISTA [ID::1233]  
+[11:58:36][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de SAO CAETANO DO SUL - BOA VISTA [ID::1233]  
+[11:58:36][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[11:58:46][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de RIBEIRÃO PIRES [ID::1108]  
+[11:59:50][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de RIBEIRÃO PIRES [ID::1108]  
+[11:59:51][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[12:00:07][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de SAO CAETANO DO SUL - OSVALDO CRUZ [ID::1054]  
+[12:01:04][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de SAO CAETANO DO SUL - OSVALDO CRUZ [ID::1054]  
+[12:01:04][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[12:01:46][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de RIO GRANDE DA SERRA [ID::1011]  
+[12:04:10][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de RIO GRANDE DA SERRA [ID::1011]  
+[12:04:10][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[14:29:45][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de PERUIBE-CE [ID::1003]  
+[14:31:12][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de PERUIBE-CE [ID::1003]  
+[14:31:13][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[14:31:21][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de REGISTRO [ID::1016]  
+[14:32:37][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de REGISTRO [ID::1016]  
+[14:32:37][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[14:38:50][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de SANTOS-CE [ID::1242]  
+[14:39:46][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de SANTOS-CE [ID::1242]  
+[14:39:46][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[14:42:15][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de SUZANO - CE [ID::1032]  
+[14:49:46][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de SUZANO - CE [ID::1032]  
+[14:49:46][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[14:50:00][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de SAO JOAO CLIMACO [ID::933]  
+[14:51:48][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de SAO JOAO CLIMACO [ID::933]  
+[14:51:49][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[14:52:01][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de SANTO ANDRÉ [ID::1151]  
+[14:52:11][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[14:54:23][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de SAUDE [ID::1172]  
+[14:55:43][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de SAUDE [ID::1172]  
+[14:55:44][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[14:55:58][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de VILA HELENA [ID::1100]  
+[15:01:21][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de VILA HELENA [ID::1100]  
+[15:01:21][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[15:03:27][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[15:03:48][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de SANTO ANDRÉ [ID::1151]  
+[15:17:43][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[15:17:50][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de SANTO ANDRÉ [ID::1151]  
+[15:22:40][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de SANTO ANDRÉ [ID::1151]  
+[15:22:41][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[15:22:59][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de SÃO MATEUS [ID::1165]  
+[15:25:14][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de SÃO MATEUS [ID::1165]  
+[15:25:14][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[15:25:30][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de UTINGA [ID::1079]  
+[15:28:19][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de UTINGA [ID::1079]  
+[15:28:19][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[15:28:41][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de VILA ARAPUÁ [ID::1035]  
+[15:29:56][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de VILA ARAPUÁ [ID::1035]  
+[15:29:56][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[15:30:14][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de UBATUBA [ID::998]  
+[15:31:36][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de UBATUBA [ID::998]  
+[15:31:37][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[15:31:58][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de VILA RICA  - SÃO PAULO [ID::928]  
+[15:32:45][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de VILA RICA  - SÃO PAULO [ID::928]  
+[15:32:45][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[15:32:56][201.92.161.66]> Aux Financeiro [ID::8] acessou o cadastro de VILA FORMOSA [ID::977]  
+[15:34:37][201.92.161.66]> Aux Financeiro [ID::8] atualizou o cadastro de VILA FORMOSA [ID::977]  
+[15:34:37][201.92.161.66]> Aux Financeiro [8] acessou listagem de campos . 
+[16:56:35][201.92.161.66]> Aux Financeiro [8] saiu do sistema . 
+[16:56:39][201.92.161.66]>  [8] saiu do sistema . 

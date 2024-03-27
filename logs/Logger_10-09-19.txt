@@ -1,0 +1,46 @@
+[09:15:11][152.250.124.172]> Aux Financeiro [8] fez o login no sistema. 
+[10:14:07][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[10:15:13][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de RECIFE II [ID::1232]  
+[10:15:16][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[10:15:21][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de RECIFE [ID::1038]  
+[10:16:02][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[10:16:08][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de SANTA RITA DO PARDO [ID::901]  
+[10:19:05][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[10:19:12][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de GOIÂNIA [ID::1010]  
+[10:38:00][170.244.28.44]> #### Acesso não autorizado ###### 
+[10:38:00][170.244.28.44]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[10:38:00][170.244.28.44]> # ------------------------------------------------------>  
+[10:38:00][66.249.83.51]> #### Acesso não autorizado ###### 
+[10:38:00][66.249.83.51]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960 
+[10:38:00][66.249.83.51]> # ------------------------------------------------------>  
+[10:38:08][170.244.28.44]> Administrador Financeiro [5] fez o login no sistema. 
+[10:38:28][170.244.28.44]> Administrador Financeiro [5] acessou listagem de campos . 
+[10:38:38][170.244.28.44]> Administrador Financeiro [5] acessou as remessas do campo 1057 . 
+[10:38:41][170.244.28.44]> Administrador Financeiro [5] acessou as remessas do campo 1057 . 
+[10:38:46][170.244.28.44]> Administrador Financeiro [5] acessou as remessas do campo 1057 . 
+[10:39:58][170.244.28.44]> Administrador Financeiro [5] acessou as remessas do campo 1057 . 
+[10:47:29][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[10:47:35][152.250.124.172]> Aux Financeiro [8] acessou as remessas do campo 1057 . 
+[12:03:50][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[12:05:20][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de JANDAIA DO SUL [ID::1181]  
+[12:11:17][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[12:11:25][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de TOLEDO [ID::918]  
+[13:03:02][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[14:15:56][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de CAMPO MOURÃO [ID::999]  
+[14:38:26][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[14:59:10][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de ARAPONGAS [ID::1134]  
+[16:22:46][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[16:22:54][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de MANDAGUARI [ID::1130]  
+[16:23:15][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[16:23:22][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de MARINGÁ / EBENÉZER/ LEA LEAL [ID::1002]  
+[16:23:33][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[16:23:39][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de MANDAGUARI [ID::1130]  
+[16:48:30][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[17:28:18][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de ANÁPOLIS - CE [ID::1009]  
+[17:37:36][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[17:37:52][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de GOIÂNIA [ID::1010]  
+[17:40:54][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[17:40:59][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de CAMPO GRANDE 2 [ID::1252]  
+[17:41:28][152.250.124.172]> Aux Financeiro [8] acessou listagem de campos . 
+[17:41:33][152.250.124.172]> Aux Financeiro [ID::8] acessou o cadastro de SANTA RITA DO PARDO [ID::901]  
+[18:12:50][152.250.124.172]> Aux Financeiro [8] saiu do sistema . 

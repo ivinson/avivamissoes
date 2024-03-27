@@ -1,0 +1,367 @@
+[09:43:39][191.8.73.55]> Aux Financeiro [8] fez o login no sistema. 
+[10:16:43][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[10:53:25][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1105 . 
+[10:54:22][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1309 . 
+[10:54:50][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 950 . 
+[10:55:41][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1039 . 
+[10:56:06][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[10:56:16][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1105 . 
+[10:56:21][191.8.73.55]> Aux Financeiro [8] deletou a remessa 92081 do campo id=1105. 
+[10:56:21][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1105 . 
+[10:57:00][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1105 . 
+[10:57:07][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[10:57:12][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1309 . 
+[10:57:17][191.8.73.55]> Aux Financeiro [8] deletou a remessa 92082 do campo id=1309. 
+[10:57:18][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1309 . 
+[10:57:41][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1309 . 
+[10:57:46][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[10:57:53][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 950 . 
+[10:58:00][191.8.73.55]> Aux Financeiro [8] deletou a remessa 92083 do campo id=950. 
+[10:58:00][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 950 . 
+[10:58:21][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 950 . 
+[10:58:32][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[10:58:40][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1039 . 
+[10:58:46][191.8.73.55]> Aux Financeiro [8] deletou a remessa 92084 do campo id=1039. 
+[10:58:46][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1039 . 
+[10:59:09][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1039 . 
+[10:59:36][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1253 . 
+[11:01:26][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1181 . 
+[11:02:18][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1019 . 
+[11:02:54][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1282 . 
+[11:03:37][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1004 . 
+[11:04:07][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 890 . 
+[11:04:38][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 996 . 
+[11:06:39][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1194 . 
+[11:07:09][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1110 . 
+[11:07:44][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 912 . 
+[11:08:11][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1293 . 
+[11:08:38][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1256 . 
+[11:09:09][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1112 . 
+[11:10:10][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1034 . 
+[11:11:07][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1013 . 
+[11:11:38][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1100 . 
+[11:12:08][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 960 . 
+[11:19:30][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1095 . 
+[11:20:08][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1108 . 
+[11:20:36][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1163 . 
+[11:21:05][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[11:21:14][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[11:21:14][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[11:21:14][191.8.73.55]> # ID :: 91942 
+[11:21:14][191.8.73.55]> # ----------------------------------------------------------- 
+[11:22:17][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 980 . 
+[11:22:45][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[11:23:12][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1040 . 
+[11:23:50][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1145 . 
+[11:24:27][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1014 . 
+[11:24:54][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1133 . 
+[11:25:23][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 932 . 
+[11:25:56][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1086 . 
+[11:26:29][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 942 . 
+[11:27:20][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1056 . 
+[11:27:47][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1006 . 
+[11:28:39][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 981 . 
+[11:33:22][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1255 . 
+[11:38:28][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 986 . 
+[12:49:30][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 982 . 
+[12:49:43][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[12:49:43][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[12:49:43][191.8.73.55]> # ID :: 91950 
+[12:49:43][191.8.73.55]> # ----------------------------------------------------------- 
+[12:51:18][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 956 . 
+[12:51:47][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[12:52:13][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1278 . 
+[12:52:19][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[12:52:24][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 956 . 
+[12:52:26][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[12:52:32][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[12:52:34][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[12:52:38][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1278 . 
+[12:54:20][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1053 . 
+[12:54:48][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1187 . 
+[12:55:35][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1306 . 
+[12:55:45][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[12:55:45][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[12:55:45][191.8.73.55]> # ID :: 91952 
+[12:55:45][191.8.73.55]> # ----------------------------------------------------------- 
+[12:56:46][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1128 . 
+[12:57:15][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1096 . 
+[12:57:49][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 923 . 
+[12:58:28][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1030 . 
+[12:58:57][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1304 . 
+[12:59:22][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 907 . 
+[12:59:54][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1082 . 
+[13:00:21][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 934 . 
+[13:00:47][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1222 . 
+[13:01:17][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1188 . 
+[13:01:47][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1044 . 
+[13:02:47][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1088 . 
+[13:03:15][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 969 . 
+[13:03:24][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[13:03:24][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[13:03:24][191.8.73.55]> # ID :: 91958 
+[13:03:24][191.8.73.55]> # ----------------------------------------------------------- 
+[13:05:16][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1075 . 
+[13:06:00][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 975 . 
+[13:06:29][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1154 . 
+[13:06:46][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[13:06:50][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1154 . 
+[13:07:38][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[13:07:52][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 942 . 
+[13:09:06][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 942 . 
+[13:09:09][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[13:09:23][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 942 . 
+[13:10:03][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 942 . 
+[13:11:06][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[13:11:11][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1154 . 
+[13:11:39][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 979 . 
+[13:12:14][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1081 . 
+[13:12:52][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1160 . 
+[13:13:21][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[13:13:57][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1097 . 
+[13:14:36][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1106 . 
+[13:15:07][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 921 . 
+[13:19:20][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1036 . 
+[13:19:57][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[13:20:27][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 892 . 
+[13:20:56][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1262 . 
+[13:21:24][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1009 . 
+[13:21:54][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1277 . 
+[13:22:30][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1241 . 
+[13:23:40][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 896 . 
+[13:24:07][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 978 . 
+[13:24:38][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1055 . 
+[13:25:05][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1083 . 
+[13:25:46][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 953 . 
+[13:26:53][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1274 . 
+[13:28:08][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1303 . 
+[13:28:38][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[13:28:54][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[13:28:54][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[13:28:54][191.8.73.55]> # ID :: 91963 
+[13:28:54][191.8.73.55]> # ----------------------------------------------------------- 
+[13:30:59][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1018 . 
+[13:37:32][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1272 . 
+[13:38:08][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1066 . 
+[13:38:44][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[13:39:12][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 925 . 
+[13:39:56][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1140 . 
+[13:40:25][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1029 . 
+[13:40:55][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1048 . 
+[13:41:30][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1172 . 
+[13:42:01][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1285 . 
+[13:42:37][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 958 . 
+[13:43:06][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 922 . 
+[13:43:11][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 922 . 
+[13:43:17][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 922 . 
+[13:43:24][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[13:43:24][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[13:43:24][191.8.73.55]> # ID :: 91965 
+[13:43:24][191.8.73.55]> # ----------------------------------------------------------- 
+[13:59:49][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[14:00:20][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[14:00:57][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 964 . 
+[14:01:33][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1017 . 
+[14:02:03][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 902 . 
+[14:02:36][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[14:03:20][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1094 . 
+[14:03:54][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 941 . 
+[14:06:34][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 891 . 
+[14:06:46][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[14:06:46][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[14:06:46][191.8.73.55]> # ID :: 91969 
+[14:06:46][191.8.73.55]> # ----------------------------------------------------------- 
+[14:08:16][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1021 . 
+[14:08:52][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[14:09:20][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[14:09:49][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1270 . 
+[14:10:19][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1292 . 
+[14:10:49][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[14:11:16][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 973 . 
+[14:11:55][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 989 . 
+[14:12:19][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[14:12:56][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1170 . 
+[14:13:09][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[14:13:09][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[14:13:09][191.8.73.55]> # ID :: 91972 
+[14:13:09][191.8.73.55]> # ----------------------------------------------------------- 
+[14:14:51][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[14:15:20][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1141 . 
+[14:16:09][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1129 . 
+[14:16:41][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1015 . 
+[14:16:57][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[14:16:57][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[14:16:57][191.8.73.55]> # ID :: 91983 
+[14:16:57][191.8.73.55]> # ----------------------------------------------------------- 
+[14:17:57][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1135 . 
+[14:18:35][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1031 . 
+[14:19:16][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1109 . 
+[14:22:06][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 905 . 
+[14:22:35][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[14:24:26][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1101 . 
+[14:24:57][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 987 . 
+[14:25:26][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1192 . 
+[14:25:55][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1258 . 
+[14:26:30][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1107 . 
+[14:27:11][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 894 . 
+[14:27:40][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 893 . 
+[14:28:17][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1089 . 
+[14:28:29][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[14:28:29][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[14:28:29][191.8.73.55]> # ID :: 91984 
+[14:28:29][191.8.73.55]> # ----------------------------------------------------------- 
+[14:29:21][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 946 . 
+[14:29:51][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1038 . 
+[14:30:30][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1169 . 
+[14:31:11][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[14:31:43][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1125 . 
+[14:34:06][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 945 . 
+[14:40:38][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:40:44][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de COSTA RICA [ID::1187]  
+[14:40:53][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:42:32][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1116 . 
+[14:42:43][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[14:42:43][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[14:42:43][191.8.73.55]> # ID :: 91986 
+[14:42:43][191.8.73.55]> # ----------------------------------------------------------- 
+[14:43:52][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[14:44:26][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1281 . 
+[14:44:51][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1281 . 
+[14:45:20][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1286 . 
+[14:45:52][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[14:46:21][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 951 . 
+[14:46:51][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1148 . 
+[14:47:22][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1248 . 
+[14:47:52][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1259 . 
+[14:48:30][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1142 . 
+[14:48:43][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[14:48:43][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[14:48:43][191.8.73.55]> # ID :: 91991 
+[14:48:43][191.8.73.55]> # ----------------------------------------------------------- 
+[14:58:58][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 930 . 
+[14:59:30][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1028 . 
+[15:00:55][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1146 . 
+[15:01:32][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1146 . 
+[15:09:52][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1068 . 
+[15:10:18][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:10:22][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1146 . 
+[15:10:45][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1146 . 
+[15:11:03][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1146 . 
+[15:44:12][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[15:44:12][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[15:44:12][191.8.73.55]> # ID :: 91994 
+[15:44:12][191.8.73.55]> # ----------------------------------------------------------- 
+[15:45:17][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91957   Valor:: 50  NmDocto :: 1615288  
+[15:46:01][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:46:01][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91957  
+[15:46:01][191.8.73.55]> # Valor :: 50  
+[15:46:01][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[15:46:01][191.8.73.55]> # Usuario atribuido ID::1219 
+[15:46:01][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[15:46:10][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:46:19][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[15:47:32][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91948   Valor:: 30  NmDocto :: 1316322  
+[15:47:45][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:47:45][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91948  
+[15:47:45][191.8.73.55]> # Valor :: 30  
+[15:47:45][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[15:47:45][191.8.73.55]> # Usuario atribuido ID::1219 
+[15:47:45][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[15:51:16][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91962   Valor:: 140  NmDocto :: 1358431  
+[15:51:31][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:51:31][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91962  
+[15:51:31][191.8.73.55]> # Valor :: 140  
+[15:51:31][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[15:51:31][191.8.73.55]> # Usuario atribuido ID::1219 
+[15:51:31][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[15:52:07][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91982   Valor:: 20  NmDocto :: 2145557  
+[15:52:26][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91982   Valor:: 20  NmDocto :: 2145557  
+[15:52:31][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:52:31][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91982  
+[15:52:31][191.8.73.55]> # Valor :: 20  
+[15:52:31][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[15:52:31][191.8.73.55]> # Usuario atribuido ID::1219 
+[15:52:31][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[15:53:53][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91941   Valor:: 120  NmDocto :: 2318302  
+[15:54:04][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:54:04][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91941  
+[15:54:04][191.8.73.55]> # Valor :: 120  
+[15:54:04][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[15:54:04][191.8.73.55]> # Usuario atribuido ID::1219 
+[15:54:04][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[15:54:45][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91947   Valor:: 40  NmDocto :: 1156022  
+[15:54:56][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:54:56][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91947  
+[15:54:56][191.8.73.55]> # Valor :: 40  
+[15:54:56][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[15:54:56][191.8.73.55]> # Usuario atribuido ID::1219 
+[15:54:56][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[15:57:42][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91968   Valor:: 100  NmDocto :: 1349400  
+[15:57:58][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:57:58][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91968  
+[15:57:58][191.8.73.55]> # Valor :: 100  
+[15:57:58][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[15:57:58][191.8.73.55]> # Usuario atribuido ID::1219 
+[15:57:58][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[16:11:41][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[16:32:35][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91943   Valor:: 215.84  NmDocto :: 3495392  
+[16:36:28][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:41:19][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[16:41:20][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[16:50:02][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91943   Valor:: 215.84  NmDocto :: 3495392  
+[16:50:13][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:50:13][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91943  
+[16:50:13][191.8.73.55]> # Valor :: 215.84  
+[16:50:13][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[16:50:13][191.8.73.55]> # Usuario atribuido ID::1219 
+[16:50:13][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[16:50:31][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91944   Valor:: 58.87  NmDocto :: 3495392  
+[16:50:44][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:50:44][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91944  
+[16:50:44][191.8.73.55]> # Valor :: 58.87  
+[16:50:44][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[16:50:44][191.8.73.55]> # Usuario atribuido ID::1219 
+[16:50:44][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[16:50:54][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91945   Valor:: 19.62  NmDocto :: 3495392  
+[16:51:04][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:51:04][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91945  
+[16:51:04][191.8.73.55]> # Valor :: 19.62  
+[16:51:04][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[16:51:04][191.8.73.55]> # Usuario atribuido ID::1219 
+[16:51:04][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[16:51:24][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91966   Valor:: 19.62  NmDocto :: 3495392  
+[16:51:34][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:51:34][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91966  
+[16:51:34][191.8.73.55]> # Valor :: 19.62  
+[16:51:34][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[16:51:34][191.8.73.55]> # Usuario atribuido ID::1219 
+[16:51:34][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[16:51:43][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91974   Valor:: 206.03  NmDocto :: 3495392  
+[16:51:52][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:51:52][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91974  
+[16:51:52][191.8.73.55]> # Valor :: 206.03  
+[16:51:52][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[16:51:52][191.8.73.55]> # Usuario atribuido ID::1219 
+[16:51:52][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[16:52:01][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91975   Valor:: 24.53  NmDocto :: 3495392  
+[16:52:10][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:52:10][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91975  
+[16:52:10][191.8.73.55]> # Valor :: 24.53  
+[16:52:10][191.8.73.55]> # Referente ao mes :: 2022-10-15 
+[16:52:10][191.8.73.55]> # Usuario atribuido ID::1219 
+[16:52:10][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[16:54:45][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91995   Valor:: 138.3  NmDocto :: 477227  
+[16:54:59][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:55:05][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1256 . 
+[16:55:12][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:55:19][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[16:55:55][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:56:01][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:56:44][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:56:53][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[16:58:30][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[16:58:39][191.8.73.55]> # Extrato Bradesco [Exclusao] ## 
+[16:58:39][191.8.73.55]> # O usuario Aux Financeiro(8) excluiu manualmente um lacamento bancario. 
+[16:58:39][191.8.73.55]> # ID :: 91995 
+[16:58:39][191.8.73.55]> # ----------------------------------------------------------- 
+[17:03:05][191.8.73.55]> Aux Financeiro [8] saiu do sistema . 

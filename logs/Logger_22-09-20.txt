@@ -1,0 +1,27 @@
+[09:13:51][177.68.135.237]> Aux Financeiro [8] fez o login no sistema. 
+[15:00:56][177.68.135.237]> Aux Financeiro [8] acessou listagem de campos . 
+[15:01:41][177.68.135.237]> Aux Financeiro [8] acessou as remessas do campo 1009 . 
+[15:01:49][177.68.135.237]> Aux Financeiro [8] acessou as remessas do campo 1009 . 
+[15:02:30][177.68.135.237]> Aux Financeiro [8] acessou as remessas do campo 1009 . 
+[15:05:09][177.68.135.237]> Aux Financeiro [8] acessou listagem de campos . 
+[15:05:15][177.68.135.237]> Aux Financeiro [8] acessou as remessas do campo 1154 . 
+[15:05:24][177.68.135.237]> Aux Financeiro [8] acessou as remessas do campo 1154 . 
+[15:19:20][177.68.135.237]> Aux Financeiro [8] acessou listagem de campos . 
+[15:19:26][177.68.135.237]> Aux Financeiro [8] acessou as remessas do campo 1111 . 
+[15:19:29][177.68.135.237]> Aux Financeiro [8] acessou as remessas do campo 1111 . 
+[15:27:05][177.68.135.237]> Aux Financeiro [8] acessou listagem de campos . 
+[15:27:13][177.68.135.237]> Aux Financeiro [ID::8] acessou o cadastro de PARANAÍBA [ID::1111]  
+[15:31:24][177.68.135.237]> Aux Financeiro [ID::8] atualizou o cadastro de PARANAÍBA [ID::1111]  
+[15:31:24][177.68.135.237]> Aux Financeiro [8] acessou listagem de campos . 
+[15:31:42][177.68.135.237]> Aux Financeiro [8] acessou as remessas do campo 1111 . 
+[15:31:46][177.68.135.237]> Aux Financeiro [8] acessou as remessas do campo 1111 . 
+[15:31:59][177.68.135.237]> Aux Financeiro [8] acessou as remessas do campo 1111 . 
+[16:17:21][177.68.135.237]> Aux Financeiro [8] acessou listagem de campos . 
+[17:00:59][177.68.135.237]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 75217   Valor:: 36  NmDocto :: 1279076  
+[17:01:15][177.68.135.237]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:01:15][177.68.135.237]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 75217  
+[17:01:15][177.68.135.237]> # Valor :: 36  
+[17:01:15][177.68.135.237]> # Referente ao mes :: 2019-05-15 
+[17:01:15][177.68.135.237]> # Usuario atribuido ID::1111 
+[17:01:15][177.68.135.237]> ############################################## ------------------------------------------------------------ 
+[17:02:49][177.68.135.237]> Aux Financeiro [8] saiu do sistema . 

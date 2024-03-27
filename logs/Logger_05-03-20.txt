@@ -1,0 +1,54 @@
+[09:24:59][179.228.69.101]> Aux Financeiro [8] fez o login no sistema. 
+[10:18:15][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[14:24:21][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[14:24:29][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 1141 . 
+[14:24:33][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 1141 . 
+[14:24:52][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[14:24:58][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 1263 . 
+[14:25:00][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 1263 . 
+[14:25:06][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[14:26:05][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 1165 . 
+[14:26:08][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 1165 . 
+[14:26:27][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 1165 . 
+[14:27:46][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[14:27:51][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 989 . 
+[14:27:55][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 989 . 
+[14:32:17][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[14:32:25][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 957 . 
+[14:32:29][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 957 . 
+[14:33:14][179.228.69.101]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 79713   Valor:: 121  NmDocto :: 1102017  
+[14:33:35][179.228.69.101]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:33:35][179.228.69.101]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 79713  
+[14:33:35][179.228.69.101]> # Valor :: 121  
+[14:33:35][179.228.69.101]> # Referente ao mes :: 2019-08-15 
+[14:33:35][179.228.69.101]> # Usuario atribuido ID::957 
+[14:33:35][179.228.69.101]> ############################################## ------------------------------------------------------------ 
+[14:33:39][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 957 . 
+[14:36:22][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[14:39:03][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[14:39:11][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 1163 . 
+[14:39:14][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 1163 . 
+[14:42:45][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[14:42:54][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 951 . 
+[14:42:58][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 951 . 
+[14:44:07][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[14:44:22][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 993 . 
+[14:44:25][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 993 . 
+[14:46:34][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[14:46:40][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[14:46:43][179.228.69.101]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[15:59:34][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[16:00:02][179.228.69.101]> Aux Financeiro [ID::8] acessou o cadastro de VILA RICA - MT [ID::993]  
+[16:02:13][179.228.69.101]> Aux Financeiro [ID::8] atualizou o cadastro de VILA RICA - MT [ID::993]  
+[16:02:13][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[16:03:45][179.228.69.101]> Aux Financeiro [ID::8] acessou o cadastro de VILA RICA - MT [ID::993]  
+[16:03:58][179.228.69.101]> Aux Financeiro [ID::8] atualizou o cadastro de VILA RICA - MT [ID::993]  
+[16:03:58][179.228.69.101]> Aux Financeiro [8] acessou listagem de campos . 
+[16:56:20][179.228.69.101]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 79618   Valor:: 186.01  NmDocto :: 591534  
+[16:56:35][179.228.69.101]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:56:35][179.228.69.101]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 79618  
+[16:56:35][179.228.69.101]> # Valor :: 186.01  
+[16:56:36][179.228.69.101]> # Referente ao mes :: 2019-01-15 
+[16:56:36][179.228.69.101]> # Usuario atribuido ID::1219 
+[16:56:36][179.228.69.101]> ############################################## ------------------------------------------------------------ 
+[17:01:57][179.228.69.101]> Aux Financeiro [8] saiu do sistema . 

@@ -1,0 +1,14 @@
+[10:02:29][191.19.101.245]> Aux Financeiro [8] fez o login no sistema. 
+[10:09:55][191.19.101.245]> Aux Financeiro [8] acessou listagem de campos . 
+[11:30:48][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1093 . 
+[11:30:55][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1093 . 
+[11:31:05][191.19.101.245]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 82264   Valor:: 800  NmDocto :: 528444  
+[11:31:20][191.19.101.245]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:31:20][191.19.101.245]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 82264  
+[11:31:20][191.19.101.245]> # Valor :: 800  
+[11:31:20][191.19.101.245]> # Referente ao mes :: 2017-04-15 
+[11:31:20][191.19.101.245]> # Usuario atribuido ID::1093 
+[11:31:20][191.19.101.245]> ############################################## ------------------------------------------------------------ 
+[11:31:31][191.19.101.245]> Aux Financeiro [8] acessou as remessas do campo 1093 . 
+[14:39:47][191.19.101.245]> Aux Financeiro [8] fez o login no sistema. 
+[17:10:35][191.19.101.245]> Aux Financeiro [8] saiu do sistema . 

@@ -1,0 +1,231 @@
+[02:52:30][177.69.39.154]>  [ID::] acessou o cadastro de  [ID::0]  
+[10:09:17][189.110.18.135]> #### Acesso não autorizado ###### 
+[10:09:17][189.110.18.135]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[10:09:17][189.110.18.135]> # ------------------------------------------------------>  
+[10:09:41][189.110.18.135]> Karina Machado Pereira [4] fez o login no sistema. 
+[10:09:55][189.110.18.135]> Karina Machado Pereira [4] acessou listagem de campos . 
+[10:12:29][189.110.18.135]> Karina Machado Pereira [ID::4] acessou o cadastro de CA&Ccedil;UL [ID::1236]  
+[10:12:53][189.110.18.135]> Karina Machado Pereira [ID::4] atualizou o cadastro de CAÇUL [ID::1236]  
+[10:12:53][189.110.18.135]> Karina Machado Pereira [4] acessou listagem de campos . 
+[10:13:03][189.110.18.135]> Karina Machado Pereira [4] acessou listagem de campos . 
+[10:39:08][177.9.248.155]> Petria Moro [8] fez o login no sistema. 
+[10:39:34][177.9.248.155]> Petria Moro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 50248   Valor:: 389.6  NmDocto :: 1600591  
+[10:51:00][177.9.248.155]> Petria Moro [8] fez o login no sistema. 
+[10:51:45][177.9.248.155]> Petria Moro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 50248   Valor:: 389.6  NmDocto :: 1600591  
+[10:52:46][177.9.248.155]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:52:46][177.9.248.155]> # O usuario Petria Moro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 50248  
+[10:52:46][177.9.248.155]> # Valor :: 389.6  
+[10:52:46][177.9.248.155]> # Referente ao mes :: 2017-04-15 
+[10:52:46][177.9.248.155]> # Usuario atribuido ID::1229 
+[10:52:46][177.9.248.155]> ############################################## ------------------------------------------------------------ 
+[10:53:25][177.9.248.155]> Petria Moro [8] acessou listagem de campos . 
+[10:53:31][177.9.248.155]> Petria Moro [8] acessou as remessas do campo 1146 . 
+[10:53:35][177.9.248.155]> Petria Moro [8] acessou as remessas do campo 1146 . 
+[10:55:40][189.68.199.16]> #### Acesso não autorizado ###### 
+[10:55:40][189.68.199.16]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[10:55:40][189.68.199.16]> # ------------------------------------------------------>  
+[10:55:55][189.68.199.16]> Karina Machado Pereira [4] fez o login no sistema. 
+[10:56:08][189.68.199.16]> Karina Machado Pereira [4] acessou listagem de campos . 
+[10:56:24][189.68.199.16]> Karina Machado Pereira [4] acessou as remessas do campo 898 . 
+[10:58:02][177.9.248.155]> Petria Moro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 46698   Valor:: 10  NmDocto :: 1003283  
+[10:58:52][177.9.248.155]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:58:52][177.9.248.155]> # O usuario Petria Moro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 46698  
+[10:58:52][177.9.248.155]> # Valor :: 10  
+[10:58:52][177.9.248.155]> # Referente ao mes :: 2017-03-15 
+[10:58:52][177.9.248.155]> # Usuario atribuido ID::967 
+[10:58:52][177.9.248.155]> ############################################## ------------------------------------------------------------ 
+[10:59:27][177.9.248.155]> Petria Moro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 46699   Valor:: 14  NmDocto :: 1003283  
+[10:59:31][189.68.199.16]> Karina Machado Pereira [4] acessou listagem de campos . 
+[11:00:40][177.9.248.155]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:00:40][177.9.248.155]> # O usuario Petria Moro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 46699  
+[11:00:40][177.9.248.155]> # Valor :: 14  
+[11:00:40][177.9.248.155]> # Referente ao mes :: 2017-03-15 
+[11:00:40][177.9.248.155]> # Usuario atribuido ID::1120 
+[11:00:40][177.9.248.155]> ############################################## ------------------------------------------------------------ 
+[11:01:05][177.9.248.155]> Petria Moro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 46680   Valor:: 50  NmDocto :: 6404931  
+[11:01:59][177.9.248.155]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:01:59][177.9.248.155]> # O usuario Petria Moro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 46680  
+[11:01:59][177.9.248.155]> # Valor :: 50  
+[11:01:59][177.9.248.155]> # Referente ao mes :: 2017-02-15 
+[11:01:59][177.9.248.155]> # Usuario atribuido ID::1089 
+[11:01:59][177.9.248.155]> ############################################## ------------------------------------------------------------ 
+[11:02:22][177.9.248.155]> Petria Moro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 46696   Valor:: 266.25  NmDocto :: 929812  
+[11:02:50][177.9.248.155]> Petria Moro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 46696   Valor:: 266.25  NmDocto :: 929812  
+[11:03:08][177.9.248.155]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:03:08][177.9.248.155]> # O usuario Petria Moro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 46696  
+[11:03:08][177.9.248.155]> # Valor :: 266.25  
+[11:03:08][177.9.248.155]> # Referente ao mes :: 2017-03-15 
+[11:03:08][177.9.248.155]> # Usuario atribuido ID::953 
+[11:03:08][177.9.248.155]> ############################################## ------------------------------------------------------------ 
+[11:06:11][177.9.248.155]> Petria Moro [8] acessou listagem de campos . 
+[11:06:17][177.9.248.155]> Petria Moro [8] acessou as remessas do campo 1137 . 
+[11:06:20][177.9.248.155]> Petria Moro [8] acessou as remessas do campo 1137 . 
+[11:06:36][177.9.248.155]> Petria Moro [8] acessou as remessas do campo 1137 . 
+[11:06:54][177.9.248.155]> Petria Moro [8] acessou as remessas do campo 1137 . 
+[11:07:11][177.9.248.155]> Petria Moro [8] acessou listagem de campos . 
+[11:07:20][177.9.248.155]> Petria Moro [8] acessou as remessas do campo 1151 . 
+[11:07:48][177.9.248.155]> Petria Moro [8] acessou listagem de campos . 
+[11:07:55][177.9.248.155]> Petria Moro [8] acessou as remessas do campo 921 . 
+[11:09:26][177.9.248.155]> Petria Moro [8] acessou as remessas do campo 921 . 
+[11:15:23][177.9.248.155]> Petria Moro [8] acessou listagem de campos . 
+[11:15:30][177.9.248.155]> Petria Moro [8] acessou as remessas do campo 944 . 
+[11:56:58][177.9.248.155]> Petria Moro [8] acessou listagem de campos . 
+[11:57:12][177.9.248.155]> Petria Moro [ID::8] acessou o cadastro de VILA RICA -MT [ID::993]  
+[11:57:48][177.9.248.155]> Petria Moro [ID::8] atualizou o cadastro de VILA RICA -MT [ID::993]  
+[11:57:48][177.9.248.155]> Petria Moro [8] acessou listagem de campos . 
+[11:58:50][177.9.248.155]> Petria Moro [8] acessou listagem de campos . 
+[12:01:12][177.9.248.155]> Petria Moro [8] acessou listagem de campos . 
+[12:05:05][186.64.34.70]>  [] acessou listagem de campos . 
+[12:09:32][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1246 . 
+[13:28:39][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:28:49][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 898 . 
+[13:32:58][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 898 . 
+[13:34:24][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:34:30][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1146 . 
+[13:37:47][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 898 . 
+[13:38:42][191.254.227.154]> Petria Moro [8] deletou a remessa 45148 do campo id=898. 
+[13:38:42][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 898 . 
+[13:39:35][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:39:42][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de IPACAETÁ [ID::1229]  
+[13:40:10][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:40:16][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1229 . 
+[13:41:35][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:45:35][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de PATO BRANCO - CE [ID::967]  
+[13:46:42][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:47:09][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 967 . 
+[13:48:03][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:48:12][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de PORTO UNIÃO /  CE [ID::1120]  
+[13:48:18][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:48:34][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1120 . 
+[13:49:14][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:49:26][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de SANTA ISABEL DO IVA&Iacute; [ID::1089]  
+[13:49:36][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:49:41][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1089 . 
+[13:51:58][191.254.227.154]> #### Acesso não autorizado ###### 
+[13:51:58][191.254.227.154]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[13:51:58][191.254.227.154]> # ------------------------------------------------------>  
+[13:52:08][191.254.227.154]> Karina Machado Pereira [4] fez o login no sistema. 
+[13:52:30][191.254.227.154]> # UPLOAD[Extrato] ## 
+[13:52:30][191.254.227.154]> # O usuario Karina Machado Pereira(4) gerou um lacamento bancario atraves do upload de extrato.  
+[13:52:30][191.254.227.154]> # Dt :: 02/05/2017  
+[13:52:30][191.254.227.154]> # Docto :: 1061741 
+[13:52:30][191.254.227.154]> # Valor :: 2131.30 
+[13:52:30][191.254.227.154]> ------------------------------------------------------------------------------ 
+[13:52:39][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:52:47][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de SANTO ANTÔNIO DA PLATINA [ID::953]  
+[13:54:08][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:54:16][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 953 . 
+[13:54:49][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:54:54][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de JUAZEIRO DO NORTE - CEARÁ [ID::898]  
+[13:55:15][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:55:50][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de GUARULHOS [ID::944]  
+[13:56:35][191.254.227.154]> Petria Moro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 50561   Valor:: 2131.3  NmDocto :: 1061741  
+[13:57:06][191.254.227.154]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[13:57:06][191.254.227.154]> # O usuario Petria Moro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 50561  
+[13:57:06][191.254.227.154]> # Valor :: 2131.3  
+[13:57:06][191.254.227.154]> # Referente ao mes :: 2017-04-15 
+[13:57:06][191.254.227.154]> # Usuario atribuido ID::944 
+[13:57:06][191.254.227.154]> ############################################## ------------------------------------------------------------ 
+[13:58:07][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[13:58:13][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 898 . 
+[14:00:58][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 898 . 
+[14:01:15][191.254.227.154]> Petria Moro [8] deletou a remessa 47960 do campo id=898. 
+[14:01:15][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 898 . 
+[14:30:24][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[14:30:36][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de MANDAGUARI [ID::1130]  
+[14:57:05][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[14:58:16][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[14:58:33][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 987 . 
+[14:58:39][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 987 . 
+[14:58:54][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 987 . 
+[14:59:02][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 987 . 
+[14:59:11][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 987 . 
+[14:59:20][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 987 . 
+[14:59:27][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 987 . 
+[14:59:49][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 987 . 
+[15:00:09][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 987 . 
+[15:00:29][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:00:37][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 935 . 
+[15:00:40][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 935 . 
+[15:00:45][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 935 . 
+[15:00:49][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 935 . 
+[15:00:53][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 935 . 
+[15:01:17][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:01:28][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1155 . 
+[15:01:31][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1155 . 
+[15:01:47][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1155 . 
+[15:01:56][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1155 . 
+[15:02:02][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1155 . 
+[15:02:16][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1155 . 
+[15:02:26][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1155 . 
+[15:02:59][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:03:06][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 900 . 
+[15:03:10][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 900 . 
+[15:03:18][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:03:23][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de CEREJEIRAS /CE [ID::900]  
+[15:04:14][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:04:19][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de CEREJEIRAS /CE [ID::900]  
+[15:05:46][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:05:53][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 890 . 
+[15:06:00][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:06:11][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de COMODORO / CE   [ID::890]  
+[15:06:20][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:06:28][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de COMODORO / CE   [ID::890]  
+[15:06:43][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:06:49][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 890 . 
+[15:07:03][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 890 . 
+[15:07:16][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:07:29][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de COMODORO / CE   [ID::890]  
+[15:08:08][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:08:16][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de ESPIGÃO D OESTE [ID::1076]  
+[15:08:18][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:08:25][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 890 . 
+[15:08:34][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 890 . 
+[15:08:53][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 890 . 
+[15:09:16][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 890 . 
+[15:09:59][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 890 . 
+[15:10:22][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 890 . 
+[15:12:17][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:12:34][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1076 . 
+[15:12:37][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1076 . 
+[15:13:00][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1076 . 
+[15:13:08][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1076 . 
+[15:13:25][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1076 . 
+[15:13:32][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1076 . 
+[15:13:42][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:13:51][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de JI-PARANÁ [ID::971]  
+[15:13:54][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:14:00][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 971 . 
+[15:14:04][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 971 . 
+[15:14:14][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 971 . 
+[15:14:23][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 971 . 
+[15:14:45][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 971 . 
+[15:14:59][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 971 . 
+[15:15:19][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:15:26][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de MACHADINHO DOESTE [ID::1145]  
+[15:15:28][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:15:28][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:15:34][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1145 . 
+[15:15:38][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1145 . 
+[15:15:55][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1145 . 
+[15:16:03][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1145 . 
+[15:16:21][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1145 . 
+[15:16:34][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 1145 . 
+[15:16:52][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:17:00][191.254.227.154]> Petria Moro [ID::8] acessou o cadastro de MANAUS [ID::956]  
+[15:17:03][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[15:17:29][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 956 . 
+[15:17:33][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 956 . 
+[15:17:44][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 956 . 
+[15:19:24][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 956 . 
+[15:19:37][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 956 . 
+[15:19:49][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 956 . 
+[16:09:36][191.254.227.154]> Petria Moro [8] fez o login no sistema. 
+[16:09:39][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[16:09:47][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 892 . 
+[16:09:49][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 892 . 
+[16:25:16][191.254.227.154]> Petria Moro [8] acessou as remessas do campo 892 . 
+[16:30:32][191.254.227.154]> Petria Moro [8] acessou listagem de campos . 
+[17:01:37][201.43.40.222]> Ivani Valim  [2] fez o login no sistema. 
+[17:01:42][201.43.40.222]> Ivani Valim  [2] acessou listagem de campos . 
+[17:01:50][201.43.40.222]> Ivani Valim  [2] acessou as remessas do campo 1137 . 

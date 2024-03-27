@@ -1,0 +1,38 @@
+[11:16:17][170.244.29.244]> #### Acesso não autorizado ###### 
+[11:16:17][170.244.29.244]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[11:16:17][170.244.29.244]> # ------------------------------------------------------>  
+[11:16:32][170.244.29.244]> adm com a senha 10mar00 tentou logar no sistema. 
+[11:17:03][170.244.29.244]> Administrador Financeiro [5] fez o login no sistema. 
+[11:17:07][170.244.29.244]> Administrador Financeiro [5] acessou listagem de campos . 
+[11:17:17][170.244.29.244]> Administrador Financeiro [5] acessou as remessas do campo 905 . 
+[11:17:20][170.244.29.244]> Administrador Financeiro [5] acessou as remessas do campo 905 . 
+[13:00:35][170.244.29.244]> Administrador Financeiro [5] acessou listagem de campos . 
+[14:06:15][177.188.223.233]> Aux Financeiro [8] fez o login no sistema. 
+[15:33:29][179.97.157.197]> Aux Financeiro [8] fez o login no sistema. 
+[16:14:31][200.168.13.230]> Aux Financeiro [8] fez o login no sistema. 
+[16:47:16][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[16:47:25][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[16:47:27][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[17:04:14][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[17:05:34][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[17:05:35][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[17:05:45][200.168.13.230]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 73559   Valor:: 155.2  NmDocto :: 5392093  
+[17:06:13][200.168.13.230]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[17:06:13][200.168.13.230]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 73559  
+[17:06:13][200.168.13.230]> # Valor :: 155.2  
+[17:06:13][200.168.13.230]> # Referente ao mes :: 2018-12-15 
+[17:06:13][200.168.13.230]> # Usuario atribuido ID::1190 
+[17:06:13][200.168.13.230]> ############################################## ------------------------------------------------------------ 
+[17:10:06][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[17:10:13][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[17:10:15][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[17:10:44][200.168.13.230]> Aux Financeiro [8] acessou listagem de campos . 
+[17:10:51][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[17:10:52][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[17:11:29][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[17:11:30][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[17:11:58][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[17:12:00][200.168.13.230]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[17:13:51][200.168.13.230]> Aux Financeiro [8] saiu do sistema . 
+[17:13:55][200.168.13.230]>  [8] saiu do sistema . 
+[17:13:58][200.168.13.230]>  [8] saiu do sistema . 

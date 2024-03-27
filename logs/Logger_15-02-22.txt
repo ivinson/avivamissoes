@@ -1,0 +1,14 @@
+[15:09:12][187.2.173.223]> financeiro2 com a senha @Aux@2018 tentou logar no sistema. 
+[15:09:33][187.2.173.223]> Aux Financeiro [8] fez o login no sistema. 
+[15:09:38][187.2.173.223]> Aux Financeiro [8] acessou listagem de campos . 
+[15:09:48][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 947 . 
+[15:09:52][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 947 . 
+[15:10:26][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 947 . 
+[15:11:08][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 947 . 
+[15:13:44][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 947 . 
+[15:14:34][187.2.173.223]> Aux Financeiro [8] acessou as remessas do campo 947 . 
+[15:15:37][187.2.173.223]> Aux Financeiro [8] saiu do sistema . 
+[18:11:53][177.94.2.19]> #### Acesso não autorizado ###### 
+[18:11:53][177.94.2.19]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[18:11:53][177.94.2.19]> # ------------------------------------------------------>  
+[18:12:26][177.94.2.19]> Administrador Financeiro [5] fez o login no sistema. 

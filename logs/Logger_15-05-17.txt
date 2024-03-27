@@ -1,0 +1,68 @@
+[10:47:48][157.55.39.53]> #### Acesso não autorizado ###### 
+[10:47:48][157.55.39.53]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1013 
+[10:47:48][157.55.39.53]> # ------------------------------------------------------>  
+[11:47:33][189.78.189.88]> #### Acesso não autorizado ###### 
+[11:47:33][189.78.189.88]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[11:47:33][189.78.189.88]> # ------------------------------------------------------>  
+[11:47:51][189.78.189.88]> karina.machado com a senha #Avia#2015 tentou logar no sistema. 
+[11:48:01][189.78.189.88]> Karina Machado Pereira [4] fez o login no sistema. 
+[13:18:02][200.141.177.68]>  [] acessou listagem de campos . 
+[13:24:23][200.141.177.68]>  [] acessou listagem de campos . 
+[13:54:03][189.78.189.88]> Petria Moro [8] fez o login no sistema. 
+[13:55:25][189.78.189.88]> Petria Moro [8] acessou listagem de campos . 
+[13:55:53][189.78.189.88]> Petria Moro [ID::8] acessou o cadastro de CATOLÉ DO ROCHA [ID::1124]  
+[14:00:32][189.78.189.88]> Petria Moro [8] acessou listagem de campos . 
+[14:00:39][189.78.189.88]> Petria Moro [8] acessou as remessas do campo 1124 . 
+[14:00:41][189.78.189.88]> Petria Moro [8] acessou as remessas do campo 1124 . 
+[14:01:11][189.78.189.88]> Petria Moro [8] acessou listagem de campos . 
+[14:04:26][189.78.189.88]> Petria Moro [8] acessou listagem de campos . 
+[14:05:09][189.78.189.88]> Petria Moro [8] acessou listagem de campos . 
+[14:05:40][189.78.189.88]> Petria Moro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 38357   Valor:: 186  NmDocto :: 1015774  
+[14:06:16][189.78.189.88]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:06:16][189.78.189.88]> # O usuario Petria Moro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 38357  
+[14:06:16][189.78.189.88]> # Valor :: 186  
+[14:06:16][189.78.189.88]> # Referente ao mes :: 2016-06-15 
+[14:06:16][189.78.189.88]> # Usuario atribuido ID::1124 
+[14:06:16][189.78.189.88]> ############################################## ------------------------------------------------------------ 
+[14:06:49][189.78.189.88]> Petria Moro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 38920   Valor:: 93  NmDocto :: 1015774  
+[14:07:26][189.78.189.88]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:07:26][189.78.189.88]> # O usuario Petria Moro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 38920  
+[14:07:26][189.78.189.88]> # Valor :: 93  
+[14:07:26][189.78.189.88]> # Referente ao mes :: 2016-07-15 
+[14:07:26][189.78.189.88]> # Usuario atribuido ID::1124 
+[14:07:26][189.78.189.88]> ############################################## ------------------------------------------------------------ 
+[14:10:53][189.78.189.88]> Petria Moro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 41051   Valor:: 112.6  NmDocto :: 1015774  
+[14:13:19][189.78.189.88]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:13:19][189.78.189.88]> # O usuario Petria Moro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 41051  
+[14:13:19][189.78.189.88]> # Valor :: 112.6  
+[14:13:19][189.78.189.88]> # Referente ao mes :: 2016-09-15 
+[14:13:19][189.78.189.88]> # Usuario atribuido ID::1124 
+[14:13:19][189.78.189.88]> ############################################## ------------------------------------------------------------ 
+[14:23:02][189.78.189.88]> Fabio Camargo [7] fez o login no sistema. 
+[14:26:58][189.78.189.88]> Petria Moro [8] acessou listagem de campos . 
+[14:27:07][189.78.189.88]> Petria Moro [8] acessou as remessas do campo 1124 . 
+[14:27:09][189.78.189.88]> Petria Moro [8] acessou as remessas do campo 1124 . 
+[14:27:33][189.78.189.88]> Petria Moro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 41340   Valor:: 78.35  NmDocto :: 1015774  
+[14:28:02][189.78.189.88]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:28:02][189.78.189.88]> # O usuario Petria Moro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 41340  
+[14:28:02][189.78.189.88]> # Valor :: 78.35  
+[14:28:02][189.78.189.88]> # Referente ao mes :: 2016-10-15 
+[14:28:02][189.78.189.88]> # Usuario atribuido ID::1124 
+[14:28:02][189.78.189.88]> ############################################## ------------------------------------------------------------ 
+[14:28:28][189.78.189.88]> Petria Moro [8] acessou listagem de campos . 
+[14:28:33][189.78.189.88]> Petria Moro [8] acessou as remessas do campo 1124 . 
+[14:28:36][189.78.189.88]> Petria Moro [8] acessou as remessas do campo 1124 . 
+[14:35:38][189.78.189.88]> Fabio Camargo [7] acessou listagem de campos . 
+[14:35:50][189.78.189.88]> Fabio Camargo [7] acessou listagem de campos . 
+[14:37:54][189.78.189.88]> Fabio Camargo [7] acessou listagem de campos . 
+[14:37:54][189.78.189.88]> Fabio Camargo [7] acessou listagem de campos . 
+[14:38:08][189.78.189.88]> Fabio Camargo [7] acessou listagem de campos . 
+[14:38:08][189.78.189.88]> Fabio Camargo [7] acessou listagem de campos . 
+[14:38:16][189.78.189.88]> Fabio Camargo [ID::7] acessou o cadastro de RIO VERDE 2 [ID::1244]  
+[14:41:58][189.78.189.88]> Fabio Camargo [7] acessou listagem de campos . 
+[14:41:58][189.78.189.88]> Fabio Camargo [7] acessou listagem de campos . 
+[14:42:28][189.78.189.88]> Fabio Camargo [7] acessou listagem de campos . 
+[14:42:28][189.78.189.88]> Fabio Camargo [7] acessou listagem de campos . 
+[14:54:06][189.78.189.88]> Fabio Camargo [7] acessou listagem de campos . 
+[15:44:46][170.246.243.242]>  [] acessou listagem de campos . 
+[17:33:05][189.78.189.88]> Fabio Camargo [7] saiu do sistema . 

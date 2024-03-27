@@ -1,0 +1,42 @@
+[09:08:59][187.57.140.6]> Aux Financeiro [8] fez o login no sistema. 
+[10:03:32][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[10:03:48][187.57.140.6]> Aux Financeiro [ID::8] acessou o cadastro de CAMBÉ [ID::989]  
+[10:04:17][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[10:38:46][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[10:38:55][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[10:38:58][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[10:48:30][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[10:48:37][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[10:48:39][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[10:58:43][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[10:58:52][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[10:58:54][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:03:35][187.57.140.6]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72924   Valor:: 195  NmDocto :: 2224250  
+[11:06:36][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:07:48][187.57.140.6]> Aux Financeiro [8] fez o login no sistema. 
+[11:08:13][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[11:09:29][187.57.140.6]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 72924   Valor:: 195  NmDocto :: 2224250  
+[11:09:44][187.57.140.6]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:09:44][187.57.140.6]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 72924  
+[11:09:44][187.57.140.6]> # Valor :: 195  
+[11:09:44][187.57.140.6]> # Referente ao mes :: 2018-11-15 
+[11:09:44][187.57.140.6]> # Usuario atribuido ID::1159 
+[11:09:44][187.57.140.6]> ############################################## ------------------------------------------------------------ 
+[11:09:51][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[11:09:54][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[13:24:26][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[13:24:48][187.57.140.6]> Aux Financeiro [ID::8] acessou o cadastro de Impacto Evangelístico [ID::1257]  
+[13:27:24][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[15:49:38][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1249 . 
+[15:49:42][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1249 . 
+[15:50:00][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[15:50:07][187.57.140.6]> Aux Financeiro [ID::8] acessou o cadastro de MISSIONARIO VIRTUAL [ID::1249]  
+[15:51:45][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[15:51:57][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1249 . 
+[15:51:59][187.57.140.6]> Aux Financeiro [8] acessou as remessas do campo 1249 . 
+[15:52:14][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[15:56:18][187.57.140.6]> Aux Financeiro [ID::8] acessou o cadastro de CEREJEIRAS /CE [ID::900]  
+[16:09:12][187.57.140.6]> Aux Financeiro [ID::8] atualizou o cadastro de CEREJEIRAS /CE [ID::900]  
+[16:09:12][187.57.140.6]> Aux Financeiro [8] acessou listagem de campos . 
+[17:04:50][187.57.140.6]> Aux Financeiro [8] saiu do sistema . 
+[17:04:54][187.57.140.6]>  [8] saiu do sistema . 

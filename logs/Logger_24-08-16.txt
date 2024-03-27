@@ -1,0 +1,40 @@
+[09:16:16][187.57.136.232]> #### Acesso não autorizado ###### 
+[09:16:16][187.57.136.232]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[09:16:16][187.57.136.232]> # ------------------------------------------------------>  
+[09:16:25][187.57.136.232]> Karina Machado Pereira [4] fez o login no sistema. 
+[10:05:44][187.57.136.232]> Karina Machado Pereira [4] acessou listagem de campos . 
+[10:05:52][187.57.136.232]> Karina Machado Pereira [ID::4] acessou o cadastro de ARIQUEMES [ID::987]  
+[10:40:53][187.57.136.232]> Karina Machado Pereira [4] acessou listagem de campos . 
+[10:41:40][187.57.136.232]> Karina Machado Pereira [ID::4] acessou o cadastro de JARAGUA [ID::1137]  
+[14:43:45][152.250.4.176]> Ivani Valim  [2] fez o login no sistema. 
+[14:44:14][152.250.4.176]> Ivani Valim  [2] acessou listagem de campos . 
+[14:44:24][152.250.4.176]> Ivani Valim  [2] acessou as remessas do campo 921 . 
+[14:44:29][152.250.4.176]> Ivani Valim  [2] acessou as remessas do campo 921 . 
+[15:36:15][201.92.155.210]> Ivani Valim  [2] acessou listagem de campos . 
+[15:36:24][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 998 . 
+[15:36:34][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 998 . 
+[15:36:44][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 998 . 
+[15:36:51][201.92.155.210]> Ivani Valim  [2] deletou a remessa 36893 do campo id=998. 
+[15:36:51][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 998 . 
+[15:57:11][201.92.155.210]> #### Acesso não autorizado ###### 
+[15:57:11][201.92.155.210]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[15:57:11][201.92.155.210]> # ------------------------------------------------------>  
+[15:57:19][201.92.155.210]> Karina Machado Pereira [4] fez o login no sistema. 
+[15:57:21][201.92.155.210]> Ivani Valim  [2] acessou listagem de campos . 
+[15:57:28][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 909 . 
+[15:57:31][201.92.155.210]> Karina Machado Pereira [4] acessou listagem de campos . 
+[15:57:32][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 909 . 
+[16:14:21][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 909 . 
+[16:14:26][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 909 . 
+[16:14:32][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 909 . 
+[16:19:27][201.92.155.210]> Ivani Valim  [2] acessou listagem de campos . 
+[16:19:31][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 1117 . 
+[16:21:08][201.92.155.210]> Ivani Valim  [2] acessou listagem de campos . 
+[16:21:13][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 1174 . 
+[16:23:33][201.92.155.210]> Ivani Valim  [2] acessou listagem de campos . 
+[16:23:40][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 1151 . 
+[16:23:53][201.92.155.210]> Ivani Valim  [2] deletou a remessa 37099 do campo id=1151. 
+[16:23:53][201.92.155.210]> Ivani Valim  [2] acessou as remessas do campo 1151 . 
+[16:25:03][66.249.64.91]> #### Acesso não autorizado ###### 
+[16:25:03][66.249.64.91]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=927&type=reprocessamento 
+[16:25:03][66.249.64.91]> # ------------------------------------------------------>  

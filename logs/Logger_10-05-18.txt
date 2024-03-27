@@ -1,0 +1,396 @@
+[09:10:02][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[09:10:30][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 1014 . 
+[10:38:19][189.110.22.42]> Aux Financeiro [8] acessou listagem de campos . 
+[11:32:55][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[11:32:59][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[11:33:29][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[11:33:34][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[11:35:01][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[11:35:07][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[11:35:14][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[11:45:09][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[11:48:10][189.110.22.42]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 46682   Valor:: 238.5  NmDocto :: 5824067  
+[11:48:35][189.110.22.42]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:48:35][189.110.22.42]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 46682  
+[11:48:35][189.110.22.42]> # Valor :: 238.5  
+[11:48:35][189.110.22.42]> # Referente ao mes :: 2017-04-15 
+[11:48:35][189.110.22.42]> # Usuario atribuido ID::931 
+[11:48:35][189.110.22.42]> ############################################## ------------------------------------------------------------ 
+[11:48:55][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[11:50:01][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[11:52:03][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[11:52:10][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[13:06:08][189.110.22.42]> Aux Financeiro [8] acessou listagem de campos . 
+[13:06:15][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 1004 . 
+[13:32:42][189.110.22.42]> Aux Financeiro [8] acessou listagem de campos . 
+[13:32:49][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[13:32:55][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[13:33:46][189.110.22.42]> Aux Financeiro [8] acessou listagem de campos . 
+[13:33:55][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[13:34:02][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[13:35:42][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[13:35:57][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[13:37:44][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[13:38:55][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[13:42:55][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[13:45:54][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[13:46:00][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[13:46:02][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[13:46:24][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[13:54:52][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[13:58:19][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[13:58:22][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[14:06:34][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[14:07:18][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[14:23:22][189.110.22.42]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 68012   Valor:: 182  NmDocto :: 9678388  
+[14:24:15][189.110.22.42]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:24:15][189.110.22.42]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 68012  
+[14:24:15][189.110.22.42]> # Valor :: 182  
+[14:24:15][189.110.22.42]> # Referente ao mes :: 2017-12-15 
+[14:24:15][189.110.22.42]> # Usuario atribuido ID::943 
+[14:24:15][189.110.22.42]> ############################################## ------------------------------------------------------------ 
+[14:24:27][189.110.22.42]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 68042   Valor:: 10  NmDocto :: 3200966  
+[14:24:37][189.110.22.42]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:24:37][189.110.22.42]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 68042  
+[14:24:37][189.110.22.42]> # Valor :: 10  
+[14:24:37][189.110.22.42]> # Referente ao mes :: 2017-12-15 
+[14:24:37][189.110.22.42]> # Usuario atribuido ID::943 
+[14:24:37][189.110.22.42]> ############################################## ------------------------------------------------------------ 
+[14:24:47][189.110.22.42]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 68043   Valor:: 150  NmDocto :: 1908360  
+[14:24:57][189.110.22.42]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:24:57][189.110.22.42]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 68043  
+[14:24:57][189.110.22.42]> # Valor :: 150  
+[14:24:57][189.110.22.42]> # Referente ao mes :: 2017-12-15 
+[14:24:57][189.110.22.42]> # Usuario atribuido ID::943 
+[14:24:57][189.110.22.42]> ############################################## ------------------------------------------------------------ 
+[14:25:07][189.110.22.42]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 68044   Valor:: 150  NmDocto :: 1908363  
+[14:25:16][189.110.22.42]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:25:16][189.110.22.42]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 68044  
+[14:25:16][189.110.22.42]> # Valor :: 150  
+[14:25:16][189.110.22.42]> # Referente ao mes :: 2017-12-15 
+[14:25:16][189.110.22.42]> # Usuario atribuido ID::943 
+[14:25:16][189.110.22.42]> ############################################## ------------------------------------------------------------ 
+[14:25:20][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[14:25:27][189.110.22.42]> Aux Financeiro [8] deletou a remessa 68012 do campo id=943. 
+[14:25:29][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[14:25:30][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[14:25:38][189.110.22.42]> Aux Financeiro [8] deletou a remessa 68042 do campo id=943. 
+[14:25:38][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[14:25:40][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[14:25:48][189.110.22.42]> Aux Financeiro [8] deletou a remessa 68043 do campo id=943. 
+[14:25:48][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[14:25:50][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[14:25:55][189.110.22.42]> Aux Financeiro [8] deletou a remessa 68044 do campo id=943. 
+[14:25:56][189.110.22.42]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[14:31:44][189.110.22.42]> # UPLOAD[Extrato] ## 
+[14:31:44][189.110.22.42]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[14:31:44][189.110.22.42]> # Dt :: 08/05/2018  
+[14:31:44][189.110.22.42]> # Docto :: 9678388 
+[14:31:44][189.110.22.42]> # Valor :: 182.00 
+[14:31:44][189.110.22.42]> ------------------------------------------------------------------------------ 
+[14:31:44][189.110.22.42]> # UPLOAD[Extrato] ## 
+[14:31:44][189.110.22.42]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[14:31:44][189.110.22.42]> # Dt :: 09/05/2018  
+[14:31:44][189.110.22.42]> # Docto :: 1908363 
+[14:31:44][189.110.22.42]> # Valor :: 150.00 
+[14:31:44][189.110.22.42]> ------------------------------------------------------------------------------ 
+[14:31:44][189.110.22.42]> # UPLOAD[Extrato] ## 
+[14:31:44][189.110.22.42]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[14:31:44][189.110.22.42]> # Dt :: 09/05/2018  
+[14:31:44][189.110.22.42]> # Docto :: 3200966 
+[14:31:44][189.110.22.42]> # Valor :: 10.00 
+[14:31:44][189.110.22.42]> ------------------------------------------------------------------------------ 
+[14:31:44][189.110.22.42]> # UPLOAD[Extrato] ## 
+[14:31:44][189.110.22.42]> # O usuario Aux Financeiro(8) gerou um lacamento bancario atraves do upload de extrato.  
+[14:31:44][189.110.22.42]> # Dt :: 09/05/2018  
+[14:31:44][189.110.22.42]> # Docto :: 2102825 
+[14:31:44][189.110.22.42]> # Valor :: 107.00 
+[14:31:44][189.110.22.42]> ------------------------------------------------------------------------------ 
+[14:32:17][189.110.22.42]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 68241   Valor:: 107  NmDocto :: 2102825  
+[14:32:50][189.110.22.42]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:32:50][189.110.22.42]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 68241  
+[14:32:50][189.110.22.42]> # Valor :: 107  
+[14:32:50][189.110.22.42]> # Referente ao mes :: 2018-04-15 
+[14:32:50][189.110.22.42]> # Usuario atribuido ID::934 
+[14:32:50][189.110.22.42]> ############################################## ------------------------------------------------------------ 
+[17:36:10][52.87.154.150]>  [] saiu do sistema . 
+[17:37:15][52.87.154.150]>  [] acessou listagem de campos . 
+[17:38:17][52.87.154.150]> #### Acesso não autorizado ###### 
+[17:38:17][52.87.154.150]> Algum usuario não identificado tentou acessar a /app/listar-extrato.php 
+[17:38:17][52.87.154.150]> # ------------------------------------------------------>  
+[17:40:23][52.87.154.150]> #### Acesso não autorizado ###### 
+[17:40:23][52.87.154.150]> Algum usuario não identificado tentou acessar a /app/nova-entrada-direta.php 
+[17:40:23][52.87.154.150]> # ------------------------------------------------------>  
+[21:19:29][52.87.154.150]>  [ID::] acessou o cadastro de ALAGOINHAS  [ID::1078]  
+[21:20:32][52.87.154.150]>  [ID::] acessou o cadastro de ALVARES MACHADO [ID::1231]  
+[21:20:32][52.87.154.150]>  [ID::] acessou o cadastro de AMAMBAI - CE [ID::1222]  
+[21:21:35][52.87.154.150]>  [ID::] acessou o cadastro de AMERICANA [ID::1094]  
+[21:21:36][52.87.154.150]>  [ID::] acessou o cadastro de ANÁPOLIS - CE [ID::1009]  
+[21:22:40][52.87.154.150]>  [ID::] acessou o cadastro de ANDIRÁ [ID::1086]  
+[21:23:42][52.87.154.150]>  [ID::] acessou o cadastro de ANGOLA - LUANDA [ID::966]  
+[21:23:43][52.87.154.150]>  [ID::] acessou o cadastro de ANGOLA / LUANDA [ID::965]  
+[21:24:45][52.87.154.150]>  [ID::] acessou o cadastro de APARECIDA DE GOIÂNIA [ID::1073]  
+[21:24:46][52.87.154.150]>  [ID::] acessou o cadastro de APARECIDA DO TABOADO [ID::996]  
+[21:25:48][52.87.154.150]>  [ID::] acessou o cadastro de APORÉ [ID::1185]  
+[21:25:49][52.87.154.150]>  [ID::] acessou o cadastro de APUCARANA [ID::963]  
+[21:26:51][52.87.154.150]>  [ID::] acessou o cadastro de ARAPONGAS [ID::1134]  
+[21:27:53][52.87.154.150]>  [ID::] acessou o cadastro de ARAPONGAS II  [ID::975]  
+[21:28:56][52.87.154.150]>  [ID::] acessou o cadastro de ARAPONGAS III - CE [ID::1180]  
+[21:31:01][52.87.154.150]>  [ID::] acessou o cadastro de ARARAQUARA [ID::973]  
+[21:32:04][52.87.154.150]>  [ID::] acessou o cadastro de ARGENTINA [ID::1119]  
+[21:32:05][52.87.154.150]>  [ID::] acessou o cadastro de ARIQUEMES [ID::987]  
+[21:33:07][52.87.154.150]>  [ID::] acessou o cadastro de ARTUR ALVIM [ID::1036]  
+[21:33:08][52.87.154.150]>  [ID::] acessou o cadastro de ASSIS -CE [ID::894]  
+[21:34:11][52.87.154.150]>  [ID::] acessou o cadastro de AVARÉ [ID::1152]  
+[21:34:11][52.87.154.150]>  [ID::] acessou o cadastro de BANDEIRANTES [ID::1135]  
+[21:35:14][52.87.154.150]>  [ID::] acessou o cadastro de BARRA DO QUARAÍ [ID::962]  
+[21:36:16][52.87.154.150]>  [ID::] acessou o cadastro de BATATAIS [ID::925]  
+[21:37:20][52.87.154.150]>  [ID::] acessou o cadastro de BATURITÉ [ID::1053]  
+[21:37:21][52.87.154.150]>  [ID::] acessou o cadastro de BAURU [ID::1141]  
+[21:38:23][52.87.154.150]>  [ID::] acessou o cadastro de BELEM [ID::1117]  
+[21:38:24][52.87.154.150]>  [ID::] acessou o cadastro de BEZERROS - CE [ID::991]  
+[21:39:27][52.87.154.150]>  [ID::] acessou o cadastro de BIRIGUI [ID::978]  
+[21:39:28][52.87.154.150]>  [ID::] acessou o cadastro de BOA VISTA / CE [ID::935]  
+[21:40:30][52.87.154.150]>  [ID::] acessou o cadastro de BOTUCATU [ID::945]  
+[21:40:31][52.87.154.150]>  [ID::] acessou o cadastro de BREJO DOS SANTOS [ID::1013]  
+[21:41:35][52.87.154.150]>  [ID::] acessou o cadastro de BURITIS [ID::1250]  
+[21:42:39][52.87.154.150]>  [ID::] acessou o cadastro de CAÇAPAVA [ID::1068]  
+[21:42:40][52.87.154.150]>  [ID::] acessou o cadastro de CACOAL [ID::1155]  
+[21:43:10][52.87.154.150]>  [ID::] acessou o cadastro de CAÇUL [ID::1236]  
+[21:43:11][52.87.154.150]>  [ID::] acessou o cadastro de CAICÓ  [ID::992]  
+[21:43:42][52.87.154.150]>  [ID::] acessou o cadastro de CAMBÉ [ID::989]  
+[21:43:43][52.87.154.150]>  [ID::] acessou o cadastro de CAMPINA GRANDE [ID::1052]  
+[21:44:45][52.87.154.150]>  [ID::] acessou o cadastro de CAMPINAS  BONFIM /JD. AURELIA  [ID::1065]  
+[21:44:46][52.87.154.150]>  [ID::] acessou o cadastro de CAMPINAS CAMPO GRANDE [ID::1097]  
+[21:45:48][52.87.154.150]>  [ID::] acessou o cadastro de CAMPINAS CENTRO [ID::948]  
+[21:46:50][52.87.154.150]>  [ID::] acessou o cadastro de CAMPINAS ZONA NORTE - SANTA BARBARA [ID::988]  
+[21:46:51][52.87.154.150]>  [ID::] acessou o cadastro de CAMPO GRANDE [ID::924]  
+[21:47:53][52.87.154.150]>  [ID::] acessou o cadastro de CAMPO GRANDE NORTE [ID::1252]  
+[21:48:55][52.87.154.150]>  [ID::] acessou o cadastro de CAMPO MOURÃO [ID::999]  
+[21:48:56][52.87.154.150]>  [ID::] acessou o cadastro de CARAZINHO - CE [ID::1026]  
+[21:49:58][52.87.154.150]>  [ID::] acessou o cadastro de CARIACICA [ID::1168]  
+[21:49:59][52.87.154.150]>  [ID::] acessou o cadastro de CARUARÚ [ID::1133]  
+[21:51:01][52.87.154.150]>  [ID::] acessou o cadastro de CASA VERDE  [ID::911]  
+[21:51:02][52.87.154.150]>  [ID::] acessou o cadastro de CASCAVEL [ID::1088]  
+[21:52:04][52.87.154.150]>  [ID::] acessou o cadastro de CASSILÂNDIA [ID::947]  
+[21:52:05][52.87.154.150]>  [ID::] acessou o cadastro de CATOLÉ DO ROCHA [ID::1124]  
+[21:53:08][52.87.154.150]>  [ID::] acessou o cadastro de CAXIAS DO SUL [ID::934]  
+[21:53:08][52.87.154.150]>  [ID::] acessou o cadastro de CEILANDIA-NORTE [ID::1099]  
+[21:54:11][52.87.154.150]>  [ID::] acessou o cadastro de CEREJEIRAS /CE [ID::900]  
+[21:54:11][52.87.154.150]>  [ID::] acessou o cadastro de CHAPADÃO DO SUL [ID::1131]  
+[21:55:14][52.87.154.150]>  [ID::] acessou o cadastro de CHILE / SANTIAGO [ID::1069]  
+[21:55:15][52.87.154.150]>  [ID::] acessou o cadastro de CHINA [ID::1070]  
+[21:56:18][52.87.154.150]>  [ID::] acessou o cadastro de CIANORTE [ID::893]  
+[21:57:21][52.87.154.150]>  [ID::] acessou o cadastro de CLEVELÂNDIA [ID::1012]  
+[21:57:22][52.87.154.150]>  [ID::] acessou o cadastro de COLOMBIA [ID::1238]  
+[21:59:05][52.87.154.150]>  [ID::] acessou o cadastro de COMODORO / CE   [ID::890]  
+[22:00:08][52.87.154.150]>  [ID::] acessou o cadastro de CONCEIÇÃO DE FEIRA [ID::1050]  
+[22:00:08][52.87.154.150]>  [ID::] acessou o cadastro de CONÉLIO PROCÓPIO- SIBIM [ID::1200]  
+[22:01:11][52.87.154.150]>  [ID::] acessou o cadastro de CONFRESA  [ID::1213]  
+[22:01:11][52.87.154.150]>  [ID::] acessou o cadastro de CONSELHEIRO MAIRINK /  CE [ID::1128]  
+[22:02:14][52.87.154.150]>  [ID::] acessou o cadastro de CORNÉLIO PROCÓPIO [ID::936]  
+[22:02:14][52.87.154.150]>  [ID::] acessou o cadastro de CORNELIO PROCOPIO - SIBIM [ID::1247]  
+[22:04:21][52.87.154.150]>  [ID::] acessou o cadastro de COSTA RICA [ID::1187]  
+[22:04:22][52.87.154.150]>  [ID::] acessou o cadastro de CUIABA - CE [ID::1226]  
+[22:05:24][52.87.154.150]>  [ID::] acessou o cadastro de CURIONÓPOLIPOLIS [ID::1212]  
+[22:05:25][52.87.154.150]>  [ID::] acessou o cadastro de CURITIBA - VILA 7 DE SETEMBRO [ID::960]  
+[22:06:27][52.87.154.150]>  [ID::] acessou o cadastro de CURITIBA / BACACHERI [ID::1059]  
+[22:06:27][52.87.154.150]>  [ID::] acessou o cadastro de CURITIBA / BOA VISTA [ID::1248]  
+[22:07:29][52.87.154.150]>  [ID::] acessou o cadastro de CURITIBA / CAPÃO RASO [ID::997]  
+[22:07:30][52.87.154.150]>  [ID::] acessou o cadastro de CURITIBA / XAXIM / VILA MARIANA [ID::1042]  
+[22:08:33][52.87.154.150]>  [ID::] acessou o cadastro de CURITIBA ALMIRANTE TAMANDAR&Eacute; [ID::1067]  
+[22:09:35][52.87.154.150]>  [ID::] acessou o cadastro de CURITIBA FAZENDINHA [ID::1105]  
+[22:09:36][52.87.154.150]>  [ID::] acessou o cadastro de CURITIBA NEOVILE/CAMPO ALEGRE [ID::1057]  
+[22:10:38][52.87.154.150]>  [ID::] acessou o cadastro de CURITIBA SABARÁ - CE [ID::1106]  
+[22:10:39][52.87.154.150]>  [ID::] acessou o cadastro de CURITIBA VILA RIO NEGRO [ID::1149]  
+[22:11:43][52.87.154.150]>  [ID::] acessou o cadastro de Devolução Cheque Irregular e/ou sem fundos [ID::1221]  
+[22:11:44][52.87.154.150]>  [ID::] acessou o cadastro de DGA/Church [ID::1239]  
+[22:12:48][52.87.154.150]>  [ID::] acessou o cadastro de DIADEMA [ID::1159]  
+[22:13:18][52.87.154.150]>  [ID::] acessou o cadastro de DIAMANTE DO NORTE [ID::941]  
+[22:13:19][52.87.154.150]>  [ID::] acessou o cadastro de DOM PEDRITO [ID::979]  
+[22:13:50][52.87.154.150]>  [ID::] acessou o cadastro de DOURADOS [ID::1154]  
+[22:13:51][52.87.154.150]>  [ID::] acessou o cadastro de DRACENA [ID::1006]  
+[22:14:53][52.87.154.150]>  [ID::] acessou o cadastro de EMBÚ-GUAÇÚ [ID::1102]  
+[22:14:53][52.87.154.150]>  [ID::] acessou o cadastro de EQUADOR [ID::895]  
+[22:15:56][52.87.154.150]>  [ID::] acessou o cadastro de ESPIGÃO D OESTE [ID::1076]  
+[22:15:56][52.87.154.150]>  [ID::] acessou o cadastro de FEIRA DE SANTANA - CENTRAL [ID::1116]  
+[22:16:59][52.87.154.150]>  [ID::] acessou o cadastro de FEIRA X [ID::1194]  
+[22:17:00][52.87.154.150]>  [ID::] acessou o cadastro de FERIA DE SANTANA - MORADA DO SOL [ID::1192]  
+[22:18:02][52.87.154.150]>  [ID::] acessou o cadastro de FORTALEZA DAS NOGUEIRAS [ID::959]  
+[22:19:05][52.87.154.150]>  [ID::] acessou o cadastro de FOZ DO IGUAÚ [ID::943]  
+[22:20:07][52.87.154.150]>  [ID::] acessou o cadastro de FRANCISCO BELTRÃO [ID::939]  
+[22:20:08][52.87.154.150]>  [ID::] acessou o cadastro de FREGUESIA DO Ó [ID::1056]  
+[22:21:10][52.87.154.150]>  [ID::] acessou o cadastro de GANDÚ / CE [ID::964]  
+[22:21:11][52.87.154.150]>  [ID::] acessou o cadastro de genérico [ID::1178]  
+[22:22:14][52.87.154.150]>  [ID::] acessou o cadastro de GLORIA DE DOURADOS - /  CE [ID::1139]  
+[22:22:14][52.87.154.150]>  [ID::] acessou o cadastro de GOI&Acirc;NIA [ID::1010]  
+[22:23:18][52.87.154.150]>  [ID::] acessou o cadastro de GUAIBA/CE [ID::1014]  
+[22:23:19][52.87.154.150]>  [ID::] acessou o cadastro de GUARUJÁ [ID::1045]  
+[22:24:21][52.87.154.150]>  [ID::] acessou o cadastro de GUARULHOS [ID::944]  
+[22:24:22][52.87.154.150]>  [ID::] acessou o cadastro de GURUPI [ID::952]  
+[22:25:24][52.87.154.150]>  [ID::] acessou o cadastro de HAITI [ID::1136]  
+[22:25:25][52.87.154.150]>  [ID::] acessou o cadastro de HORIZONTE - CE [ID::994]  
+[22:26:27][52.87.154.150]>  [ID::] acessou o cadastro de IBAITI [ID::946]  
+[22:26:28][52.87.154.150]>  [ID::] acessou o cadastro de IBAT&Eacute; [ID::1022]  
+[22:27:30][52.87.154.150]>  [ID::] acessou o cadastro de IC&Oacute; [ID::1190]  
+[22:27:31][52.87.154.150]>  [ID::] acessou o cadastro de IEAB - SEMINÁRIO - 4  DIVISÃO CE [ID::1199]  
+[22:28:33][52.87.154.150]>  [ID::] acessou o cadastro de IGUARAÇÚ [ID::896]  
+[22:29:37][52.87.154.150]>  [ID::] acessou o cadastro de IMPERATRIZ DO MARANHÃO  [ID::970]  
+[22:29:38][52.87.154.150]>  [ID::] acessou o cadastro de INDAIATUBA [ID::1098]  
+[22:30:42][52.87.154.150]>  [ID::] acessou o cadastro de INDIA / NOVA DELHI [ID::983]  
+[22:30:42][52.87.154.150]>  [ID::] acessou o cadastro de INDIA / NOVA DELHI [ID::984]  
+[22:31:13][52.87.154.150]>  [ID::] acessou o cadastro de INDIA / RANCHI [ID::1161]  
+[22:31:44][52.87.154.150]>  [ID::] acessou o cadastro de INDIA /RANCHI  [ID::1162]  
+[22:31:45][52.87.154.150]>  [ID::] acessou o cadastro de IPECAETÁ [ID::1229]  
+[22:32:48][52.87.154.150]>  [ID::] acessou o cadastro de IPIAU / CE [ID::908]  
+[22:32:48][52.87.154.150]>  [ID::] acessou o cadastro de IPIRANGA [ID::1093]  
+[22:33:51][52.87.154.150]>  [ID::] acessou o cadastro de ITAJAI [ID::1129]  
+[22:33:52][52.87.154.150]>  [ID::] acessou o cadastro de ITÁLIA [ID::1092]  
+[22:34:55][52.87.154.150]>  [ID::] acessou o cadastro de ITANHAÉM-CE [ID::1160]  
+[22:35:58][52.87.154.150]>  [ID::] acessou o cadastro de ITAQUAQUECETUBA [ID::1241]  
+[22:37:01][52.87.154.150]>  [ID::] acessou o cadastro de ITÚ [ID::1166]  
+[22:37:02][52.87.154.150]>  [ID::] acessou o cadastro de ITUMBIARA [ID::891]  
+[22:38:04][52.87.154.150]>  [ID::] acessou o cadastro de IVAIPORÃ [ID::1041]  
+[22:38:05][52.87.154.150]>  [ID::] acessou o cadastro de JA&Ccedil;ANA [ID::1103]  
+[22:39:07][52.87.154.150]>  [ID::] acessou o cadastro de JABOTI [ID::932]  
+[22:41:12][52.87.154.150]>  [ID::] acessou o cadastro de JABOTICABAL [ID::1039]  
+[22:41:13][52.87.154.150]>  [ID::] acessou o cadastro de JACAREÍ I [ID::919]  
+[22:42:15][52.87.154.150]>  [ID::] acessou o cadastro de JACAREZINHO  [ID::902]  
+[22:42:16][52.87.154.150]>  [ID::] acessou o cadastro de JALES [ID::961]  
+[22:43:18][52.87.154.150]>  [ID::] acessou o cadastro de JANDAIA DO SUL [ID::1181]  
+[22:43:19][52.87.154.150]>  [ID::] acessou o cadastro de JARAGUA [ID::1137]  
+[22:44:21][52.87.154.150]>  [ID::] acessou o cadastro de JARDIM ALVORADA [ID::1061]  
+[22:44:22][52.87.154.150]>  [ID::] acessou o cadastro de JARDIM CALUX [ID::1240]  
+[22:45:24][52.87.154.150]>  [ID::] acessou o cadastro de JARDIM LAURA  [ID::1034]  
+[22:46:26][52.87.154.150]>  [ID::] acessou o cadastro de JARDIM PETRONI [ID::1169]  
+[22:47:32][52.87.154.150]>  [ID::] acessou o cadastro de JARDIM SÃO ROBERTO [ID::1007]  
+[22:47:33][52.87.154.150]>  [ID::] acessou o cadastro de JATAÍ [ID::1004]  
+[22:48:39][52.87.154.150]>  [ID::] acessou o cadastro de JI-PARANÁ [ID::971]  
+[22:48:39][52.87.154.150]>  [ID::] acessou o cadastro de JOÃO PESSOA [ID::1127]  
+[22:49:46][52.87.154.150]>  [ID::] acessou o cadastro de JOAQUIM TAVORA [ID::1029]  
+[22:49:47][52.87.154.150]>  [ID::] acessou o cadastro de JUAZEIRO - BAHIA [ID::981]  
+[22:50:55][52.87.154.150]>  [ID::] acessou o cadastro de JUAZEIRO DO NORTE - CEARÁ [ID::898]  
+[22:50:55][52.87.154.150]>  [ID::] acessou o cadastro de JUNDIAÍ [ID::1083]  
+[22:52:00][52.87.154.150]>  [ID::] acessou o cadastro de LIMEIRA [ID::1096]  
+[22:52:01][52.87.154.150]>  [ID::] acessou o cadastro de LINS [ID::1245]  
+[22:53:05][52.87.154.150]>  [ID::] acessou o cadastro de LONDRES [ID::1234]  
+[22:53:06][52.87.154.150]>  [ID::] acessou o cadastro de LONDRINA [ID::1066]  
+[22:54:12][52.87.154.150]>  [ID::] acessou o cadastro de MACHADINHO DOESTE [ID::1145]  
+[22:55:14][52.87.154.150]>  [ID::] acessou o cadastro de MANAUS [ID::956]  
+[22:55:14][52.87.154.150]>  [ID::] acessou o cadastro de MANAUS II [ID::1125]  
+[22:56:19][52.87.154.150]>  [ID::] acessou o cadastro de MANTENEDORES [ID::1198]  
+[22:56:20][52.87.154.150]>  [ID::] acessou o cadastro de MANTIQUEIRA [ID::1023]  
+[22:57:25][52.87.154.150]>  [ID::] acessou o cadastro de MARABÁ [ID::1030]  
+[22:59:07][52.87.154.150]>  [ID::] acessou o cadastro de MARACAS [ID::1246]  
+[22:59:07][52.87.154.150]>  [ID::] acessou o cadastro de MARILIA / ZONA NORTE [ID::897]  
+[23:00:12][52.87.154.150]>  [ID::] acessou o cadastro de MARÍLIA/ ZONA  SUL [ID::923]  
+[23:00:12][52.87.154.150]>  [ID::] acessou o cadastro de MARINGÁ / EBENÉZER/ LEA LEAL [ID::1002]  
+[23:01:14][52.87.154.150]>  [ID::] acessou o cadastro de MARINGA / NEY BRAGA [ID::905]  
+[23:01:15][52.87.154.150]>  [ID::] acessou o cadastro de MARINGÁ/ SANTO ANTONIO / ARISTIDES LOBO [ID::1046]  
+[23:02:17][52.87.154.150]>  [ID::] acessou o cadastro de MATÃO [ID::1090]  
+[23:02:17][52.87.154.150]>  [ID::] acessou o cadastro de MAUÁ [ID::1037]  
+[23:03:19][52.87.154.150]>  [ID::] acessou o cadastro de MINISTRO ANDREAZZA [ID::912]  
+[23:03:20][52.87.154.150]>  [ID::] acessou o cadastro de MIRACATU- CE  [ID::1077]  
+[23:04:21][52.87.154.150]>  [ID::] acessou o cadastro de MIRANTE DO PARANAPANEMA [ID::1188]  
+[23:04:22][52.87.154.150]>  [ID::] acessou o cadastro de MISSIONARIO VIRTUAL [ID::1249]  
+[23:05:25][52.87.154.150]>  [ID::] acessou o cadastro de MO&Ccedil;AMBIQUE [ID::1085]  
+[23:05:25][52.87.154.150]>  [ID::] acessou o cadastro de MOÇAMBIQUE [ID::1084]  
+[23:06:28][52.87.154.150]>  [ID::] acessou o cadastro de MOGI DAS CRUZES [ID::1101]  
+[23:06:28][52.87.154.150]>  [ID::] acessou o cadastro de MOGI MIRIM [ID::1237]  
+[23:07:31][52.87.154.150]>  [ID::] acessou o cadastro de MONGUAGUA - SP [ID::974]  
+[23:08:34][52.87.154.150]>  [ID::] acessou o cadastro de MONTE NEGRO [ID::1253]  
+[23:08:35][52.87.154.150]>  [ID::] acessou o cadastro de MONTES CLAROS [ID::1164]  
+[23:09:37][52.87.154.150]>  [ID::] acessou o cadastro de MOSSORÓ [ID::1049]  
+[23:09:38][52.87.154.150]>  [ID::] acessou o cadastro de Movimentação entre contas DGEM [ID::1220]  
+[23:10:40][52.87.154.150]>  [ID::] acessou o cadastro de NÃO IDENTIFICADOS [ID::1196]  
+[23:10:41][52.87.154.150]>  [ID::] acessou o cadastro de NATAL / PLANALTO [ID::985]  
+[23:11:43][52.87.154.150]>  [ID::] acessou o cadastro de NOVA ANDRADINA [ID::1008]  
+[23:11:44][52.87.154.150]>  [ID::] acessou o cadastro de OSASCO [ID::922]  
+[23:12:46][52.87.154.150]>  [ID::] acessou o cadastro de Outras Entradas - Ofertas e/ou vendas de materiais [ID::1219]  
+[23:14:52][52.87.154.150]>  [ID::] acessou o cadastro de PACAJÚS [ID::1040]  
+[23:14:52][52.87.154.150]>  [ID::] acessou o cadastro de PALMAS [ID::1138]  
+[23:15:55][52.87.154.150]>  [ID::] acessou o cadastro de PARÁ DE MINAS [ID::940]  
+[23:16:57][52.87.154.150]>  [ID::] acessou o cadastro de PARAGUAI / ASSUNÇÃO [ID::1087]  
+[23:16:58][52.87.154.150]>  [ID::] acessou o cadastro de PARANAÍBA [ID::1111]  
+[23:18:00][52.87.154.150]>  [ID::] acessou o cadastro de PARANAVA&Iacute; I [ID::1020]  
+[23:18:01][52.87.154.150]>  [ID::] acessou o cadastro de PARANAVAÍ II [ID::1107]  
+[23:19:03][52.87.154.150]>  [ID::] acessou o cadastro de PARQUE IMIGRANTES [ID::1044]  
+[23:19:04][52.87.154.150]>  [ID::] acessou o cadastro de PARQUE JAÇATUBA [ID::1015]  
+[23:20:06][52.87.154.150]>  [ID::] acessou o cadastro de PATO BRANCO - CE [ID::967]  
+[23:20:07][52.87.154.150]>  [ID::] acessou o cadastro de PATROCÍNIO /CE [ID::1115]  
+[23:21:09][52.87.154.150]>  [ID::] acessou o cadastro de PATU [ID::1179]  
+[23:21:10][52.87.154.150]>  [ID::] acessou o cadastro de PERU - IQUITO [ID::1227]  
+[23:22:13][52.87.154.150]>  [ID::] acessou o cadastro de PERU- AREQUIPA [ID::1123]  
+[23:22:13][52.87.154.150]>  [ID::] acessou o cadastro de PERUIBE-CE [ID::1003]  
+[23:23:16][52.87.154.150]>  [ID::] acessou o cadastro de PILAR DO SUL [ID::913]  
+[23:23:16][52.87.154.150]>  [ID::] acessou o cadastro de PINDAMONHANGABA [ID::949]  
+[23:24:19][52.87.154.150]>  [ID::] acessou o cadastro de PINHAIS [ID::1028]  
+[23:25:21][52.87.154.150]>  [ID::] acessou o cadastro de PIRAPORA [ID::1148]  
+[23:25:22][52.87.154.150]>  [ID::] acessou o cadastro de PLACIDO DE CASTRO - CE [ID::1025]  
+[23:26:24][52.87.154.150]>  [ID::] acessou o cadastro de POÁ [ID::1081]  
+[23:27:28][52.87.154.150]>  [ID::] acessou o cadastro de PONTA PORÃ - CE [ID::1147]  
+[23:27:44][52.87.154.150]>  [ID::] acessou o cadastro de PORECATÚ [ID::1110]  
+[23:28:40][52.87.154.150]>  [ID::] acessou o cadastro de PORECATÚ [ID::1110]  
+[23:30:38][52.87.154.150]>  [ID::] acessou o cadastro de PORECATÚ [ID::1110]  
+[23:31:09][52.87.154.150]>  [ID::] acessou o cadastro de PORTO ALEGRE I [ID::1075]  
+[23:31:09][52.87.154.150]>  [ID::] acessou o cadastro de PORTO FERREIRA [ID::968]  
+[23:31:40][52.87.154.150]>  [ID::] acessou o cadastro de PORTO UNIÃO /  CE [ID::1120]  
+[23:32:11][52.87.154.150]>  [ID::] acessou o cadastro de PORTO VELHO [ID::1174]  
+[23:32:42][52.87.154.150]>  [ID::] acessou o cadastro de PORTUGAL - BARREIRO [ID::1064]  
+[23:32:42][52.87.154.150]>  [ID::] acessou o cadastro de PORTUGAL- BRAGA [ID::1063]  
+[23:33:13][52.87.154.150]>  [ID::] acessou o cadastro de POUSO ALEGRE [ID::1051]  
+[23:33:13][52.87.154.150]>  [ID::] acessou o cadastro de POXOR&Eacute;U [ID::1018]  
+[23:33:44][52.87.154.150]>  [ID::] acessou o cadastro de PRESIDENTE EPITÁCIO [ID::1153]  
+[23:33:45][52.87.154.150]>  [ID::] acessou o cadastro de PRESIDENTE MÉDICE/CE [ID::1163]  
+[23:34:49][52.87.154.150]>  [ID::] acessou o cadastro de PRESIDENTE PRUDENTE [ID::1109]  
+[23:34:49][52.87.154.150]>  [ID::] acessou o cadastro de PRESIDENTE VENCESLAU [ID::969]  
+[23:35:20][52.87.154.150]>  [ID::] acessou o cadastro de PROVISION - Empreendedores de Miss&otilde;es [ID::1195]  
+[23:35:51][52.87.154.150]>  [ID::] acessou o cadastro de RECIFE [ID::1038]  
+[23:35:51][52.87.154.150]>  [ID::] acessou o cadastro de RECIFE II [ID::1232]  
+[23:36:22][52.87.154.150]>  [ID::] acessou o cadastro de REDENÇÃO [ID::1167]  
+[23:36:53][52.87.154.150]>  [ID::] acessou o cadastro de REGISTRO [ID::1016]  
+[23:36:53][52.87.154.150]>  [ID::] acessou o cadastro de RENDIMENTOS POUPANÇA [ID::1235]  
+[23:37:24][52.87.154.150]>  [ID::] acessou o cadastro de RIBEIRÃO PIRES [ID::1108]  
+[23:37:24][52.87.154.150]>  [ID::] acessou o cadastro de RIBEIRÃO PRETO [ID::951]  
+[23:37:55][52.87.154.150]>  [ID::] acessou o cadastro de RIO BRANCO [ID::976]  
+[23:37:55][52.87.154.150]>  [ID::] acessou o cadastro de RIO CLARO [ID::930]  
+[23:38:26][52.87.154.150]>  [ID::] acessou o cadastro de RIO DE JANEIRO [ID::916]  
+[23:38:27][52.87.154.150]>  [ID::] acessou o cadastro de RIO GRANDE DA SERRA [ID::1011]  
+[23:38:57][52.87.154.150]>  [ID::] acessou o cadastro de RIO NEGRINHO [ID::1031]  
+[23:38:58][52.87.154.150]>  [ID::] acessou o cadastro de RIO VERDE [ID::1033]  
+[23:39:29][52.87.154.150]>  [ID::] acessou o cadastro de RIO VERDE 2 [ID::1244]  
+[23:39:29][52.87.154.150]>  [ID::] acessou o cadastro de RIVERA I [ID::1175]  
+[23:40:00][52.87.154.150]>  [ID::] acessou o cadastro de ROLIM DE MOURA [ID::1082]  
+[23:40:30][52.87.154.150]>  [ID::] acessou o cadastro de RONDONÓPOLIS [ID::910]  
+[23:40:31][52.87.154.150]>  [ID::] acessou o cadastro de ROSARIO DO SUL [ID::927]  
+[23:41:02][52.87.154.150]>  [ID::] acessou o cadastro de SALVADOR - SARAMANDAIA - CE [ID::1047]  
+[23:41:02][52.87.154.150]>  [ID::] acessou o cadastro de SALVADOR VALERIA - CE [ID::1095]  
+[23:41:33][52.87.154.150]>  [ID::] acessou o cadastro de SANTA ISABEL DO IVA&Iacute; [ID::1089]  
+[23:41:34][52.87.154.150]>  [ID::] acessou o cadastro de SANTA RITA DO PARDO [ID::901]  
+[23:42:04][52.87.154.150]>  [ID::] acessou o cadastro de SANTA TEREZINHA [ID::1224]  
+[23:42:05][52.87.154.150]>  [ID::] acessou o cadastro de SANTANA [ID::957]  
+[23:43:07][52.87.154.150]>  [ID::] acessou o cadastro de SANTANA DO LIVRAMENTO [ID::1055]  
+[23:44:10][52.87.154.150]>  [ID::] acessou o cadastro de SANTO AMARO I -  ARARIBA [ID::1158]  
+[23:44:11][52.87.154.150]>  [ID::] acessou o cadastro de SANTO AMARO II / SÃO LUÍS [ID::1104]  
+[23:46:16][52.87.154.150]>  [ID::] acessou o cadastro de SANTO ANASTÁCIO [ID::938]  
+[23:46:16][52.87.154.150]>  [ID::] acessou o cadastro de SANTO ANDRÉ [ID::1151]  
+[23:47:18][52.87.154.150]>  [ID::] acessou o cadastro de SANTO ANTÔNIO DA PLATINA [ID::953]  
+[23:47:19][52.87.154.150]>  [ID::] acessou o cadastro de SANTO ESTEVÃO [ID::892]  
+[23:48:20][52.87.154.150]>  [ID::] acessou o cadastro de SANTOS-CE [ID::1242]  
+[23:48:21][52.87.154.150]>  [ID::] acessou o cadastro de SÃO BENTO [ID::986]  
+[23:49:23][52.87.154.150]>  [ID::] acessou o cadastro de SAO CAETANO DO SUL - BOA VISTA [ID::1233]  
+[23:49:23][52.87.154.150]>  [ID::] acessou o cadastro de SAO CAETANO DO SUL - OSVALDO CRUZ [ID::1054]  
+[23:50:25][52.87.154.150]>  [ID::] acessou o cadastro de SAO CAETANO DO SUL - VILA GERTY [ID::909]  
+[23:51:27][52.87.154.150]>  [ID::] acessou o cadastro de SAO JOAO CLIMACO [ID::933]  
+[23:51:28][52.87.154.150]>  [ID::] acessou o cadastro de SÃO JOÃO DO IVAÍ [ID::954]  
+[23:52:30][52.87.154.150]>  [ID::] acessou o cadastro de SÃO JOSÉ DO RIO PRETO [ID::1019]  
+[23:52:31][52.87.154.150]>  [ID::] acessou o cadastro de SÃO JOSÉ DOS CAMPOS I / MORUMBI [ID::1140]  
+[23:53:33][52.87.154.150]>  [ID::] acessou o cadastro de SÃO JOSÉ DOS CAMPOS II / SÃO VICENTE-CE [ID::980]  
+[23:53:33][52.87.154.150]>  [ID::] acessou o cadastro de SÃO JOSE DOS PINHAIS-COLONIA DO RIO GRANDE  - CE [ID::1184]  
+[23:54:36][52.87.154.150]>  [ID::] acessou o cadastro de SÃO lUÍZ [ID::972]  
+[23:54:37][52.87.154.150]>  [ID::] acessou o cadastro de SÃO MATEUS [ID::1165]  
+[23:55:39][52.87.154.150]>  [ID::] acessou o cadastro de SÃO PAULO DE OLIVENÇA  [ID::1074]  
+[23:56:41][52.87.154.150]>  [ID::] acessou o cadastro de SAUDE [ID::1172]  
+[23:56:41][52.87.154.150]>  [ID::] acessou o cadastro de SENA MADUREIRA - CE [ID::1024]  
+[23:58:31][52.87.154.150]>  [ID::] acessou o cadastro de SERTANEJA - CE [ID::1170]  
+[23:59:33][52.87.154.150]>  [ID::] acessou o cadastro de SERTÃOZINHO [ID::1142]  

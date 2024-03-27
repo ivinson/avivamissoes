@@ -1,0 +1,31 @@
+[09:12:40][179.118.137.159]> Aux Financeiro [8] fez o login no sistema. 
+[12:49:36][179.118.137.159]> Aux Financeiro [8] acessou listagem de campos . 
+[12:49:41][179.118.137.159]> Aux Financeiro [8] acessou as remessas do campo 1059 . 
+[13:00:11][179.118.137.159]> Aux Financeiro [8] acessou listagem de campos . 
+[13:00:16][179.118.137.159]> Aux Financeiro [8] acessou as remessas do campo 1219 . 
+[13:00:28][179.118.137.159]> Aux Financeiro [8] acessou listagem de campos . 
+[13:00:33][179.118.137.159]> Aux Financeiro [8] acessou as remessas do campo 1298 . 
+[13:00:53][179.118.137.159]> Aux Financeiro [8] acessou listagem de campos . 
+[13:52:01][179.118.137.159]> Aux Financeiro [8] acessou as remessas do campo 1108 . 
+[15:03:34][179.118.137.159]> Aux Financeiro [8] fez o login no sistema. 
+[15:33:21][179.118.137.159]> Aux Financeiro [8] acessou listagem de campos . 
+[15:33:35][179.118.137.159]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[15:43:07][179.118.137.159]> Aux Financeiro [8] acessou listagem de campos . 
+[15:43:20][179.118.137.159]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 88108   Valor:: 450  NmDocto :: 1197719  
+[15:43:53][179.118.137.159]> Aux Financeiro [8] acessou as remessas do campo 1059 . 
+[15:44:01][179.118.137.159]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:44:01][179.118.137.159]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 88108  
+[15:44:01][179.118.137.159]> # Valor :: 4.50  
+[15:44:01][179.118.137.159]> # Referente ao mes :: 2021-06-15 
+[15:44:01][179.118.137.159]> # Usuario atribuido ID::1059 
+[15:44:01][179.118.137.159]> ############################################## ------------------------------------------------------------ 
+[15:44:04][179.118.137.159]> Aux Financeiro [8] acessou as remessas do campo 1059 . 
+[15:44:32][179.118.137.159]> Aux Financeiro [8] acessou as remessas do campo 1059 . 
+[15:45:30][179.118.137.159]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 88113   Valor:: 380  NmDocto :: 1674410  
+[15:45:44][179.118.137.159]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[15:45:44][179.118.137.159]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 88113  
+[15:45:44][179.118.137.159]> # Valor :: 380  
+[15:45:44][179.118.137.159]> # Referente ao mes :: 2021-07-15 
+[15:45:44][179.118.137.159]> # Usuario atribuido ID::1103 
+[15:45:44][179.118.137.159]> ############################################## ------------------------------------------------------------ 
+[17:43:30][179.118.137.159]> Aux Financeiro [8] saiu do sistema . 

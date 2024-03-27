@@ -1,0 +1,91 @@
+[01:57:13][66.249.64.91]> #### Acesso não autorizado ###### 
+[01:57:13][66.249.64.91]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1000&ano=2016 
+[01:57:13][66.249.64.91]> # ------------------------------------------------------>  
+[03:56:49][66.249.64.95]> #### Acesso não autorizado ###### 
+[03:56:49][66.249.64.95]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=936&ano=2013 
+[03:56:49][66.249.64.95]> # ------------------------------------------------------>  
+[07:06:50][66.249.64.87]> #### Acesso não autorizado ###### 
+[07:06:50][66.249.64.87]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=971&abertos=y 
+[07:06:50][66.249.64.87]> # ------------------------------------------------------>  
+[07:07:15][66.249.64.95]> #### Acesso não autorizado ###### 
+[07:07:15][66.249.64.95]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1105&ano=2009 
+[07:07:15][66.249.64.95]> # ------------------------------------------------------>  
+[07:08:57][66.249.64.87]>  [ID::] acessou o cadastro de CAMPO MOUR&Atilde;O [ID::999]  
+[07:09:15][66.249.64.87]>  [ID::] acessou o cadastro de UBAÍRA [ID::990]  
+[09:51:01][179.98.220.113]> #### Acesso não autorizado ###### 
+[09:51:01][179.98.220.113]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[09:51:01][179.98.220.113]> # ------------------------------------------------------>  
+[09:52:27][179.98.220.113]> Karina Machado Pereira [4] fez o login no sistema. 
+[11:20:43][179.98.220.113]> Karina Machado Pereira [4] acessou listagem de campos . 
+[11:21:37][179.98.220.113]> Karina Machado Pereira [4] acessou as remessas do campo 970 . 
+[11:21:50][179.98.220.113]> Karina Machado Pereira [4] deletou a remessa 39818 do campo id=970. 
+[11:21:50][179.98.220.113]> Karina Machado Pereira [4] acessou as remessas do campo 970 . 
+[11:24:45][179.98.220.113]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 34777   Valor:: 900  NmDocto :: 7880529  
+[11:25:22][179.98.220.113]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:25:22][179.98.220.113]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 34777  
+[11:25:22][179.98.220.113]> # Valor :: 900  
+[11:25:22][179.98.220.113]> # Referente ao mes :: 2016-03-15 
+[11:25:22][179.98.220.113]> # Usuario atribuido ID::970 
+[11:25:22][179.98.220.113]> ############################################## ------------------------------------------------------------ 
+[11:25:40][179.98.220.113]> Karina Machado Pereira [4] acessou as remessas do campo 970 . 
+[11:28:12][179.98.220.113]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 39356   Valor:: 54  NmDocto :: 256811  
+[11:28:31][179.98.220.113]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[11:28:31][179.98.220.113]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 39356  
+[11:28:31][179.98.220.113]> # Valor :: 54  
+[11:28:31][179.98.220.113]> # Referente ao mes :: 2016-08-15 
+[11:28:31][179.98.220.113]> # Usuario atribuido ID::970 
+[11:28:31][179.98.220.113]> ############################################## ------------------------------------------------------------ 
+[13:26:21][179.98.220.113]> #### Acesso não autorizado ###### 
+[13:26:21][179.98.220.113]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[13:26:21][179.98.220.113]> # ------------------------------------------------------>  
+[13:27:38][179.98.220.113]> Karina Machado Pereira [4] fez o login no sistema. 
+[13:28:26][179.98.220.113]> Karina Machado Pereira [4] acessou listagem de campos . 
+[13:29:34][179.98.220.113]> Karina Machado Pereira [4] acessou as remessas do campo 970 . 
+[13:33:19][179.98.220.113]> # UPLOAD[Extrato] ## 
+[13:33:19][179.98.220.113]> # O usuario Karina Machado Pereira(4) gerou um lacamento bancario atraves do upload de extrato.  
+[13:33:19][179.98.220.113]> # Dt :: 20/04/2016  
+[13:33:19][179.98.220.113]> # Docto :: 5282417 
+[13:33:19][179.98.220.113]> # Valor :: 453.00 
+[13:33:19][179.98.220.113]> ------------------------------------------------------------------------------ 
+[13:33:21][179.98.220.113]> # UPLOAD[Operacao Irregular] ## 
+[13:33:21][179.98.220.113]> # O usuario Karina Machado Pereira(4 deletou um lacamento de bancario atraves do upload de extrato.  
+[13:33:21][179.98.220.113]> # Docto :: 5282417 
+[13:33:21][179.98.220.113]> # Valor :: 453 
+[13:33:21][179.98.220.113]> ---------------------------------------------------------------------------------------------------------------------- 
+[13:33:47][179.98.220.113]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 34776   Valor:: 66  NmDocto :: 6474727  
+[13:34:25][179.98.220.113]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[13:34:25][179.98.220.113]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 34776  
+[13:34:25][179.98.220.113]> # Valor :: 66  
+[13:34:25][179.98.220.113]> # Referente ao mes :: 2016-02-15 
+[13:34:25][179.98.220.113]> # Usuario atribuido ID::970 
+[13:34:25][179.98.220.113]> ############################################## ------------------------------------------------------------ 
+[13:34:39][179.98.220.113]> Karina Machado Pereira [4] acessou as remessas do campo 970 . 
+[13:35:28][179.98.220.113]> # UPLOAD[Extrato] ## 
+[13:35:28][179.98.220.113]> # O usuario Karina Machado Pereira(4) gerou um lacamento bancario atraves do upload de extrato.  
+[13:35:28][179.98.220.113]> # Dt :: 08/07/2016  
+[13:35:28][179.98.220.113]> # Docto :: 6474680 
+[13:35:28][179.98.220.113]> # Valor :: 40.00 
+[13:35:28][179.98.220.113]> ------------------------------------------------------------------------------ 
+[13:35:42][179.98.220.113]> Karina Machado Pereira [ID::4] acessou IDENTIFICACAO de LANC de ID:: 40022   Valor:: 40  NmDocto :: 6474680  
+[13:36:20][179.98.220.113]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[13:36:20][179.98.220.113]> # O usuario Karina Machado Pereira(4) fez uma IDENTIFICACAO do Lancamento de ID:: 40022  
+[13:36:20][179.98.220.113]> # Valor :: 40  
+[13:36:20][179.98.220.113]> # Referente ao mes :: 2016-06-15 
+[13:36:20][179.98.220.113]> # Usuario atribuido ID::970 
+[13:36:20][179.98.220.113]> ############################################## ------------------------------------------------------------ 
+[13:36:27][179.98.220.113]> Karina Machado Pereira [4] acessou as remessas do campo 970 . 
+[13:52:13][179.98.220.113]> Karina Machado Pereira [4] acessou listagem de campos . 
+[13:52:24][179.98.220.113]> Karina Machado Pereira [ID::4] acessou o cadastro de MANDAGUARI [ID::1130]  
+[13:53:05][179.98.220.113]> Karina Machado Pereira [4] acessou listagem de campos . 
+[13:53:21][179.98.220.113]> Karina Machado Pereira [ID::4] acessou o cadastro de CURITIBA NEOVILE/CAMPO ALEGRE [ID::1057]  
+[16:52:58][177.102.47.156]> Ivani Valim  [2] fez o login no sistema. 
+[17:25:22][177.102.47.156]> Ivani Valim  [2] acessou listagem de campos . 
+[17:25:29][177.102.47.156]> Ivani Valim  [2] acessou as remessas do campo 891 . 
+[17:25:47][177.102.47.156]> Ivani Valim  [2] acessou as remessas do campo 891 . 
+[17:26:24][177.102.47.156]> Ivani Valim  [2] acessou as remessas do campo 891 . 
+[17:28:03][177.102.47.156]> Ivani Valim  [2] acessou as remessas do campo 891 . 
+[17:31:31][177.102.47.156]> Ivani Valim  [2] acessou as remessas do campo 891 . 
+[21:57:43][40.77.167.51]> #### Acesso não autorizado ###### 
+[21:57:43][40.77.167.51]> Algum usuario não identificado tentou acessar a /nova-entrada-direta.php 
+[21:57:43][40.77.167.51]> # ------------------------------------------------------>  
+[21:57:44][40.77.167.51]>  [] saiu do sistema . 

@@ -1,0 +1,794 @@
+[09:31:02][201.93.234.200]> Aux Financeiro [8] fez o login no sistema. 
+[10:06:24][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:08:10][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1213 . 
+[10:08:55][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:09:00][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[10:09:39][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:09:44][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 952 . 
+[10:11:08][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:11:16][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 970 . 
+[10:15:55][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:16:05][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 970 . 
+[10:16:22][201.93.234.200]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 75237   Valor:: 296  NmDocto :: 9694155  
+[10:16:53][201.93.234.200]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:16:53][201.93.234.200]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 75237  
+[10:16:53][201.93.234.200]> # Valor :: 296  
+[10:16:53][201.93.234.200]> # Referente ao mes :: 2019-04-15 
+[10:16:53][201.93.234.200]> # Usuario atribuido ID::970 
+[10:16:53][201.93.234.200]> ############################################## ------------------------------------------------------------ 
+[10:16:58][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 970 . 
+[10:18:36][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:18:59][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 898 . 
+[10:20:45][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:20:50][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1030 . 
+[10:20:58][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1030 . 
+[10:21:20][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1030 . 
+[10:22:09][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:22:15][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1138 . 
+[10:24:02][201.93.234.200]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 74828   Valor:: 260  NmDocto :: 3746321  
+[10:24:29][201.93.234.200]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:24:30][201.93.234.200]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 74828  
+[10:24:30][201.93.234.200]> # Valor :: 260  
+[10:24:30][201.93.234.200]> # Referente ao mes :: 2019-03-15 
+[10:24:30][201.93.234.200]> # Usuario atribuido ID::1138 
+[10:24:30][201.93.234.200]> ############################################## ------------------------------------------------------------ 
+[10:24:34][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1138 . 
+[10:26:03][201.93.234.200]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 75236   Valor:: 236  NmDocto :: 3749688  
+[10:26:31][201.93.234.200]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:26:31][201.93.234.200]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 75236  
+[10:26:31][201.93.234.200]> # Valor :: 236  
+[10:26:31][201.93.234.200]> # Referente ao mes :: 2019-04-15 
+[10:26:31][201.93.234.200]> # Usuario atribuido ID::1138 
+[10:26:31][201.93.234.200]> ############################################## ------------------------------------------------------------ 
+[10:26:34][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1138 . 
+[10:32:23][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:32:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1167 . 
+[10:32:45][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:32:54][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1224 . 
+[10:34:24][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:34:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 972 . 
+[10:35:22][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:35:28][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 993 . 
+[10:37:21][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:37:28][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 982 . 
+[10:39:37][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:39:42][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 987 . 
+[10:40:44][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:40:49][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 935 . 
+[10:40:52][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 935 . 
+[10:40:55][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 935 . 
+[10:42:04][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:42:09][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1250 . 
+[10:42:47][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:43:02][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1155 . 
+[10:43:19][201.93.234.200]> Aux Financeiro [8] deletou a remessa 74431 do campo id=1155. 
+[10:43:20][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1155 . 
+[10:43:57][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:44:02][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 900 . 
+[10:45:36][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[10:45:47][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 890 . 
+[11:00:51][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:00:56][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1076 . 
+[11:00:59][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1076 . 
+[11:01:03][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1076 . 
+[11:02:16][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:02:25][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 971 . 
+[11:02:56][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:03:01][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1145 . 
+[11:03:15][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:03:20][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 956 . 
+[11:03:35][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:03:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1125 . 
+[11:03:52][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:03:58][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 912 . 
+[11:04:18][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:04:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1253 . 
+[11:04:43][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:04:48][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1025 . 
+[11:05:02][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:05:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1174 . 
+[11:05:27][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:05:39][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1163 . 
+[11:07:44][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:07:49][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 976 . 
+[11:07:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 976 . 
+[11:07:58][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 976 . 
+[11:08:01][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 976 . 
+[11:08:32][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:08:36][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1082 . 
+[11:08:47][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:08:53][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1074 . 
+[11:09:03][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1074 . 
+[11:09:21][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1074 . 
+[11:09:37][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:09:41][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1024 . 
+[11:09:44][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1024 . 
+[11:10:25][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:10:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1078 . 
+[11:10:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1078 . 
+[11:10:41][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1078 . 
+[11:10:44][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1078 . 
+[11:10:59][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1078 . 
+[11:11:28][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:11:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1053 . 
+[11:11:35][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1053 . 
+[11:11:42][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1053 . 
+[11:12:55][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:13:07][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 991 . 
+[11:13:09][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 991 . 
+[11:17:36][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 991 . 
+[11:18:14][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:18:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1013 . 
+[11:18:37][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:18:42][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1052 . 
+[11:18:44][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1052 . 
+[11:18:53][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1052 . 
+[11:19:36][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:19:56][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1133 . 
+[11:20:18][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:20:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1124 . 
+[11:21:12][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:21:19][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[11:21:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1050 . 
+[11:21:59][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:22:04][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1116 . 
+[11:23:12][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:23:17][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1194 . 
+[11:24:14][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:24:19][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1192 . 
+[11:24:31][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:24:36][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 964 . 
+[11:24:38][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 964 . 
+[11:24:41][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 964 . 
+[11:24:45][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:24:55][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[11:25:25][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:25:35][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1229 . 
+[11:25:58][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:26:03][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 908 . 
+[11:26:05][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 908 . 
+[11:26:09][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 908 . 
+[11:26:16][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 908 . 
+[11:26:19][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 908 . 
+[11:26:30][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:28:10][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1127 . 
+[11:28:26][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:28:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 981 . 
+[11:28:55][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:29:00][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[11:29:20][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[11:29:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1246 . 
+[11:29:38][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:29:42][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1049 . 
+[11:32:19][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1049 . 
+[11:32:27][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1049 . 
+[11:32:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1049 . 
+[11:32:35][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1049 . 
+[11:32:46][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1049 . 
+[11:32:57][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:33:03][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 985 . 
+[11:33:26][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:34:44][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1040 . 
+[11:34:58][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:35:03][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1040 . 
+[11:35:08][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1040 . 
+[11:35:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1040 . 
+[11:35:14][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1040 . 
+[11:35:16][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1040 . 
+[11:35:19][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1040 . 
+[11:35:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1040 . 
+[11:35:24][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:35:29][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1179 . 
+[11:35:44][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:35:52][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1038 . 
+[11:36:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1038 . 
+[11:36:18][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1038 . 
+[11:37:39][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1038 . 
+[11:38:33][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:38:39][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1232 . 
+[11:38:49][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1232 . 
+[11:38:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1232 . 
+[11:38:54][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1232 . 
+[11:39:03][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:39:18][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1047 . 
+[11:46:13][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:46:17][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1095 . 
+[11:46:29][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:46:33][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 892 . 
+[11:46:46][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:46:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 986 . 
+[11:47:03][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:47:12][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 990 . 
+[11:47:23][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 990 . 
+[11:48:05][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:48:09][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1231 . 
+[11:48:14][170.244.28.206]> #### Acesso não autorizado ###### 
+[11:48:14][170.244.28.206]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[11:48:14][170.244.28.206]> # ------------------------------------------------------>  
+[11:48:41][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:48:47][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1222 . 
+[11:49:03][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:49:09][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1009 . 
+[11:49:23][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:49:29][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1073 . 
+[11:49:38][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1073 . 
+[11:49:46][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1073 . 
+[11:50:35][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:50:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 996 . 
+[11:54:37][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:54:42][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1236 . 
+[11:55:07][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:55:12][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 924 . 
+[11:57:24][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[11:57:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1252 . 
+[12:00:39][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[12:01:04][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 947 . 
+[13:10:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 947 . 
+[13:13:13][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:13:19][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1099 . 
+[13:14:17][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:14:24][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1131 . 
+[13:14:52][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:15:00][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1187 . 
+[13:15:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1187 . 
+[13:15:29][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1187 . 
+[13:16:03][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:16:07][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[13:16:17][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[13:16:19][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[13:16:26][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[13:16:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[13:16:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[13:16:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[13:16:43][201.93.234.200]> Aux Financeiro [8] deletou a remessa 75176 do campo id=1226. 
+[13:16:43][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[13:16:46][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[13:16:49][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1226 . 
+[13:17:53][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:17:59][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1154 . 
+[13:18:36][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:18:41][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1006 . 
+[13:18:53][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1006 . 
+[13:19:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1006 . 
+[13:20:02][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:20:07][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1010 . 
+[13:20:15][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1010 . 
+[13:20:18][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1010 . 
+[13:20:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1010 . 
+[13:20:52][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:20:57][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 891 . 
+[13:21:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 891 . 
+[13:21:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 891 . 
+[13:21:46][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:21:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1004 . 
+[13:22:07][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1004 . 
+[13:31:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1004 . 
+[13:31:54][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:32:00][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1188 . 
+[13:32:30][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:32:35][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1008 . 
+[13:38:15][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:38:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1111 . 
+[13:38:36][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1111 . 
+[13:38:43][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1111 . 
+[13:39:04][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:39:27][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1018 . 
+[13:39:41][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1018 . 
+[13:40:09][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1018 . 
+[13:40:34][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:40:42][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1153 . 
+[13:42:27][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:42:34][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1109 . 
+[13:42:47][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:42:53][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 969 . 
+[13:43:13][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:43:18][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1033 . 
+[13:51:34][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1033 . 
+[13:51:43][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1033 . 
+[13:52:43][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:52:54][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1244 . 
+[13:54:29][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:54:35][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[13:54:56][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[13:54:58][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[13:55:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[13:55:20][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[13:55:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[13:55:25][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[13:55:27][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[13:55:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[13:55:34][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 910 . 
+[13:55:50][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:55:56][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1258 . 
+[13:56:44][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:57:02][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 901 . 
+[13:57:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 901 . 
+[13:58:12][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:58:17][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 938 . 
+[13:58:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 938 . 
+[13:58:34][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 938 . 
+[13:58:39][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 938 . 
+[13:59:19][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:59:24][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 926 . 
+[13:59:34][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[13:59:39][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 958 . 
+[14:01:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 958 . 
+[14:01:26][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 958 . 
+[14:01:47][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:01:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1001 . 
+[14:02:31][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1001 . 
+[14:02:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1001 . 
+[14:02:58][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1001 . 
+[14:03:39][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1001 . 
+[14:04:14][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:04:19][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1168 . 
+[14:04:24][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1168 . 
+[14:04:36][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1168 . 
+[14:04:46][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1168 . 
+[14:05:40][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:05:44][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1068 . 
+[14:05:53][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1068 . 
+[14:06:20][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1068 . 
+[14:06:33][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1068 . 
+[14:06:52][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1068 . 
+[14:07:17][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:07:21][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 911 . 
+[14:07:45][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:07:50][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1102 . 
+[14:08:07][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1102 . 
+[14:09:06][201.93.234.200]> Aux Financeiro [8] deletou a remessa 69662 do campo id=1102. 
+[14:09:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1102 . 
+[14:09:08][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1102 . 
+[14:09:50][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1102 . 
+[14:10:35][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:10:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1056 . 
+[14:10:58][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1056 . 
+[14:11:26][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1056 . 
+[14:11:36][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:11:41][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 944 . 
+[14:12:33][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:12:39][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1199 . 
+[14:12:53][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:13:28][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[14:13:37][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[14:13:46][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[14:13:59][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1103 . 
+[14:15:34][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:15:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[14:15:49][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[14:16:41][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[14:17:03][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 919 . 
+[14:17:34][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:17:38][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[14:17:47][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[14:17:57][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1137 . 
+[14:18:29][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:18:33][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1023 . 
+[14:18:48][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1023 . 
+[14:18:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1023 . 
+[14:18:53][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1023 . 
+[14:19:11][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:23:38][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1164 . 
+[14:24:00][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:24:10][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 922 . 
+[14:24:45][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:24:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[14:25:00][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[14:25:04][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 940 . 
+[14:25:28][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:25:34][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1115 . 
+[14:26:05][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:26:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 949 . 
+[14:26:24][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 949 . 
+[14:26:26][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 949 . 
+[14:26:29][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 949 . 
+[14:26:30][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:26:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1148 . 
+[14:26:49][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1148 . 
+[14:26:52][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1148 . 
+[14:27:29][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:27:35][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1051 . 
+[14:40:23][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:40:31][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 916 . 
+[14:40:50][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 916 . 
+[14:46:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 916 . 
+[14:46:49][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:46:56][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 957 . 
+[14:47:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 957 . 
+[14:47:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 957 . 
+[14:47:53][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:48:31][201.93.234.200]> Aux Financeiro [ID::8] acessou o cadastro de SANTANA DE PARNAÍBA [ID::1261]  
+[14:48:36][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:48:42][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1261 . 
+[14:49:15][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:49:20][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1158 . 
+[14:49:28][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1158 . 
+[14:49:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1158 . 
+[14:49:58][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:50:15][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[14:50:38][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[14:50:49][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[14:50:52][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1104 . 
+[14:51:16][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:51:23][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1140 . 
+[14:51:34][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1140 . 
+[14:52:01][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1140 . 
+[14:52:17][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1140 . 
+[14:52:47][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:52:52][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 980 . 
+[14:53:00][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 980 . 
+[14:53:30][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:53:35][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1146 . 
+[14:53:56][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:54:02][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1021 . 
+[14:54:22][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:54:31][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1243 . 
+[14:55:07][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:55:14][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1114 . 
+[14:55:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1114 . 
+[14:55:34][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1114 . 
+[14:55:59][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:56:04][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 929 . 
+[14:56:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 929 . 
+[14:56:15][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 929 . 
+[14:56:25][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 929 . 
+[14:56:53][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[14:56:57][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 907 . 
+[14:57:15][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 907 . 
+[14:57:16][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 907 . 
+[14:57:19][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 907 . 
+[14:59:07][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:18:00][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1036 . 
+[15:19:33][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:19:39][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1159 . 
+[15:22:17][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:22:23][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1045 . 
+[15:22:47][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:22:52][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1044 . 
+[15:23:19][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:25:00][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1093 . 
+[15:25:09][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1093 . 
+[15:25:15][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1093 . 
+[15:25:18][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1093 . 
+[15:25:55][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:26:01][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1160 . 
+[15:26:11][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:26:17][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1241 . 
+[15:26:33][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:26:38][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[15:26:44][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[15:26:58][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[15:30:31][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1061 . 
+[15:31:53][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:31:57][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1240 . 
+[15:33:50][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:33:54][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1034 . 
+[15:35:06][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:35:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1169 . 
+[15:35:58][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:36:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1007 . 
+[15:38:08][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1007 . 
+[15:38:46][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1007 . 
+[15:40:03][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:40:07][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1037 . 
+[15:41:56][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:42:01][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1101 . 
+[15:42:13][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1101 . 
+[15:42:41][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:42:45][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1015 . 
+[15:43:07][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:43:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1003 . 
+[15:44:59][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:45:04][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1081 . 
+[15:45:59][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:46:03][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1016 . 
+[15:46:16][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:46:23][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1108 . 
+[15:47:10][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:47:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1011 . 
+[15:49:45][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:49:49][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1259 . 
+[15:50:23][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1259 . 
+[15:50:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1259 . 
+[15:51:18][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:51:24][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1151 . 
+[15:53:20][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:53:25][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1242 . 
+[15:53:51][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:54:19][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1233 . 
+[15:54:33][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:54:46][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1054 . 
+[15:55:25][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:55:29][201.93.234.200]> Aux Financeiro [ID::8] acessou o cadastro de SAO CAETANO DO SUL - OSVALDO CRUZ [ID::1054]  
+[15:57:33][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:57:57][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 909 . 
+[15:58:17][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[15:58:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 933 . 
+[16:08:15][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:08:20][201.93.234.200]> Aux Financeiro [ID::8] acessou o cadastro de TOLEDO [ID::918]  
+[16:10:40][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:12:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1260 . 
+[16:13:01][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:13:05][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1165 . 
+[16:13:53][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:13:56][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1172 . 
+[16:14:06][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:14:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1032 . 
+[16:14:23][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:14:28][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 998 . 
+[16:14:40][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:14:44][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1079 . 
+[16:16:21][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:16:26][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1035 . 
+[16:16:48][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:16:53][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1223 . 
+[16:17:04][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:17:09][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 977 . 
+[16:17:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 977 . 
+[16:17:44][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 977 . 
+[16:18:10][201.93.234.200]> Aux Financeiro [8] deletou a remessa 62957 do campo id=977. 
+[16:18:10][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 977 . 
+[16:18:12][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 977 . 
+[16:18:21][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 977 . 
+[16:18:51][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:18:56][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1100 . 
+[16:20:39][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:20:47][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 928 . 
+[16:22:01][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:22:05][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1094 . 
+[16:22:39][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1094 . 
+[16:22:48][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1094 . 
+[16:22:56][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1094 . 
+[16:23:33][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:23:38][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1262 . 
+[16:23:57][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:24:07][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 973 . 
+[16:24:20][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 973 . 
+[16:24:54][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 973 . 
+[16:24:57][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 973 . 
+[16:25:17][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 973 . 
+[16:25:26][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:25:31][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1256 . 
+[16:25:48][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:25:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1152 . 
+[16:26:02][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:26:07][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 925 . 
+[16:26:26][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:26:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1141 . 
+[16:26:43][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:26:47][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1263 . 
+[16:28:03][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:28:09][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 978 . 
+[16:28:33][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:28:43][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[16:28:54][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[16:29:59][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1065 . 
+[16:31:23][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:31:28][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1097 . 
+[16:31:41][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:31:50][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 948 . 
+[16:32:08][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:32:14][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 988 . 
+[16:32:29][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:32:34][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1022 . 
+[16:32:52][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:32:58][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1098 . 
+[16:33:36][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:33:41][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1166 . 
+[16:34:28][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1166 . 
+[16:34:31][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1166 . 
+[16:34:42][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:34:48][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1039 . 
+[16:37:35][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:37:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1083 . 
+[16:37:55][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1083 . 
+[16:38:10][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1083 . 
+[16:38:47][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:38:56][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1096 . 
+[16:39:46][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:39:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1245 . 
+[16:42:07][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:42:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 897 . 
+[16:42:52][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 897 . 
+[16:43:03][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 897 . 
+[16:43:40][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:43:45][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 923 . 
+[16:43:55][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:43:59][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1090 . 
+[16:44:12][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:44:18][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1237 . 
+[16:44:36][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1237 . 
+[16:45:27][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:45:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[16:45:53][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[16:46:04][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 913 . 
+[16:46:45][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:46:57][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 968 . 
+[16:47:34][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:47:41][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 951 . 
+[16:48:07][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:48:12][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 930 . 
+[16:48:36][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 930 . 
+[16:48:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 930 . 
+[16:49:29][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:49:36][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1019 . 
+[16:50:15][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:50:21][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1142 . 
+[16:50:31][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:50:38][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1150 . 
+[16:51:47][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:51:52][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[16:52:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[16:52:14][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 920 . 
+[16:52:39][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:52:44][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1017 . 
+[16:52:54][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:52:58][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 914 . 
+[16:53:13][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 914 . 
+[16:53:21][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 914 . 
+[16:53:49][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:54:00][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 950 . 
+[16:56:01][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:56:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 942 . 
+[16:56:34][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:56:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 963 . 
+[16:58:40][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:58:44][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1134 . 
+[16:58:58][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:59:05][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 975 . 
+[16:59:49][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[16:59:55][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1180 . 
+[17:01:40][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:01:49][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 989 . 
+[17:03:13][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:03:17][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1088 . 
+[17:03:26][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1088 . 
+[17:03:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1088 . 
+[17:03:57][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:04:01][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 893 . 
+[17:04:13][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:04:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 941 . 
+[17:04:34][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:04:37][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[17:04:45][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[17:05:45][201.93.234.200]> Aux Financeiro [8] deletou a remessa 72607 do campo id=943. 
+[17:05:45][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[17:05:47][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 943 . 
+[17:06:18][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:06:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 896 . 
+[17:07:23][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:07:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1041 . 
+[17:08:20][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:08:27][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1181 . 
+[17:09:06][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:09:12][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1066 . 
+[17:09:22][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:09:27][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1002 . 
+[17:10:11][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:10:15][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 905 . 
+[17:10:26][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:10:31][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1046 . 
+[17:10:41][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:10:46][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1020 . 
+[17:11:46][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:11:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1107 . 
+[17:12:01][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:12:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1110 . 
+[17:12:18][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:12:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1089 . 
+[17:13:49][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:13:56][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 954 . 
+[17:14:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 954 . 
+[17:14:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 954 . 
+[17:14:37][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 954 . 
+[17:15:07][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:15:11][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 918 . 
+[17:16:25][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:16:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[17:16:37][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[17:16:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[17:17:07][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1000 . 
+[17:17:23][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:17:27][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 921 . 
+[17:17:37][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:17:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 931 . 
+[17:18:11][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:18:18][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1086 . 
+[17:19:42][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:19:46][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1135 . 
+[17:19:59][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:20:04][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1012 . 
+[17:20:14][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:20:20][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 936 . 
+[17:22:01][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:22:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[17:22:09][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:22:13][201.93.234.200]> Aux Financeiro [ID::8] acessou o cadastro de CORNELIO PROCOPIO - CIBIM [ID::1247]  
+[17:22:28][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:22:32][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[17:22:36][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[17:23:09][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[17:23:45][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1247 . 
+[17:26:07][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:26:12][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1128 . 
+[17:26:41][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1128 . 
+[17:26:47][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1128 . 
+[17:27:04][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1128 . 
+[17:27:21][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1128 . 
+[17:27:43][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:27:50][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 960 . 
+[17:28:01][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:28:05][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1059 . 
+[17:28:37][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1059 . 
+[17:29:40][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:29:45][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1248 . 
+[17:30:39][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:30:45][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 997 . 
+[17:31:05][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:31:08][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1042 . 
+[17:31:21][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1042 . 
+[17:31:30][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:31:35][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1067 . 
+[17:32:12][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:32:16][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1105 . 
+[17:32:34][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:32:40][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1057 . 
+[17:32:50][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1057 . 
+[17:33:20][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:33:26][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1106 . 
+[17:33:38][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1106 . 
+[17:36:57][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:37:05][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1149 . 
+[17:37:12][201.93.234.200]> Aux Financeiro [8] deletou a remessa 74665 do campo id=1149. 
+[17:37:12][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1149 . 
+[17:38:02][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:38:10][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 939 . 
+[17:38:22][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:38:27][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 946 . 
+[17:38:36][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:38:41][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1129 . 
+[17:38:50][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:38:55][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 932 . 
+[17:39:03][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:39:08][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 902 . 
+[17:40:43][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:40:48][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1029 . 
+[17:41:31][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:41:36][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 967 . 
+[17:41:47][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:41:58][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1028 . 
+[17:42:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1028 . 
+[17:42:36][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:42:44][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1031 . 
+[17:43:17][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:43:23][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 953 . 
+[17:43:47][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:43:53][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1184 . 
+[17:43:53][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1184 . 
+[17:44:05][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1184 . 
+[17:44:18][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:44:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1170 . 
+[17:44:30][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1170 . 
+[17:44:48][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:44:51][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 962 . 
+[17:45:03][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:45:09][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 934 . 
+[17:45:17][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:45:22][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 979 . 
+[17:47:23][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:47:38][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1014 . 
+[17:47:48][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1014 . 
+[17:48:05][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:48:10][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1075 . 
+[17:48:21][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1075 . 
+[17:48:57][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:49:06][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 927 . 
+[17:49:28][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:49:33][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1055 . 
+[17:49:43][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1055 . 
+[17:50:03][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:50:08][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 937 . 
+[17:50:24][201.93.234.200]> Aux Financeiro [8] acessou listagem de campos . 
+[17:50:31][201.93.234.200]> Aux Financeiro [8] acessou as remessas do campo 1112 . 
+[17:52:49][201.93.234.200]> Aux Financeiro [8] saiu do sistema . 
+[17:52:52][201.93.234.200]>  [8] saiu do sistema . 

@@ -1,0 +1,177 @@
+[09:04:15][191.8.73.55]> Aux Financeiro [8] fez o login no sistema. 
+[11:49:33][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[11:49:38][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de JUAZEIRO DO NORTE - CEARÁ [ID::898]  
+[11:49:46][191.8.73.55]> Aux Financeiro [ID::8] atualizou o cadastro de JUAZEIRO DO NORTE - CEARÁ [ID::898]  
+[11:49:46][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[13:48:43][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de BAURU [ID::1141]  
+[13:50:24][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[13:50:30][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de BIRIGUI [ID::978]  
+[13:51:33][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[13:51:37][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1006 . 
+[13:51:39][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[13:51:43][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de DRACENA [ID::1006]  
+[13:52:10][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[13:52:29][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ITÚ [ID::1166]  
+[13:52:43][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[13:52:57][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de MARÍLIA ZONA NORTE [ID::897]  
+[13:54:02][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[13:54:08][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de MARÍLIA ZONA SUL [ID::923]  
+[13:55:07][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:00:40][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:01:26][191.8.73.55]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 91987   Valor:: 130.3  NmDocto :: 5392097  
+[14:01:46][191.8.73.55]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[14:01:46][191.8.73.55]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 91987  
+[14:01:46][191.8.73.55]> # Valor :: 130.3  
+[14:01:46][191.8.73.55]> # Referente ao mes :: 2022-09-15 
+[14:01:46][191.8.73.55]> # Usuario atribuido ID::1190 
+[14:01:46][191.8.73.55]> ############################################## ------------------------------------------------------------ 
+[14:02:46][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1190 . 
+[14:04:04][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:04:08][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de INDAIATUBA [ID::1098]  
+[14:05:05][191.8.73.55]> Aux Financeiro [ID::8] atualizou o cadastro de INDAIATUBA [ID::1098]  
+[14:05:05][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:05:12][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de INDAIATUBA [ID::1098]  
+[14:06:32][191.8.73.55]> Aux Financeiro [8] fez o login no sistema. 
+[14:06:38][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:06:42][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de INDAIATUBA [ID::1098]  
+[14:07:37][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:12:42][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1277 . 
+[14:16:27][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:17:06][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 1188 . 
+[14:17:08][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:17:13][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de MIRANTE DO PARANAPANEMA [ID::1188]  
+[14:21:56][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:22:13][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de PILAR DO SUL [ID::913]  
+[14:22:52][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:22:57][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de PRESIDENTE EPITÁCIO [ID::1153]  
+[14:23:21][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:24:10][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de PRESIDENTE PRUDENTE [ID::1109]  
+[14:25:25][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:25:30][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de PRESIDENTE VENCESLAU [ID::969]  
+[14:26:26][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:26:30][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de SANTO ANASTÁCIO [ID::938]  
+[14:27:06][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:27:15][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de SOROCABA / LARANJEIRAS [ID::1150]  
+[14:28:14][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:28:21][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de SOROCABA / VILA HELENA [ID::920]  
+[14:29:03][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:29:24][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de TIETÊ [ID::914]  
+[14:30:02][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:35:02][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ANDRADINA [ID::1303]  
+[14:38:38][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:39:35][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ARAÇATUBA [ID::1262]  
+[14:40:17][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:40:21][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ANDRADINA [ID::1303]  
+[14:40:26][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:40:32][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ARAÇATUBA [ID::1262]  
+[14:42:53][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:42:59][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ASSIS -CE [ID::894]  
+[14:43:28][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:43:44][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de BOITUVA [ID::1264]  
+[14:47:40][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:48:20][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de BOTUCATU [ID::945]  
+[14:50:58][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:51:03][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de LINS [ID::1245]  
+[14:52:16][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[14:52:21][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de PRIMAVERA [ID::1319]  
+[15:00:13][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:38:22][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ANÁPOLIS - CE [ID::1009]  
+[15:38:25][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:38:31][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de BOM JESUS DE GOIÁS [ID::1309]  
+[15:38:37][191.8.73.55]> Aux Financeiro [ID::8] atualizou o cadastro de BOM JESUS DE GOIÁS [ID::1309]  
+[15:38:37][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:38:45][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de CORUMBÁ [ID::1287]  
+[15:38:48][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:39:40][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de NOVA ALVORADA DO SUL [ID::1310]  
+[15:39:46][191.8.73.55]> Aux Financeiro [ID::8] atualizou o cadastro de NOVA ALVORADA DO SUL [ID::1310]  
+[15:39:46][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:39:54][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de PRIMAVERA DO LESTE [ID::1311]  
+[15:39:59][191.8.73.55]> Aux Financeiro [ID::8] atualizou o cadastro de PRIMAVERA DO LESTE [ID::1311]  
+[15:39:59][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:40:10][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de AMAMBAI - CE [ID::1222]  
+[15:40:17][191.8.73.55]> Aux Financeiro [ID::8] atualizou o cadastro de AMAMBAI - CE [ID::1222]  
+[15:40:18][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:40:28][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de APARECIDA DE GOIÂNIA [ID::1073]  
+[15:40:31][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:40:46][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de APARECIDA DO TABOADO [ID::996]  
+[15:40:50][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:41:22][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de CAÇU [ID::1236]  
+[15:41:28][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:42:20][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de CAMPO GRANDE [ID::924]  
+[15:42:22][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:42:37][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de CAMPO GRANDE NORTE [ID::1252]  
+[15:42:46][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:42:52][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de CASSILÂNDIA [ID::947]  
+[15:42:59][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:43:07][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de CHAPADÃO DO SUL [ID::1131]  
+[15:43:13][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:43:19][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de COSTA RICA [ID::1187]  
+[15:43:21][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:43:32][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de DOURADOS [ID::1154]  
+[15:43:39][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:43:49][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de GOIÂNIA [ID::1010]  
+[15:43:57][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:44:03][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ITAJÁ [ID::1315]  
+[15:44:06][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:44:16][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ITARUMÃ [ID::1317]  
+[15:44:18][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:44:28][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ITUMBIARA [ID::891]  
+[15:44:30][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:44:40][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de JATAÍ [ID::1004]  
+[15:44:47][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:45:00][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de NOVA ANDRADINA [ID::1008]  
+[15:45:02][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:45:14][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de PARANAÍBA [ID::1111]  
+[15:45:17][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:45:27][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de POXORÉU [ID::1018]  
+[15:45:30][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:45:45][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de QUERÊNCIA [ID::1314]  
+[15:45:51][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:46:00][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de RIO VERDE [ID::1033]  
+[15:46:22][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:49:55][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de RIO VERDE 2 [ID::1244]  
+[15:50:02][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:50:09][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de RONDONÓPOLIS [ID::910]  
+[15:53:52][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:53:58][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de SANTA RITA DO PARDO [ID::901]  
+[15:55:34][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:55:41][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 926 . 
+[15:55:45][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:55:50][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de TRÊS LAGOAS [ID::926]  
+[15:56:09][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:56:23][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de UBERLÂNDIA /CE [ID::958]  
+[15:56:33][191.8.73.55]> Aux Financeiro [ID::8] atualizou o cadastro de UBERLÂNDIA /CE [ID::958]  
+[15:56:33][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[15:58:07][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de VARZEA GRANDE [ID::1001]  
+[16:01:36][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:16:23][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 898 . 
+[16:16:29][191.8.73.55]> Aux Financeiro [8] acessou as remessas do campo 898 . 
+[16:23:09][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:23:15][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ANDRADINA [ID::1303]  
+[16:27:28][191.8.73.55]> Aux Financeiro [ID::8] atualizou o cadastro de ANDRADINA [ID::1303]  
+[16:27:28][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:27:37][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ANDRADINA [ID::1303]  
+[16:28:46][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:29:21][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de ANDRADINA [ID::1303]  
+[16:31:00][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:31:23][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de BARRA DO GAR&Ccedil;AS [ID::1320]  
+[16:34:07][191.8.73.55]> Aux Financeiro [ID::8] atualizou o cadastro de BARRA DO GARÇAS [ID::1320]  
+[16:34:07][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:34:11][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de BARRA DO GARÇAS [ID::1320]  
+[16:35:40][191.8.73.55]> Aux Financeiro [ID::8] atualizou o cadastro de BARRA DO GARÇAS [ID::1320]  
+[16:35:40][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:35:44][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de BARRA DO GARÇAS [ID::1320]  
+[16:37:43][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:39:02][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de BARRA DO GARÇAS [ID::1320]  
+[16:39:04][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:39:21][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de CACHOEIRA ALTA [ID::1321]  
+[16:47:17][191.8.73.55]> Aux Financeiro [ID::8] atualizou o cadastro de CACHOEIRA ALTA [ID::1321]  
+[16:47:17][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:47:21][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de BARRA DO GARÇAS [ID::1320]  
+[16:47:29][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:47:32][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de CACHOEIRA ALTA [ID::1321]  
+[16:47:50][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:48:28][191.8.73.55]> Aux Financeiro [ID::8] acessou o cadastro de CACHOEIRA ALTA [ID::1321]  
+[16:50:30][191.8.73.55]> Aux Financeiro [ID::8] atualizou o cadastro de CACHOEIRA ALTA [ID::1321]  
+[16:50:30][191.8.73.55]> Aux Financeiro [8] acessou listagem de campos . 
+[16:55:05][191.8.73.55]> Aux Financeiro [8] saiu do sistema . 

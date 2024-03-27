@@ -1,0 +1,21 @@
+[00:40:51][95.28.196.212]> #### Acesso não autorizado ###### 
+[00:40:51][95.28.196.212]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=938 
+[00:40:51][95.28.196.212]> # ------------------------------------------------------>  
+[00:40:53][109.63.182.14]>  [] acessou listagem de campos . 
+[01:16:41][109.63.176.217]> #### Acesso não autorizado ###### 
+[01:16:41][109.63.176.217]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1139 
+[01:16:41][109.63.176.217]> # ------------------------------------------------------>  
+[01:16:42][37.204.201.117]> #### Acesso não autorizado ###### 
+[01:16:42][37.204.201.117]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=1231 
+[01:16:42][37.204.201.117]> # ------------------------------------------------------>  
+[11:16:57][177.188.214.89]> #### Acesso não autorizado ###### 
+[11:16:57][177.188.214.89]> Algum usuario não identificado tentou acessar a /listar-extrato.php 
+[11:16:57][177.188.214.89]> # ------------------------------------------------------>  
+[11:28:23][177.188.214.89]> Karina Machado Pereira [4] fez o login no sistema. 
+[11:30:31][177.188.214.89]> Karina Machado Pereira [4] acessou listagem de campos . 
+[11:30:38][177.188.214.89]> Karina Machado Pereira [4] acessou as remessas do campo 968 . 
+[14:51:57][177.188.214.89]> Karina Machado Pereira [4] acessou listagem de campos . 
+[14:52:20][177.188.214.89]> Karina Machado Pereira [4] acessou as remessas do campo 1248 . 
+[14:52:29][177.188.214.89]> Karina Machado Pereira [4] deletou a remessa 60000 do campo id=1248. 
+[14:52:29][177.188.214.89]> Karina Machado Pereira [4] acessou as remessas do campo 1248 . 
+[15:49:49][177.188.214.89]> Karina Machado Pereira [4] acessou listagem de campos . 

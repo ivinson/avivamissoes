@@ -1,0 +1,35 @@
+[04-Dec-2020 00:36:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php:199
+Stack trace:
+#0 /home/storage/6/da/e7/avivamissoes2/public_html/app/login.php(172): include()
+#1 {main}
+  thrown in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php on line 199
+[29-Dec-2020 15:13:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php:199
+Stack trace:
+#0 /home/storage/6/da/e7/avivamissoes2/public_html/app/login.php(172): include()
+#1 {main}
+  thrown in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php on line 199
+[29-Dec-2020 15:14:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php:199
+Stack trace:
+#0 /home/storage/6/da/e7/avivamissoes2/public_html/app/login.php(172): include()
+#1 {main}
+  thrown in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php on line 199
+[29-Dec-2020 15:15:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php:199
+Stack trace:
+#0 /home/storage/6/da/e7/avivamissoes2/public_html/app/login.php(172): include()
+#1 {main}
+  thrown in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php on line 199
+[29-Dec-2020 15:15:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php:199
+Stack trace:
+#0 /home/storage/6/da/e7/avivamissoes2/public_html/app/login.php(172): include()
+#1 {main}
+  thrown in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php on line 199
+[29-Dec-2020 15:23:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php:199
+Stack trace:
+#0 /home/storage/6/da/e7/avivamissoes2/public_html/app/login.php(172): include()
+#1 {main}
+  thrown in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php on line 199
+[31-Dec-2020 12:18:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php:199
+Stack trace:
+#0 /home/storage/6/da/e7/avivamissoes2/public_html/app/login.php(172): include()
+#1 {main}
+  thrown in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php on line 199

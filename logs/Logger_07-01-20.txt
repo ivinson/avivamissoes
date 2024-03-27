@@ -1,0 +1,13 @@
+[10:33:49][189.68.199.88]> Aux Financeiro [8] fez o login no sistema. 
+[13:46:02][170.244.29.121]> #### Acesso não autorizado ###### 
+[13:46:02][170.244.29.121]> Algum usuario não identificado tentou acessar a /lancamentos-campo.php?id=960&ano=2017 
+[13:46:02][170.244.29.121]> # ------------------------------------------------------>  
+[13:46:09][170.244.29.121]> Administrador Financeiro [5] fez o login no sistema. 
+[13:46:13][170.244.29.121]> Administrador Financeiro [5] acessou listagem de campos . 
+[13:47:41][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[13:47:47][189.68.199.88]> Aux Financeiro [ID::8] acessou o cadastro de BATURITÉ [ID::1053]  
+[14:23:56][189.68.199.88]> Aux Financeiro [ID::8] atualizou o cadastro de BATURITÉ [ID::1053]  
+[14:23:56][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[14:24:06][189.68.199.88]> Aux Financeiro [ID::8] acessou o cadastro de BATURITÉ [ID::1053]  
+[14:24:13][189.68.199.88]> Aux Financeiro [8] acessou listagem de campos . 
+[15:29:33][189.68.199.88]> Aux Financeiro [8] saiu do sistema . 

@@ -1,0 +1,27 @@
+[09:23:44][191.254.227.51]> Aux Financeiro [8] fez o login no sistema. 
+[10:02:14][191.254.227.51]> Aux Financeiro [8] saiu do sistema . 
+[10:10:11][191.254.227.51]> Aux Financeiro [8] fez o login no sistema. 
+[10:13:59][191.254.227.51]> Aux Financeiro [8] acessou listagem de campos . 
+[10:14:51][191.254.227.51]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 76748   Valor:: 220  NmDocto :: 100064  
+[10:14:59][191.254.227.51]> Aux Financeiro [8] acessou as remessas do campo 1032 . 
+[10:18:19][191.254.227.51]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:18:19][191.254.227.51]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 76748  
+[10:18:19][191.254.227.51]> # Valor :: 220  
+[10:18:19][191.254.227.51]> # Referente ao mes :: 2019-08-15 
+[10:18:19][191.254.227.51]> # Usuario atribuido ID::1032 
+[10:18:19][191.254.227.51]> ############################################## ------------------------------------------------------------ 
+[10:18:23][191.254.227.51]> Aux Financeiro [8] acessou as remessas do campo 1032 . 
+[10:19:33][191.254.227.51]> Aux Financeiro [8] acessou listagem de campos . 
+[10:24:38][191.254.227.51]> Aux Financeiro [8] acessou listagem de campos . 
+[10:24:47][191.254.227.51]> Aux Financeiro [8] acessou as remessas do campo 1180 . 
+[10:26:02][191.254.227.51]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 76319   Valor:: 206.1  NmDocto :: 1050052  
+[10:26:22][191.254.227.51]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[10:26:22][191.254.227.51]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 76319  
+[10:26:22][191.254.227.51]> # Valor :: 206.1  
+[10:26:22][191.254.227.51]> # Referente ao mes :: 2019-03-15 
+[10:26:22][191.254.227.51]> # Usuario atribuido ID::1180 
+[10:26:22][191.254.227.51]> ############################################## ------------------------------------------------------------ 
+[10:26:36][191.254.227.51]> Aux Financeiro [8] acessou as remessas do campo 1180 . 
+[11:49:52][191.254.227.51]> Aux Financeiro [8] acessou as remessas do campo 1180 . 
+[11:49:55][191.254.227.51]> Aux Financeiro [8] acessou as remessas do campo 1180 . 
+[15:29:48][191.254.227.51]> Aux Financeiro [8] saiu do sistema . 

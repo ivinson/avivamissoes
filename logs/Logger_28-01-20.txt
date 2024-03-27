@@ -1,0 +1,19 @@
+[10:11:40][179.228.95.4]> Aux Financeiro [8] fez o login no sistema. 
+[11:40:41][179.228.95.4]> Aux Financeiro [8] acessou listagem de campos . 
+[11:40:51][179.228.95.4]> Aux Financeiro [ID::8] acessou o cadastro de ARAUCÁRIA [ID::1271]  
+[12:18:39][179.228.95.4]> Aux Financeiro [8] acessou listagem de campos . 
+[16:21:11][179.228.95.4]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[16:21:16][179.228.95.4]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[16:26:17][179.228.95.4]> Aux Financeiro [8] acessou listagem de campos . 
+[16:26:23][179.228.95.4]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[16:34:29][179.228.95.4]> Aux Financeiro [ID::8] acessou IDENTIFICACAO de LANC de ID:: 78059   Valor:: 549.5  NmDocto :: 5732073  
+[16:35:03][179.228.95.4]> # IDENTIFICACAO ## IDENTIFICACAO ########################################################################## 
+[16:35:03][179.228.95.4]> # O usuario Aux Financeiro(8) fez uma IDENTIFICACAO do Lancamento de ID:: 78059  
+[16:35:03][179.228.95.4]> # Valor :: 549.5  
+[16:35:03][179.228.95.4]> # Referente ao mes :: 2019-11-15 
+[16:35:03][179.228.95.4]> # Usuario atribuido ID::1212 
+[16:35:03][179.228.95.4]> ############################################## ------------------------------------------------------------ 
+[16:37:43][179.228.95.4]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[16:44:40][179.228.95.4]> Aux Financeiro [8] acessou as remessas do campo 1212 . 
+[16:57:53][179.228.95.4]> Aux Financeiro [8] saiu do sistema . 
+[16:58:00][179.228.95.4]>  [8] saiu do sistema . 
