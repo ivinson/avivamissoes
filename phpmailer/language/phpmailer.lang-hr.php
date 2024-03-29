@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Croatian PHPMailer language file: refer to English translation for definitive list
  * @package PHPMailer
@@ -16,7 +17,7 @@ $PHPMAILER_LANG['file_open']            = 'Nije moguće otvoriti datoteku: ';
 $PHPMAILER_LANG['from_failed']          = 'SMTP Greška: Slanje s navedenih e-mail adresa nije uspjelo: ';
 $PHPMAILER_LANG['recipients_failed']    = 'SMTP Greška: Slanje na navedenih e-mail adresa nije uspjelo: ';
 $PHPMAILER_LANG['instantiate']          = 'Ne mogu pokrenuti mail funkcionalnost.';
-$PHPMAILER_LANG['invalid_address']      = 'E-mail nije poslan. Neispravna e-mail adresa.';
+$PHPMAILER_LANG['invalid_address']      = 'E-mail nije poslan. Neispravna e-mail adresa: ';
 $PHPMAILER_LANG['mailer_not_supported'] = ' mailer nije podržan.';
 $PHPMAILER_LANG['provide_address']      = 'Definirajte barem jednu adresu primatelja.';
 $PHPMAILER_LANG['signing']              = 'Greška prilikom prijave: ';
