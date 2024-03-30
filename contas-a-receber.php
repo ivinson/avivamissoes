@@ -113,9 +113,9 @@
                                       ")->results();
 
             foreach ($resultSelect as $rowOption) {
-              // foreach ($rowOption as $key => $value) {
-              //   $rowOption[$key] = stripslashes($value);
-              // }
+              foreach ($rowOption as $key => $value) {
+                $rowOption->$key = stripslashes($value);
+              }
               echo "<tr>";
 
 
