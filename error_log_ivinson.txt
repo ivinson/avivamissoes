@@ -33,3 +33,146 @@ Stack trace:
 #0 /home/storage/6/da/e7/avivamissoes2/public_html/app/login.php(172): include()
 #1 {main}
   thrown in /home/storage/6/da/e7/avivamissoes2/public_html/app/config.php on line 199
+[29-Mar-2024 21:48:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/PHPMailerAutoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\avivamissoes\config.php:188
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\config.php on line 188
+[29-Mar-2024 22:07:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\avivamissoes\config.php:199
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\config.php on line 199
+[29-Mar-2024 23:02:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\avivamissoes\config.php:204
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\config.php on line 204
+[29-Mar-2024 23:10:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\avivamissoes\config.php:204
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\config.php on line 204
+[29-Mar-2024 23:11:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\avivamissoes\config.php:204
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\config.php on line 204
+[29-Mar-2024 23:12:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\avivamissoes\config.php:204
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\config.php on line 204
+[29-Mar-2024 23:13:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\avivamissoes\config.php:204
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\config.php on line 204
+[29-Mar-2024 23:16:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\xampp\htdocs\avivamissoes\config.php:212
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\config.php on line 212
+[29-Mar-2024 23:25:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_select_db() in C:\xampp\htdocs\avivamissoes\config.php:216
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\config.php on line 216
+[29-Mar-2024 23:25:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\xampp\htdocs\avivamissoes\login.php:174
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\login.php on line 174
+[30-Mar-2024 17:49:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Config" not found in C:\xampp\htdocs\avivamissoes\db\DB.php:26
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\db\DB.php(93): DB->__construct(Array)
+#1 C:\xampp\htdocs\avivamissoes\config.php(199): DB::getDB(Array)
+#2 C:\xampp\htdocs\avivamissoes\login.php(172): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\db\DB.php on line 26
+[30-Mar-2024 17:53:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Config" not found in C:\xampp\htdocs\avivamissoes\classes\DB.php:26
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\classes\DB.php(93): DB->__construct(Array)
+#1 C:\xampp\htdocs\avivamissoes\config.php(199): DB::getDB(Array)
+#2 C:\xampp\htdocs\avivamissoes\login.php(172): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\classes\DB.php on line 26
+[30-Mar-2024 17:53:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Config" not found in C:\xampp\htdocs\avivamissoes\classes\DB.php:26
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\classes\DB.php(93): DB->__construct(Array)
+#1 C:\xampp\htdocs\avivamissoes\config.php(199): DB::getDB(Array)
+#2 C:\xampp\htdocs\avivamissoes\login.php(172): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\classes\DB.php on line 26
+[30-Mar-2024 18:05:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Config" not found in C:\xampp\htdocs\avivamissoes\classes\DB.php:29
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\classes\DB.php(96): DB->__construct(Array)
+#1 C:\xampp\htdocs\avivamissoes\config.php(199): DB::getDB(Array)
+#2 C:\xampp\htdocs\avivamissoes\login.php(172): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\classes\DB.php on line 29
+[30-Mar-2024 18:05:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Config" not found in C:\xampp\htdocs\avivamissoes\classes\DB.php:29
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\classes\DB.php(96): DB->__construct(Array)
+#1 C:\xampp\htdocs\avivamissoes\config.php(199): DB::getDB(Array)
+#2 C:\xampp\htdocs\avivamissoes\login.php(172): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\classes\DB.php on line 29
+[30-Mar-2024 18:13:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in C:\xampp\htdocs\avivamissoes\config.php:196
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\config.php on line 196
+[30-Mar-2024 18:16:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on null in C:\xampp\htdocs\avivamissoes\config.php:198
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\config.php on line 198
+[30-Mar-2024 18:24:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\xampp\htdocs\avivamissoes\login.php:174
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\login.php on line 174
+[30-Mar-2024 19:14:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\xampp\htdocs\avivamissoes\login.php:174
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\login.php on line 174
+[30-Mar-2024 15:15:51 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, bool given in C:\xampp\htdocs\avivamissoes\logger.php:26
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\logger.php(26): fwrite(false, '[15:15:51][::1]...')
+#1 C:\xampp\htdocs\avivamissoes\login.php(219): Logger('adm com a senha...')
+#2 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\logger.php on line 26
+[30-Mar-2024 15:17:18 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, bool given in C:\xampp\htdocs\avivamissoes\logger.php:26
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\logger.php(26): fwrite(false, '[15:17:18][::1]...')
+#1 C:\xampp\htdocs\avivamissoes\login.php(219): Logger('adm com a senha...')
+#2 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\logger.php on line 26
+[30-Mar-2024 15:17:22 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, bool given in C:\xampp\htdocs\avivamissoes\logger.php:26
+Stack trace:
+#0 C:\xampp\htdocs\avivamissoes\logger.php(26): fwrite(false, '[15:17:22][::1]...')
+#1 C:\xampp\htdocs\avivamissoes\login.php(219): Logger('adm com a senha...')
+#2 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\logger.php on line 26
+[30-Mar-2024 19:17:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function Logger() in C:\xampp\htdocs\avivamissoes\login.php:219
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\login.php on line 219
+[30-Mar-2024 19:20:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\avivamissoes\login.php:184
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\login.php on line 184
+[30-Mar-2024 19:21:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\avivamissoes\login.php:190
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\login.php on line 190
+[30-Mar-2024 19:21:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\avivamissoes\login.php:190
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\login.php on line 190
+[30-Mar-2024 19:22:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function Logger() in C:\xampp\htdocs\avivamissoes\login.php:197
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\avivamissoes\login.php on line 197
+[30-Mar-2024 20:07:10 Europe/Berlin] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\avivamissoes\login.php on line 8
+[30-Mar-2024 20:07:20 Europe/Berlin] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\avivamissoes\login.php on line 8
+[30-Mar-2024 20:07:20 Europe/Berlin] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\avivamissoes\login.php on line 8
