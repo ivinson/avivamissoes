@@ -159,57 +159,30 @@ define ( 'V_EMAIL_TEMPLATE' , "
 
 
 
-
+require_once('./classes/DB.php');
 
 ################
 
 
-
-	//Constantes
-	/*
-		$Servidor	= "186.202.152.189";
-		$NomeBanco 	= "avivamissoes22";
-		$User 	   	= "avivamissoes22";
-		$Senha	   	= "Aviva@Missoes";
-	*/
-
-	/* PRODUCAO		*/
-	define('Cons_Servidor', 	'186.202.152.189', false);
-	define('Cons_NomeBanco', 	'avivamissoes22', false);
-	define('Cons_UserBD', 		'avivamissoes22', false);
-	define('Cons_SenhaBD', 		'Aviva@Missoes', false);
-
+$GLOBALS['config'] = array(
+'meulocal' => array(
+'host' => 'localhost:3306',
+'username' => 'root',
+'password' => '',
+'db' => 'avivamissoes22',
+),
+'producao' => array(
+'host' => 'avivamissoes22',
+'username' => 'avivamissoes22',
+'password' => '',
+'db' => 'Aviva@Missoes',
+),);
 
 
-// Inclui o arquivo class.phpmailer.php localizado na pasta phpmailer
+$db2 = DB::getDB(['meulocal','init']);
 
-//require("phpmailer/class.smtp.php");
-//require("phpmailer/class.phpmailer.php");
-require ('phpmailer/PHPMailerAutoload.php');
+$db = DB::getInstance();
 
-	/* HOMOLOGACAO - LOCALHOS
-	define('Cons_Servidor', 	'localhost:3306', false);
-	define('Cons_NomeBanco', 	'avivamissoes22', false);
-	define('Cons_UserBD', 		'root', false);
-	define('Cons_SenhaBD', 		'root', false);
-	*/
-	
- 
-	//Acesso bando online Locaweb
-	$link = mysql_connect(Cons_Servidor, Cons_UserBD, Cons_SenhaBD);
-	if (!$link) {
-	    die('Not connected : ' . mysql_error());
-	}//else{ 	echo 'CONECTADO';}
-
-
-	    mysql_query("SET NAMES 'utf8'");
-		mysql_query("SET character_set_connection=utf8");
-		mysql_query("SET character_set_client=utf8");
-		mysql_query("SET character_set_results=utf8");
-
-	if (! mysql_select_db(Cons_NomeBanco) ) {
-	    die ('Erro no banco de dados  : ' . mysql_error());
-	}
 
 	function Redirect($url, $permanent = false)
 	{

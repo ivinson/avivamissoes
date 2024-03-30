@@ -2,11 +2,6 @@
 
 session_start();
 
-// // //if(isset($_SESSION['logado'])){
-//     echo "teste LOGADO : " . $_SESSION['logado'];
-// echo "inside";
-
-// die();
 
 if ($_SESSION['logado'] <> "S") {
     //header("login.php");
@@ -62,8 +57,8 @@ include('scripts/functions.php');
                                 <div class="huge">
                                     <?php
 
-                                    $rowBaixados = mysql_fetch_array(mysql_query("SELECT count(*) as total  FROM contasreceber WHERE DataBaixa is not null;"));
-                                    echo $rowBaixados['total'];
+                                    $rowBaixados =$db->query("SELECT count(*) as total  FROM contasreceber WHERE DataBaixa is not null;")->results();
+                                    echo $rowBaixados->total;
 
                                     ?>
 
@@ -92,8 +87,8 @@ include('scripts/functions.php');
                                 <div class="huge">
                                     <?php
 
-                                    $rowEmitidos = mysql_fetch_array(mysql_query("select  count(distinct lb.idUsuario) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' "));
-                                    echo $rowEmitidos['total'];
+                                    $rowEmitidos = $db->query("select  count(distinct lb.idUsuario) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' ")->results();
+                                    echo $rowEmitidos->total;
 
                                     ?>
 
@@ -122,8 +117,8 @@ include('scripts/functions.php');
                                 <div class="huge">
                                     <?php
 
-                                    $rowCampos = mysql_fetch_array(mysql_query("SELECT count(*) as total  FROM campos ;"));
-                                    echo $rowCampos['total'];
+                                    $rowCampos = $db->query("SELECT count(*) as total  FROM campos ;")->results();
+                                    echo $rowCampos->total;
 
                                     ?>
 
@@ -154,30 +149,30 @@ include('scripts/functions.php');
 
                                     <?php
 
-                                    $rsInad = mysql_query("
+                                    $rsInad = $db->query("
 
                                                     SELECT  count(*) as meses FROM
-lancamentosbancarios LB
-join usuarios u on (u.id = LB.idUsuario)
-    join congregacoes gr on (gr.id = u.idCongregacao)
-        join campos c on (c.id = gr.idCampo)
-        where
-          LB.Valor = 0 and LB.TipoLancamento in ('Regular','Inadimplente','')    
-          and month(LB.DataReferencia) >= 06
-                                                       and year(LB.DataReferencia)  >= 2012           
-        group by u.id,u.Nome                
-        order by count(u.id) desc ;
+                                                        lancamentosbancarios LB
+                                                        join usuarios u on (u.id = LB.idUsuario)
+                                                            join congregacoes gr on (gr.id = u.idCongregacao)
+                                                                join campos c on (c.id = gr.idCampo)
+                                                                where
+                                                                LB.Valor = 0 and LB.TipoLancamento in ('Regular','Inadimplente','')    
+                                                                and month(LB.DataReferencia) >= 06
+                                                                                                            and year(LB.DataReferencia)  >= 2012           
+                                                                group by u.id,u.Nome                
+                                                                order by count(u.id) desc ;
                                                          
-                                                    ");
+                                                    ")->results();
 
 
                                     $totalIndimplentes = 0;
-                                    while ($rowOptionInad = mysql_fetch_array($rsInad)) {
-                                        foreach ($rowOptionInad as $key => $value) {
-                                            $rowOptionInad[$key] = stripslashes($value);
+                                    foreach ($rowOptionInad as $rsInad) {
+                                        foreach ($rsInad as $key => $value) {
+                                            $rsInad[$key] = stripslashes($value);
                                         }
 
-                                        if ((int)$rowOptionInad["meses"] >= 6) {
+                                        if ((int)$rsInad["meses"] >= 6) {
                                             $totalIndimplentes = $totalIndimplentes + 1;
                                         }
                                     }
@@ -240,14 +235,14 @@ join usuarios u on (u.id = LB.idUsuario)
 
                             <?php
 
-                            $rsCamposPagadores = mysql_query("
+                            $rsCamposPagadores = $db->query("
                                             select u.Nome, FORMAT(SUM(lb.Valor),2)  as Valor
                                             from lancamentosbancarios lb join usuarios u on (u.id = lb.idUsuario)
                                             group by u.id  order by SUM(lb.Valor) desc
                                             limit 10
                                             ");
 
-                            while ($rowCamposPagadores = mysql_fetch_array($rsCamposPagadores)) {
+                            foreach ($rowCamposPagadores as $rsCamposPagadores) {
                                 foreach ($rowCamposPagadores as $key => $value) {
                                     $rowCamposPagadores[$key] = stripslashes($value);
                                 }
@@ -288,7 +283,7 @@ join usuarios u on (u.id = LB.idUsuario)
 
                             <?php
 
-                            $rsCamposPagadores = mysql_query("
+                            $rsCamposPagadores = $db->query("
                                             select  
                                             u.Nome,
                                             lb.idUsuario,
@@ -303,7 +298,7 @@ join usuarios u on (u.id = LB.idUsuario)
                                             
                                             ");
 
-                            while ($rowCamposPagadores = mysql_fetch_array($rsCamposPagadores)) {
+                            foreach ($rowCamposPagadores as $rsCamposPagadores) {
                                 foreach ($rowCamposPagadores as $key => $value) {
                                     $rowCamposPagadores[$key] = stripslashes($value);
                                 }
@@ -343,7 +338,7 @@ join usuarios u on (u.id = LB.idUsuario)
                                 <!-- HTML -->
                                 <?php
 
-                                $rsCamposPagadores = mysql_query("
+                                $rsCamposPagadores = $db->query("
                                         select * from usuarios ud 
 
                                         where ud.id not in (
@@ -359,7 +354,7 @@ join usuarios u on (u.id = LB.idUsuario)
                                             
                                             ");
 
-                                while ($rowCamposPagadores = mysql_fetch_array($rsCamposPagadores)) {
+                                foreach ($rowCamposPagadores as $rsCamposPagadores) {
                                     foreach ($rowCamposPagadores as $key => $value) {
                                         $rowCamposPagadores[$key] = stripslashes($value);
                                     }
@@ -418,12 +413,12 @@ group by u.id  order by SUM(lb.Valor) desc";
 
 
     # chama view de contagem de campos
-    $rsInad = mysql_query(" SELECT Regiao, count(*) as total, id from Inadimplentes group by Regiao");
+    $rsInad = $db->query(" SELECT Regiao, count(*) as total, id from Inadimplentes group by Regiao");
 
 
     $fdata = "    var data = [";
     $fVirgula = "";
-    while ($rowOptionInad = mysql_fetch_array($rsInad)) {
+    foreach ($rowOptionInad as $rsInad) {
         foreach ($rowOptionInad as $key => $value) {
             $rowOptionInad[$key] = stripslashes($value);
         }
