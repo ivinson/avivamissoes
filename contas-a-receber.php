@@ -1,54 +1,7 @@
-<?php 
-
-  include("header.php"); 
+  <?php
   include('config.php');  
   include('scripts/functions.php'); 
-      
-?>
-
-<style type="text/css">
-
-.Vencida{    
-    width: 110px;
-    padding: 1px;
-    border: 1px solid white;
-    border-radius: 8px;
-    margin: 0; 
-    background-color: red;
-    color: white;
-}
-
-.AVencer{    
-    width: 110px;
-    padding: 1px;
-    border: 1px solid white;
-    border-radius: 8px;
-    margin: 0; 
-    background-color: green;
-    color: white;
-}
-
-.rejeitado{    
-    width: 110px;
-    padding: 2px;
-    border: 1px solid white;
-    border-radius: 8px;
-    margin: 0; 
-    background-color: #FF9A0B;
-    color: black;
-}
-
-.Recebida{    
-    width: 110px;
-    padding: 2px;
-    border: 2px solid white;
-    border-radius: 8px;
-    margin: 0; 
-    background-color: blue;
-    color: white;
-}
-
-</style>
+  ?>
 
                 <!-- TITULO e cabeçalho das paginas  -->
                 <div class="row">
@@ -100,7 +53,7 @@
                                         
                                     //Lista Apenas Campos Eclesiáticos                                
 
-                                    $resultSelect = mysql_query("
+                                    $resultSelect = $db->query("
                                           select 
                                               DATEDIFF( cr.DataEmissao, curdate()) as DiasAtraso
                                               ,DATE_FORMAT(cr.DataReferencia, '%m/%Y') AS Referente
@@ -115,9 +68,9 @@
                                               limit 1000
 
 
-                                      ") or trigger_error(mysql_error()); 
+                                      "); 
 
-                                          while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                          foreach($rowOption as $resultSelect){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                               echo "<tr>";
 
@@ -209,11 +162,4 @@
 
                
 
-<?php include("footer.php")    ; ?>
-
-<script type="text/javascript">
-
-    
-
-
-</script>                
+            

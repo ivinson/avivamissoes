@@ -41,7 +41,7 @@ header('Content-Type: text/html; charset=utf-8');
 
     <!-- Morris Charts CSS -->
     <link href="css/plugins/morris.css" rel="stylesheet">
-
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <style> 
 
 .scrollable-menu {
@@ -613,4 +613,4 @@ img {
 
         <div id="page-wrapper">
 
-            <div class="container-fluid">
+            <div class="container-fluid ConteudoGeral">

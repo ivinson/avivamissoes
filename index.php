@@ -67,7 +67,7 @@ include('scripts/functions.php');
                             </div>
                         </div>
                     </div>
-                    <a href="contas-a-receber.php">
+                    <a style="cursor: pointer;" data-href="contas-a-receber.php" onclick="boletosRecebidos(this)">
                         <div class="panel-footer">
                             <span class="pull-left">Ver detalhes</span>
                             <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
@@ -479,4 +479,33 @@ group by u.id  order by SUM(lb.Valor) desc";
 
             $.plot($("#flotcontainer"), data, options);
         });
+    </script>
+    <script>
+    function boletosRecebidos(elemento) {
+        let urlDefinida = $(elemento).attr("data-href");
+
+        Swal.fire({
+            title: 'Informação!',
+            text: 'Aguarde, processando dados.',
+            icon: 'info',
+            allowEscapeKey: false,
+            allowOutsideClick: false,
+            showConfirmButton: false,
+        });
+
+        $.ajax({
+            url: urlDefinida, // Aqui você pode usar a mesma URL definida para a ação do formulário
+            method: "POST", // Método de envio do formulário
+            success: function (Dados) {
+                swal.close();
+                $('.ConteudoGeral').html(Dados);
+            },
+            error: function (xhr, status, error) {
+                swal.close();
+            alert('não ok')
+            }
+            
+        });
+    }
+
     </script>
