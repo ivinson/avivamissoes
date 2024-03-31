@@ -4,8 +4,9 @@ ini_set('display_errors', 1);
 ini_set('log_errors', 1);
 ini_set('error_log', dirname(__FILE__) . '/error_log_ivinson.txt');
 error_reporting(E_ALL);
-
+session_start();
 include_once('header_login.php');
+
 ?>
 
 
@@ -29,9 +30,9 @@ if (isset($_POST["submitted"])) {
 
 
     if ($data->total == 1) {
-   
+
         // session_start inicia a sessão
-        session_start();
+
         $_SESSION['login'] = $data->user;
         //$_SESSION['senha'] = $_POST["inputPassword"] ;
         $_SESSION['nome'] = $data->nome;
@@ -76,7 +77,7 @@ if (isset($_POST["submitted"])) {
         <img id="profile-img" class="profile-img-card" src="am.png" />
 
         <p id="profile-name" class="profile-name-card"></p>
-        <form class="form-signin" action="login.php" method="POST">
+        <form class="form-signin" method="POST">
             <span id="reauth-email" class="reauth-email"></span>
             <input type="login" name="inputEmail" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
             <input type="password" name="inputPassword" id="inputPassword" class="form-control" placeholder="Password" required>
@@ -89,31 +90,30 @@ if (isset($_POST["submitted"])) {
 </div>
 
 <script>
-function logar() {
+    function logar() {
 
-    let formData = $('.form-signin').serialize();
+        let formData = $('.form-signin').serialize();
 
 
-    Swal.fire({
-        title: 'Informação!',
-        text: 'Aguarde, processando dados.',
-        icon: 'info',
-        allowEscapeKey: false,
-        allowOutsideClick: false,
-        showConfirmButton: false,
-    });
+        Swal.fire({
+            title: 'Informação!',
+            text: 'Aguarde, processando dados.',
+            icon: 'info',
+            allowEscapeKey: false,
+            allowOutsideClick: false,
+            showConfirmButton: false,
+        });
 
-    $.ajax({
-        url: "login.php", // Aqui você pode usar a mesma URL definida para a ação do formulário
-        method: "POST", // Método de envio do formulário
-        data: formData, // Dados do formulário serializados
-        success: function (Dados) {
-            window.location='index.php';
-        },
-        error: function (xhr, status, error) {
-        alert('não ok')
-        }
-    });
-}
-
+        $.ajax({
+            url: "login.php", // Aqui você pode usar a mesma URL definida para a ação do formulário
+            method: "POST", // Método de envio do formulário
+            data: formData, // Dados do formulário serializados
+            success: function(Dados) {
+                window.location.href = 'index.php';
+            },
+            error: function(xhr, status, error) {
+                alert('não ok')
+            }
+        });
+    }
 </script>
