@@ -1,4 +1,6 @@
-<?php ob_start(); ?> 
+<?php ob_start();
+session_start(); ?> 
+
 <?php 
 include("header.php")    ; 
 include('config.php'); 
@@ -92,8 +94,8 @@ if (isset($_GET['id']) ) {
 
      
 
-      if (! mysql_query($sqlCampos) ){
-        die( ':: Erro : '. mysql_error()); 
+      if (!$db->query($sqlCampos) ){
+        die( ':: Erro : '. $db->error); 
         echo "Fase de teste : Anote o seguinte erro!";
       };
     }
@@ -157,30 +159,29 @@ if (isset($_GET['id']) ) {
     
     WHERE `id` = '$id' "; 
 
-    if (! mysql_query($sql) ){
+    if (! $db->query($sql) ){
 
-      die( ':: Erro : '. mysql_error()); 
+      die( ':: Erro : '. $db->error); 
       echo "Fase de teste : Anote o seguinte erro!";
       echo $sql;
 
     };
 
 
-    include "logger.php";
-    Logger("{$_SESSION['nome']} [ID::{$_SESSION['idlogado']}] atualizou o cadastro de {$_POST['Nome']} [ID::{$id}] ");                               
+    // include "logger.php";debora
+    // Logger("{$_SESSION['nome']} [ID::{$_SESSION['idlogado']}] atualizou o cadastro de {$_POST['Nome']} [ID::{$id}] ");    debora                           
 
-    //sleep(3);
+ 
+    
+    // Redirect("listar-usuarios.php",false); 
+    header('Content-Type: application/json');
+    echo json_encode(array('status' => 'sucesso', 'msg' => 'Editado com sucesso.', 'url' => 'listar-usuarios.php'));
 
-   //echo "<input type='hidden' value='1' name='fSuccess' /> ";
-   //header("Location: http://www.pagina.com.br/pagina.php");
-
-    Redirect("listar-usuarios.php",false); 
 
  }  
 
 
-  $row = mysql_fetch_array ( 
-    mysql_query("SELECT u.*,
+  $row = $db->query("SELECT u.*,
      c.NomePastorTitular, 
      c.TotalCongregacoes, 
      c.Membros, c.id as idCampo 
@@ -192,11 +193,13 @@ if (isset($_GET['id']) ) {
      regioes r on (c.idRegiao = r.id)
 
 
-     WHERE u.id = '$id' ") ) ; 
+     WHERE u.id = '$id' ")->results(true)[0] ; 
+
+ 
 
      ?>                 
 
-                                 <form role="form" action='' method='POST'> 
+                                 <form role="form" id="form-inadimplentes" action='' method='POST'> 
 
 
                                   <div class="row">
@@ -219,17 +222,16 @@ if (isset($_GET['id']) ) {
 
 
             //Lista Apenas Campos Eclesiáticos                                
-                                        $resultSelect = mysql_query("
+                                        $resultSelect = $db->query("
 
                                           select '' as id,' Escolha uma Regiao ' as Nome
                                           union
                                           Select id, Nome  from regioes
 
 
-                                          ") or 
-                                        trigger_error(mysql_error()); 
+                                          ") or trigger_error($db->error);
 
-                                        while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                        foreach($resultSelect->results(true) as $rowOption ){ 
                                           foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                           echo "<option " . (stripslashes($row['IDREGIAO'])==$rowOption['id'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                                       //echo "<option  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
@@ -246,10 +248,10 @@ if (isset($_GET['id']) ) {
                                         <select  class="form-control" id="selectCongregacao"  name="selectCongregacao" class="chosen-select">
                                           <?php 
 
-                                          $resultSelect = mysql_query("select IGR.id as ID, concat (C.Nome,' - ', IGR.TipoCongregacao) as Nome  from congregacoes IGR
+                                          $resultSelect = $db->query("select IGR.id as ID, concat (C.Nome,' - ', IGR.TipoCongregacao) as Nome  from congregacoes IGR
                                             JOIN campos C ON ( C.id = IGR.idcampo)
-                                            order by C.Nome") or trigger_error(mysql_error()); 
-                                          while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                            order by C.Nome") or trigger_error($db->error);
+                                          foreach($resultSelect->results(true) as $rowOption ){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                             echo "<option " . (stripslashes($row['idCongregacao'])==$rowOption['ID'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['ID']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                                           } 
@@ -266,8 +268,8 @@ if (isset($_GET['id']) ) {
                                         <select class="form-control" id="selectPerfil"  name="selectPerfil" class="chosen-select">
                                           <?php 
 
-                                          $resultSelect = mysql_query(" select * from tipousuario ") or trigger_error(mysql_error());                                   
-                                          while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                          $resultSelect = $db->query(" select * from tipousuario ") or trigger_error($db->error);                                   
+                                          foreach($resultSelect->results(true) as $rowOption ){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                         //echo "<option " . (stripslashes($row['idTipoUsuario'])==$rowOption['ID'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['ID']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                                             echo "<option " . (stripslashes($row['idTipoUsuario'])==$rowOption['id'] ? ' selected ' : '')  . "  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
@@ -330,8 +332,8 @@ if (isset($_GET['id']) ) {
                                           <?php 
 
 
-                                          $resultSelect2 = mysql_query(" select * from projetos ") or trigger_error(mysql_error());                                   
-                                          while($rowOption = mysql_fetch_array($resultSelect2)){ 
+                                          $resultSelect2 = $db->query(" select * from projetos ") or trigger_error($db->error);                                   
+                                          foreach($resultSelect2->results(true) as $rowOption){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                             echo "<option " . (stripslashes($row['idProjetos'])==$rowOption['id'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                                           } 
@@ -717,7 +719,7 @@ if (isset($_GET['id']) ) {
 
   <div class="row">
       <div class="col-lg-12">
-        <input class="btn btn-lg btn-success" type='submit' value='Gravar alterações' />                        
+        <input class="btn btn-lg btn-success" type='button' onclick="gravarAlteraçoesPaginaInad()" value='Gravar alterações' />                        
         <input class="btn btn-lg btn-info" onclick='history.back(-1)' value='Voltar' />                            
         <input type='hidden' value='1' name='submitted' />                             
         <p><br><br><br></p>
@@ -725,8 +727,8 @@ if (isset($_GET['id']) ) {
         <p></p>
       </form>
       <?php 
-      include "logger.php";
-      Logger("{$_SESSION['nome']} [ID::{$_SESSION['idlogado']}] acessou o cadastro de {$row['Nome']} [ID::{$id}] ");
+      // include "logger.php";debora
+      // Logger("{$_SESSION['nome']} [ID::{$_SESSION['idlogado']}] acessou o cadastro de {$row['Nome']} [ID::{$id}] ");debora
     }
     ?> 
     </div>
@@ -800,6 +802,40 @@ $('#selectPerfil').change(function () {
 
 });
 
+function gravarAlteraçoesPaginaInad(){
+        let formData = $('#form-inadimplentes').serialize();
+
+
+        Swal.fire({
+            title: 'Informação!',
+            text: 'Aguarde, processando dados.',
+            icon: 'info',
+            allowEscapeKey: false,
+            allowOutsideClick: false,
+            showConfirmButton: false,
+        });
+
+        $.ajax({
+            url: "editar-usuarios.php", // Aqui você pode usar a mesma URL definida para a ação do formulário
+            method: "POST", // Método de envio do formulário
+            data: formData, // Dados do formulário serializados
+            success: function(response) {
+              if (response.status === 'sucesso') {
+                swal.fire({
+                  title: "Sucesso!",
+                  text: "Mensagem enviada com sucesso!",
+                  icon: "success",
+                  timer: '3000'
+                }).then((res)=>{
+                  window.location.href = response.url;
+                })  
+            }
+            },
+            error: function(xhr, status, error) {
+                alert('não ok')
+            }
+        });
+}
 
 
 </script>

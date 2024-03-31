@@ -27,7 +27,7 @@
 
 
         /* campos sem lancamento no mes atual*/
-          $rsCamposSemLancamento = mysql_query("
+          $rsCamposSemLancamento =$db->query("
 
             select u.* from 
                               campos c 
@@ -52,7 +52,7 @@
 
                                 ;
                                 
-            ") or trigger_error(mysql_error()); 
+            ")->results(true); 
 
 
 
@@ -61,7 +61,7 @@
 
         $countLancamentos = 0;
 
-        while($rowOption = mysql_fetch_array($rsCamposSemLancamento)){ 
+        foreach($rsCamposSemLancamento as $rowOption){ 
           foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
             
 
@@ -148,7 +148,7 @@
             if ( verificaIniciodoCampo($fData_Competencia, $rowOption['id'])){
               //exit;
 
-              if (! mysql_query($SqlInsereProcessamento) ){
+              if (! $db->query($SqlInsereProcessamento) ){
               
               //      die( ':: Erro : '. mysql_error()); 
               
@@ -352,7 +352,7 @@
 
 
                                     //Lista Apenas Campos Eclesiáticos                                
-                                        $resultSelect = mysql_query("
+                                        $resultSelect = $db->query("
                                                   SELECT    
                                                   r.Nome as Regiao,  
                                                   u.id,
@@ -396,9 +396,9 @@
 
 
 
-                                      ") or trigger_error(mysql_error()); 
+                                      ")->results(true);
 
-                                          while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                          foreach($resultSelect as $rowOption ){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                               
 
@@ -411,7 +411,7 @@
                                               echo "<tr>";
                                               echo "<td > <span class='label label-success'>". nl2br( $rowOption['Regiao']) ."</span> </td>";
                                               echo "<td> ". nl2br( $rowOption['Nome']) ."</td>";
-                                              echo "<td> <a href='editar-usuarios.php?id=".$rowOption['id']."' >". nl2br( $rowOption['NomePastorTitular']) ."</a></td>";
+                                              echo "<td> <a style='cursor:pointer' onclick='editarUsuario(this)' data-href='editar-usuarios.php?id=".$rowOption['id']."' >". nl2br( $rowOption['NomePastorTitular']) ."</a></td>";
                                               
                                               echo "<td style='background-color:#EEEEEE; color:blue;'  ><B>"."<a href='lancamentos-campo.php?id=".$rowOption['id']."' ><span class='label label-danger'>". nl2br(ceil( $rowOption['MesesEmAberto'] )) ." meses  </B></span> </td>";
                                              
@@ -523,8 +523,33 @@ window.location.href = url;     // Returns full URL
 
 //$("#tbUsuarios a").removeAttr("href").css("cursor","pointer");
 
+}
 
+function editarUsuario(elemento){
+  let urlDefinida = $(elemento).attr("data-href");
 
+    Swal.fire({
+      title: 'Informação!',
+      text: 'Aguarde, processando dados.',
+      icon: 'info',
+      allowEscapeKey: false,
+      allowOutsideClick: false,
+      showConfirmButton: false,
+    });
+
+    $.ajax({
+      url: urlDefinida, // Aqui você pode usar a mesma URL definida para a ação do formulário
+      method: "POST", // Método de envio do formulário
+      success: function(Dados) {
+        swal.close();
+        $('.ConteudoGeral').html(Dados);
+      },
+      error: function(xhr, status, error) {
+        swal.close();
+        alert('não ok')
+      }
+
+    });
 }
 </script>                
 
@@ -533,11 +558,12 @@ window.location.href = url;     // Returns full URL
 
 function verificaIniciodoCampo( $fdata, $fIdUsuario){
 
-    $rs = mysql_query("select count(*) as total 
+    $db = DB::getInstance();
+    $rs = $db->query("select count(*) as total 
                         from usuarios u 
                       where u.id = {$fIdUsuario} 
                         and  '{$fdata}' > u.DataInicio    ");
-    $row=mysql_fetch_assoc($rs);
+    $row=$db->results(true);
 
     //Caso a data de inicio for menor que a competencia
     //RetornaTrue e gera o fechamento
