@@ -67,7 +67,7 @@ include('scripts/functions.php');
               </div>
             </div>
           </div>
-          <a style="cursor: pointer;" data-href="contas-a-receber.php" onclick="boletosRecebidos(this)">
+          <a style="cursor: pointer;" data-href="contas-a-receber.php" onclick="verDetalhes(this)">
             <div class="panel-footer">
               <span class="pull-left">Ver detalhes</span>
               <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
@@ -98,9 +98,9 @@ include('scripts/functions.php');
             </div>
           </div>
           <!-- <a href="contas-a-receber.php"> -->
-          <a style="cursor: pointer;" data-href="contas-a-receber.php" onclick="boletosRecebidos(this)">
+          <a style="cursor: pointer;" data-href="contas-a-receber.php" onclick="verDetalhes(this)">
             <div class="panel-footer">
-              <span class="pull-left">View Details</span>
+              <span class="pull-left">Ver Detalhes</span>
               <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
               <div class="clearfix"></div>
             </div>
@@ -129,9 +129,9 @@ include('scripts/functions.php');
               </div>
             </div>
           </div>
-          <a href="listar-usuarios.php">
+          <a style="cursor: pointer;" data-href="listar-usuarios.php" onclick="verDetalhes(this)">
             <div class="panel-footer">
-              <span class="pull-left">View Details</span>
+              <span class="pull-left">Ver Detalhes</span>
               <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
               <div class="clearfix"></div>
             </div>
@@ -190,9 +190,9 @@ include('scripts/functions.php');
               </div>
             </div>
           </div>
-          <a href="inadimplentes.php">
+          <a style="cursor: pointer;" data-href="inadimplentes.php" onclick="verDetalhes(this)">
             <div class="panel-footer">
-              <span class="pull-left">View Details</span>
+              <span class="pull-left">Ver Detalhes</span>
               <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
               <div class="clearfix"></div>
             </div>
@@ -219,7 +219,7 @@ include('scripts/functions.php');
             <div id="flotcontainer"></div>
 
             <div class="text-right">
-              <a href="inadimplentes.php">View Details <i class="fa fa-arrow-circle-right"></i></a>
+              <a style="cursor: pointer;" data-href="inadimplentes.php" onclick="verDetalhes(this)">Ver Detalhes<i class="fa fa-arrow-circle-right"></i></a>
             </div>
           </div>
         </div>
@@ -482,7 +482,7 @@ group by u.id  order by SUM(lb.Valor) desc";
   });
   </script>
   <script>
-  function boletosRecebidos(elemento) {
+  function verDetalhes(elemento) {
     let urlDefinida = $(elemento).attr("data-href");
 
     Swal.fire({
