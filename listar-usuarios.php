@@ -19,6 +19,8 @@ include("header.php")    ;
 
 ?>
 
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.3/css/dataTables.dataTables.css">
+<script defer src="js/jquery.dataTables2_0_3.js"></script>
 
                 <!-- TITULO e cabeçalho das paginas  -->
                 <div class="row">
@@ -70,78 +72,64 @@ include("header.php")    ;
 
 <?php include("footer.php")    ; ?>
 
+    <!-- <script>
+      new DataTable('#tbUsuarios', {
+    ajax: "scripts/getUsuarios.php",
+    processing: false,
+    serverSide: true
+});
+    </script> -->
 
 <script type="text/javascript">
 
-
-    $(document).ready(function() {
-            var selected = [];                         
-             $('#tbUsuarios').dataTable( {
-                              
-                  "processing": true,
-                  "serverSide": true,
-                  "sAjaxSource": "scripts/getUsuarios.php",
-                  "order" : [[0,"desc"]],
-                  "pagingType": "full_numbers",
-                  "bDestroy": true,
-                   "rowCallback": function( row, data, displayIndex ) {
-                  if ( $.inArray(data.DT_RowId, selected) !== -1 ) {
-                      $(row).addClass('selected');
-                  }
-              },
-              "columnDefs": [ {
-                  "targets": 5, 
-                  "data": null,
-                  "defaultContent": "<button id='btnEditar'>Editar</button> <button id='btnRemessa'>Remessas</button>"
-
-              }]
-    } );
+$(document).ready(function() {
+    var selected = [];                         
+    new DataTable('#tbUsuarios', {
+        processing: true,
+        serverSide: true,
+        ajax: {
+            url: "scripts/getUsuarios.php"
+        },
+        order: [[0,"desc"]],
+        paging: true, // Ativar paginação
+        pageLength: 10, // Definir o número de registros por página
+        rowCallback: function(row, data, displayIndex) {
+            if ($.inArray(data.DT_RowId, selected) !== -1) {
+                $(row).addClass('selected');
+            }
+        },
+        columnDefs: [{
+            targets: 5, 
+            data: null,
+            defaultContent: "<button id='btnEditar'>Editar</button> <button id='btnRemessa'>Remessas</button>"
+        }]
+    });
 
     var lastIdx = null;
     var table = $('#tbUsuarios').DataTable();
      
     $('#tbUsuarios tbody')
-        .on( 'mouseover', 'td', function () {
+        .on('mouseover', 'td', function() {
             var colIdx = table.cell(this).index().column;
  
-            if ( colIdx !== lastIdx ) {
-                $( table.cells().nodes() ).removeClass( 'highlight' );
-                $( table.column( colIdx ).nodes() ).addClass( 'highlight' );
+            if (colIdx !== lastIdx) {
+                $(table.cells().nodes()).removeClass('highlight');
+                $(table.column(colIdx).nodes()).addClass('highlight');
             }
-        } )
-        .on( 'mouseleave', function () {
-            $( table.cells().nodes() ).removeClass( 'highlight' );
-        } );
+        })
+        .on('mouseleave', function() {
+            $(table.cells().nodes()).removeClass('highlight');
+        });
 
-
-          $('#tbUsuarios tbody').on( 'click', 'button', function () {
-            
-
-            if($(this).attr('id') == "btnRemessa"){
-
-                var data = table.row( $(this).parents('tr') ).data();
-                //console.log($(this).attr('id'));
-                window.location.href = "lancamentos-campo.php?id="+ data[0];
-
-            }else{
-
-                var data = table.row( $(this).parents('tr') ).data();
-                //console.log($(this).attr('id'));
-                window.location.href = "editar-usuarios.php?id="+ data[0];
-
-            }
-
-          //$('#tbUsuarios tbody').on('click', 'tr', function () {  
-              //console.log("botao clicado");
-
-              var data = table.row( $(this).parents('tr') ).data();
-              console.log($(this).attr('id'));
-              //window.location.href = "editUsuario.php?id="+ data[0];
-              //alert( data[0] +"'s salary is: "+ data[0] );
-  
-
-          } );
-} );
+    $('#tbUsuarios tbody').on('click', 'button', function() {
+        var data = table.row($(this).parents('tr')).data();
+        if ($(this).hasClass('btnRemessa')) {
+            window.location.href = "lancamentos-campo.php?id=" + data[0];
+        } else if ($(this).hasClass('btnEditar')) {
+            window.location.href = "editar-usuarios.php?id=" + data[0];
+        }
+    });
+});
 
 
 </script>                

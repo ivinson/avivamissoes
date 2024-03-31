@@ -175,7 +175,7 @@ include('../config.php');
     // echo $sQuery;
     // die();
 
-    $rResult = $db->query($sQuery)->results() or fatal_error('MySQL Error: ' . $db->error());
+    $rResult = $db->query($sQuery)->results(true) or fatal_error('MySQL Error: ' . $db->error());
 
     // var_dump($rResult);
     // die();
@@ -191,29 +191,33 @@ include('../config.php');
     $rResultTotal = $db->query($sQuery) or fatal_error('MySQL Error: ' . $db->error());
     $aResultTotal = $db->results(true); // Passando true para obter resultados como matriz associativa
     $iTotal = $aResultTotal[0];
-     
-     
+
     /*
      * Output
      */
     $output = array(
-        "sEcho" => intval($_GET['sEcho']),
-        "iTotalRecords" => $iTotal,
-        "iTotalDisplayRecords" => $iFilteredTotal,
+        "draw" => isset($_GET['draw']) ? intval($_GET['draw']) : 0,
+        "recordsTotal" => $iTotal["COUNT(id)"],
+        "recordsFiltered" =>$iFilteredTotal["FOUND_ROWS()"],
         "aaData" => array()
     );
+
 
 
      
     foreach ($rResult as $aRow) {
         $row = array();
-        for ($i = 0; $i < count($aColumns); $i++) {
-            if ($aColumns[$i] == "version") {
+        for ( $i=0 ; $i<count($aColumns) ; $i++ )
+        {
+            if ( $aColumns[$i] == "version" )
+            {
                 /* Special output formatting for 'version' column */
-                $row[] = ($aRow->{$aColumns[$i]} == "0") ? '-' : $aRow->{$aColumns[$i]};
-            } elseif ($aColumns[$i] != ' ') {
+                $row[] = ($aRow[ $aColumns[$i] ]=="0") ? '-' : $aRow[ $aColumns[$i] ];
+            }
+            else if ( $aColumns[$i] != ' ' )
+            {
                 /* General output */
-                $row[] = $aRow->{$aColumns[$i]};
+                $row[] = $aRow[ $aColumns[$i] ];
             }
         }
         $output['aaData'][] = $row;

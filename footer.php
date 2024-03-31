@@ -13,6 +13,7 @@
 
     <!-- ORIGINAL  -->
     <script src="js/jquery.js"></script>
+   
     <!-- ADAPTACAOES -->
     <script src="http://malsup.github.com/min/jquery.form.min.js"></script>
     <script src="js/jquery-ui.1.10.2.min.js"></script>
@@ -39,11 +40,8 @@
     </script>
 
 -->
-
-    <script type="text/javascript" src="./js/jquery.dataTables.min.js"></script>
-    <link href='./css/jquery.dataTables.min.css' rel='stylesheet' type='text/css'>
-
-
+    <!-- <script type="text/javascript" src="./js/jquery.dataTables.min.js"></script>
+    <link href='./css/jquery.dataTables.min.css' rel='stylesheet' type='text/css'> -->
 
 
 <script type="text/javascript">

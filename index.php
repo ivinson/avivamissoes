@@ -394,7 +394,8 @@ include('scripts/functions.php');
 
 
 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
+  <script defer src="js/jquery.dataTables2_0_3.js"></script>
   <script src="js/plugins/morris/morris.min.js"></script>
   <script src="js/plugins/flot/jquery.flot.js"></script>
   <script src="js/plugins/flot/jquery.flot.pie.js"></script>
