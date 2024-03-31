@@ -35,23 +35,18 @@ include('../config.php');
     $gaSql['db']         = Cons_NomeBanco;
     $gaSql['server']     = Cons_Servidor;
 
-    /* Database connection information   
-    $gaSql['user']       = "root";
-    $gaSql['password']   = "root";
-    $gaSql['db']         = "avivamissoes22";
-    $gaSql['server']     = "localhost";
-     
-   */
+
 
     /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
      * If you just want to use the basic configuration for DataTables with PHP server-side, there is
      * no need to edit below this line
      */
 
-        mysql_query("SET NAMES 'utf8'");
-        mysql_query("SET character_set_connection=utf8");
-        mysql_query("SET character_set_client=utf8");
-        mysql_query("SET character_set_results=utf8");
+    // Executar consultas para definir a codificação para UTF-8
+    $db->query("SET NAMES 'utf8'");
+    $db->query("SET character_set_connection=utf8");
+    $db->query("SET character_set_client=utf8");
+    $db->query("SET character_set_results=utf8");
      
     /*
      * Local functions
@@ -66,14 +61,14 @@ include('../config.php');
     /*
      * MySQL connection
      */
-    if ( ! $gaSql['link'] = mysql_pconnect( $gaSql['server'], $gaSql['user'], $gaSql['password']  ) )
-    {
-        fatal_error( 'Could not open connection to server' );
+ // Tente conectar ao banco de dados
+    if (!$db) {
+        fatal_error('Could not open connection to server');
     }
+
  
-    if ( ! mysql_select_db( $gaSql['db'], $gaSql['link'] ) )
-    {
-        fatal_error( 'Could not select database ' );
+    if (!$db->query("USE " . $gaSql['db'])) {
+        fatal_error('Could not select database');
     }
      
      
@@ -130,7 +125,7 @@ include('../config.php');
         {
             if ( isset($_GET['bSearchable_'.$i]) && $_GET['bSearchable_'.$i] == "true" )
             {
-                $sWhere .= $aColumns[$i]." LIKE '%".mysql_real_escape_string( $_GET['sSearch'] )."%' OR ";
+                $sWhere .= $aColumns[$i]." LIKE '%".$db->escape( $_GET['sSearch'] )."%' OR ";
             }
         }
         $sWhere = substr_replace( $sWhere, "", -3 );
@@ -154,16 +149,16 @@ include('../config.php');
             {
                 $sWhere .= " AND ";
             }
-            $sWhere .= $aColumns[$i]." LIKE '%".mysql_real_escape_string($_GET['sSearch_'.$i])."%' ";
+            $sWhere .= $aColumns[$i]." LIKE '%".$db->escape($_GET['sSearch_'.$i])."%' ";
         }
     }
      
      
 
-        mysql_query("SET NAMES 'utf8'");
-        mysql_query("SET character_set_connection=utf8");
-        mysql_query("SET character_set_client=utf8");
-        mysql_query("SET character_set_results=utf8");
+        $db->query("SET NAMES 'utf8'");
+        $db->query("SET character_set_connection=utf8");
+        $db->query("SET character_set_client=utf8");
+        $db->query("SET character_set_results=utf8");
      
     /*
      * SQL queries
@@ -177,25 +172,24 @@ include('../config.php');
         $sLimit
     ";
 
-    //echo $sQuery;
+    // echo $sQuery;
+    // die();
 
-    $rResult = mysql_query( $sQuery, $gaSql['link'] ) or fatal_error( 'MySQL Error: ' . mysql_errno() );
+    $rResult = $db->query($sQuery)->results() or fatal_error('MySQL Error: ' . $db->error());
+
+    // var_dump($rResult);
+    // die();
      
     /* Data set length after filtering */
-    $sQuery = "
-        SELECT FOUND_ROWS()
-    ";
-    $rResultFilterTotal = mysql_query( $sQuery, $gaSql['link'] ) or fatal_error( 'MySQL Error: ' . mysql_errno() );
-    $aResultFilterTotal = mysql_fetch_array($rResultFilterTotal);
+    $sQuery = "SELECT FOUND_ROWS()";
+    $rResultFilterTotal = $db->query($sQuery) or fatal_error('MySQL Error: ' . $db->error());
+    $aResultFilterTotal = $db->results(true); // Passando true para obter resultados como matriz associativa
     $iFilteredTotal = $aResultFilterTotal[0];
-     
+
     /* Total data set length */
-    $sQuery = "
-        SELECT COUNT(".$sIndexColumn.")
-        FROM   $sTable
-    ";
-    $rResultTotal = mysql_query( $sQuery, $gaSql['link'] ) or fatal_error( 'MySQL Error: ' . mysql_errno() );
-    $aResultTotal = mysql_fetch_array($rResultTotal);
+    $sQuery = "SELECT COUNT(".$sIndexColumn.") FROM $sTable";
+    $rResultTotal = $db->query($sQuery) or fatal_error('MySQL Error: ' . $db->error());
+    $aResultTotal = $db->results(true); // Passando true para obter resultados como matriz associativa
     $iTotal = $aResultTotal[0];
      
      
@@ -210,32 +204,23 @@ include('../config.php');
     );
 
 
-    // $aRowww = mysql_fetch_array( $rResult );
-    // var_dump($aRowww);
      
-    while ( $aRow = mysql_fetch_array( $rResult ) )
-    {
+    foreach ($rResult as $aRow) {
         $row = array();
-        for ( $i=0 ; $i<count($aColumns) ; $i++ )
-        {
-            if ( $aColumns[$i] == "version" )
-            {
+        for ($i = 0; $i < count($aColumns); $i++) {
+            if ($aColumns[$i] == "version") {
                 /* Special output formatting for 'version' column */
-                $row[] = ($aRow[ $aColumns[$i] ]=="0") ? '-' : $aRow[ $aColumns[$i] ];
-            }
-            else if ( $aColumns[$i] != ' ' )
-            {
+                $row[] = ($aRow->{$aColumns[$i]} == "0") ? '-' : $aRow->{$aColumns[$i]};
+            } elseif ($aColumns[$i] != ' ') {
                 /* General output */
-                $row[] = $aRow[ $aColumns[$i] ];
+                $row[] = $aRow->{$aColumns[$i]};
             }
         }
         $output['aaData'][] = $row;
     }
      
-//echo $sQuery;
-//     echo "<pre>";
-// var_dump( $output);
-// echo "<pre>";
+
 
     echo json_encode( $output );
+
 ?>

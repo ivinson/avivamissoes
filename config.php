@@ -159,9 +159,20 @@ define ( 'V_EMAIL_TEMPLATE' , "
 
 
 
-require_once('./classes/DB.php');
+require_once('classes/DB.php');
 
 ################
+
+// produção
+// define('Cons_Servidor', 	'186.202.152.189', false);
+// define('Cons_NomeBanco', 	'avivamissoes22', false);
+// define('Cons_UserBD', 		'avivamissoes22', false);
+// define('Cons_SenhaBD', 		'Aviva@Missoes', false);
+
+define('Cons_Servidor', 	'localhost:3306', false);
+define('Cons_NomeBanco', 	'avivamissoes22', false);
+define('Cons_UserBD', 		'root', false);
+define('Cons_SenhaBD', 		'', false);
 
 
 $GLOBALS['config'] = array(
