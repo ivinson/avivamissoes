@@ -397,8 +397,8 @@ include('scripts/functions.php');
   <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
   <script defer src="js/jquery.dataTables2_0_3.js"></script>
   <script src="js/plugins/morris/morris.min.js"></script>
-  <script src="js/plugins/flot/jquery.flot.js"></script>
-  <script src="js/plugins/flot/jquery.flot.pie.js"></script>
+  <script src="js/plugins/flot/jquery.flot.js"></script>debora
+  <script src="js/plugins/flot/jquery.flot.pie.js"></script> debora
   <!-- Bootstrap Core JavaScript -->
   <script src="js/bootstrap.min.js"></script>
 
@@ -449,7 +449,7 @@ group by u.id  order by SUM(lb.Valor) desc";
 
   <!-- Javascript -->
   <script type="text/javascript">
-  $("#flotcontainer").bind("plotclick", function(event, pos, item) {
+ $("#flotcontainer").bind("plotclick", function(event, pos, item) {
     //alert('click!');
     //for(var i in item){
     //alert('my '+i+' = '+ item[i]);
@@ -479,10 +479,48 @@ group by u.id  order by SUM(lb.Valor) desc";
     };
 
 
-    $.plot($("#flotcontainer"), data, options);
+    //$.plot($("#flotcontainer"), data, options);
   });
   </script>
   <script>
+
+// essa função pertence a pagina editar-usuarios
+  function gravarAlteracoesPaginaInad(){
+    let formData = $('#form-inadimplentes').serialize();
+
+
+    Swal.fire({
+        title: 'Informação!',
+        text: 'Aguarde, processando dados.',
+        icon: 'info',
+        allowEscapeKey: false,
+        allowOutsideClick: false,
+        showConfirmButton: false,
+    });
+
+    $.ajax({
+        url: "editar-usuarios.php", // Aqui você pode usar a mesma URL definida para a ação do formulário
+        method: "POST", // Método de envio do formulário
+        data: formData, // Dados do formulário serializados
+        success: function(response) {
+          if (response.status === 'sucesso') {
+            swal.fire({
+              title: "Sucesso!",
+              text: response.msg,
+              icon: "success",
+              timer: '3000'
+            }).then((res)=>{
+              window.location.href = response.url;
+            })  
+        }
+        },
+        error: function(xhr, status, error) {
+            alert('não ok')
+        }
+    });
+  }
+
+
   function verDetalhes(elemento) {
     let urlDefinida = $(elemento).attr("data-href");
 

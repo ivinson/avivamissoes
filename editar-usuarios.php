@@ -1,41 +1,8 @@
 <?php ob_start();
-session_start(); ?> 
+session_start(); 
 
-<?php 
-include("header.php")    ; 
 include('config.php'); 
 include('scripts/functions.php'); 
-
-
-
-
-
-?>
-<!-- TITULO e cabeçalho das paginas  -->
-<div class="row">
-  <div class="col-lg-12">
-    <ol class="breadcrumb">
-
-      <li>
-        <h1 class="page-header">Dados do Campo </h1>
-        <i class="fa fa-dashboard"></i>  <a href="index.php">Início</a>
-      </li>
-      <li class="active">
-        <i class="fa fa-file"></i> Editar de Usuários
-      </li>
-    </ol>
-  </div>
-</div>
-
-<!-- /.row -->
-
-
-<?php 
-
-
-
-if (isset($_GET['id']) ) { 
-  $id = (int) $_GET['id']; 
 
   //debug
   //echo "<br> <p> <h3> Calores do POST </h3>";
@@ -58,13 +25,8 @@ if (isset($_GET['id']) ) {
      // O sistema ja é ajustavel e extensivel Ivinson jan / 2015
 
 
-?>
 
-
-<?php
-
-
-    if(($_POST['selectPerfil'] == 6 ) || ($_POST['selectPerfil'] == 7 ) || ($_POST['selectPerfil'] == 4 )){
+if(($_POST['selectPerfil'] == 6 ) || ($_POST['selectPerfil'] == 7 ) || ($_POST['selectPerfil'] == 4 )){
                                     //Primeiro grava na tabela de CAMPOS ECLESIASTICOS
       $sqlCampos = "UPDATE `campos` SET  
       `NomePastorTitular` =  '{$_POST['NomePastorTitular']}' ,  
@@ -159,13 +121,9 @@ if (isset($_GET['id']) ) {
     
     WHERE `id` = '$id' "; 
 
-    if (! $db->query($sql) ){
-
-      die( ':: Erro : '. $db->error); 
-      echo "Fase de teste : Anote o seguinte erro!";
-      echo $sql;
-
-    };
+    if (!$db->query($sql)) {
+        die(':: Erro : '. $db->error);
+    }
 
 
     // include "logger.php";debora
@@ -176,9 +134,42 @@ if (isset($_GET['id']) ) {
     // Redirect("listar-usuarios.php",false); 
     header('Content-Type: application/json');
     echo json_encode(array('status' => 'sucesso', 'msg' => 'Editado com sucesso.', 'url' => 'listar-usuarios.php'));
+  
+    // Termina o script PHP aqui para evitar a execução de código HTML abaixo
+    exit;
+}  
+
+?> 
+
+<?php 
+include("header.php"); 
+?>
+
+<!-- TITULO e cabeçalho das paginas  -->
+<div class="row">
+  <div class="col-lg-12">
+    <ol class="breadcrumb">
+
+      <li>
+        <h1 class="page-header">Dados do Campo </h1>
+        <i class="fa fa-dashboard"></i>  <a href="index.php">Início</a>
+      </li>
+      <li class="active">
+        <i class="fa fa-file"></i> Editar de Usuários
+      </li>
+    </ol>
+  </div>
+</div>
+
+<!-- /.row -->
 
 
- }  
+<?php 
+
+
+
+if (isset($_GET['id']) ) { 
+  $id = (int) $_GET['id']; 
 
 
   $row = $db->query("SELECT u.*,
@@ -217,25 +208,21 @@ if (isset($_GET['id']) ) {
                                       <div class="form-group">
                                         <label>Regiao</label>
                                         <?php 
-                                        echo "<select  data-placeholder=\"Escolha um usuário... \" id=\"selectRegiao\"    \" name=\"selectRegiao\" class=\"form-control\" class=\"chosen-select\" 
-                                        />";
 
-
-            //Lista Apenas Campos Eclesiáticos                                
+                                        //Lista Apenas Campos Eclesiáticos                                
                                         $resultSelect = $db->query("
+                                            SELECT '' as id, 'Escolha uma Região' as Nome
+                                            UNION
+                                            SELECT id, Nome FROM regioes
+                                        ") or trigger_error($db->error);
 
-                                          select '' as id,' Escolha uma Regiao ' as Nome
-                                          union
-                                          Select id, Nome  from regioes
-
-
-                                          ") or trigger_error($db->error);
-
-                                        foreach($resultSelect->results(true) as $rowOption ){ 
-                                          foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
-                                          echo "<option " . (stripslashes($row['IDREGIAO'])==$rowOption['id'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
-                                      //echo "<option  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
-                                        } 
+                                        echo "<select id=\"selectRegiao\" name=\"selectRegiao\" class=\"form-control chosen-select\">";
+                                        foreach($resultSelect->results(true) as $rowOption) {
+                                            foreach($rowOption as $key => $value) {
+                                                $rowOption[$key] = stripslashes($value);
+                                            }
+                                            echo "<option" . (stripslashes($row['IDREGIAO']) == $rowOption['id'] ? ' selected' : '') . " value='" . htmlspecialchars($rowOption['id']) . "'>" . htmlspecialchars($rowOption['Nome']) . "</option>";
+                                        }
                                         echo "</select>";
                                         ?>                                             
                                       </div>
@@ -719,7 +706,7 @@ if (isset($_GET['id']) ) {
 
   <div class="row">
       <div class="col-lg-12">
-        <input class="btn btn-lg btn-success" type='button' onclick="gravarAlteraçoesPaginaInad()" value='Gravar alterações' />                        
+        <input class="btn btn-lg btn-success" type='button' onclick="gravarAlteracoesPaginaInad()" value='Gravar alterações' />                        
         <input class="btn btn-lg btn-info" onclick='history.back(-1)' value='Voltar' />                            
         <input type='hidden' value='1' name='submitted' />                             
         <p><br><br><br></p>
@@ -802,40 +789,7 @@ $('#selectPerfil').change(function () {
 
 });
 
-function gravarAlteraçoesPaginaInad(){
-        let formData = $('#form-inadimplentes').serialize();
 
-
-        Swal.fire({
-            title: 'Informação!',
-            text: 'Aguarde, processando dados.',
-            icon: 'info',
-            allowEscapeKey: false,
-            allowOutsideClick: false,
-            showConfirmButton: false,
-        });
-
-        $.ajax({
-            url: "editar-usuarios.php", // Aqui você pode usar a mesma URL definida para a ação do formulário
-            method: "POST", // Método de envio do formulário
-            data: formData, // Dados do formulário serializados
-            success: function(response) {
-              if (response.status === 'sucesso') {
-                swal.fire({
-                  title: "Sucesso!",
-                  text: "Mensagem enviada com sucesso!",
-                  icon: "success",
-                  timer: '3000'
-                }).then((res)=>{
-                  window.location.href = response.url;
-                })  
-            }
-            },
-            error: function(xhr, status, error) {
-                alert('não ok')
-            }
-        });
-}
 
 
 </script>
