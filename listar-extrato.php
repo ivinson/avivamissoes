@@ -118,10 +118,10 @@ where TipoOrigem = 'C' and idUsuario = 1196
 
 
 #TROCAR USUARIO PRODUCAO
-$resultMeses = mysql_query($sqlMeses) or trigger_error(mysql_error()); 
+$resultMeses = $db->query($sqlMeses)->results(true) or trigger_error($db->error);
 
-while($rowOptionMeses = mysql_fetch_array($resultMeses)){ 
-  foreach($rowOptionMeses AS $key => $value) { $rowOptionMeses[$key] = stripslashes($value); }                               
+foreach($resultMeses as $rowOptionMeses){ 
+  foreach($rowOptionMeses AS $key => $value) { $rowOptionMeses[$key] = $db->escape($value); }                               
      
 echo "<div class=\"panel-group\" id=\"accordion\">";
 
@@ -140,14 +140,14 @@ echo "
 
               //exit;
               #TROCAR USUARIO PRODUCAO
-              $resultSelectDetalhamento = mysql_query("
+              $resultSelectDetalhamento = $db->query("
               select * from lancamentosbancarios
 
               where TipoOrigem = 'C' and idUsuario = 1196 
               and DATE_FORMAT(DataBaixa, '%m-%Y') = '{$rowOptionMeses['DataEmissao']}'
               order by DataBaixa
 
-              ") or trigger_error(mysql_error()); 
+              ")->results(true) or trigger_error($db->error);
 
 
           echo "<table class='table' >
@@ -161,8 +161,8 @@ echo "
 
                                     </tr>" ; 
 
-                while($rowOptionDetalhamento = mysql_fetch_array($resultSelectDetalhamento)){ 
-                  foreach($rowOptionDetalhamento AS $key => $value) { $rowOptionDetalhamento[$key] = stripslashes($value); }                               
+                foreach($resultSelectDetalhamento as $rowOptionDetalhamento){ 
+                  foreach($rowOptionDetalhamento AS $key => $value) { $rowOptionDetalhamento[$key] = $db->escape($value); }                               
               
                     echo "<tr>";        
                     $phpdate = strtotime( $rowOptionDetalhamento['DataBaixa'] );
@@ -252,7 +252,7 @@ echo "
               // sql to delete a record              
               $id = (int) $_GET['id'];   
               $sql = "DELETE FROM lancamentosbancarios WHERE id= {$id} ";              
-              mysql_query($sql) ; 
+              $db->query($sql) ; 
 
               Logger("# Extrato Bradesco [Exclusao] ##");
               Logger("# O usuario {$_SESSION['nome']}({$_SESSION['idlogado']}) excluiu manualmente um lacamento bancario.");

@@ -4,10 +4,10 @@
 if($_SESSION['logado'] <> "S"){
 
   $url=$_SERVER['REQUEST_URI'];
-  include "logger.php";
-  Logger("#### Acesso não autorizado ######");
-  Logger("Algum usuario não identificado tentou acessar a {$url}");
-  Logger("# ------------------------------------------------------> ");
+  // include "logger.php"; debora
+  // Logger("#### Acesso não autorizado ######");debora
+  // Logger("Algum usuario não identificado tentou acessar a {$url}");debora
+  // Logger("# ------------------------------------------------------> ");debora
   echo "<script language='JavaScript' type='text/JavaScript'> <!--
     window.location='login.php';
     //-->
@@ -20,18 +20,16 @@ if($_SESSION['logado'] <> "S"){
   include("header.php"); 
   include('config.php');  
   include('scripts/functions.php'); 
-  //require('pdftohtml.php'); 
-  # create and load the HTML
-  //include('simple_html_dom.php');
-   include "logger.php";
+
+  //  include "logger.php";debora
   
 
 if (isset($_GET['type'])  ) {         
   if ($_GET['type'] == 'delete'){
       $id = (int) $_GET['id'];   
       $idLancamento = (int) $_GET['idLancamento']; 
-      mysql_query("DELETE FROM `lancamentosbancarios` WHERE `id` = '$idLancamento' ") ;   Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] deletou a remessa {$idLancamento} do campo id={$id}.");  
-      //Redirect("lancamentos-campo.php?id=".$id);
+      $db->query("DELETE FROM `lancamentosbancarios` WHERE `id` = '$idLancamento' ")->results(true);
+      // Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] deletou a remessa {$idLancamento} do campo id={$id}.");  debora
       die("<script>location.href = 'lancamentos-campo.php?id={$id}'</script>");
   }
 }
@@ -45,26 +43,26 @@ if (isset($_GET['type'])  ) {
       
       
       echo "REPROCESSAMENTO!!!!!!!!";
-         Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] fez um reprocessamento."); 
+        //  Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] fez um reprocessamento."); debora
 
 # Verifica todos os boletos pagos e se tem lancamentos bancarios correspondentes...
 # Caso contrario cria para esse campo
-$resultPagos = mysql_query("
+$resultPagos = $db->query("
   select * from contasreceber where Status = 'Pago' ;
-") or trigger_error(mysql_error()); 
+")->results(true) or trigger_error($db->error);
 
-while($rowOption = mysql_fetch_array($resultPagos)){ 
+foreach($resultPagos as $rowOption){ 
   foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                                             
       ##################################################################################3
       # Cria Lancamentos bancarios caso nao tenha ocorrencia 
-      $resultLancBanc = mysql_query("
+      $resultLancBanc = $db->query("
         select * from lancamentosbancarios where idContaReceber = {$rowOption['id']} ;
-      ") or trigger_error(mysql_error()); 
+      ")->results(true) or trigger_error($db->error);
 
       $countLac = 0;
       echo " boleto {$rowOption['id']} <br>";
 
-      while($rowOptionLanc = mysql_fetch_array($resultLancBanc)){ 
+      foreach($resultLancBanc as $rowOptionLanc){ 
         foreach($rowOptionLanc AS $key => $value) { $rowOptionLanc[$key] = stripslashes($value); }                                             
           $countLac++;
         //echo "<li ><a  href='lancamentos-campo.php?id={$id}&ano={$rowOption['Ano']}'>{$rowOption['Ano']} </a></li>";              
@@ -111,8 +109,8 @@ while($rowOption = mysql_fetch_array($resultPagos)){
 
             //echo "<br>" . $SqlInsereProcessamento;
                 
-                if (! mysql_query($SqlInsereProcessamento) ){
-                      die( ':: Erro : '. mysql_error()); 
+                if (! $db->query($SqlInsereProcessamento) ){
+                      trigger_error($db->error);
                       echo "Fase de teste lancamentosbancarios: Anote o seguinte erro!";
                     }
 
@@ -142,7 +140,7 @@ if (isset($_GET['id']) ) {
                    
    $id = (int) $_GET['id'];   
 
-    $resultSelect = mysql_query("
+    $resultSelect = $db->query("
           SELECT distinct
           year(lb.DataReferencia) as Ano 
            FROM
@@ -152,7 +150,7 @@ if (isset($_GET['id']) ) {
             and lb.TipoLancamento not in ('PENDENTE') 
             order by year(lb.DataReferencia) desc
 
-      ") or trigger_error(mysql_error()); 
+      ")->results(true) or trigger_error($db->error);
 
 
 
@@ -169,10 +167,10 @@ echo " <ul class='nav nav-tabs'>";
     $strNomePastor = "";
     $BaixadoPor = "";
     $boolProrec = "";
-    $rUsuario = mysql_query("  SELECT * FROM usuarios where id = {$id}
-    ") or trigger_error(mysql_error()); 
+    $rUsuario = $db->query("  SELECT * FROM usuarios where id = {$id}
+    ")->results(true) or trigger_error($db->error);
     
-    while($rowOptionUsuario = mysql_fetch_array($rUsuario)){ 
+    foreach($rUsuario as $rowOptionUsuario){ 
       foreach($rowOptionUsuario AS $key => $value) { $rowOptionUsuario[$key] = stripslashes($value); }       
           $tipoUsuario = $rowOptionUsuario['idTipoUsuario'];    
           $qtdProrec   = $rowOptionUsuario['prorec_qtd_parcelas'];    
@@ -183,7 +181,7 @@ echo " <ul class='nav nav-tabs'>";
 
     if($tipoUsuario == 6){
 
-        $rsMesesEmAberto = mysql_query("
+        $rsMesesEmAberto = $db->query("
       
         SELECT    
         r.Nome as Regiao,  
@@ -215,10 +213,10 @@ echo " <ul class='nav nav-tabs'>";
 
                 order by count(u.id) desc;
 
-          ") or trigger_error(mysql_error()); 
+          ")->results(true) or trigger_error($db->error);
 
 
-          while($rowOptionMeses = mysql_fetch_array($rsMesesEmAberto)){ 
+          foreach($rsMesesEmAberto as $rowOptionMeses){ 
               foreach($rowOptionMeses AS $keyMes => $valueMes) { $rowOptionMeses[$keyMes] = stripslashes($valueMes); }
                  $strQtdMesesAtrasados = $strQtdMesesAtrasados .   "<span class=\"label label-important arrowed-in\">{$rowOptionMeses['MesesEmAberto']} meses em aberto</span>";
           }       
@@ -283,7 +281,7 @@ echo "<p class=\"text-center\">";
     * RETORNA os meses de pagamentos realizados 
     * @var 
     */
-  $resultSelect = mysql_query("
+  $resultSelect = $db->query("
         SELECT distinct
         year(lb.DataReferencia) as Ano 
          FROM
@@ -293,9 +291,9 @@ echo "<p class=\"text-center\">";
           and lb.TipoLancamento not in ('PENDENTE') 
           order by year(lb.DataReferencia) desc
 
-    ") or trigger_error(mysql_error()); 
+    ")->results(true) or trigger_error($db->error);
 
-    while($rowOption = mysql_fetch_array($resultSelect)){ 
+    foreach($resultSelect as $rowOption ){ 
       foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                                             
         echo "<a style='font-color :#FFFFFf !important;'  href='lancamentos-campo.php?id={$id}&ano={$rowOption['Ano']}'> <span class=\"label label-info arrowed-in-right arrowed\">{$rowOption['Ano']} </span></a>";
     }   
@@ -335,7 +333,7 @@ echo "<p class=\"text-center\">";
 
             
             //Lista Apenas Campos Eclesiáticos                                
-            $resultSelect3 = mysql_query("
+            $resultSelect3 = $db->query("
                   SELECT 
                     lb.*
                     -- DATEDIFF( cr.DataEmissao, curdate()) as DiasAtraso
@@ -356,9 +354,9 @@ echo "<p class=\"text-center\">";
 
                      order by Referente
 
-              ") or trigger_error(mysql_error()); 
+              ")->results(true) or trigger_error($db->error);
 
-                  while($rowOption = mysql_fetch_array($resultSelect3)){ 
+                  foreach($resultSelect3 as $rowOption){ 
                     foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }     
 
                     if($rowOption['idProjeto'] == 3){
@@ -452,7 +450,7 @@ echo " <div class='datatable-tools'>
 //Lista os contas a Receber
 echo "<tr>";
 $id = (int) $_GET['id']; 
-$resultSelect5 = mysql_query("
+$resultSelect5 = $db->query("
 
       SELECT    
       r.Nome as Regiao,  
@@ -479,10 +477,10 @@ $resultSelect5 = mysql_query("
         -- Considera o inicio do campo ()
         and LB.DataReferencia > u.DataInicio
         and u.idTipoUsuario <> 8 -- inativos 
-        ; ") or trigger_error(mysql_error()); 
+        ; ")->results(true) or trigger_error($db->error);
 
 
-while($rowOption = mysql_fetch_array($resultSelect5)){ 
+foreach($resultSelect5 as $rowOption){ 
   foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); } 
 
   $valorMySQL = $rowOption['ValorBoleto'];                                            
@@ -558,12 +556,12 @@ $sqlProrecZ = "    Select lb.*
 
 
 
-$resultSelect56 = mysql_query($sqlProrecZ) or trigger_error(mysql_error()); 
+$resultSelect56 = $db->query($sqlProrecZ)->results(true) or trigger_error($db->error);
 
 $timeline = "";
 $countLac = 0;
 
-while($rowOption = mysql_fetch_array($resultSelect56)){ 
+foreach($resultSelect56 as $rowOption){ 
   foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); } 
 
 
@@ -668,7 +666,7 @@ Valor Negociado <span class="badge badge-important"> <?php echo $valorProrec ?><
 
 
  $idCampoLog = (int) $_GET['id'];   
- Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] acessou as remessas do campo {$idCampoLog} .");   
+//  Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] acessou as remessas do campo {$idCampoLog} .");   debora
 ?>
 
 

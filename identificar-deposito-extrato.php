@@ -25,7 +25,7 @@ include("config.php");
 if (isset($_POST['submitted'])) { 
 
 
-    foreach($_POST AS $key => $value) { $_POST[$key] = mysql_real_escape_string($value); } 
+    foreach($_POST AS $key => $value) { $_POST[$key] = $db->escape($value); } 
     
 
 
@@ -207,7 +207,7 @@ $sql = "UPDATE `lancamentosbancarios` SET  TipoLancamento = 'Identificado'
         //echo "<br>usuario Depois - " . $idUsuario; 
 
         
-        mysql_query($sql) or die(mysql_error()); 
+        $db->query($sql)->results(true) or trigger_error($db->error);
 
         include "logger.php";
         Logger("# IDENTIFICACAO ## IDENTIFICACAO ##########################################################################");
@@ -270,7 +270,7 @@ $sql = "UPDATE `lancamentosbancarios` SET  TipoLancamento = 'Identificado'
 
             
             //Lista Apenas Campos Eclesiáticos                                
-            $resultSelect = mysql_query("
+            $resultSelect = $db->query("
                                             SELECT u.id, u.Nome FROM `usuarios` u
                                                     join congregacoes i on (i.id= u.idCongregacao)
                                                     join campos c on(c.id = i.idCampo)
@@ -284,10 +284,10 @@ $sql = "UPDATE `lancamentosbancarios` SET  TipoLancamento = 'Identificado'
                                             order by nome
 
                                             
-                ") or 
-                    trigger_error(mysql_error()); 
+                ")->results(true) or 
+                    trigger_error($db->error);
                     
-                    while($rowOption = mysql_fetch_array($resultSelect)){ 
+                    foreach($resultSelect as $rowOption){ 
                     foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                       echo "<option value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                     } 
@@ -324,10 +324,9 @@ $sql = "UPDATE `lancamentosbancarios` SET  TipoLancamento = 'Identificado'
 
 <?php 
 $fID =  $_GET['id'] ;
-$result = mysql_query("SELECT *  from lancamentosbancarios where id = ".$fID) or trigger_error(mysql_error()); 
-
-while($row = mysql_fetch_array($result)){ 
-foreach($row AS $key => $value) { $row[$key] = stripslashes($value); } 
+$result = $db->query("SELECT *  from lancamentosbancarios where id = ".$fID)->results(true) or trigger_error($db->error);
+foreach($result as $row){ 
+foreach($row AS $key => $value) { $row[$key] = $db->escape($value); } 
 
 
 ?>
@@ -337,7 +336,7 @@ foreach($row AS $key => $value) { $row[$key] = stripslashes($value); }
 
         <div class="form-group">
             <label>Valor</label>
-            <input class="form-control" name='Valor' id='Valor'  value='<?= stripslashes($row['Valor']) ?>'>                                
+            <input class="form-control" name='Valor' id='Valor'  value='<?= $db->escape($row['Valor']) ?>'>                                
         </div>
 
 </div>
@@ -494,7 +493,7 @@ Logger("{$_SESSION['nome']} [ID::{$_SESSION['idlogado']}] acessou IDENTIFICACAO 
 
 function verificaLancamento($fValorCREDITO,$fdata,$idusuario){
 
-
+    $db = DB::getInstance();
 
     #Debug
   
@@ -502,11 +501,11 @@ function verificaLancamento($fValorCREDITO,$fdata,$idusuario){
            // exit;
 
 
-    $rs = mysql_query("select count(*) as total from lancamentosbancarios where 
+    $rs = $db->query("select count(*) as total from lancamentosbancarios where 
              DataReferencia = '{$fdata}' and Round(Valor,2) = '{$fValorCREDITO}'
              and idUsuario = {$idusuario}
     ");
-    $row=mysql_fetch_assoc($rs);
+    $row= $db->results(true);
 
 
     #debug
@@ -522,7 +521,7 @@ function verificaLancamento($fValorCREDITO,$fdata,$idusuario){
 
         //exit;
 
-        mysql_query("DELETE FROM `lancamentosbancarios` WHERE 
+        $db->query("DELETE FROM `lancamentosbancarios` WHERE 
 
         DataReferencia = '{$fdata}' 
         and Round(Valor,2) = '{$fValorCREDITO}'

@@ -395,4 +395,9 @@ class DB {
 		return $this->_query->getColumnMeta($counter);
 	}
 
+	// Função para escapar os valores
+    public function escape($value) {
+        return htmlspecialchars($value, ENT_QUOTES, 'UTF-8');
+    }
+
 }

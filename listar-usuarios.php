@@ -101,7 +101,7 @@ $(document).ready(function() {
         columnDefs: [{
             targets: 5, 
             data: null,
-            defaultContent: "<button id='btnEditar'>Editar</button> <button id='btnRemessa'>Remessas</button>"
+            defaultContent: "<button id='btnEditar' class='btnEditar'>Editar</button> <button id='btnRemessa' class='btnRemessa'>Remessas</button>"
         }]
     });
 
