@@ -34,173 +34,89 @@ include('scripts/functions.php');
 
   <div class="container-fluid">
 
-    <!-- Page Heading -->
-    <div class="row">
-      <div class="col-lg-12">
-        <h2 class="page-header">
-          ESTATISTICAS <small>Visão Geral de Entradas</small>
-        </h2>
+                        <h1 class="mt-4 mb-4">
+                            ESTATISTICAS <small>Visão Geral de Entradas</small>
+                        </h1>
 
-      </div>
-    </div>
-    <!-- /.row -->
+                        <div class="row">
 
-    <div class="row">
-      <div class="col-lg-3 col-md-6">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <div class="row">
-              <div class="col-xs-3">
-                <i class="fa fa-usd fa-5x"></i>
-              </div>
-              <div class="col-xs-9 text-right">
-                <div class="huge">
-                  <?php
+                            <div class="col-xl-3 col-md-6">
+                                <div class="card bg-primary text-white mb-4">
+                                    <?php
+                                        $rowBaixados = $db->query("SELECT count(*) as total  FROM contasreceber WHERE DataBaixa is not null;")->results();
+                                        echo $rowBaixados->total;
+                                    ?>
+                                    <div class="card-body">Boletos Recebidos</div>
+                                    <div class="card-footer d-flex align-items-center justify-content-between">
+                                        <a class="small text-white stretched-link" style="cursor: pointer;" data-href="contas-a-receber.php" onclick="verDetalhes(this)">Ver detalhes</a>
+                                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                                    </div>
+                                </div>
+                            </div>
 
-                  $rowBaixados = $db->query("SELECT count(*) as total  FROM contasreceber WHERE DataBaixa is not null;")->results();
-                  echo $rowBaixados->total;
+                            <div class="col-xl-3 col-md-6">
+                                <div class="card bg-warning text-white mb-4">
+                                    <?php
+                                        $rowEmitidos = $db->query("select  count(distinct lb.idUsuario) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' ")->results();
+                                        echo $rowEmitidos->total;
+                                    ?>
+                                    <div class="card-body">Usam o Sistema</div>
+                                    <div class="card-footer d-flex align-items-center justify-content-between">
+                                        <a class="small text-white stretched-link" style="cursor: pointer;" data-href="contas-a-receber.php" onclick="verDetalhes(this)">Ver Detalhes</a>
+                                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                                    </div>
+                                </div>
+                            </div>
 
-                  ?>
+                            <div class="col-xl-3 col-md-6">
+                                <div class="card bg-success text-white mb-4">
+                                    <div class="card-body">Qtd de Campos</div>
+                                    <div class="card-footer d-flex align-items-center justify-content-between">
+                                        <a class="small text-white stretched-link" style="cursor: pointer;" data-href="listar-usuarios.php" onclick="verDetalhes(this)">Ver Detalhes</a>
+                                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                                    </div>
+                                </div>
+                            </div>
 
-                </div>
-                <div>Boletos Recebidos</div>
-              </div>
-            </div>
-          </div>
-          <a style="cursor: pointer;" data-href="contas-a-receber.php" onclick="verDetalhes(this)">
-            <div class="panel-footer">
-              <span class="pull-left">Ver detalhes</span>
-              <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
-              <div class="clearfix"></div>
-            </div>
-          </a>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-6">
-        <div class="panel panel-green">
-          <div class="panel-heading">
-            <div class="row">
-              <div class="col-xs-3">
-                <i class="fa fa-tasks fa-5x"></i>
-              </div>
-              <div class="col-xs-9 text-right">
-                <div class="huge">
-                  <?php
+                            <div class="col-xl-3 col-md-6">
+                                <div class="card bg-danger text-white mb-4">
+                                    <?php
+                                        $rowOptionInad = $db->query("
+                                                                        SELECT  count(*) as meses FROM
+                                                                            lancamentosbancarios LB
+                                                                            join usuarios u on (u.id = LB.idUsuario)
+                                                                                join congregacoes gr on (gr.id = u.idCongregacao)
+                                                                                    join campos c on (c.id = gr.idCampo)
+                                                                                    where
+                                                                                    LB.Valor = 0 and LB.TipoLancamento in ('Regular','Inadimplente','')    
+                                                                                    and month(LB.DataReferencia) >= 06
+                                                                                                                                and year(LB.DataReferencia)  >= 2012           
+                                                                                    group by u.id,u.Nome                
+                                                                                    order by count(u.id) desc ;
+                                                                            
+                                                                        ")->results();
+                                        $totalIndimplentes = 0;
+                                        foreach ($rowOptionInad as $rsInad) {
+                                        foreach ($rsInad as $key => $value) {
+                                            $rsInad->$key = stripslashes($value);
+                                        }
 
-                  $rowEmitidos = $db->query("select  count(distinct lb.idUsuario) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' ")->results();
-                  echo $rowEmitidos->total;
-
-                  ?>
-
-                </div>
-                <div>Usam o Sistema</div>
-              </div>
-            </div>
-          </div>
-          <!-- <a href="contas-a-receber.php"> -->
-          <a style="cursor: pointer;" data-href="contas-a-receber.php" onclick="verDetalhes(this)">
-            <div class="panel-footer">
-              <span class="pull-left">Ver Detalhes</span>
-              <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
-              <div class="clearfix"></div>
-            </div>
-          </a>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-6">
-        <div class="panel panel-yellow">
-          <div class="panel-heading">
-            <div class="row">
-              <div class="col-xs-3">
-                <i class="fa fa-users fa-5x"></i>
-              </div>
-              <div class="col-xs-9 text-right">
-                <div class="huge">
-                  <?php
-
-                  $rowCampos = $db->query("SELECT count(*) as total  FROM campos ;")->results();
-                  echo $rowCampos->total;
-
-                  ?>
+                                        if ((int)$rsInad->meses >= 6) {
+                                            $totalIndimplentes = $totalIndimplentes + 1;
+                                        }
+                                        }
+                                        
+                                    ?>
+                                    <div class="card-body"><?php echo $totalIndimplentes;?> Inadimplentes</div>
+                                    <div class="card-footer d-flex align-items-center justify-content-between">
+                                        <a class="small text-white stretched-link" style="cursor: pointer;" data-href="inadimplentes.php" onclick="verDetalhes(this)">Ver Detalhes</a>
+                                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
 
-                </div>
-                <div>Qtd de Campos</div>
-              </div>
-            </div>
-          </div>
-          <a style="cursor: pointer;" data-href="listar-usuarios.php" onclick="verDetalhes(this)">
-            <div class="panel-footer">
-              <span class="pull-left">Ver Detalhes</span>
-              <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
-              <div class="clearfix"></div>
-            </div>
-          </a>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-6">
-        <div class="panel panel-red">
-          <div class="panel-heading">
-            <div class="row">
-              <div class="col-xs-3">
-                <i class="fa fa-support fa-5x"></i>
-              </div>
-              <div class="col-xs-9 text-right">
-                <div class="huge">
-
-                  <?php
-
-                  $rowOptionInad = $db->query("
-
-                                                    SELECT  count(*) as meses FROM
-                                                        lancamentosbancarios LB
-                                                        join usuarios u on (u.id = LB.idUsuario)
-                                                            join congregacoes gr on (gr.id = u.idCongregacao)
-                                                                join campos c on (c.id = gr.idCampo)
-                                                                where
-                                                                LB.Valor = 0 and LB.TipoLancamento in ('Regular','Inadimplente','')    
-                                                                and month(LB.DataReferencia) >= 06
-                                                                                                            and year(LB.DataReferencia)  >= 2012           
-                                                                group by u.id,u.Nome                
-                                                                order by count(u.id) desc ;
-                                                         
-                                                    ")->results();
-
-
-                  $totalIndimplentes = 0;
-                  foreach ($rowOptionInad as $rsInad) {
-                    foreach ($rsInad as $key => $value) {
-                      $rsInad->$key = stripslashes($value);
-                    }
-
-                    if ((int)$rsInad->meses >= 6) {
-                      $totalIndimplentes = $totalIndimplentes + 1;
-                    }
-                  }
-                  echo $totalIndimplentes;
-
-
-                  ?>
-
-
-
-
-                </div>
-                <div>Inadimplentes</div>
-              </div>
-            </div>
-          </div>
-          <a style="cursor: pointer;" data-href="inadimplentes.php" onclick="verDetalhes(this)">
-            <div class="panel-footer">
-              <span class="pull-left">Ver Detalhes</span>
-              <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
-              <div class="clearfix"></div>
-            </div>
-          </a>
-        </div>
-      </div>
-    </div>
-    <!-- /.row -->
 
 
 
@@ -394,14 +310,6 @@ include('scripts/functions.php');
 
 
 
-  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
-  <script defer src="js/jquery.dataTables2_0_3.js"></script>
-  <script src="js/plugins/morris/morris.min.js"></script>
-  <script src="js/plugins/flot/jquery.flot.js"></script>debora
-  <script src="js/plugins/flot/jquery.flot.pie.js"></script> debora
-  <!-- Bootstrap Core JavaScript -->
-  <script src="js/bootstrap.min.js"></script>
-
 
 
   <?php
@@ -548,3 +456,5 @@ group by u.id  order by SUM(lb.Valor) desc";
     });
   }
   </script>
+
+  <?php include("footer.php")    ; ?>
