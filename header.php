@@ -44,50 +44,50 @@
         </nav>
         <div id="layoutSidenav">
             <div id="layoutSidenav_nav">
-                <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+                <nav class="sb-sidenav accordion bg-secondary bg-gradient" id="sidenavAccordion">
                     <div class="sb-sidenav-menu">
                         <div class="nav">
-                            <a class="nav-link" href="index.php">
+                            <a class="nav-link text-light" href="index.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                                 Estatisticas
                             </a>
 
-                            <a class="nav-link" href="relatorios-gerais.php">
+                            <a class="nav-link text-light" href="relatorios-gerais.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                                 Relatórios
                             </a>
 
-                            <a class="nav-link" href="listar-usuarios.php">
+                            <a class="nav-link text-light" href="listar-usuarios.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                                 Campos
                             </a>
 
-                            <a class="nav-link collapsed" href="javascript:;" data-bs-toggle="collapse" data-bs-target="#BoletoDRP" aria-expanded="false" aria-controls="BoletoDRP">
+                            <a class="nav-link collapsed text-light" href="javascript:;" data-bs-toggle="collapse" data-bs-target="#BoletoDRP" aria-expanded="false" aria-controls="BoletoDRP">
                                 <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
                                  Ofertas Pastorais
                                 <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
                             </a>
                             <div class="collapse" id="BoletoDRP" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                                 <nav class="sb-sidenav-menu-nested nav">
-                                    <a class="nav-link" href="listar-extrato.php">Identificar ofertas</a>
-                                    <a class="nav-link" href="contas-a-receber.php">Boletos Emitidos</a>
-                                    <a class="nav-link" href="processar-recebimentos.php">Processar Retorno</a>
-                                    <a class="nav-link" href="processar-remessas.php">Arq. de Remessa</a>
-                                    <a class="nav-link" href="nova-entrada-direta.php">Entradas Diretas</a>
+                                    <a class="nav-link text-light" href="listar-extrato.php">Identificar ofertas</a>
+                                    <a class="nav-link text-light" href="contas-a-receber.php">Boletos Emitidos</a>
+                                    <a class="nav-link text-light" href="processar-recebimentos.php">Processar Retorno</a>
+                                    <a class="nav-link text-light" href="processar-remessas.php">Arq. de Remessa</a>
+                                    <a class="nav-link text-light" href="nova-entrada-direta.php">Entradas Diretas</a>
                                 </nav>
                             </div>
 
-                            <a class="nav-link" href="lancamentos-bancarios.php">
+                            <a class="nav-link text-light" href="lancamentos-bancarios.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                                 Movimento Bancário
                             </a>
 
-                            <a class="nav-link" href="contatos.php">
+                            <a class="nav-link text-light" href="contatos.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                                 Lista de Contatos
                             </a>
 
-                            <a class="nav-link" href="utils.php">
+                            <a class="nav-link text-light" href="utils.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                                 Ferramentas
                             </a>
