@@ -1,6 +1,6 @@
 <?php 
 
-echo "<h1>".date()."</h1>";
+echo "<h1>" . date("Y-m-d H:i:s") . "</h1>";
 
   include("header.php"); 
   include('config.php');  
