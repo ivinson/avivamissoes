@@ -27,7 +27,7 @@
 
 
         /* campos sem lancamento no mes atual*/
-          $rsCamposSemLancamento = mysql_query("
+          $rsCamposSemLancamento = $db->query("
 
             select u.* from 
                               campos c 
@@ -52,7 +52,7 @@
 
                                 ;
                                 
-            ") or trigger_error(mysql_error()); 
+            ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
 
 
@@ -61,7 +61,7 @@
 
         $countLancamentos = 0;
 
-        while($rowOption = mysql_fetch_array($rsCamposSemLancamento)){ 
+        foreach($rsCamposSemLancamento as $rowOption ){ 
           foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
             
 
@@ -156,9 +156,9 @@
             if ( verificaIniciodoCampo($fData_Competencia, $rowOption['id'])){
               //exit;
 
-              if (! mysql_query($SqlInsereProcessamento) ){
+              if (! $db->query($SqlInsereProcessamento) ){
               
-                    die( ':: Erro : '. mysql_error()); 
+                    die( ':: Erro : '. $db->errorInfo()[2]); 
               
                     echo "Fase de teste lancamentosbancarios: Anote o seguinte erro!";
                   }else{            
@@ -360,7 +360,7 @@
 
 
                                     //Lista Apenas Campos Eclesiáticos                                
-                                        $resultSelect = mysql_query("
+                                        $resultSelect = $db->query("
                                                   SELECT    
                                                   r.Nome as Regiao,  
                                                   u.id,
@@ -404,9 +404,9 @@
 
 
 
-                                      ") or trigger_error(mysql_error()); 
+                                      ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
-                                          while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                          foreach($resultSelect as $rowOption){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                               
 
@@ -540,8 +540,9 @@ window.location.href = url;     // Returns full URL
 <?php
 
 function verificaIniciodoCampo( $fdata, $fIdUsuario){
-
-    $rs = mysql_query("select count(*) as total 
+    // Realize a conexão com o banco de dados
+    $db = DB::getInstance();
+    $rs = $db->query("select count(*) as total 
                         from usuarios u 
                       where u.id = {$fIdUsuario} 
                         and  '{$fdata}' > u.DataInicio   ");
@@ -554,7 +555,7 @@ function verificaIniciodoCampo( $fdata, $fIdUsuario){
     #                    and  month('{$fdata}') > month(u.DataInicio)                        
     #                   and year('{$fdata}') >= year(u.DataInicio) ";
 
-    $row=mysql_fetch_assoc($rs);
+    $row=$rs->results(true);
 
     //Caso a data de inicio for menor que a competencia
     //RetornaTrue e gera o fechamento

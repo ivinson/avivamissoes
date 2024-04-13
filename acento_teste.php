@@ -27,18 +27,19 @@ define('Cons_UserBD', 		'avivamissoes22', false);
 define('Cons_SenhaBD', 		'Aviva@Missoes', false);
 
 //Acesso bando online Locaweb
-$link = mysql_connect(Cons_Servidor, Cons_UserBD, Cons_SenhaBD);
-if (!$link) {
-    die('Not connected : ' . mysql_error());
+// Verifique se a conexão foi bem-sucedida
+if (!$db) {
+    die('Erro na conexão com o banco de dados: ' . $db->errorInfo()[2]);
 }else{ 	echo '<br>CONECTADO';}
 
-mysql_query("SET NAMES 'utf8'");
-mysql_query("SET character_set_connection=utf8");
-mysql_query("SET character_set_client=utf8");
-mysql_query("SET character_set_results=utf8");
+$db->query("SET NAMES 'utf8'");
+$db->query("SET character_set_connection=utf8");
+$db->query("SET character_set_client=utf8");
+$db->query("SET character_set_results=utf8");
 
-if (! mysql_select_db(Cons_NomeBanco) ) {
-    die ('Erro no banco de dados  : ' . mysql_error());
+// Tente selecionar o banco de dados
+if (!$db->select_db(Cons_NomeBanco)) {
+    die('Erro ao selecionar o banco de dados: ' . $db->errorInfo()[2]);
 }else{ 	echo '<br> Banco Selecionado';}
 
 echo "<br>Teste ok";
@@ -46,8 +47,8 @@ echo "<br>Teste ok";
 # Update
 $sqlCampos = "UPDATE usuarios SET  Nome =  '{$Nome3}' WHERE id = 1178 ";  
 
-if (! mysql_query($sqlCampos) ){
-  die( ':: Erro : '. mysql_error()); 
+if (! $db->query($sqlCampos) ){
+  die( ':: Erro : '. $db->errorInfo()[2]); 
   echo "Fase de teste : Anote o seguinte erro!";
 }else{ 	echo '<br> Gravado com Sucesso';}
 

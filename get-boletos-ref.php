@@ -77,18 +77,18 @@ include('config.php');
     //if ($_GET['function']=='CNPJ'){ 
 
         //Lista Apenas Campos Eclesiáticos                                
-        $result = mysql_query("        
+        $result = $db->query("        
            select * from contasreceber 
                    where idUsuario      = {$id} 
                      and Status         = 'Pendente'
                      and DataReferencia = '{$data}-15 00:00:00'  
                      order by id desc 
-         ") or trigger_error(mysql_error()); 
+         ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
 
                     
 
-        $rowCount = mysql_num_rows($result);
+        $rowCount = $result->num_rows;
 
 
         ##Ja existe um ou mais boletos 

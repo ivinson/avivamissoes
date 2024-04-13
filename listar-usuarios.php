@@ -81,8 +81,6 @@ include("header.php")    ;
 $(document).ready(function() {
     var selected = [];                         
     new DataTable('#tbUsuarios', {
-        processing: true,
-        serverSide: true,
         ajax: {
             url: "scripts/getUsuarios.php"
         },

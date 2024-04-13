@@ -237,7 +237,7 @@ $sql = "	Select
  // echo "<br>" . $sql . "<br>";
 */
 
-$result = mysql_query("
+$result = $db->query("
 	Select 
 
 	DATE_FORMAT(cr.DataReferencia, '%m/%Y') AS Referente
@@ -254,9 +254,9 @@ $result = mysql_query("
 	-- and 	cr.Status = 'Pendente'
 
 
-	") or trigger_error(mysql_error()); 
+	")->results(true) or trigger_error($db->errorInfo()[2]); 
 
-	while($row = mysql_fetch_array($result)){ 
+	foreach($result as $row ){ 
 	foreach($row AS $key => $value) { $row[$key] = stripslashes($value); }
 
 		//$row['Status']

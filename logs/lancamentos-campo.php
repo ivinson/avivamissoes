@@ -24,7 +24,7 @@ if (isset($_GET['type'])  ) {
   if ($_GET['type'] == 'delete'){
       $id = (int) $_GET['id'];   
       $idLancamento = (int) $_GET['idLancamento']; 
-      mysql_query("DELETE FROM `lancamentosbancarios` WHERE `id` = '$idLancamento' ") ;   Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] deletou a remessa {$idLancamento} do campo id={$id}.");  
+      $db->query("DELETE FROM `lancamentosbancarios` WHERE `id` = '$idLancamento' ") ;   Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] deletou a remessa {$idLancamento} do campo id={$id}.");  
       //Redirect("lancamentos-campo.php?id=".$id);
       die("<script>location.href = 'lancamentos-campo.php?id={$id}'</script>");
   }
@@ -43,22 +43,22 @@ if (isset($_GET['type'])  ) {
 
 # Verifica todos os boletos pagos e se tem lancamentos bancarios correspondentes...
 # Caso contrario cria para esse campo
-$resultPagos = mysql_query("
+$resultPagos = $db->query("
   select * from contasreceber where Status = 'Pago' ;
-") or trigger_error(mysql_error()); 
+")->results(true) or trigger_error($db->errorInfo()[2]); 
 
-while($rowOption = mysql_fetch_array($resultPagos)){ 
+foreach($resultPagos as $rowOption ){ 
   foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                                             
       ##################################################################################3
       # Cria Lancamentos bancarios caso nao tenha ocorrencia 
-      $resultLancBanc = mysql_query("
+      $resultLancBanc = $db->query("
         select * from lancamentosbancarios where idContaReceber = {$rowOption['id']} ;
-      ") or trigger_error(mysql_error()); 
+      ") or trigger_error($db->errorInfo()[2]); 
 
       $countLac = 0;
       echo " boleto {$rowOption['id']} <br>";
 
-      while($rowOptionLanc = mysql_fetch_array($resultLancBanc)){ 
+      foreach($resultLancBanc as $rowOptionLanc ){ 
         foreach($rowOptionLanc AS $key => $value) { $rowOptionLanc[$key] = stripslashes($value); }                                             
           $countLac++;
         //echo "<li ><a  href='lancamentos-campo.php?id={$id}&ano={$rowOption['Ano']}'>{$rowOption['Ano']} </a></li>";              
@@ -105,8 +105,8 @@ $SqlInsereProcessamento = "
 
             //echo "<br>" . $SqlInsereProcessamento;
                 
-                if (! mysql_query($SqlInsereProcessamento) ){
-                      die( ':: Erro : '. mysql_error()); 
+                if (! $db->query($SqlInsereProcessamento) ){
+                      die( ':: Erro : '. $db->errorInfo()[2]); 
                       echo "Fase de teste lancamentosbancarios: Anote o seguinte erro!";
                     }
 
@@ -124,7 +124,7 @@ $SqlInsereProcessamento = "
 
 
 
-      //mysql_query("DELETE FROM `lancamentosbancarios` WHERE `id` = '$idLancamento' ") ; 
+      //$db->query("DELETE FROM `lancamentosbancarios` WHERE `id` = '$idLancamento' ") ; 
       
       //Redirect("lancamentos-campo.php?id=".$id);
       //die("<script>location.href = 'lancamentos-campo.php?id={$id}'</script>");
@@ -202,7 +202,7 @@ $SqlInsereProcessamento = "
                    $id = (int) $_GET['id'];   
                    //$Ano = (int) $_GET['Ano'];   
 
-                    $resultSelect = mysql_query("
+                    $resultSelect = $db->query("
                           SELECT distinct
                           year(lb.DataReferencia) as Ano 
                            FROM
@@ -211,14 +211,14 @@ $SqlInsereProcessamento = "
                             where lb.idUsuario = {$id}
                             order by year(lb.DataReferencia) desc
 
-                      ") or trigger_error(mysql_error()); 
+                      ") or trigger_error($db->errorInfo()[2]); 
 
 
 
                 echo "
                     <ul class='nav nav-tabs'>";
 
-                      while($rowOption = mysql_fetch_array($resultSelect)){ 
+                      foreach($resultSelect as $rowOption){ 
                         foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                                             
                           echo "<li ><a  href='lancamentos-campo.php?id={$id}&ano={$rowOption['Ano']}'>{$rowOption['Ano']} </a></li>";              
                         }
@@ -231,10 +231,10 @@ $SqlInsereProcessamento = "
                     ###############################################################################
                     ######Meses apenas para campos Eclesiasticos
                     $tipoUsuario = "";
-                    $rUsuario = mysql_query("  SELECT * FROM usuarios where id = {$id}
-                    ") or trigger_error(mysql_error()); 
+                    $rUsuario = $db->query("  SELECT * FROM usuarios where id = {$id}
+                    ")->results(true) or trigger_error($db->errorInfo()[2]); 
                     
-                    while($rowOptionUsuario = mysql_fetch_array($rUsuario)){ 
+                    foreach($rUsuario as $rowOptionUsuario ){ 
                       foreach($rowOptionUsuario AS $key => $value) { $rowOptionUsuario[$key] = stripslashes($value); }                                             
                        $tipoUsuario = $rowOptionUsuario['idTipoUsuario'];              
                       }
@@ -246,7 +246,7 @@ $SqlInsereProcessamento = "
                     
                     if($tipoUsuario == 6){
 
-                        $rsMesesEmAberto = mysql_query("
+                        $rsMesesEmAberto = $db->query("
                       
                         SELECT    
                         r.Nome as Regiao,  
@@ -278,10 +278,10 @@ $SqlInsereProcessamento = "
 
                                 order by count(u.id) desc;
     
-                          ") or trigger_error(mysql_error()); 
+                          ")->results(true) or trigger_error($db->errorInfo()[2]); 
     
     
-                          while($rowOptionMeses = mysql_fetch_array($rsMesesEmAberto)){ 
+                          foreach($rsMesesEmAberto as $rowOptionMeses ){ 
                               foreach($rowOptionMeses AS $keyMes => $valueMes) { $rowOptionMeses[$keyMes] = stripslashes($valueMes); }
                               echo "<li> <a>  -  </a>   </li><li ><a style='color:red !important;' href='lancamentos-campo.php?id={$id}&abertos=y'>  {$rowOptionMeses['MesesEmAberto']} Meses em Aberto </a></li>";              
                           }
@@ -357,7 +357,7 @@ echo " <div class='datatable-tools'>
 
             
             //Lista Apenas Campos Eclesiáticos                                
-            $resultSelect3 = mysql_query("
+            $resultSelect3 = $db->query("
                   SELECT 
                     lb.*
                     -- DATEDIFF( cr.DataEmissao, curdate()) as DiasAtraso
@@ -377,9 +377,9 @@ echo " <div class='datatable-tools'>
 
                      order by Referente
 
-              ") or trigger_error(mysql_error()); 
+              ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
-                  while($rowOption = mysql_fetch_array($resultSelect3)){ 
+                  foreach($resultSelect3 as $rowOption ){ 
                     foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }     
 
                       $valorMySQL = $rowOption['ValorBoleto'];                                            
@@ -424,7 +424,7 @@ echo " <div class='datatable-tools'>
 
               
               //Lista Apenas Campos Eclesiáticos                                
-              $resultSelect5 = mysql_query("
+              $resultSelect5 = $db->query("
 
                           SELECT    
                           r.Nome as Regiao,  
@@ -464,9 +464,9 @@ echo " <div class='datatable-tools'>
                                    
                                 
 
-                ") or trigger_error(mysql_error()); 
+                ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
-                    while($rowOption = mysql_fetch_array($resultSelect5)){ 
+                    foreach($resultSelect5 as $rowOption ){ 
                       foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); } 
 
                         $valorMySQL = $rowOption['ValorBoleto'];                                            

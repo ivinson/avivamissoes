@@ -7,16 +7,16 @@ include('scripts/functions.php');
 if (isset($_GET['id']) ) { 
 $id = (int) $_GET['id']; 
 	if (isset($_POST['submitted'])) { 
-	foreach($_POST AS $key => $value) { $_POST[$key] = mysql_real_escape_string($value); } 
+	foreach($_POST AS $key => $value) { $_POST[$key] = $db->escape($value); } 
 	$sql = "UPDATE `planodecontas` SET  `nome` =  '{$_POST['nome']}' ,  `tipo` =  '{$_POST['tipo']}'   WHERE `id` = '$id' "; 
-	mysql_query($sql) or die(mysql_error()); 
+	$db->query($sql) or die($db->errorInfo()[2]); 
 	echo (mysql_affected_rows()) ? "Edited row.<br />" : "Nothing changed. <br />"; 
 	echo "<a href='listar-plano-de-contas.php'>Voltar a Listagem </a>"; 
 	Redirect("listar-plano-de-contas.php",false); 
 
 
 	} 
-$row = mysql_fetch_array ( mysql_query("SELECT * FROM `planodecontas` WHERE `id` = '$id' ")); 
+$row =  $db->query("SELECT * FROM `planodecontas` WHERE `id` = '$id' ")->results(true); 
 ?>
 
 <div class="row">
@@ -75,8 +75,8 @@ echo "<th><b>Id</b></th>";
 echo "<th><b>Nome</b></th>"; 
 echo "<th><b>Tipo</b></th>"; 
 echo "</tr>"; 
-$result = mysql_query("select * from planodecontas_niveis where idplanodecontas = {$id}  ") or trigger_error(mysql_error()); 
-while($row = mysql_fetch_array($result)){ 
+$result = $db->query("select * from planodecontas_niveis where idplanodecontas = {$id}  ")->results(true) or trigger_error($db->errorInfo()[2]); 
+foreach($result as $row ){ 
 foreach($row AS $key => $value) { $row[$key] = stripslashes($value); } 
 echo "<tr>";  
 echo "<td valign='top'>" . nl2br( $row['id']) . "</td>";  

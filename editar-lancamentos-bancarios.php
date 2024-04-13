@@ -35,7 +35,7 @@
                             if (isset($_POST['submitted'])) { 
                               foreach($_POST AS $key => $value) { 
                 
-                                $_POST[$key] = mysql_real_escape_string($value);
+                                $_POST[$key] = $db->escape($value);
                                 
 
                                } 
@@ -68,8 +68,8 @@
 
                                              WHERE `id` = '{$_POST['idCampo']}' ";  
 
-                                    if (! mysql_query($sqlCampos) ){
-                                      die( ':: Erro : '. mysql_error()); 
+                                    if (! $db->query($sqlCampos) ){
+                                      die( ':: Erro : '. $db->errorInfo()[2]); 
                                       echo "Fase de teste : Anote o seguinte erro!";
                                     };
                                 }
@@ -87,9 +87,9 @@
                                 
                                    WHERE `id` = '$id' "; 
 
-                                if (! mysql_query($sql) ){
+                                if (! $db->query($sql) ){
 
-                                  die( ':: Erro : '. mysql_error()); 
+                                  die( ':: Erro : '. $db->errorInfo()[2]); 
                                   echo "Fase de teste : Anote o seguinte erro!";
 
                                };
@@ -104,7 +104,7 @@
 
                           } 
 
-                          $row = mysql_fetch_array ( mysql_query("SELECT u.*, c.NomePastorTitular, c.TotalCongregacoes, c.Membros, c.id as idCampo FROM usuarios u join congregacoes congreg on(congreg.id = u.idCongregacao) join campos c on(c.id = congreg.idCampo) WHERE u.id = '$id' ") ) ; 
+                          $row = $db->query("SELECT u.*, c.NomePastorTitular, c.TotalCongregacoes, c.Membros, c.id as idCampo FROM usuarios u join congregacoes congreg on(congreg.id = u.idCongregacao) join campos c on(c.id = congreg.idCampo) WHERE u.id = '$id' ")->results(true); 
                           
                           ?>                 
  
@@ -129,10 +129,10 @@
                                   <select  class="form-control" id="selectCongregacao"  name="selectCongregacao" class="chosen-select">
                                     <?php 
                                       
-                                      $resultSelect = mysql_query("select IGR.id as ID, concat (C.Nome,' - ', IGR.TipoCongregacao) as Nome  from congregacoes IGR
+                                      $resultSelect = $db->query("select IGR.id as ID, concat (C.Nome,' - ', IGR.TipoCongregacao) as Nome  from congregacoes IGR
                                                                     JOIN campos C ON ( C.id = IGR.idcampo)
-                                                                    order by C.Nome") or trigger_error(mysql_error()); 
-                                      while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                                                    order by C.Nome")->results(true) or trigger_error($db->errorInfo()[2]); 
+                                      foreach($resultSelect as $rowOption){ 
                                       foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                         echo "<option " . (stripslashes($row['idCongregacao'])==$rowOption['ID'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['ID']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                                       } 
@@ -149,8 +149,8 @@
                                   <select class="form-control" id="selectPerfil"  name="selectPerfil" class="chosen-select">
                                     <?php 
                                                                             
-                                      $resultSelect = mysql_query(" select * from tipousuario ") or trigger_error(mysql_error());                                   
-                                      while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                      $resultSelect = $db->query(" select * from tipousuario ")->results(true) or trigger_error($db->errorInfo()[2]);                                   
+                                      foreach($resultSelect as $rowOption){ 
                                       foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                         //echo "<option " . (stripslashes($row['idTipoUsuario'])==$rowOption['ID'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['ID']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                                       echo "<option " . (stripslashes($row['idTipoUsuario'])==$rowOption['id'] ? ' selected ' : '')  . "  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
@@ -205,8 +205,8 @@
                                     <?php 
                                       
                                       
-                                      $resultSelect2 = mysql_query(" select * from projetos ") or trigger_error(mysql_error());                                   
-                                      while($rowOption = mysql_fetch_array($resultSelect2)){ 
+                                      $resultSelect2 = $db->query(" select * from projetos ")->results(true) or trigger_error($db->errorInfo()[2]);                                   
+                                      foreach($resultSelect2 as $rowOption ){ 
                                       foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                         echo "<option " . (stripslashes($row['idProjetos'])==$rowOption['id'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                                       } 

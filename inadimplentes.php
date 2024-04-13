@@ -563,7 +563,7 @@ function verificaIniciodoCampo( $fdata, $fIdUsuario){
                         from usuarios u 
                       where u.id = {$fIdUsuario} 
                         and  '{$fdata}' > u.DataInicio    ");
-    $row=$db->results(true);
+    $row=$rs->results(true);
 
     //Caso a data de inicio for menor que a competencia
     //RetornaTrue e gera o fechamento

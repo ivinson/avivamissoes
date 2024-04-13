@@ -111,9 +111,9 @@ where TipoLancamento = 'PENDENTE'
 
 
 #TROCAR USUARIO PRODUCAO
-$resultMeses = mysql_query($sqlMeses) or trigger_error(mysql_error()); 
+$resultMeses = $db->query($sqlMeses)->results(true) or trigger_error($db->errorInfo()[2]); 
 
-while($rowOptionMeses = mysql_fetch_array($resultMeses)){ 
+foreach($resultMeses as $rowOptionMeses){ 
   foreach($rowOptionMeses AS $key => $value) { $rowOptionMeses[$key] = stripslashes($value); }                               
      
 echo "<div class=\"panel-group\" id=\"accordion\">";
@@ -130,7 +130,7 @@ echo "
 
               //exit;
               #TROCAR USUARIO PRODUCAO
-              $resultSelectDetalhamento = mysql_query("
+              $resultSelectDetalhamento = $db->query("
                select lb.*, u.Nome from lancamentosbancarios lb
                 join usuarios u on (u.id = lb.idusuario)
 
@@ -141,7 +141,7 @@ echo "
                -- and lb.idUsuario = 924 -- Campo Grande
               order by lb.idUsuario
 
-              ") or trigger_error(mysql_error()); 
+              ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
               $usuarioAnterior =0;
 
@@ -157,7 +157,7 @@ echo "
 
                                     </tr>" ; 
 
-                while($rowOptionDetalhamento = mysql_fetch_array($resultSelectDetalhamento)){ 
+                foreach($resultSelectDetalhamento as $rowOptionDetalhamento){ 
                   foreach($rowOptionDetalhamento AS $key => $value) { $rowOptionDetalhamento[$key] = stripslashes($value); }                               
               
 
@@ -297,7 +297,7 @@ echo "
               // sql to delete a record              
               $id = (int) $_GET['id'];   
               //$sql = "DELETE FROM lancamentosbancarios WHERE id= {$id} ";              
-              mysql_query($sql) ; 
+              $db->query($sql) ; 
 
               Logger("# Extrato Bradesco [Exclusao] ##");
               Logger("# O usuario {$_SESSION['nome']}({$_SESSION['idlogado']}) excluiu manualmente um lacamento bancario.");
@@ -320,6 +320,8 @@ echo "
 # E O BANCO DE DADOS
 #######################################################################
 function getLancamentosMes($DataReferencia,$idUsuario){
+  // Realize a conexão com o banco de dados
+  $db = DB::getInstance();
 
   #Prepara data de refrencia
   $mesRef = 0;
@@ -361,15 +363,15 @@ function getLancamentosMes($DataReferencia,$idUsuario){
   ";
 
 
-  $resultLancamentos = mysql_query($sql) or trigger_error(mysql_error()); 
-  $count = mysql_num_rows($resultLancamentos);
+  $resultLancamentos = $db->query($sql)->results(true) or trigger_error($db->errorInfo()[2]); 
+  $count = $resultLancamentos->num_rows;
 
   //echo $sql ;
   //echo "<br> Count :  {$count} ";
   //exit();
 if($count >= 1){
     //echo "<br> {$sql}";
- while($row = mysql_fetch_array($resultLancamentos)){ 
+ foreach($resultLancamentos as $row ){ 
                   foreach($row AS $key => $value) { $row[$key] = stripslashes($value); }
 
 

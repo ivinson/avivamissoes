@@ -99,8 +99,8 @@ $idUsuario = $_GET['userid'];
       and TipoLancamento not in ('PENDENTE')
   ";
 
-$resultAtuais = mysql_query($sqlAtuais) or trigger_error(mysql_error()); 
-while($row = mysql_fetch_array($resultAtuais)){ 
+$resultAtuais = $db->query($sqlAtuais)->results(true) or trigger_error($db->errorInfo()[2]); 
+foreach( $resultAtuais as $row ){ 
     foreach($row AS $key => $value) { $row[$key] = stripslashes($value); }
               echo "<table class='table' >
                                 <thead>
@@ -146,8 +146,8 @@ $sqlPendentes = " select lb.*, u.Nome from lancamentosbancarios lb
                                     </tr>" ;      
 
                   
-$resultPendentes = mysql_query($sqlPendentes) or trigger_error(mysql_error()); 
-  while($row = mysql_fetch_array($resultPendentes)){ 
+$resultPendentes = $db->query($sqlPendentes)->results(true) or trigger_error($db->errorInfo()[2]); 
+  foreach($resultPendentes as $row){ 
       foreach($row AS $key => $value) { $row[$key] = stripslashes($value); }
           echo "<tr bgcolor='#ccffcc'>"; 
           $phpdate = strtotime( $row['DataBaixa'] );
@@ -190,6 +190,8 @@ function setCorrigirCompetencias($mesRef,$anoRef,$idUsuario){
 
 echo $idUsuario . "<br>";
 
+// Realize a conexão com o banco de dados
+$db = DB::getInstance();
 
 
 # Deletar lancamento bancario atual
@@ -205,13 +207,13 @@ echo $idUsuario . "<br>";
 echo $sqlAtuais;
   
 
-$resultAtuais = mysql_query($sqlAtuais) or trigger_error(mysql_error()); 
-while($rowAtuais = mysql_fetch_array($resultAtuais)){ 
+$resultAtuais = $db->query($sqlAtuais)->results(true) or trigger_error($db->errorInfo()[2]); 
+foreach( $resultAtuais as $rowAtuais ){ 
  foreach($rowAtuais AS $key => $value) { $rowAtuais[$key] = stripslashes($value); }
 
         $id = $rowAtuais['id'];   
         $sqlDel = "DELETE FROM lancamentosbancarios WHERE id= {$id} ;";              
-        mysql_query($sqlDel) ; 
+        $db->query($sqlDel) ; 
         echo "deletou lancamentosbancarios id {$id}<br>";
 }
 
@@ -234,14 +236,14 @@ select * from lancamentosbancarios lb
 echo "<br>";    
 echo $sqlPendentes;
                   
-$resultPendentes = mysql_query($sqlPendentes) or trigger_error(mysql_error()); 
-  while($row = mysql_fetch_array($resultPendentes)){ 
+$resultPendentes = $db->query($sqlPendentes)->results(true) or trigger_error($db->errorInfo()[2]); 
+  foreach( $resultPendentes as $rowPendentes){ 
       foreach($rowPendentes AS $key => $value) { $row[$key] = stripslashes($value); }
         $id = $row['id'];   
         $sqlUpd = "UPDATE  lancamentosbancarios 
                 Set TipoLancamento = 'Regular'
         WHERE id= {$id} ;";              
-        mysql_query($sqlUpd) ; 
+        $db->query($sqlUpd) ; 
 
 }
 

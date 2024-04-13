@@ -2,7 +2,7 @@
 include('config.php'); 
 
 $fID =  $_GET['id'] ;
-$result = mysql_query("                                        
+$result = $db->query("                                        
                             SELECT 
                                           lb.*,
                                             DATEDIFF( cr.DataEmissao, curdate()) as DiasAtraso
@@ -16,8 +16,8 @@ $result = mysql_query("
                                             join contasreceber cr on (cr.id = lb.idContaReceber)
                                             join usuarios u on (u.id = cr.idusuario)
 
-                      where lb.id = ".$fID." ") or trigger_error(mysql_error()); 
-while($row = mysql_fetch_array($result)){ 
+                      where lb.id = ".$fID." ")->results(true) or trigger_error($db->errorInfo()[2]); 
+foreach($result as $row ){ 
 foreach($row AS $key => $value) { $row[$key] = stripslashes($value); } 
 
 //echo "<div class=\"main\">";

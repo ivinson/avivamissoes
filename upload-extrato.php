@@ -243,6 +243,9 @@ function geraCredito($fdata, $fDescricao , $fNroDocto, $fValor  ){
 # id usuario homolog 1182
 # id usuario producao 1196
 
+// Realize a conexão com o banco de dados
+$db = DB::getInstance();
+
 $SqlInsereProcessamento	= "
 	INSERT INTO lancamentosbancarios
 	(
@@ -272,8 +275,8 @@ $SqlInsereProcessamento	= "
 
   
 
-  if (! mysql_query($SqlInsereProcessamento) ){
-      die( ':: Erro : '. mysql_error()); 
+  if (! $db->query($SqlInsereProcessamento) ){
+      die( ':: Erro : '. $db->errorInfo()[2]); 
       echo "Fase de teste lancamentosbancarios: Anote o seguinte erro!";
     }
 
@@ -306,7 +309,8 @@ function verificaLancamento($fDescricao,$fNroDocto,$fValorCREDITO,$fdata){
     	#	and DataBaixa = '{$fdata}' and Round(Valor,2) = '{$fValorCREDITO}' ";
 		#	die();
 		#}
-
+	// Realize a conexão com o banco de dados
+	$db = DB::getInstance();
 
   //SE FOR RESGATE NAO GERA LANCAMENTO
 	if (strpos($fDescricao, "RESGATE") !== false) {
@@ -316,10 +320,10 @@ function verificaLancamento($fDescricao,$fNroDocto,$fValorCREDITO,$fdata){
 	}
 
 
-    $rs = mysql_query("select count(*) as total from lancamentosbancarios where NumeroDocumento = '{$fNroDocto}' 
+    $rs = $db->query("select count(*) as total from lancamentosbancarios where NumeroDocumento = '{$fNroDocto}' 
     		and DataBaixa = '{$fdata}' and Round(Valor,2) = '{$fValorCREDITO}'
     ");
-    $row=mysql_fetch_assoc($rs);
+    $row= $rs->results(true);
     if($row['total'] > 0){
 		//ECHO "total  {$row['total']} - ja existe<br>";	
     	return false;
@@ -349,15 +353,17 @@ function verificaOperacoesIrregulares($fNroDocto,$fValorCREDITO,$fValorDEBITO){
 	#	 and Round(Valor,2) = '{$VlDoc}' ";
 	#	die();
 	#}
+		// Realize a conexão com o banco de dados
+		$db = DB::getInstance();
 
 
-    $rs = mysql_query("select count(*) as total 
+    $rs = $db->query("select count(*) as total 
     			from lancamentosbancarios 
     				where 
     				NumeroDocumento = '{$fNroDocto}' and  
     				Round(Valor,2) = '{$VlDoc}'
     ");
-    $row=mysql_fetch_assoc($rs);
+    $row=$rs->results(true);
     if($row['total'] > 0){
 		
 		ECHO "<br>total  {$row['total']} - ja existe<br>";	
@@ -371,7 +377,7 @@ function verificaOperacoesIrregulares($fNroDocto,$fValorCREDITO,$fValorDEBITO){
     				Round(Valor,2) = '{$VlDoc}'";
 
 
-    	$rsDeleteOp = mysql_query("delete from lancamentosbancarios 
+    	$rsDeleteOp = $db->query("delete from lancamentosbancarios 
     				where 
     				NumeroDocumento = '{$fNroDocto}' and  
     				Round(Valor,2) = '{$VlDoc}'
@@ -379,7 +385,7 @@ function verificaOperacoesIrregulares($fNroDocto,$fValorCREDITO,$fValorDEBITO){
 
 
 
-		$row=mysql_fetch_assoc($rsDeleteOp);
+		$row=$rsDeleteOp->results(true);
 		Echo "<br> Deletado.";
 		
 

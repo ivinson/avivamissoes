@@ -49,6 +49,8 @@ if($vlinha) {
   	//printf("%08d: ", $numLn);
   	#echo "<br>Acao  :" ." Identificou a linha detalhe"; 
 	//die();  
+	// Realize a conexão com o banco de dados
+	$db = DB::getInstance();
 
 	#Variaveis de controle
 	$StringProcessada = get_class($self) . ": Nosso N&uacute;mero <b>".$vlinha['nosso_numero']."</b> "."Data <b>".$vlinha["data_ocorrencia"]."</b> "."Valor <b>".$vlinha["valor"]."</b>";
@@ -68,10 +70,10 @@ if($vlinha) {
 		$statusboleto = 'Rejeitado';
 
 		#Encontra boleto com esse nosso numero                                 
-		$resultSelect2 = mysql_query(" SELECT * FROM contasreceber WHERE NossoNumero like '%".$controle."%';") or trigger_error(mysql_error());                 
+		$resultSelect2 = $db->query(" SELECT * FROM contasreceber WHERE NossoNumero like '%".$controle."%';")->results(true) or trigger_error($db->errorInfo()[2]);                 
 		//echo "SELECT * FROM contasreceber WHERE NossoNumero like '%".$controle."%';";
 		//die();
-		while($rowOption = mysql_fetch_array($resultSelect2)){ 
+		foreach($resultSelect2 as $rowOption ){ 
 			foreach($rowOption AS $key => $value) { 
 				$rowOption[$key] = stripslashes($value); 
 			} 
@@ -83,8 +85,8 @@ if($vlinha) {
 						,DataBaixa 	= 	Curdate()
 						,BaixadoPor = 	0
 						 where id 	= 	".$rowOption['id'] ;
-			if (! mysql_query($SqlBaixaBoletoRejeitado) ){
-				  die( ':: Erro : '. mysql_error()); 
+			if (! $db->query($SqlBaixaBoletoRejeitado) ){
+				  die( ':: Erro : '. $db->errorInfo()[2]); 
 				};
 
 
@@ -144,8 +146,8 @@ if($vlinha) {
 
 
 	          #Debug- Descomentar
-	          if (! mysql_query($SqlInsereProcessamento) ){
-                  die( ':: Erro : '. mysql_error()); 
+	          if (! $db->query($SqlInsereProcessamento) ){
+                  die( ':: Erro : '. $db->errorInfo()[2]); 
                //   echo "Fase de teste : Anote o seguinte erro!";
                 };
 
@@ -153,14 +155,14 @@ if($vlinha) {
 				//		 WHERE NossoNumero like '%". $fNN ."%';" ;
 
                 /* Busca Boleto com esse nosso numero*/                                        
-                $resultSelect2 = mysql_query("
+                $resultSelect2 = $db->query("
 						
 						SELECT * FROM contasreceber 
 						 WHERE NossoNumero like '%".$fNN."%';
 
-                  ") or trigger_error(mysql_error());                 
+                  ")->results(true) or trigger_error($db->errorInfo()[2]);                 
 
-                while($rowOption = mysql_fetch_array($resultSelect2)){ 
+                foreach($resultSelect2 as $rowOption ){ 
     					
     					foreach($rowOption AS $key => $value) { 
     						$rowOption[$key] = stripslashes($value); 
@@ -186,8 +188,8 @@ if($vlinha) {
 
 
 	    				#debug - Descomentar 
-		    			if (! mysql_query($SqlBaixaBoleto) ){
-		                  die( ':: Erro : '. mysql_error()); 
+		    			if (! $db->query($SqlBaixaBoleto) ){
+		                  die( ':: Erro : '. $db->errorInfo()[2]); 
 		                //  echo "Fase de teste da baixa de boleto: Anote o seguinte erro!";
 		                };
 
@@ -239,8 +241,8 @@ if($vlinha) {
 								#descomentar  e trocar o if
 								//if(1==2){
 					            
-					            if (! mysql_query($SqlInsereProcessamento) ){
-				                  die( ':: Erro : '. mysql_error()); 
+					            if (! $db->query($SqlInsereProcessamento) ){
+				                  die( ':: Erro : '. $db->errorInfo()[2]); 
 				                 // echo "Fase de teste lancamentosbancarios: Anote o seguinte erro!";
 				                }else{
 
@@ -248,9 +250,9 @@ if($vlinha) {
 				                	
 								    //Enviar email
 								    #Pegar email do pastor
-								    $rowEmail = mysql_fetch_array ( 
-								                    mysql_query("SELECT *
-								                                  from usuarios WHERE id = ".$rowOption['idUsuario']." "));         
+									$rowEmail = $db->query("SELECT *
+								                                  from usuarios WHERE id = ".$rowOption['idUsuario']." ")->results(true); 
+        
 
 								    //$valor_cobrado = '1300';
 								    //$data_referencia = '03/2015';
@@ -439,7 +441,8 @@ if(isset($_POST)){
 <?php
 
 function verificaLancamento($fValorCREDITO,$fdata,$idusuario){
-
+		// Realize a conexão com o banco de dados
+		$db = DB::getInstance();
     #Debug
     #echo   " select count(*) as total from lancamentosbancarios where 
     #         DataReferencia = '{$fdata}' and Round(Valor,2) = '{$fValorCREDITO}'
@@ -450,7 +453,7 @@ function verificaLancamento($fValorCREDITO,$fdata,$idusuario){
 	//return true;
 
 
-    $rs = mysql_query("select count(*) as total from lancamentosbancarios where 
+    $rs = $db->query("select count(*) as total from lancamentosbancarios where 
              
              (DataReferencia = '{$fdata}' and idUsuario = {$idusuario} )
              or 
@@ -460,14 +463,14 @@ function verificaLancamento($fValorCREDITO,$fdata,$idusuario){
 
     //-- and Round(Valor,2) = '{$fValorCREDITO}'
 
-    $row=mysql_fetch_assoc($rs);
+    $row=$rs->results(true);
     if($row['total'] > 0){
         //echo "total  {$row['total']} - ja existe<br>";  
 
         //$id = $_GET['id'];  
         
         #Deleta o Registro encontrado para colocar um novo valor(inclusive fechamentos)
-        mysql_query("DELETE FROM `lancamentosbancarios` WHERE 
+        $db->query("DELETE FROM `lancamentosbancarios` WHERE 
         DataReferencia = '{$fdata}' 
         
         and idUsuario = {$idusuario}

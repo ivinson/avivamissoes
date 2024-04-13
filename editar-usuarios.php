@@ -9,8 +9,6 @@ include('scripts/functions.php');
   if (isset($_POST['submitted'])) { 
     foreach($_POST AS $key => $value) { 
 
-      //$_POST[$key] = mysql_real_escape_string(htmlentities($value));
-      //$_POST[$key] = mysql_real_escape_string($value);
       $_POST[$key] = $value;
 
     } 
@@ -214,7 +212,7 @@ if (isset($_GET['id']) ) {
                                             SELECT '' as id, 'Escolha uma Região' as Nome
                                             UNION
                                             SELECT id, Nome FROM regioes
-                                        ") or trigger_error($db->error);
+                                        ") or trigger_error($db->errorInfo()[2]);
 
                                         echo "<select id=\"selectRegiao\" name=\"selectRegiao\" class=\"form-control chosen-select\">";
                                         foreach($resultSelect->results(true) as $rowOption) {
@@ -237,7 +235,7 @@ if (isset($_GET['id']) ) {
 
                                           $resultSelect = $db->query("select IGR.id as ID, concat (C.Nome,' - ', IGR.TipoCongregacao) as Nome  from congregacoes IGR
                                             JOIN campos C ON ( C.id = IGR.idcampo)
-                                            order by C.Nome") or trigger_error($db->error);
+                                            order by C.Nome") or trigger_error($db->errorInfo()[2]);
                                           foreach($resultSelect->results(true) as $rowOption ){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                             echo "<option " . (stripslashes($row['idCongregacao'])==$rowOption['ID'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['ID']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
@@ -255,7 +253,7 @@ if (isset($_GET['id']) ) {
                                         <select class="form-control" id="selectPerfil"  name="selectPerfil" class="chosen-select">
                                           <?php 
 
-                                          $resultSelect = $db->query(" select * from tipousuario ") or trigger_error($db->error);                                   
+                                          $resultSelect = $db->query(" select * from tipousuario ") or trigger_error($db->errorInfo()[2]);                                   
                                           foreach($resultSelect->results(true) as $rowOption ){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                         //echo "<option " . (stripslashes($row['idTipoUsuario'])==$rowOption['ID'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['ID']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
@@ -319,7 +317,7 @@ if (isset($_GET['id']) ) {
                                           <?php 
 
 
-                                          $resultSelect2 = $db->query(" select * from projetos ") or trigger_error($db->error);                                   
+                                          $resultSelect2 = $db->query(" select * from projetos ") or trigger_error($db->errorInfo()[2]);                                   
                                           foreach($resultSelect2->results(true) as $rowOption){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                             echo "<option " . (stripslashes($row['idProjetos'])==$rowOption['id'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 

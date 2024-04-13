@@ -106,10 +106,10 @@ include("../config.php");
 
 header("Content-Type: text/html;  charset=ISO-8859-1",true);
 
-//mysql_query("SET NAMES 'utf8'");
-//mysql_query("SET character_set_connection=utf8");
-//mysql_query("SET character_set_client=utf8");
-//mysql_query("SET character_set_results=utf8");
+//$db->query("SET NAMES 'utf8'");
+//$db->query("SET character_set_connection=utf8");
+//$db->query("SET character_set_client=utf8");
+//$db->query("SET character_set_results=utf8");
 
 /* Variaveis Globais para Boleto e Contas  Receber */
 //Variaveis -----------------------------------------
@@ -136,7 +136,7 @@ $fAnoref  =  $ano ;
     $sqlUpCNPJ =  "update usuarios set CPF = '{$cnpj}' where id = {$fID}";
   }
 
-  mysql_query($sqlUpCNPJ) or die(mysql_error()); 
+  $db->query($sqlUpCNPJ) or die($db->errorInfo()[2]); 
 
   //echo "DEBUG <br>";
   //echo "--> Atualiza CNPJ e CPF <br>";
@@ -159,8 +159,8 @@ $fAnoref  =  $ano ;
 
 //Pegar proximo numero e gravar como nosso numero
 $fNossoNumero     =  0 ;
-$resultNossonumero = mysql_query("select max(id) + 1 as NossoNumero from contasreceber") or trigger_error(mysql_error()); 
-while($rowNN = mysql_fetch_array($resultNossonumero)){    
+$resultNossonumero = $db->query("select max(id) + 1 as NossoNumero from contasreceber")->results(true) or trigger_error($db->errorInfo()[2]); 
+foreach($resultNossonumero as $rowNN ){    
     foreach($rowNN AS $keyNN => $valueNN) { $rowNN[$keyNN] = stripslashes($valueNN); } 
       $fNossoNumero     =  $rowNN["NossoNumero"] ;
 }
@@ -171,7 +171,7 @@ while($rowNN = mysql_fetch_array($resultNossonumero)){
 
 
 //Select
-$result = mysql_query("select 
+$result = $db->query("select 
                         usuarios.Nome as NomeEmissor
                       , usuarios.id as IdUsuario
                       , campos.id as idCampo
@@ -187,7 +187,7 @@ $result = mysql_query("select
                       join congregacoes on usuarios.idCongregacao = congregacoes.id
                       join campos on congregacoes.idCampo = campos.id
 
-                      where usuarios.id = ".$fID." ") or trigger_error(mysql_error()); 
+                      where usuarios.id = ".$fID." ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
 
 
@@ -195,7 +195,7 @@ $result = mysql_query("select
 // Os valores abaixo podem ser colocados manualmente ou ajustados p/ formulário c/ POST, GET ou de BD (MySql,Postgre,etc)	//
 
 
-while($row = mysql_fetch_array($result)){ 
+foreach($result as $row ){ 
     
     foreach($row AS $key => $value) { $row[$key] = stripslashes(htmlentities($value)); } 
     /*
@@ -299,12 +299,12 @@ while($row = mysql_fetch_array($result)){
 
 
              //Lista Apenas Campos Eclesiáticos                                
-        $result = mysql_query("        
+        $result = $db->query("        
            select * from contasreceber 
                    where idUsuario      = {$fGeradoPor} 
                      and Status         = 'Pendente'
                      and DataReferencia = '{$data}-15 00:00:00' 
-         ") or trigger_error(mysql_error()); 
+         ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
 
 /*
@@ -314,14 +314,14 @@ while($row = mysql_fetch_array($result)){
                      and DataReferencia = '{$data}-15 00:00:00' ";
   */      
                      
-        $rowCount = mysql_num_rows($result);
+        $rowCount = $result->num_rows;
 
         ##Ja existe um ou mais boletos 
         ##para esse mes e ano
         //echo "<br> linhas " . $rowCount;
         if($rowCount > 0){
            //echo "select * from usuarios where id = {$id}";
-            while($row = mysql_fetch_array($result)){ 
+            foreach($result as $row ){ 
               foreach($row AS $key => $value) { 
                 $row[$key] = stripslashes($value); 
               }  
@@ -345,8 +345,8 @@ while($row = mysql_fetch_array($result)){
 
             /*#debug - Descomentar   */ 
             
-            if (! mysql_query($SqlBaixaBoleto) ){
-                    die( ':: Erro 1: '. mysql_error()); 
+            if (! $db->query($SqlBaixaBoleto) ){
+                    die( ':: Erro 1: '. $db->errorInfo()[2]); 
                     echo "Fase de teste da baixa de boleto: Anote o seguinte erro!";
                   }; 
                           
@@ -373,7 +373,7 @@ while($row = mysql_fetch_array($result)){
 
     /*#debug - Descomentar  */
     
-    // if (! mysql_query($SqlDelete) ){
+    // if (! $db->query($SqlDelete) ){
     //         die( ':: Erro 2: '. mysql_error()); 
     //         echo "Fase de teste da baixa de boleto: 
     //         Anote o seguinte erro!";
@@ -420,7 +420,7 @@ while($row = mysql_fetch_array($result)){
 
     //echo "<br> SQL Insert qdo for nova emissao - " . $sqlInsert;
     //echo $sqlInsert;
-    mysql_query($sqlInsert) or die(mysql_error()); 
+    $db->query($sqlInsert) or die($db->errorInfo()[2]); 
     echo "<br /> Gerado uma previs&atilde;o no sistema avivamissoes"; 
     //echo "   " . $ValorSemPonto ; 
 

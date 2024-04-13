@@ -4,7 +4,7 @@ include('config.php');
 $fID =  $_GET['id'] ;
 
 
-$result = mysql_query(" select lb.*
+$result = $db->query(" select lb.*
                       , usuarios.Nome as NomeEmissor
                       , usuarios.id as IdUsuario
                       , campos.id as idCampo
@@ -20,11 +20,11 @@ $result = mysql_query(" select lb.*
                       join lancamentosbancarios lb on (lb.idUsuario = usuarios.id )
                       join regioes on (regioes.id = campos.idRegiao)
 
-                      where lb.id = ".$fID." order by NomeEmissor ") or trigger_error(mysql_error()); 
+                      where lb.id = ".$fID." order by NomeEmissor ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
 
 
-while($row = mysql_fetch_array($result)){ 
+foreach($result as $row ){ 
 foreach($row AS $key => $value) { $row[$key] = stripslashes($value); } 
 
 //echo "<br>" . $row['Valor'];

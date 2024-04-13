@@ -2,7 +2,7 @@
 include('config.php'); 
 
 $fID =  $_GET['id'] ;
-$result = mysql_query("select 
+$result = $db->query("select 
                         usuarios.Nome as NomeEmissor
                       , usuarios.id as IdUsuario
                       , campos.id as idCampo
@@ -14,8 +14,8 @@ $result = mysql_query("select
                       join congregacoes on usuarios.idCongregacao = congregacoes.id
                       join campos on congregacoes.idCampo = campos.id
 
-                      where usuarios.id = ".$fID." order by NomeEmissor ") or trigger_error(mysql_error()); 
-while($row = mysql_fetch_array($result)){ 
+                      where usuarios.id = ".$fID." order by NomeEmissor ")->results(true) or trigger_error($db->errorInfo()[2]); 
+foreach($result as $row ){ 
 foreach($row AS $key => $value) { $row[$key] = stripslashes($value); } 
 
 //echo "<div class=\"main\">";

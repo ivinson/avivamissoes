@@ -270,7 +270,7 @@
 
                                    
                                     //Lista Apenas Campos Eclesiáticos                              
-                                    $resultSelect = mysql_query("
+                                    $resultSelect = $db->query("
                                       SELECT 
                                       lb.*
                                       ,DATE_FORMAT(lb.DataReferencia, '%m/%Y') AS Referente
@@ -289,12 +289,12 @@
 
                                       order by lb.DataBaixa desc                                       
 
-                                      ") or trigger_error(mysql_error()); 
+                                      ")->results(true) or trigger_error($db->errorInfo()[2]); 
                                   
                                     //echo $resultSelect;
 
 
-                                          while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                          foreach($resultSelect as $rowOption){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                               
 
@@ -390,7 +390,7 @@
                                  }else{
 
                                     //Lista Apenas Campos Eclesiáticos  SEM FILTROS                              
-                                    $resultSelect = mysql_query("
+                                    $resultSelect = $db->query("
                                           SELECT 
                                             lb.*
                                             -- DATEDIFF( cr.DataEmissao, curdate()) as DiasAtraso
@@ -408,11 +408,11 @@
                                                   where  lb.valor > 0 and year( lb.DataReferencia) >= 2015
                                                   order by lb.DataReferencia desc
 
-                                      ") or trigger_error(mysql_error()); 
+                                      ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
                                          
 
-                                          while($rowOption = mysql_fetch_array($resultSelect)){                                             
+                                          foreach($resultSelect as $rowOption){                                             
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                             
                                             //$AgrupamentoReferencia = $rowOption['Referente'];  

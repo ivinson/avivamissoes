@@ -1,10 +1,10 @@
  <?php
 include("../config.php"); 
 
-mysql_query("SET NAMES 'utf8'");
-mysql_query("SET character_set_connection=utf8");
-mysql_query("SET character_set_client=utf8");
-mysql_query("SET character_set_results=utf8");
+$db->query("SET NAMES 'utf8'");
+$db->query("SET character_set_connection=utf8");
+$db->query("SET character_set_client=utf8");
+$db->query("SET character_set_results=utf8");
 
 /* Variaveis Globais para Boleto e Contas  Receber */
 //Variaveis -----------------------------------------
@@ -27,8 +27,8 @@ $fGeradoPor       = 0; //`GeradoPor`
 
 //Pegar proximo numero e gravar como nosso numero
 $fNossoNumero     =  0 ;
-$resultNossonumero = mysql_query("select max(id) + 1 as NossoNumero from contasreceber") or trigger_error(mysql_error()); 
-while($rowNN = mysql_fetch_array($resultNossonumero)){    
+$resultNossonumero = $db->query("select max(id) + 1 as NossoNumero from contasreceber")->results(true) or trigger_error($db->errorInfo()[2]); 
+foreach($resultNossonumero as $rowNN ){    
     foreach($rowNN AS $keyNN => $valueNN) { $rowNN[$keyNN] = stripslashes($valueNN); } 
       $fNossoNumero     =  $rowNN["NossoNumero"] ;
 }
@@ -36,7 +36,7 @@ while($rowNN = mysql_fetch_array($resultNossonumero)){
 
 
 //Select
-$result = mysql_query("select 
+$result = $db->query("select 
                         usuarios.Nome as NomeEmissor
                       , usuarios.id as IdUsuario
                       , campos.id as idCampo
@@ -52,9 +52,9 @@ $result = mysql_query("select
                       join congregacoes on usuarios.idCongregacao = congregacoes.id
                       join campos on congregacoes.idCampo = campos.id
 
-                      where usuarios.id = ".$fID." ") or trigger_error(mysql_error()); 
+                      where usuarios.id = ".$fID." ") or trigger_error($db->errorInfo()[2]); 
 
-while($row = mysql_fetch_array($result)){ 
+foreach($result as $row ){ 
     
     foreach($row AS $key => $value) { $row[$key] = stripslashes($value); } 
     /*
@@ -169,7 +169,7 @@ while($row = mysql_fetch_array($result)){
     );     "; 
     
     //echo $sqlInsert;
-    mysql_query($sqlInsert) or die(mysql_error()); 
+    $db->query($sqlInsert) or die($db->errorInfo()[2]); 
     echo "<br /> Gerado uma previsão no sistema avivamissoes."; 
 }
 

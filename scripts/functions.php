@@ -8,12 +8,15 @@ if(file_exists('file.php'))
 
 #total de boletos pagos
 function fn_Total_Boletos_Baixados (){
-  $result=mysql_query("SELECT Count(*) as total FROM contasreceber WHERE DataBaixa is not null;");
+  // Realize a conexão com o banco de dados
+  $db = DB::getInstance();
 
-while ($row = mysql_fetch_assoc($result)) {
-    // Do stuff with $row
-     $row['total'];
-}
+  $result=$db->query("SELECT Count(*) as total FROM contasreceber WHERE DataBaixa is not null;")->results(true);
+
+  foreach ($result as $row) {
+      // Do stuff with $row
+      $row['total'];
+  }
 
 };
 
@@ -66,7 +69,7 @@ function fn_baixa_contas_receber(
       {$id_conta_bancaria })";
       //echo "SQL - <br><br>" . $sqlInsert;
       //echo $sqlInsert;
-      //mysql_query($sqlInsert) or die(mysql_error()); 
+      //$db->query($sqlInsert) or die(mysql_error()); 
 
 
   return $sqlInsert;

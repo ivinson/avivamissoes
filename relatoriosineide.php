@@ -139,16 +139,16 @@ if (isset($_GET['type']) ) {
 
      
     //Lista TODAS AS REGIOES                             
-    $resultRegioes = mysql_query("  Select * from regioes where id<>2") or trigger_error(mysql_error()); 
+    $resultRegioes = $db->query("  Select * from regioes where id<>2")->results(true) or trigger_error($db->errorInfo()[2]); 
 
       //SELECIONA TODAS AS REGIOES 
-      while($rowOptionRegioes = mysql_fetch_array($resultRegioes)){ 
+      foreach($resultRegioes as $rowOptionRegioes ){ 
       foreach($rowOptionRegioes AS $key => $value) { $rowOptionRegioes[$key] = stripslashes($value); }  
 
 
           echo "<div  id='reg_{$rowOptionRegioes['id']}' class='col-md-12' style=' border:1px !Important;'> <h3 style='background-color:#FFC107;'>".$rowOptionRegioes['Nome'] ." </h3>";
           //PARA CADA REGIAO, SELECIONAMOS TODOS OS CAMPOS
-          $resultCampos = mysql_query("  
+          $resultCampos = $db->query("  
 
                           select u.* from usuarios u 
                           join congregacoes cg on (u.idCongregacao = cg.id)
@@ -158,7 +158,7 @@ if (isset($_GET['type']) ) {
 
                                 and u.idTipoUsuario <> 8 -- inativos
                                 ;
-            ") or trigger_error(mysql_error()); 
+            ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
               #Tabela de campos
               echo "<table class='table table-condensed'>";  
@@ -166,7 +166,7 @@ if (isset($_GET['type']) ) {
               echo "<tbody>";
 
               //SELECIONA TODOS OS CAMPOS 
-              while($rowOptionCampos = mysql_fetch_array($resultCampos)){ 
+              foreach($resultCampos as $rowOptionCampos ){ 
               foreach($rowOptionCampos AS $key => $value) { $rowOptionCampos[$key] = stripslashes($value); }  
 
 
@@ -222,7 +222,7 @@ if (isset($_GET['type']) ) {
 
                   //exit;
 
-                    $resultMovimentos = mysql_query("
+                    $resultMovimentos = $db->query("
 
                               select DATE_FORMAT(LB.DataReferencia, '%m/%y') AS dtReferente 
                                 from lancamentosbancarios LB 
@@ -239,7 +239,7 @@ if (isset($_GET['type']) ) {
 
                                                         and LB.idUsuario = {$rowOptionCampos['id']};
 
-                      ") or trigger_error(mysql_error());  
+                      ")->results(true) or trigger_error($db->errorInfo()[2]);  
 
 
                       
@@ -254,7 +254,7 @@ if (isset($_GET['type']) ) {
 
 
                         //SELECIONA TODOS OS CAMPOS 
-                        while($rowOptionMovimentos = mysql_fetch_array($resultMovimentos)){ 
+                        foreach($resultMovimentos as $rowOptionMovimentos ){ 
 
                         foreach($rowOptionMovimentos AS $key2 => $value2) {   $rowOptionMovimentos[$key2] = stripslashes($value2); }                      
 

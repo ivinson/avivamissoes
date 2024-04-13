@@ -28,7 +28,8 @@ function linhaProcessada($self, $numLn, $vlinha) {
 		//die();  
 
 
-
+		// Realize a conexão com o banco de dados
+		$db = DB::getInstance();
 
 
       $StringProcessada = get_class($self) . ": Nosso N&uacute;mero <b>".$vlinha['nosso_numero']."</b> "."Data <b>".$vlinha["data_ocorrencia"]."</b> "."Valor <b>".$vlinha["valor"]."</b>";
@@ -74,8 +75,8 @@ function linhaProcessada($self, $numLn, $vlinha) {
 
 
 	          #Debug- Descomentar
-	          if (! mysql_query($SqlInsereProcessamento) ){
-                  die( ':: Erro : '. mysql_error()); 
+	          if (! $db->query($SqlInsereProcessamento) ){
+                  die( ':: Erro : '. $db->errorInfo()[2]); 
                   echo "Fase de teste : Anote o seguinte erro!";
                 };
 
@@ -83,16 +84,16 @@ function linhaProcessada($self, $numLn, $vlinha) {
 				#		 WHERE NossoNumero like '%". $fNN ."%';" ;
 
                 /* Busca Boleto com esse nosso numero*/                                        
-                $resultSelect2 = mysql_query("
+                $resultSelect2 = $db->query("
 						
 						SELECT * FROM contasreceber 
 						 WHERE NossoNumero like '%".$fNN."%';
 
-                  ") or trigger_error(mysql_error());                 
+                  ")->results(true) or trigger_error($db->errorInfo()[2]);                 
 
                 	//echo $resultSelect2;
 
-                while($rowOption = mysql_fetch_array($resultSelect2)){ 
+                foreach($resultSelect2 as $rowOption ){ 
     					
     					foreach($rowOption AS $key => $value) { 
     						$rowOption[$key] = stripslashes($value); 
@@ -114,8 +115,8 @@ function linhaProcessada($self, $numLn, $vlinha) {
     				
 
     				#debug - Descomentar 
-	    			if (! mysql_query($SqlBaixaBoleto) ){
-	                  die( ':: Erro : '. mysql_error()); 
+	    			if (! $db->query($SqlBaixaBoleto) ){
+	                  die( ':: Erro : '. $db->errorInfo()[2]); 
 	                  echo "Fase de teste da baixa de boleto: Anote o seguinte erro!";
 	                };
 
@@ -167,8 +168,8 @@ function linhaProcessada($self, $numLn, $vlinha) {
 					  #############################
 			            //die();
 						//if(1==2){
-			            if (! mysql_query($SqlInsereProcessamento) ){
-		                  die( ':: Erro : '. mysql_error()); 
+			            if (! $db->query($SqlInsereProcessamento) ){
+		                  die( ':: Erro : '. $db->errorInfo()[2]); 
 		                  echo "Fase de teste lancamentosbancarios: Anote o seguinte erro!";
 		                }else{
 
@@ -176,9 +177,9 @@ function linhaProcessada($self, $numLn, $vlinha) {
 
 						    //Enviar email
 						    #Pegar email do pastor
-						    $rowEmail = mysql_fetch_array ( 
-						                    mysql_query("SELECT *
-						                                  from usuarios WHERE id = ".$rowOption['idUsuario']." "));         
+						    $rowEmail =  $db->query("SELECT *
+						                                  from usuarios WHERE id = ".$rowOption['idUsuario']." ")->results(true);
+						                            
 
 						    //$valor_cobrado = '1300';
 						    //$data_referencia = '03/2015';
@@ -365,20 +366,21 @@ function verificaLancamento($fValorCREDITO,$fdata,$idusuario){
     #         and idUsuario = {$idusuario} ";
 
             //die();
+		// Realize a conexão com o banco de dados
+		$db = DB::getInstance();
 
-
-    $rs = mysql_query("select count(*) as total from lancamentosbancarios where 
+    $rs = $db->query("select count(*) as total from lancamentosbancarios where 
              DataReferencia = '{$fdata}' and Round(Valor,2) = '{$fValorCREDITO}'
              and idUsuario = {$idusuario}
     ");
-    $row=mysql_fetch_assoc($rs);
+    $row=$rs->results(true) ;
     if($row['total'] > 0){
         //echo "total  {$row['total']} - ja existe<br>";  
 
         $id = $_GET['id'];  
         
         #Deleta o Registro encontrado para colocar um novo valor
-        mysql_query("DELETE FROM `lancamentosbancarios` WHERE 
+        $db->query("DELETE FROM `lancamentosbancarios` WHERE 
         DataReferencia = '{$fdata}' 
         and Round(Valor,2) = '{$fValorCREDITO}'
         and idUsuario = {$idusuario} ") ;       

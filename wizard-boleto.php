@@ -159,15 +159,15 @@ body{
                     <select  class="form-control" required="required" id="selectRegiao"  
                         name="selectRegiao" class="chosen-select"  >
                         <?php                                       
-                            $resultSelect = mysql_query("  select '0' as id,'Escolha uma Regiao' as Nome, '' as ordem
+                            $resultSelect = $db->query("  select '0' as id,'Escolha uma Regiao' as Nome, '' as ordem
                                                               union
                                                            Select id, Ltrim(Nome), ordem from regioes r
                                                             where id not in (12,2)
                                                               
                                                                   order by ordem asc
 
-                                                    ") or trigger_error(mysql_error()); 
-                        while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                                    ") or trigger_error($db->errorInfo()[2]); 
+                        foreach($resultSelect as $rowOption ){ 
                         foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                           echo "<option  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                       } 

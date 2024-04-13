@@ -207,7 +207,7 @@ $sql = "UPDATE `lancamentosbancarios` SET  TipoLancamento = 'Identificado'
         //echo "<br>usuario Depois - " . $idUsuario; 
 
         
-        $db->query($sql)->results(true) or trigger_error($db->error);
+        $db->query($sql)->results(true) or trigger_error($db->errorInfo()[2]);
 
         include "logger.php";
         Logger("# IDENTIFICACAO ## IDENTIFICACAO ##########################################################################");
@@ -224,7 +224,7 @@ $sql = "UPDATE `lancamentosbancarios` SET  TipoLancamento = 'Identificado'
 
     #Descomentar e verificar o envio de Identificação Manual
     #######################################################################################################
-    //mysql_query($SQL) or die(mysql_error()); 
+    //$db->query($SQL) or die(mysql_error()); 
     //$dataReferencia = $_POST['Mes']."/".$_POST["Ano"];
     //$arrMails = explode('/', $rowEmail['Email']);
     //foreach ($arrMails as $value) {
@@ -285,7 +285,7 @@ $sql = "UPDATE `lancamentosbancarios` SET  TipoLancamento = 'Identificado'
 
                                             
                 ")->results(true) or 
-                    trigger_error($db->error);
+                    trigger_error($db->errorInfo()[2]);
                     
                     foreach($resultSelect as $rowOption){ 
                     foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
@@ -324,7 +324,7 @@ $sql = "UPDATE `lancamentosbancarios` SET  TipoLancamento = 'Identificado'
 
 <?php 
 $fID =  $_GET['id'] ;
-$result = $db->query("SELECT *  from lancamentosbancarios where id = ".$fID)->results(true) or trigger_error($db->error);
+$result = $db->query("SELECT *  from lancamentosbancarios where id = ".$fID)->results(true) or trigger_error($db->errorInfo()[2]);
 foreach($result as $row){ 
 foreach($row AS $key => $value) { $row[$key] = $db->escape($value); } 
 
@@ -505,7 +505,7 @@ function verificaLancamento($fValorCREDITO,$fdata,$idusuario){
              DataReferencia = '{$fdata}' and Round(Valor,2) = '{$fValorCREDITO}'
              and idUsuario = {$idusuario}
     ");
-    $row= $db->results(true);
+    $row= $rs->results(true);
 
 
     #debug

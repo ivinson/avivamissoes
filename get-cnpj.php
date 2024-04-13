@@ -9,10 +9,10 @@ include('config.php');
     //if ($_GET['function']=='CNPJ'){ 
 
         //Lista Apenas Campos Eclesiáticos                                
-        $resultSelect = mysql_query("select * from usuarios where id = {$id} ") or trigger_error(mysql_error()); 
+        $resultSelect = $db->query("select * from usuarios where id = {$id} ")->results(true) or trigger_error($db->errorInfo()[2]); 
         //echo "select * from usuarios where id = {$id}";
 
-        while($rowOption = mysql_fetch_array($resultSelect)){ 
+        foreach($resultSelect as $rowOption ){ 
           foreach($rowOption AS $key => $value) { 
             $rowOption[$key] = stripslashes($value); 
           }

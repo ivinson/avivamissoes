@@ -74,7 +74,7 @@ function linhaProcessada($self, $numLn, $vlinha) {
 
 
 	          #Debug- Descomentar
-	          if (! mysql_query($SqlInsereProcessamento) ){
+	          if (! $db->query($SqlInsereProcessamento) ){
                   die( ':: Erro : '. mysql_error()); 
                   echo "Fase de teste : Anote o seguinte erro!";
                 };
@@ -83,12 +83,12 @@ function linhaProcessada($self, $numLn, $vlinha) {
 				#		 WHERE NossoNumero like '%". $fNN ."%';" ;
 
                 /* Busca Boleto com esse nosso numero*/                                        
-                $resultSelect2 = mysql_query("
+                $resultSelect2 = $db->query("
 						
 						SELECT * FROM contasreceber 
 						 WHERE NossoNumero like '%".$fNN."%';
 
-                  ") or trigger_error(mysql_error());                 
+                  ") or trigger_error($db->errorInfo()[2])(mysql_error());                 
 
                 	//echo $resultSelect2;
 
@@ -114,7 +114,7 @@ function linhaProcessada($self, $numLn, $vlinha) {
     				
 
     				#debug - Descomentar 
-	    			if (! mysql_query($SqlBaixaBoleto) ){
+	    			if (! $db->query($SqlBaixaBoleto) ){
 	                  die( ':: Erro : '. mysql_error()); 
 	                  echo "Fase de teste da baixa de boleto: Anote o seguinte erro!";
 	                };
@@ -167,7 +167,7 @@ function linhaProcessada($self, $numLn, $vlinha) {
 					  #############################
 			            //die();
 						//if(1==2){
-			            if (! mysql_query($SqlInsereProcessamento) ){
+			            if (! $db->query($SqlInsereProcessamento) ){
 		                  die( ':: Erro : '. mysql_error()); 
 		                  echo "Fase de teste lancamentosbancarios: Anote o seguinte erro!";
 		                }else{
@@ -177,7 +177,7 @@ function linhaProcessada($self, $numLn, $vlinha) {
 						    //Enviar email
 						    #Pegar email do pastor
 						    $rowEmail = mysql_fetch_array ( 
-						                    mysql_query("SELECT *
+						                    $db->query("SELECT *
 						                                  from usuarios WHERE id = ".$rowOption['idUsuario']." "));         
 
 						    //$valor_cobrado = '1300';
@@ -367,7 +367,7 @@ function verificaLancamento($fValorCREDITO,$fdata,$idusuario){
             //die();
 
 
-    $rs = mysql_query("select count(*) as total from lancamentosbancarios where 
+    $rs = $db->query("select count(*) as total from lancamentosbancarios where 
              DataReferencia = '{$fdata}' 
 
              and idUsuario = {$idusuario}
@@ -382,7 +382,7 @@ function verificaLancamento($fValorCREDITO,$fdata,$idusuario){
         $id = $_GET['id'];  
         
         #Deleta o Registro encontrado para colocar um novo valor(inclusive fechamentos)
-        mysql_query("DELETE FROM `lancamentosbancarios` WHERE 
+        $db->query("DELETE FROM `lancamentosbancarios` WHERE 
         DataReferencia = '{$fdata}' 
         
         and idUsuario = {$idusuario} ") ; 

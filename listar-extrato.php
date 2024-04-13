@@ -118,7 +118,7 @@ where TipoOrigem = 'C' and idUsuario = 1196
 
 
 #TROCAR USUARIO PRODUCAO
-$resultMeses = $db->query($sqlMeses)->results(true) or trigger_error($db->error);
+$resultMeses = $db->query($sqlMeses)->results(true) or trigger_error($db->errorInfo()[2]);
 
 foreach($resultMeses as $rowOptionMeses){ 
   foreach($rowOptionMeses AS $key => $value) { $rowOptionMeses[$key] = $db->escape($value); }                               
@@ -147,7 +147,7 @@ echo "
               and DATE_FORMAT(DataBaixa, '%m-%Y') = '{$rowOptionMeses['DataEmissao']}'
               order by DataBaixa
 
-              ")->results(true) or trigger_error($db->error);
+              ")->results(true) or trigger_error($db->errorInfo()[2]);
 
 
           echo "<table class='table' >

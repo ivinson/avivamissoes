@@ -27,13 +27,13 @@
                             name="selectRegiao" class="chosen-select"  >
                         <?php               
                         
-                            $resultSelect = mysql_query("select * from regioes where id 
+                            $resultSelect = $db->query("select * from regioes where id 
                                                           union
                                                           select '0','','Selecione uma região clicando aqui','',0
                                                            from regioes 
                                                            order by ordem
-                                                        ") or trigger_error(mysql_error()); 
-                            while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                                        ")->results(true) or trigger_error($db->errorInfo()[2]); 
+                            foreach($resultSelect as $rowOption){ 
                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                               echo "<option  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                           } 

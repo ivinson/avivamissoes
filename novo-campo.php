@@ -6,7 +6,7 @@
 
 
     if (isset($_POST['submitted'])) { 
-          foreach($_POST AS $key => $value) {  $_POST[$key] = mysql_real_escape_string(htmlentities($value));}
+          foreach($_POST AS $key => $value) {  $_POST[$key] = $db->escape(htmlentities($value));}
     
 
             //{$_POST['Membros']}' 
@@ -15,15 +15,15 @@
             //$mysql = mysql_connect(‘localhost’, ‘test’, ‘test’, false, 65536);
             //mysql_select_db(‘test’, $mysql);
             
-            $result = mysql_query("call Inserir_Campo({$_POST['selectRegiao']}, '"
+            $result = $db->query("call Inserir_Campo({$_POST['selectRegiao']}, '"
                 .$_POST['NomeCampo']."', ".$_POST['QtdMembros'].");")
-            or die("Query fail: " . mysqli_error());
+            or die("Query fail: " . $db->errorInfo()[2]);
 
-              $res = mysql_query('SELECT last_insert_id() AS result');
+              $res = $db->query('SELECT last_insert_id() AS result');
                 if ($res === false) {
-                    echo mysql_errno().': '.mysql_error();
+                    echo $db->errorInfo()[2].': '.$db->errorInfo()[2];
                 }
-                while ($obj = mysql_fetch_object($res)) {
+                while ($obj = $db->results()) {
                     //echo $obj->result;
                     //Redirect("editar-usuarios.php?id=".$obj->result,false); 
                     //header("editar-usuarios.php?id=".$obj->result);
@@ -66,13 +66,13 @@
                             name="selectRegiao" class="chosen-select"  >
                         <?php               
                         
-                            $resultSelect = mysql_query("select * from regioes where id 
+                            $resultSelect = $db->query("select * from regioes where id 
                                                           union
                                                           select '0','','Selecione uma região clicando aqui','',0
                                                            from regioes 
                                                            order by id
-                                                        ") or trigger_error(mysql_error()); 
-                            while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                                        ")->results(true) or trigger_error($db->errorInfo()[2]); 
+                            foreach($resultSelect as $rowOption ){ 
                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                               echo "<option  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                           } 

@@ -10,7 +10,7 @@ echo "<select   name=\"selectUsuario\" id=\"selectUsuario\" class=\"form-control
 
 
     //Lista Apenas Campos Eclesiáticos                                
-    $resultSelect = mysql_query("
+    $resultSelect = $db->query("
 									SELECT u.* FROM `usuarios` u
 											join congregacoes i on (i.id= u.idCongregacao)
 											join campos c on(c.id = i.idCampo)
@@ -27,10 +27,10 @@ echo "<select   name=\"selectUsuario\" id=\"selectUsuario\" class=\"form-control
                                , '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''
                                , '', '','','',''
                                       order by Nome asc
-    	") or 
-    trigger_error(mysql_error()); 
+    	")->results(true) or 
+    trigger_error($db->errorInfo()[2]); 
     
-    while($rowOption = mysql_fetch_array($resultSelect)){ 
+    foreach($resultSelect as $rowOption){ 
     foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
       echo "<option value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
     } 

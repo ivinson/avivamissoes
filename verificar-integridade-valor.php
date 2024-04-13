@@ -42,17 +42,17 @@
                                    
 
 #TROCAR USUARIO PRODUCAO
-$resultBoletos = mysql_query("
+$resultBoletos = $db->query("
     select * from contasreceber
         where Status='Pago'
 
 
 and        NossoNumero = '109/00000000-7'
 
-") or trigger_error(mysql_error()); 
+")->results(true) or trigger_error($db->errorInfo()[2]); 
 
 
-while($rowOption = mysql_fetch_array($resultBoletos)){ 
+foreach($resultBoletos as $rowOption ){ 
   foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }  
 
 
@@ -63,10 +63,10 @@ while($rowOption = mysql_fetch_array($resultBoletos)){
     $sql = "select * from lancamentosbancarios
               where idContaReceber = {$rowOption['id']}";
 
-      $resultLancamentos = mysql_query($sql) or trigger_error(mysql_error()); 
+      $resultLancamentos = $db->query($sql)->results(true) or trigger_error($db->errorInfo()[2]); 
 
 
-      $count = mysql_num_rows($resultLancamentos);
+      $count = $resultLancamentos->num_rows;
 
       if ($count == 0){
         //echo $sql."<br>";
@@ -116,8 +116,8 @@ while($rowOption = mysql_fetch_array($resultBoletos)){
 
             echo "<br>User: {$rowOption['idUsuario']} | Valor:{$rowOption['Valor']}  -  Pagamento ok. <br>";
 
-                  if (! mysql_query($SqlInsereLancamento) ){
-                    echo '<br>:: Erro : '. mysql_error(); 
+                  if (! $db->query($SqlInsereLancamento) ){
+                    echo '<br>:: Erro : '. $db->errorInfo()[2]; 
                     #echo "F: Anote o seguinte erro!";
                   }else{
                     echo "<br>Pagamento ok.<br><br>";
@@ -153,8 +153,8 @@ while($rowOption = mysql_fetch_array($resultBoletos)){
 
 
 
-    if (! mysql_query($sqlUpdate) ){
-      die( ':: Erro : '. mysql_error()); 
+    if (! $db->query($sqlUpdate) ){
+      die( ':: Erro : '. $db->errorInfo()[2]); 
       echo "Fase de teste : Anote o seguinte erro! <br>";
     };
 
@@ -203,21 +203,22 @@ function verificaLancamento2($fValorCREDITO,$fdata,$idusuario){
 
             //exit;
 
-
+    // Realize a conexão com o banco de dados
+    $db = DB::getInstance();
     $sqlDel = "select count(*) as total from lancamentosbancarios where 
              DataReferencia = '{$fdata}' and Round(Valor,2) = '{$fValorCREDITO}'
              and idUsuario = {$idusuario}";
 
     echo "<br> {$sqlDel}  ";       
-    $rs = mysql_query($sqlDel);
-    $row=mysql_fetch_assoc($rs);
+    $rs = $db->query($sqlDel);
+    $row= $rs->results(true);
     if($row['total'] > 0){
         echo "total  {$row['total']} - existe<br>";  
         echo "Excluindo fechamentos...<br>";
 
         //$id = $_GET['id'];  
 
-        #mysql_query("DELETE FROM `lancamentosbancarios` WHERE 
+        #$db->query("DELETE FROM `lancamentosbancarios` WHERE 
         #DataReferencia = '{$fdata}' 
         #and Round(Valor,2) = '{$fValorCREDITO}'
         #and idUsuario = {$idusuario} ") ; 

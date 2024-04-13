@@ -27,13 +27,13 @@
                             name="selectRegiao" class="chosen-select"  >
                         <?php               
                         
-                            $resultSelect = mysql_query("select * from regioes where id 
+                            $resultSelect = $db->query("select * from regioes where id 
                                                           union
                                                           select '0','','Selecione uma região clicando aqui','',0
                                                            from regioes 
                                                            order by ordem
-                                                        ") or trigger_error(mysql_error()); 
-                            while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                                        ")->results(true) or trigger_error($db->errorInfo()[2]); 
+                            foreach( $resultSelect as $rowOption){ 
                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                               echo "<option  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                           } 
@@ -76,7 +76,7 @@
 <?php
     
     if (isset($_POST['submitted'])) { 
-          foreach($_POST AS $key => $value) {  $_POST[$key] = mysql_real_escape_string(htmlentities($value));}
+          foreach($_POST AS $key => $value) {  $_POST[$key] = $db->escape(htmlentities($value));}
     
 
             //{$_POST['Membros']}' 
@@ -90,18 +90,18 @@
           //                    join usuarios u on (u.idCongregacao = cg.id)
                               //where c.idRegiao = {$_POST['selectRegiao']}";
             
-            $result = mysql_query(" select u.*, c.TotalCongregacoes,c.Membros  from  campos c 
+            $result = $db->query(" select u.*, c.TotalCongregacoes,c.Membros  from  campos c 
                                       join congregacoes cg on (cg.idCampo = c.id )
                                       join usuarios u on (u.idCongregacao = cg.id)
                                       where c.idRegiao = {$_POST['selectRegiao']}
                                       and u.idTipoUsuario <> 8 -- inativos
                                         order by u.Nome 
                                        "
-                                      )
-            or die("Query fail: " . mysqli_error());
+                                      )->results(true)
+            or die("Query fail: " . $db->errorInfo()[2]);
 
 
-                   while($rowOption = mysql_fetch_array($result)){ 
+                   foreach($result as $rowOption ){ 
                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                               
                               //echo "<option  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";   

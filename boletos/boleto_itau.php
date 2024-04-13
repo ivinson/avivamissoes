@@ -14,10 +14,10 @@ include("../config.php");
 
 header("Content-Type: text/html;  charset=ISO-8859-1",true);
 
-//mysql_query("SET NAMES 'utf8'");
-//mysql_query("SET character_set_connection=utf8");
-//mysql_query("SET character_set_client=utf8");
-//mysql_query("SET character_set_results=utf8");
+//$db->query("SET NAMES 'utf8'");
+//$db->query("SET character_set_connection=utf8");
+//$db->query("SET character_set_client=utf8");
+//$db->query("SET character_set_results=utf8");
 
 /* Variaveis Globais para Boleto e Contas  Receber */
 //Variaveis -----------------------------------------
@@ -47,8 +47,8 @@ $fGeradoPor       = 0; //`GeradoPor`
 
 //Pegar proximo numero e gravar como nosso numero
 $fNossoNumero     =  0 ;
-$resultNossonumero = mysql_query("select max(id) + 1 as NossoNumero from contasreceber") or trigger_error(mysql_error()); 
-while($rowNN = mysql_fetch_array($resultNossonumero)){    
+$resultNossonumero = $db->query("select max(id) + 1 as NossoNumero from contasreceber")->results(true) or trigger_error($db->errorInfo()[2]); 
+foreach($resultNossonumero as $rowNN ){    
     foreach($rowNN AS $keyNN => $valueNN) { $rowNN[$keyNN] = stripslashes($valueNN); } 
       $fNossoNumero     =  $rowNN["NossoNumero"] ;
 }
@@ -56,7 +56,7 @@ while($rowNN = mysql_fetch_array($resultNossonumero)){
 
 
 //Select
-$result = mysql_query("select 
+$result = $db->query("select 
                         usuarios.Nome as NomeEmissor
                       , usuarios.id as IdUsuario
                       , campos.id as idCampo
@@ -72,15 +72,15 @@ $result = mysql_query("select
                       join congregacoes on usuarios.idCongregacao = congregacoes.id
                       join campos on congregacoes.idCampo = campos.id
 
-                      where usuarios.id = ".$fID." ") or trigger_error(mysql_error()); 
+                      where usuarios.id = ".$fID." ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
 
 
-// ------------------------- DADOS DINÂMICOS DO SEU CLIENTE PARA A GERAÇÃO DO BOLETO (FIXO OU VIA GET) -------------------- //
-// Os valores abaixo podem ser colocados manualmente ou ajustados p/ formulário c/ POST, GET ou de BD (MySql,Postgre,etc)	//
+// ------------------------- DADOS DINï¿½MICOS DO SEU CLIENTE PARA A GERAï¿½ï¿½O DO BOLETO (FIXO OU VIA GET) -------------------- //
+// Os valores abaixo podem ser colocados manualmente ou ajustados p/ formulï¿½rio c/ POST, GET ou de BD (MySql,Postgre,etc)	//
 
 
-while($row = mysql_fetch_array($result)){ 
+foreach($result as $row ){ 
     
     foreach($row AS $key => $value) { $row[$key] = stripslashes(htmlentities($value)); } 
     /*
@@ -107,12 +107,12 @@ while($row = mysql_fetch_array($result)){
   //echo "<br />  Valor Boleto format " . $valor_boleto ; 
   //$valor_boleto=number_format($valor_cobrado, 2, ',', '');
 
-	$dadosboleto["nosso_numero"] = $fNossoNumero;  // Nosso numero - REGRA: Máximo de 8 caracteres!
+	$dadosboleto["nosso_numero"] = $fNossoNumero;  // Nosso numero - REGRA: Mï¿½ximo de 8 caracteres!
 	$dadosboleto["numero_documento"] = $fNossoNumero;	// Num do pedido ou nosso numero
 	$dadosboleto["data_vencimento"] = $data_venc; // Data de Vencimento do Boleto - REGRA: Formato DD/MM/AAAA
-	$dadosboleto["data_documento"] = date("d/m/Y"); // Data de emissão do Boleto
+	$dadosboleto["data_documento"] = date("d/m/Y"); // Data de emissï¿½o do Boleto
 	$dadosboleto["data_processamento"] = date("d/m/Y"); // Data de processamento do boleto (opcional)
-	$dadosboleto["valor_boleto"] = $valor_boleto; 	// Valor do Boleto - REGRA: Com vírgula e sempre com duas casas depois da virgula
+	$dadosboleto["valor_boleto"] = $valor_boleto; 	// Valor do Boleto - REGRA: Com vï¿½rgula e sempre com duas casas depois da virgula
 
 
 
@@ -127,16 +127,16 @@ while($row = mysql_fetch_array($result)){
 
 	// DADOS DO SEU CLIENTE
 	$dadosboleto["sacado"] =  html_entity_decode($row['NomeDoCampo']);//"Nome do seu Cliente";
-	$dadosboleto["endereco1"] = html_entity_decode($row['EnderecoSede']);//"Endereço do seu Cliente";
+	$dadosboleto["endereco1"] = html_entity_decode($row['EnderecoSede']);//"Endereï¿½o do seu Cliente";
 	$dadosboleto["endereco2"] = html_entity_decode($row['CidadeSede'] ." - ". $row['UFSede'] ." - CEP : ". $row['CEPSede']);// "Cidade - Estado -  CEP: 00000-000";
 
 	// INFORMACOES PARA O CLIENTE
 	$dadosboleto["demonstrativo1"] = "Remessa de oferta referente ao mes " . $fMesRef.'/'.$fAnoref;
-	$dadosboleto["demonstrativo2"] = "";//"Mensalidade referente a nonon nonooon nononon<br>Taxa bancária - R$ ".number_format($taxa_boleto, 2, ',', '');
+	$dadosboleto["demonstrativo2"] = "";//"Mensalidade referente a nonon nonooon nononon<br>Taxa bancï¿½ria - R$ ".number_format($taxa_boleto, 2, ',', '');
 	$dadosboleto["demonstrativo3"] = "";//"http://ivicomm.net";
-	$dadosboleto["instrucoes1"]    = "- Sr. Caixa, não cobrar multa após o vencimento pois essa, ";
-	$dadosboleto["instrucoes2"]    = "  é uma doacao voluntária que recebemos";
-	$dadosboleto["instrucoes3"]    = "- Em caso de dúvidas entre em contato financeiro@avivamissoes.com.br / 11 4232-9671";
+	$dadosboleto["instrucoes1"]    = "- Sr. Caixa, nï¿½o cobrar multa apï¿½s o vencimento pois essa, ";
+	$dadosboleto["instrucoes2"]    = "  ï¿½ uma doacao voluntï¿½ria que recebemos";
+	$dadosboleto["instrucoes3"]    = "- Em caso de dï¿½vidas entre em contato financeiro@avivamissoes.com.br / 11 4232-9671";
 	$dadosboleto["instrucoes4"]    = "";//&nbsp; Emitido pelo sistema Projeto BoletoPhp - www.boletophp.com.br";
 
 	// DADOS OPCIONAIS DE ACORDO COM O BANCO OU CLIENTE
@@ -146,24 +146,24 @@ while($row = mysql_fetch_array($result)){
 	$dadosboleto["especie"]        = "R$";
 	$dadosboleto["especie_doc"]    = "DM";
 
-	// ---------------------- DADOS FIXOS DE CONFIGURAÇÃO DO SEU BOLETO --------------- //
+	// ---------------------- DADOS FIXOS DE CONFIGURAï¿½ï¿½O DO SEU BOLETO --------------- //
 
-	// DADOS DA SUA CONTA - ITAÚ
+	// DADOS DA SUA CONTA - ITAï¿½
 	$dadosboleto["agencia"] = "1381"; // Num da agencia, sem digito
 	$dadosboleto["conta"] = "12182";	// Num da conta, sem digito
 	$dadosboleto["conta_dv"] = "9"; 	// Digito do Num da conta
 
-	// DADOS PERSONALIZADOS - ITAÚ
-	$dadosboleto["carteira"] = "157";  // Código da Carteira: pode ser 175, 174, 104, 109, 178, ou 157
+	// DADOS PERSONALIZADOS - ITAï¿½
+	$dadosboleto["carteira"] = "157";  // Cï¿½digo da Carteira: pode ser 175, 174, 104, 109, 178, ou 157
 
 	// SEUS DADOS
 	$dadosboleto["identificacao"] 	= "Conselho Geral da Igr.Ev. Avivamento Biblico";
 	$dadosboleto["cpf_cnpj"] 		    = "05.620.322/0001-57";
 	$dadosboleto["endereco"] 		    = "Rua Visconde de Inhauma,878-Oswaldo Cruz-Sao Caetano SUL";
-	$dadosboleto["cidade_uf"] 		  = "São Caetano do Sul/SP";
+	$dadosboleto["cidade_uf"] 		  = "Sï¿½o Caetano do Sul/SP";
 	$dadosboleto["cedente"] 		    = "Conselho Geral da Igr.Ev. Avivamento Biblico";
 
-	// NÃO ALTERAR!
+	// Nï¿½O ALTERAR!
 	include("include/funcoes_itau.php"); 
 	include("include/layout_itau.php");
 
@@ -227,8 +227,8 @@ while($row = mysql_fetch_array($result)){
 
     //echo "<br> SQL - " . $sqlInsert;
     //echo $sqlInsert;
-    mysql_query($sqlInsert) or die(mysql_error()); 
-    echo "<br /> Gerado uma previsão no sistema avivamissoes de "; 
+    $db->query($sqlInsert) or die($db->errorInfo()[2]); 
+    echo "<br /> Gerado uma previsï¿½o no sistema avivamissoes de "; 
     echo "   " . $ValorSemPonto ; 
 }
 

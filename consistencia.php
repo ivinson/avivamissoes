@@ -301,7 +301,8 @@ function geraLancamentoBancarioConsistencia($valor,$idUsuario,$datareferencia,$t
 
 	if($valor==null ){return true;}
 
-
+	// Realize a conexão com o banco de dados
+	$db = DB::getInstance();
 	//$dataatual = date("d-m-Y H:i:s");
 	$datareferencia 		= str_replace("/", "-", $datareferencia);
 	$dataReferenciaMysql 	= date('Y-m-d', strtotime($datareferencia));
@@ -372,7 +373,7 @@ function geraLancamentoBancarioConsistencia($valor,$idUsuario,$datareferencia,$t
 
 
 		if($dataBaixaMysql != "--"){
-		mysql_query($sql) or die(mysql_error()); 
+		$db->query($sql) or die($db->errorInfo()[2]); 
 		return true;
 	}
 }
@@ -391,7 +392,8 @@ function VerificaLancExiste($DataReferencia,$valorOferta,$idUsuario){
 		$mesRef = $dataArray[0];
 		$anoRef = $dataArray[1];	
 	}
-
+	// Realize a conexão com o banco de dados
+	$db = DB::getInstance();
 	//echo "<br>valor = {$valorOferta}";
     $tempVl = str_replace(",", "", $valorOferta );
     $tempVl = str_replace("*", "", $tempVl );
@@ -429,8 +431,8 @@ function VerificaLancExiste($DataReferencia,$valorOferta,$idUsuario){
 
 
 
-	$resultLancamentos = mysql_query($sql) or trigger_error(mysql_error()); 
-	$count = mysql_num_rows($resultLancamentos);
+	$resultLancamentos = $db->query($sql)->results(true) or trigger_error($db->errorInfo()[2]); 
+	$count = $resultLancamentos->num_rows;
 
 
 	//echo $sql ;
@@ -449,8 +451,8 @@ function VerificaLancExiste($DataReferencia,$valorOferta,$idUsuario){
 			and idUsuario = {$idUsuario}
 			and NumeroDocumento <> 'CONS0000'
 	";
-	$resultLancamentos = mysql_query($sql) or trigger_error(mysql_error()); 
-	$count = mysql_num_rows($resultLancamentos);
+	$resultLancamentos = $db->query($sql)->results(true) or trigger_error($db->errorInfo()[2]); 
+	$count = $resultLancamentos->num_rows;
 	//echo "<br>  sql = {$sql}";
 	//echo "<br> Count :  {$count} ";
 	

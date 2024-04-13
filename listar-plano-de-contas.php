@@ -40,8 +40,8 @@ echo "<th><b>Id</b></th>";
 echo "<th><b>Nome</b></th>"; 
 echo "<th><b>Tipo</b></th>"; 
 echo "</tr>"; 
-$result = mysql_query("SELECT * FROM `planodecontas`") or trigger_error(mysql_error()); 
-while($row = mysql_fetch_array($result)){ 
+$result = $db->query("SELECT * FROM `planodecontas`")->results(true) or trigger_error($db->errorInfo()[2]); 
+foreach($result as $row ){ 
 foreach($row AS $key => $value) { $row[$key] = stripslashes($value); } 
 echo "<tr>";  
 echo "<td valign='top'>" . nl2br( $row['id']) . "</td>";  

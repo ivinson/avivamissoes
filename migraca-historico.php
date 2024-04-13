@@ -21,7 +21,8 @@ function getMes($mes){
 
 # GERA UM LANCAMNTO BANCARIO ATRAVES DO INSERT
 function geraLancamentoBancario($valor,$idUsuario,$datareferencia,$tipolancamento){
-
+	// Realize a conexão com o banco de dados
+	$db = DB::getInstance();
 	//$dataatual = date("d-m-Y H:i:s");
 
 	$sql= "INSERT INTO lancamentosbancarios
@@ -66,7 +67,7 @@ function geraLancamentoBancario($valor,$idUsuario,$datareferencia,$tipolancament
 	)";
 
 
-	//mysql_query($sql) or die(mysql_error()); 
+
 
 	//echo "Lancamento de R$ $valor gerado com o usuario $idUsuario<br />"; 
 	//echo "<a href='listar-plano-de-contas.php'>Back To Listing</a>";
@@ -75,7 +76,7 @@ function geraLancamentoBancario($valor,$idUsuario,$datareferencia,$tipolancament
 		 
 	}else 
 	{
-		mysql_query($sql) or die(mysql_error()); 
+		$db->query($sql) or die($db->errorInfo()[2]); 
 		//echo $sql;
 		echo "Lancamento de R$ $valor gerado com o usuario $idUsuario"; 
 

@@ -183,9 +183,9 @@ $GLOBALS['config'] = array(
 'db' => 'avivamissoes22',
 ),
 'producao' => array(
-'host' => 'avivamissoes22',
+'host' => '186.202.152.189',
 'username' => 'avivamissoes22',
-'password' => '',
+'password' => 'Aviva@Missoes',
 'db' => 'Aviva@Missoes',
 ),);
 

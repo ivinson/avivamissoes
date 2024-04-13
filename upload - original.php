@@ -25,6 +25,9 @@ function linhaProcessada($self, $numLn, $vlinha) {
 	  if($vlinha["registro"] == $self::DETALHE) {
       //printf("%08d: ", $numLn);
       
+			// Realize a conexão com o banco de dados
+			$db = DB::getInstance();
+
       $StringProcessada = get_class($self) . ": Nosso N&uacute;mero <b>".$vlinha['nosso_numero']."</b> ".
            "Data <b>".$vlinha["data_ocorrencia"]."</b> ". 
            "Valor <b>".$vlinha["valor"]."</b><br/>\n";
@@ -70,8 +73,8 @@ function linhaProcessada($self, $numLn, $vlinha) {
 
 				//echo "<br>" . $SqlInsereProcessamento;
 	          
-	          if (! mysql_query($SqlInsereProcessamento) ){
-                  die( ':: Erro : '. mysql_error()); 
+	          if (! $db->query($SqlInsereProcessamento) ){
+                  die( ':: Erro : '. $db->errorInfo()[2]); 
                   echo "Fase de teste : Anote o seguinte erro!";
                 };
 
@@ -79,16 +82,16 @@ function linhaProcessada($self, $numLn, $vlinha) {
 				//		 WHERE NossoNumero like '%". $fNN ."%';" ;
 
                 /* Busca Boleto com esse nosso numero*/                                        
-                $resultSelect2 = mysql_query("
+                $resultSelect2 = $db->query("
 						
 						SELECT * FROM contasreceber 
 						 WHERE NossoNumero like '%".$fNN."%';
 
-                  ") or trigger_error(mysql_error());                 
+                  ")->results(true) or trigger_error($db->errorInfo()[2]);                 
 
                 	//echo $resultSelect2;
 
-                while($rowOption = mysql_fetch_array($resultSelect2)){ 
+                foreach($resultSelect2 as $rowOption ){ 
     					
     					foreach($rowOption AS $key => $value) { 
     						$rowOption[$key] = stripslashes($value); 
@@ -108,8 +111,8 @@ function linhaProcessada($self, $numLn, $vlinha) {
     				//echo $SqlBaixaBoleto . "<br>"		 ;
 
     				
-	    			if (! mysql_query($SqlBaixaBoleto) ){
-	                  die( ':: Erro : '. mysql_error()); 
+	    			if (! $db->query($SqlBaixaBoleto) ){
+	                  die( ':: Erro : '. $db->errorInfo()[2]); 
 	                  echo "Fase de teste da baixa de boleto: Anote o seguinte erro!";
 	                };
 
@@ -150,8 +153,8 @@ function linhaProcessada($self, $numLn, $vlinha) {
 
 						//echo "<br>" . $SqlInsereProcessamento;
 			          
-			          if (! mysql_query($SqlInsereProcessamento) ){
-		                  die( ':: Erro : '. mysql_error()); 
+			          if (! $db->query($SqlInsereProcessamento) ){
+		                  die( ':: Erro : '.$db->errorInfo()[2]); 
 		                  echo "Fase de teste lancamentosbancarios: Anote o seguinte erro!";
 		                };	                
 

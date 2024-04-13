@@ -68,7 +68,7 @@ Stack trace:
 #0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
 #1 {main}
   thrown in C:\xampp\htdocs\avivamissoes\config.php on line 204
-[29-Mar-2024 23:16:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\xampp\htdocs\avivamissoes\config.php:212
+[29-Mar-2024 23:16:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function $db->query() in C:\xampp\htdocs\avivamissoes\config.php:212
 Stack trace:
 #0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
 #1 {main}
@@ -78,7 +78,7 @@ Stack trace:
 #0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
 #1 {main}
   thrown in C:\xampp\htdocs\avivamissoes\config.php on line 216
-[29-Mar-2024 23:25:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\xampp\htdocs\avivamissoes\login.php:174
+[29-Mar-2024 23:25:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function $db->query() in C:\xampp\htdocs\avivamissoes\login.php:174
 Stack trace:
 #0 {main}
   thrown in C:\xampp\htdocs\avivamissoes\login.php on line 174
@@ -127,11 +127,11 @@ Stack trace:
 #0 C:\xampp\htdocs\avivamissoes\login.php(172): include()
 #1 {main}
   thrown in C:\xampp\htdocs\avivamissoes\config.php on line 198
-[30-Mar-2024 18:24:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\xampp\htdocs\avivamissoes\login.php:174
+[30-Mar-2024 18:24:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function $db->query() in C:\xampp\htdocs\avivamissoes\login.php:174
 Stack trace:
 #0 {main}
   thrown in C:\xampp\htdocs\avivamissoes\login.php on line 174
-[30-Mar-2024 19:14:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in C:\xampp\htdocs\avivamissoes\login.php:174
+[30-Mar-2024 19:14:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function $db->query() in C:\xampp\htdocs\avivamissoes\login.php:174
 Stack trace:
 #0 {main}
   thrown in C:\xampp\htdocs\avivamissoes\login.php on line 174
@@ -176,3 +176,4 @@ Stack trace:
 [30-Mar-2024 20:07:10 Europe/Berlin] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\avivamissoes\login.php on line 8
 [30-Mar-2024 20:07:20 Europe/Berlin] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\avivamissoes\login.php on line 8
 [30-Mar-2024 20:07:20 Europe/Berlin] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\avivamissoes\login.php on line 8
+[31-Mar-2024 16:52:55 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\avivamissoes\login.php on line 9

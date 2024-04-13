@@ -77,7 +77,7 @@
 
 <?php 
 
-$resultSelect = mysql_query("
+$resultSelect = $db->query("
   SELECT usuarios.Nome , usuarios.Telefone1, usuarios.Telefone2, usuarios.Email,usuarios.id , campos.NomePastorTitular as Pastor
  from usuarios 
  join congregacoes on (congregacoes.id = usuarios.idCongregacao)
@@ -86,7 +86,7 @@ $resultSelect = mysql_query("
  where usuarios.idTipoUsuario <> 8 -- inativos
  order by Nome
 
-") or trigger_error(mysql_error()); 
+")->results(true) or trigger_error($db->errorInfo()[2]); 
 
 ?>
 
@@ -153,7 +153,7 @@ Telefone</th><th>Email </th> <th> Novo contato </th>
 
 
 
-while($rowOption = mysql_fetch_array($resultSelect)){ 
+foreach($resultSelect as $rowOption ){ 
 foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                                             
   //echo "<li ><a  href='lancamentos-campo.php?id={$id}&ano={$rowOption['Ano']}'>{$rowOption['Ano']} </a></li>";              
 

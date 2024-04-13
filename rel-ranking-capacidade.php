@@ -93,7 +93,7 @@
 
                                     <?php
 
-                                        $rsCamposPagadores = mysql_query("
+                                        $rsCamposPagadores = $db->query("
               select u.Nome, FORMAT(SUM(lb.Valor)/ c.Membros,2)  as Valor,
                         c.Membros, FORMAT(SUM(lb.Valor),2)  as ValorTotal
                                             from lancamentosbancarios lb 
@@ -102,12 +102,12 @@
                                             join campos c on ( c.id = cg.idCampo)
                                             group by u.id,c.Membros  order by SUM(lb.Valor)/c.Membros desc
                                             limit 10000
-                                            ") ;
+                                            ")->results(true) ;
 
                                         $posicao = 1;
 
 
-                                            while($rowCamposPagadores = mysql_fetch_array($rsCamposPagadores)){                                             
+                                            foreach($rsCamposPagadores as $rowCamposPagadores){                                             
                                                 foreach($rowCamposPagadores AS $key => $value) { $rowCamposPagadores[$key] = stripslashes($value); }                               
                                                                                     
 

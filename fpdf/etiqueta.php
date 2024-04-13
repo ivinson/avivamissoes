@@ -12,7 +12,7 @@ else {
 ;}
 mysql_select_db($banco,$conexao); /*seleciona o banco a ser usado*/
 
-$res = mysql_query (" 
+$res = $db->query (" 
 
 	select u.*, c.TotalCongregacoes,c.Membros  from  campos c 
                                       join congregacoes cg on (cg.idCampo = c.id )

@@ -151,10 +151,10 @@
 
     //print("---");
 
-    mysql_query("SET NAMES 'utf8'");
-    mysql_query("SET character_set_connection=utf8");
-    mysql_query("SET character_set_client=utf8");
-    mysql_query("SET character_set_results=utf8");
+    $db->query("SET NAMES 'utf8'");
+    $db->query("SET character_set_connection=utf8");
+    $db->query("SET character_set_client=utf8");
+    $db->query("SET character_set_results=utf8");
      
     /*
      * SQL queries
@@ -173,13 +173,13 @@
 //echo $sQuery;
 
 
-    $rResult = mysql_query( $sQuery, $gaSql['link'] ) or fatal_error( 'MySQL Error: ' . mysql_errno() );
+    $rResult = $db->query( $sQuery, $gaSql['link'] ) or fatal_error( 'MySQL Error: ' . mysql_errno() );
      
     /* Data set length after filtering */
     $sQuery = "
         SELECT FOUND_ROWS()
     ";
-    $rResultFilterTotal = mysql_query( $sQuery, $gaSql['link'] ) or fatal_error( 'MySQL Error: ' . mysql_errno() );
+    $rResultFilterTotal = $db->query( $sQuery, $gaSql['link'] ) or fatal_error( 'MySQL Error: ' . mysql_errno() );
     $aResultFilterTotal = mysql_fetch_array($rResultFilterTotal);
     $iFilteredTotal = $aResultFilterTotal[0];
      
@@ -188,7 +188,7 @@
         SELECT COUNT(".$sIndexColumn.")
         FROM   $sTable
     ";
-    $rResultTotal = mysql_query( $sQuery, $gaSql['link'] ) or fatal_error( 'MySQL Error: ' . mysql_errno() );
+    $rResultTotal = $db->query( $sQuery, $gaSql['link'] ) or fatal_error( 'MySQL Error: ' . mysql_errno() );
     $aResultTotal = mysql_fetch_array($rResultTotal);
     $iTotal = $aResultTotal[0];
      

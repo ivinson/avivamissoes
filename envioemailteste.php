@@ -2,12 +2,12 @@
     include("config.php");
     //Enviar email
     #Pegar email do pastor
-    $rowEmail = mysql_fetch_array ( 
-                    mysql_query("SELECT *
-                                from usuarios WHERE id = 1178 "));         
+    
+    $rowEmail = $db->query("SELECT *
+                                from usuarios WHERE id = 1178 ")->results(true);         
     #######################################################################################################
     //echo $SQL;
-    //mysql_query($SQL) or die(mysql_error());
+ 
 
     $valor_cobrado = '1300';
     $data_referencia = '03/2015';

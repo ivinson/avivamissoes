@@ -86,7 +86,7 @@ if (isset($_POST['submitted'])) {
 
     //echo "POST";
 
-    foreach($_POST AS $key => $value) { $_POST[$key] = mysql_real_escape_string($value); } 
+    foreach($_POST AS $key => $value) { $_POST[$key] = $db->escape($value); } 
     
     //$sql = "INSERT INTO `planodecontas_niveis` ( `idplanodecontas` ,  `nome`  ) 
     //       VALUES( '{$_GET['id']}', '{$_POST['nome']}'   ) "; 
@@ -113,9 +113,9 @@ if (isset($_POST['submitted'])) {
 
     //Enviar email
     #Pegar email do pastor
-    $rowEmail = mysql_fetch_array ( 
-                    mysql_query("SELECT *
-                                from usuarios WHERE id = {$_GET['id']} "));         
+    
+    $rowEmail = $db->query("SELECT *
+                                from usuarios WHERE id = {$_GET['id']} ")->results(true);         
 
 
 
@@ -126,7 +126,7 @@ if(verificaLancamento(0,$dataMysql)){
                                 
     #######################################################################################################
     //echo $SQL;
-    mysql_query($SQL) or die(mysql_error()); 
+    $db->query($SQL) or die($db->errorInfo()[2]); 
 
     # limpar trocar  / por ;
     $arrMails = explode('/', $rowEmail['Email']);
@@ -281,18 +281,19 @@ function verificaLancamento($fValorCREDITO,$fdata){
             // ";
 
             //exit;
+    // Realize a conexão com o banco de dados
+    $db = DB::getInstance();
 
-
-    $rs = mysql_query("select count(*) as total from lancamentosbancarios where 
+    $rs = $db->query("select count(*) as total from lancamentosbancarios where 
              DataReferencia = '{$fdata}' and Round(Valor,2) = '{$fValorCREDITO}'
              and idUsuario = {$_GET['id']}
     ");
-    $row=mysql_fetch_assoc($rs);
+    $row= $rs->results(true);
     if($row['total'] > 0){
         echo "total  {$row['total']} - ja existe<br>";  
 
         $id = $_GET['id'];  
-        mysql_query("DELETE FROM `lancamentosbancarios` WHERE 
+        $db->query("DELETE FROM `lancamentosbancarios` WHERE 
 
         DataReferencia = '{$fdata}' 
         and Round(Valor,2) = '{$fValorCREDITO}'

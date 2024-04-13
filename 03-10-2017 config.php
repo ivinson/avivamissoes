@@ -194,20 +194,23 @@ require ('phpmailer/PHPMailerAutoload.php');
 	
  
 	//Acesso bando online Locaweb
-	$link = mysql_connect(Cons_Servidor, Cons_UserBD, Cons_SenhaBD);
-	if (!$link) {
-	    die('Not connected : ' . mysql_error());
+	// Verifique se a conexão foi bem-sucedida
+	if (!$db) {
+			die('Erro na conexão com o banco de dados: ' . $db->errorInfo()[2]);
 	}//else{ 	echo 'CONECTADO';}
 
 
-	    mysql_query("SET NAMES 'utf8'");
-		mysql_query("SET character_set_connection=utf8");
-		mysql_query("SET character_set_client=utf8");
-		mysql_query("SET character_set_results=utf8");
+		$db->query("SET NAMES 'utf8'");
+		$db->query("SET character_set_connection=utf8");
+		$db->query("SET character_set_client=utf8");
+		$db->query("SET character_set_results=utf8");
 
-	if (! mysql_select_db(Cons_NomeBanco) ) {
-	    die ('Erro no banco de dados  : ' . mysql_error());
-	}
+		// Tente selecionar o banco de dados
+		if (!$db->select_db(Cons_NomeBanco)) {
+				die('Erro ao selecionar o banco de dados: ' . $db->errorInfo()[2]);
+		} else {
+				echo '<br> Banco Selecionado';
+		}
 
 	function Redirect($url, $permanent = false)
 	{

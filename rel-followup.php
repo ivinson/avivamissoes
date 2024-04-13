@@ -67,14 +67,14 @@
 
                                     <?php
 
-                                        $rsCampos = mysql_query("
+                                        $rsCampos = $db->query("
                                             select * from usuarios  where Follow <> '' 
-                                             order by Nome ") ;
+                                             order by Nome ")->results(true) ;
 
                                         
 
 
-                                            while($rowCampos = mysql_fetch_array($rsCampos)){                                             
+                                            foreach($rsCampos as $rowCampos ){                                             
                                                 foreach($rowCampos AS $key => $value) { $rowCampos[$key] = stripslashes($value); }                               
                                                                                     
 

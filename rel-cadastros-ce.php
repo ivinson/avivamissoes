@@ -59,7 +59,7 @@
    
     
             
-            $result = mysql_query(" select u.*, c.TotalCongregacoes,c.Membros  from  campos c 
+            $result = $db->query(" select u.*, c.TotalCongregacoes,c.Membros  from  campos c 
                                       join congregacoes cg on (cg.idCampo = c.id )
                                       join usuarios u on (u.idCongregacao = cg.id)
                                       where 
@@ -68,10 +68,10 @@
                                         order by u.Nome
                                        "
                                       )
-            or die("Query fail: " . mysqli_error());
+            or die("Query fail: " . $db->errorInfo()[2]);
 
 
-                   while($rowOption = mysql_fetch_array($result)){ 
+                   foreach($result as $rowOption ){ 
                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                               
                               //echo "<option  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";   

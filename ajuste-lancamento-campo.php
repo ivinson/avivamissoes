@@ -10,7 +10,7 @@ $idUsuario = $_GET['idusuario'];
 
     if (isset($_POST['submitted'])) { 
     foreach($_POST AS $key => $value) { 
-        $_POST[$key] = mysql_real_escape_string($value); 
+        $_POST[$key] = $db->escape($value); 
         //echo "<br> key {$_POST[$key]} ::: {$value}";
     } 
 
@@ -119,9 +119,9 @@ $idUsuario = $_GET['idusuario'];
     $valor_cobrado = str_replace(",", ".",$valor_cobrado);
 
 
-    $rowHistorico = mysql_fetch_array ( 
-            mysql_query("SELECT MotivoAjuste
-                            from `lancamentosbancarios` WHERE `id` = '$id' ")); 
+    
+    $rowHistorico = $db->query("SELECT MotivoAjuste
+                            from `lancamentosbancarios` WHERE `id` = '$id' ")->results(true); 
 
 
 
@@ -151,20 +151,19 @@ $idUsuario = $_GET['idusuario'];
     
 
 
-    //echo (mysql_affected_rows()) ? "Edited row.<br />" : "Nothing changed. <br />"; 
     //echo "<a href='listar-plano-de-contas.php'>Voltar a Listagem </a>"; 
 
     //echo $idUsuario;
     //Redirect("lancamentos-campo.php?id=".$idUsuario,true); 
     
 
-    mysql_query($sql) or die(mysql_error()); 
+    $db->query($sql) or die($db->errorInfo()[2]); 
     die("<script>location.href = 'lancamentos-campo.php?id={$idUsuario}'</script>");
 
 
     } 
     
-    $row = mysql_fetch_array ( mysql_query("SELECT *, year(DataReferencia) as Ano , month(DataReferencia) as Mes from `lancamentosbancarios` WHERE `id` = '$id' ")); 
+    $row = $db->query("SELECT *, year(DataReferencia) as Ano , month(DataReferencia) as Mes from `lancamentosbancarios` WHERE `id` = '$id' ")->results(true); 
 
 
 

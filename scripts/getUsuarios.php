@@ -175,20 +175,20 @@ include('../config.php');
     // echo $sQuery;
     // die();
 
-    $rResult = $db->query($sQuery)->results(true) or fatal_error('MySQL Error: ' . $db->error());
+    $rResult = $db->query($sQuery)->results(true) or fatal_error('MySQL Error: ' . $db->errorInfo()[2]);
 
     // var_dump($rResult);
     // die();
      
     /* Data set length after filtering */
     $sQuery = "SELECT FOUND_ROWS()";
-    $rResultFilterTotal = $db->query($sQuery) or fatal_error('MySQL Error: ' . $db->error());
+    $rResultFilterTotal = $db->query($sQuery) or fatal_error('MySQL Error: ' . $db->errorInfo()[2]);
     $aResultFilterTotal = $db->results(true); // Passando true para obter resultados como matriz associativa
     $iFilteredTotal = $aResultFilterTotal[0];
 
     /* Total data set length */
     $sQuery = "SELECT COUNT(".$sIndexColumn.") FROM $sTable";
-    $rResultTotal = $db->query($sQuery) or fatal_error('MySQL Error: ' . $db->error());
+    $rResultTotal = $db->query($sQuery) or fatal_error('MySQL Error: ' . $db->errorInfo()[2]);
     $aResultTotal = $db->results(true); // Passando true para obter resultados como matriz associativa
     $iTotal = $aResultTotal[0];
 

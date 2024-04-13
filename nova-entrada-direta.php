@@ -110,7 +110,7 @@ if (isset($_POST['submitted'])) {
     //echo "POST";
 
     foreach ($_POST as $key => $value) {
-        $_POST[$key] = mysql_real_escape_string($value);
+        $_POST[$key] = $db->escape($value);
     }
 
     //$sql = "INSERT INTO `planodecontas_niveis` ( `idplanodecontas` ,  `nome`  ) 
@@ -156,7 +156,7 @@ if (isset($_POST['submitted'])) {
     //Enviar email
     #Pegar email do pastor
     #$rowEmail = mysql_fetch_array ( 
-    #               mysql_query("SELECT *
+    #               $db->query("SELECT *
     #                          from usuarios WHERE id = {$_GET['id']} "));         
 
 
@@ -168,7 +168,7 @@ if (isset($_POST['submitted'])) {
 
         #######################################################################################################
         //echo $SQL;
-        mysql_query($SQL) or die(mysql_error());
+        $db->query($SQL) or die($db->errorInfo()[2]);
 
         # limpar trocar  / por ;
         $arrMails = explode('/', $rowEmail['Email']);
@@ -233,7 +233,7 @@ if (isset($_POST['submitted'])) {
 
 
                     //Lista Apenas Campos Eclesiáticos                                
-                    $resultSelect = mysql_query("
+                    $resultSelect = $db->query("
                                             SELECT u.id, u.Nome FROM `usuarios` u
                                                     join congregacoes i on (i.id= u.idCongregacao)
                                                     join campos c on(c.id = i.idCampo)
@@ -244,10 +244,10 @@ if (isset($_POST['submitted'])) {
                                             order by nome
 
                                             
-                ") or
-                        trigger_error(mysql_error());
+                ")->results(true) or
+                        trigger_error($db->errorInfo()[2]);
 
-                    while ($rowOption = mysql_fetch_array($resultSelect)) {
+                    foreach ($resultSelect as $rowOption) {
                         foreach ($rowOption as $key => $value) {
                             $rowOption[$key] = stripslashes($value);
                         }
@@ -440,16 +440,18 @@ if (isset($_POST['submitted'])) {
         //exit;
 
 
-        $rs = mysql_query("select count(*) as total from lancamentosbancarios where 
+        // Realize a conexão com o banco de dados
+        $db = DB::getInstance();
+        $rs = $db->query("select count(*) as total from lancamentosbancarios where 
              DataReferencia = '{$fdata}' and Round(Valor,2) = '{$fValorCREDITO}'
              and idUsuario = {$_GET['id']}
             ");
-        $row = mysql_fetch_assoc($rs);
+        $row =  $rs->results(true);
         if ($row['total'] > 0) {
             echo "total  {$row['total']} - ja existe<br>";
 
             $id = $_GET['id'];
-            mysql_query("DELETE FROM `lancamentosbancarios` WHERE 
+            $db->query("DELETE FROM `lancamentosbancarios` WHERE 
 
         DataReferencia = '{$fdata}' 
         and Round(Valor,2) = '{$fValorCREDITO}'

@@ -9,14 +9,14 @@ if (isset($_GET['id']) ) {
     $idUsuario = $_GET['idusuario'];
 
     //Seleciona id
-    $row = mysql_fetch_array ( mysql_query("SELECT * from usuarios  WHERE id = {$id} ")); 
+    $row = $db->query("SELECT * from usuarios  WHERE id = {$id} ")->results(true); 
     foreach($row AS $key => $value) { $row[$key] = stripslashes($value); } 
 
 
     // Se for Edicao
     if (isset($_POST['submitted'])) { 
     foreach($_POST AS $key => $value) { 
-        $_POST[$key] = mysql_real_escape_string($value); 
+        $_POST[$key] = $db->escape($value); 
         //echo "<br> key {$_POST[$key]} ::: {$value}";
     } 
              
@@ -31,8 +31,7 @@ if (isset($_GET['id']) ) {
     //$sql = "insert into usuarios (Follow) values ()"                                        
     //echo $sql;                                        
     
-    mysql_query($sql) or die(mysql_error()); 
-    //echo (mysql_affected_rows()) ? "Edited row.<br />" : "Nothing changed. <br />"; 
+    $db->query($sql) or die($db->errorInfo()[2]); 
     //echo "<a href='listar-plano-de-contas.php'>Voltar a Listagem </a>"; 
 
     //echo $idUsuario;

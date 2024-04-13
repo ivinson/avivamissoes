@@ -42,10 +42,10 @@ include('config.php');
           <label>Origem das entradas</label>                              
             <select  class="form-control" id="selectCongregacao"  name="selectCongregacao" class="chosen-select">
             <?php               
-              $resultSelect = mysql_query("select IGR.id as ID, concat (C.Nome,' - ', IGR.TipoCongregacao) as Nome  from congregacoes IGR
+              $resultSelect = $db->query("select IGR.id as ID, concat (C.Nome,' - ', IGR.TipoCongregacao) as Nome  from congregacoes IGR
                                             JOIN campos C ON ( C.id = IGR.idcampo)
-                                            order by C.Nome") or trigger_error(mysql_error()); 
-              while($rowOption = mysql_fetch_array($resultSelect)){ 
+                                            order by C.Nome")->results(true) or trigger_error($db->errorInfo()[2]); 
+              foreach($resultSelect as $rowOption ){ 
               foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                 echo "<option " . (stripslashes($row['idCongregacao'])==$rowOption['ID'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['ID']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
               } 
@@ -59,8 +59,8 @@ include('config.php');
           <label>Banco</label>                              
             <select  class="form-control" id="selectBanco"  name="selectCongregacao" class="chosen-select">
               <?php               
-              $resultSelect = mysql_query("select * from contabancaria") or trigger_error(mysql_error()); 
-              while($rowOption = mysql_fetch_array($resultSelect)){ 
+              $resultSelect = $db->query("select * from contabancaria")->results(true) or trigger_error($db->errorInfo()[2]); 
+              foreach($resultSelect as $rowOption){ 
               foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                 echo "<option  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ." - ".nl2br( $rowOption['Banco']) ."</option>";                                 
               } 

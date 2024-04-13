@@ -14,12 +14,12 @@
                         name="selectRegiao" class="chosen-select"  >
                         <?php               
                         
-                          $resultSelect = mysql_query("select * from regioes where id <> 2 
-union
-select '0','Selecione um Campo...','','' from regioes where  id <> 2 
+                          $resultSelect = $db->query("select * from regioes where id <> 2 
+                          union
+                          select '0','Selecione um Campo...','','' from regioes where  id <> 2 
 
-order by id") or trigger_error(mysql_error()); 
-                            while($rowOption = mysql_fetch_array($resultSelect)){ 
+                          order by id")->results(true) or trigger_error($db->errorInfo()[2]); 
+                            foreach($resultSelect as $rowOption ){ 
                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                               echo "<option  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Abreviacao']) ." - ".nl2br( $rowOption['Nome']) ."</option>";                                 
                           } 
