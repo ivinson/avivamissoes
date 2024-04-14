@@ -393,12 +393,13 @@ include('scripts/functions.php');
 
 
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<?php
+include("footer.php");
+?>
     <script src="js/plugins/morris/morris.min.js"></script>
     <script src="js/plugins/flot/jquery.flot.js"></script>
     <script src="js/plugins/flot/jquery.flot.pie.js"></script>
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+
 
 
 

@@ -1,24 +1,19 @@
-
-
+                </div>
             </div>
-            <!-- /.container-fluid -->
-
         </div>
-        <!-- /#page-wrapper -->
-
     </div>
-    <!-- /#wrapper -->
+    <script src="assets/js/feather-icons/feather.min.js"></script>
+    <script src="assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+    <script src="assets/js/app.js"></script>
+    
+    <script src="assets/vendors/chartjs/Chart.min.js"></script>
+    <script src="assets/vendors/apexcharts/apexcharts.min.js"></script>
+    <script src="assets/js/pages/dashboard.js"></script>
 
-
-
-    <!-- ORIGINAL  -->
-    <script src="js/jquery.js"></script>
-   
+    <script src="assets/js/main.js"></script>
     <!-- ADAPTACAOES -->
     <script src="http://malsup.github.com/min/jquery.form.min.js"></script>
-    <script src="js/jquery-ui.1.10.2.min.js"></script>
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
     <script src="./js/plugins/chosen/chosen.jquery.js" type="text/javascript"></script>
     <script src="./js/jquery.maskMoney.min.js" type="text/javascript"></script>
 
