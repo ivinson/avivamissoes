@@ -42,7 +42,7 @@ if (session_status() === PHP_SESSION_NONE) {
                 <div class="sidebar-menu">
                     <ul class="menu">
                         
-                            <li class="sidebar-item ">
+                            <li class="sidebar-item">
                                 <a href="index.php" class='sidebar-link'>
                                     <i data-feather="home" width="20"></i> 
                                     <span>Estatisticas</span>
@@ -141,7 +141,7 @@ if (session_status() === PHP_SESSION_NONE) {
                                 <div class="avatar mr-1">
                                     <div style="width: 40px; height:40px; background:gray; border-radius:50%"></div>
                                 </div>
-                                <div class="d-none d-md-block d-lg-inline-block">Olá, <?php  echo $_SESSION['nome']; ?> <b class="caret"><i data-feather="triangle" width="20"></i></b></div>
+                                <div class="d-none d-md-block d-lg-inline-block">Olá, <?php  echo $_SESSION['nome']; ?> </div>
                             </a>
                             <div class="dropdown-menu dropdown-menu-right">
                                 <a class="dropdown-item" href="http://webmail.avivamissoes.com.br"><i data-feather="user"></i> Acessar WebMail</a>

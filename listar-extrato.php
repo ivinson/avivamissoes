@@ -111,7 +111,7 @@ a.accordion-toggle{
 
 $sqlMeses = "
 select 
-  distinct(DATE_FORMAT(DataBaixa, '%m-%Y'))AS DataEmissao
+  distinct(DATE_FORMAT(DataBaixa, '%Y'))AS DataEmissao
 from lancamentosbancarios
 where TipoOrigem = 'C' and idUsuario = 1196 
   order by DataBaixa";
@@ -144,7 +144,7 @@ echo "
               select * from lancamentosbancarios
 
               where TipoOrigem = 'C' and idUsuario = 1196 
-              and DATE_FORMAT(DataBaixa, '%m-%Y') = '{$rowOptionMeses['DataEmissao']}'
+              and DATE_FORMAT(DataBaixa, '%Y') = '{$rowOptionMeses['DataEmissao']}'
               order by DataBaixa
 
               ")->results(true) or trigger_error($db->errorInfo()[2]);

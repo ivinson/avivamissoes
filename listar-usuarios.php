@@ -24,44 +24,44 @@ include("header.php")    ;
 <script defer src="js/jquery.dataTables2_0_3.js"></script>
 
                 <!-- TITULO e cabeçalho das paginas  -->
-                <div class="row">
-                    <div class="col-lg-12">
-                        <h1 class="page-header">
-                          <img src="campos.jpg" width="100" height="100">
+                <div class="page-title">
+                    <div class="row">
+                        <div class="col-12 col-md-6 order-md-1 order-last">
+                            <h3> <img src="campos.jpg" width="100" height="100">
                             Usuários
-                            <small>Listagem de usuarios</small>
-                        </h1>
-                        <ol class="breadcrumb">
-                            <li>
-                                <i class="fa fa-dashboard"></i>  <a href="index.php">Início</a>
-                            </li>
-                            <li class="active">
-                                <i class="fa fa-file"></i> Listagem de Usuários
-                            </li>
-                             <li class="active">
-                                <i class="fa fa-user"></i> <a href="novo-campo.php">Novo usuário</a>
-                            </li>
-                        </ol>
+                            <small>Listagem de usuarios</small></h3>
+                            <a href="novo-campo.php" class="btn btn-info mb-4">Novo usuário</a>
+                        </div>
+                        <div class="col-12 col-md-6 order-md-2 order-first">
+                            <nav aria-label="breadcrumb" class='breadcrumb-header'>
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page">Listagem de Usuários</li>
+                                </ol>
+                            </nav>
+                        </div>
                     </div>
                 </div>
+
                 
                 <!-- /.row -->
 
-            
-                            <table class="table table-bordered table-striped table-highlight table-hover" id="tbUsuarios">
-                                <thead>
-                                    <tr>
-                                        <th>#</th>
-                                        <th>Nome</th>
-                                        <th>NomePastor</th>
-                                        <th>Email</th>
-                                        <th>Cidade</th>
-                                        <!-- <th>Estado </th> -->
-                                        <th></th>
+                <div class="row">
+                    <table class="table table-bordered table-striped table-highlight table-hover" id="tbUsuarios">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Nome</th>
+                                <th>NomePastor</th>
+                                <th>Email</th>
+                                <th>Cidade</th>
+                                <!-- <th>Estado </th> -->
+                                <th></th>
 
-                                    </tr>
-                                </thead>
-                            </table>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
      
 
                
@@ -95,7 +95,7 @@ $(document).ready(function() {
         columnDefs: [{
             targets: 5, 
             data: null,
-            defaultContent: "<button id='btnEditar' class='btnEditar'>Editar</button> <button id='btnRemessa' class='btnRemessa'>Remessas</button>"
+            defaultContent: "<button id='btnEditar' class='btnEditar btn btn-primary'>Editar</button> <button id='btnRemessa' class='btnRemessa btn btn-success'>Remessas</button>"
         }]
     });
 
