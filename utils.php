@@ -1,10 +1,11 @@
 <?php 
 
-echo "<h1>" . date("Y-m-d H:i:s") . "</h1>";
+
 
   include("header.php"); 
   include('config.php');  
   include('scripts/functions.php'); 
+  echo "<h1>" . date("Y-m-d H:i:s") . "</h1>";
 
   $arrFiles = array(
     "retorno/anexos/movimentobancario/01bfa71d78028bd6b636402f965596ed.jpg",
@@ -667,7 +668,7 @@ echo "Total de Arquivos na pasta<h1>{$iTotal}</h1> <br>";
 echo "Total de Arquivos sem correspondentes <h1>{$iSemCorrespondentes}</h1> <br>";
 
 
-
+include("footer.php");
 
 
 
@@ -797,7 +798,7 @@ foreach($resultBoletos as $rowOption){
                     </div>
                 </div>
             
-<?php include("footer.php")    ; ?>
+
 
 <script type="text/javascript">
 
@@ -862,7 +863,7 @@ function verificaLancamento2($fValorCREDITO,$fdata,$idusuario){
 }
 
 
-echo "<h1>".date()."</h1>";
+echo "<h1>" . date("Y-m-d H:i:s") . "</h1>";
 ?>             
 
 
