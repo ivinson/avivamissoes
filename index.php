@@ -22,17 +22,11 @@ include('scripts/functions.php');
 
 ?>
 
-<style>
-    #flotcontainer {
-        width: 400px;
-        height: 400px;
-        text-align: right;
-    }
-</style>
+
 
 <div id="page-wrapper">
 
-    <div class="container-fluid">
+    <div class="container-fluid color-custom">
 
         <!-- TITULO e cabeçalho das paginas  -->
         <div class="page-title">
@@ -53,124 +47,9 @@ include('scripts/functions.php');
         </div>
         <!-- /.row -->
 
-        <style>
-/* INICIO ESTILO DO CARD MINHA CONTA */
-
-  .parent {
-  width: 200px;
-  padding-top: 20px;
-}
-
-.card-custom {
-  padding-top: 40px;
-  /* border-radius: 10px; */
-  border: 3px solid rgb(255, 255, 255);
-  transform-style: preserve-3d;
-  width: 100%;
-  height: 150px;
-  box-shadow: rgba(142, 142, 142, 0.3) 0px 30px 30px -10px;
-  border-radius: 5px;
-}
-
-.content-box {
-  padding: 20px 25px 25px 25px;
-  color: white;
-  height: 120px;
-}
-
-.content-box.box1 {
-    background: rgba(242, 132, 130, 0.732);
-}
-
-.content-box.box2 {
-    background: rgba(132, 165, 157, 0.732);
-}
-
-.content-box.box3 {
-    background: rgba(245, 202, 195, 0.732);
-}
-
-.content-box.box4 {
-    background: rgba(246, 189, 96, 0.732);
-}
-
-.content-box .card-custom-title {
-  display: inline-block;
-  color: white;
-  font-size: 18px;
-  font-weight: 900;
-}
 
 
-
-.content-box .card-custom-content, .conta .card-content a  {
-  margin-top: 10px;
-  font-size: 15px;
-  font-weight: 700;
-  color: #3e5c76;
-
-}
-
-.conta .card-content a :hover {
-  color: #49111c;
-}
-
-.date-box {
-  position: absolute;
-  top: -10px;
-  right: 0px;
-  height: 60px;
-  width: 60px;
-  background: white;
-  border: 1px solid #e0afa0;
-  /* border-radius: 10px; */
-  padding: 10px;
-  transform: translate3d(0px, 0px, 80px);
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 17px 10px -10px;
-}
-
-.date-box span {
-  display: block;
-  text-align: center;
-}
-
-.date-box .month {
-  color: #e0afa0;
-  font-size: 25px;
-  font-weight: 700;
-}
-
-
-.date-box .date {
-  font-size: 20px;
-  font-weight: 900;
-  color: #e0afa0;
-}
-/* FIM ESTILO DO CARD MINHA CONTA */
-
-.cards {
-  display: flex;
-  flex-direction: row;
-  gap: 15px;
-  flex-wrap: wrap;
-  margin-bottom: 15px;
-}
-
-.cards .card .card-content, .card-custom .card-content{
-  display: flex;
-  justify-content: space-between;
-}
-
-@media (max-width: 592px) {
-    .parent-child {
-      width: 400px;
-  }
-
-}
-
-            </style>
-
-            <div class="cards">   
+            <div class="cards mb-5" >   
 
                     <div class="parent">
                         <div class="conta card-custom">
@@ -301,160 +180,43 @@ include('scripts/functions.php');
                     </div>
             </div>
 
-        <!-- /.row -->
-
-
-
-        <!-- /.row -->
-
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h3 class="panel-title"><i class="fa fa-long-arrow-right fa-fw"></i>
-                            Indice de inadimplencia por Região</h3>
-                    </div>
-                    <div class="panel-body">
-                        <!-- HTML -->
-                        <div id="legendPlaceholder"></div>
-                        <div id="flotcontainer"></div>
-
-                        <div class="text-right">
-                            <a href="inadimplentes.php">View Details <i class="fa fa-arrow-circle-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-6">
-                <div class="panel panel-info">
-                    <div class="panel-heading">
-                        <h3 class="panel-title"><i class="fa fa-long-arrow-right fa-fw"></i>
-                            Maiores contribuintes TOP 10 </h3>
-                        <div class="panel-body">
-                            <!-- HTML -->
-
-
-                            <?php
-
-                            $rsCamposPagadores = $db->query("
-                                            select u.Nome, FORMAT(SUM(lb.Valor),2)  as Valor
-                                            from lancamentosbancarios lb join usuarios u on (u.id = lb.idUsuario)
-                                            group by u.id  order by SUM(lb.Valor) desc
-                                            limit 10
-                                            ");
-
-                            foreach ($rsCamposPagadores as $rowCamposPagadores) {
-                                foreach ($rowCamposPagadores as $key => $value) {
-                                    $rowCamposPagadores[$key] = stripslashes($value);
-                                }
-
-
-                                echo "                                                
-
-                                                <a href='#' class='list-group-item'>
-                                                    <span class='label label-success'>R$ {$rowCamposPagadores['Valor']}</span>
-                                                    <i class='fa fa-fw fa-user'></i> {$rowCamposPagadores['Nome']}
-                                                </a>";
-                            }
-
-                            ?>
-
-
-                        </div>
-                        <div class="text-right">
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-        </div>
-
-        <div class="row">
-
-            <div class="col-lg-6">
-                <div class="panel panel-info">
-                    <div class="panel-heading">
-                        <h3 class="panel-title"><i class="fa fa-long-arrow-right fa-fw"></i>
-                            Campos que utilizam boletos </h3>
-                        <div class="panel-body">
-                            <!-- HTML -->
-
-
-                            <?php
-
-                            $rsCamposPagadores = $db->query("
-                                            select  
-                                            u.Nome,
-                                            lb.idUsuario,
-                                            count( lb.idUsuario) as total 
-                                            from 
-
-                                            lancamentosbancarios lb join usuarios u on(u.id = lb.idUsuario)
-
-                                            where lb.TipoOrigem = 'CR' 
-                                            group by u.Nome,lb.idUsuario
-                                            order by total desc
-                                            
-                                            ");
-
-                            foreach ($rsCamposPagadores as $rowCamposPagadores) {
-                                foreach ($rowCamposPagadores as $key => $value) {
-                                    $rowCamposPagadores[$key] = stripslashes($value);
-                                }
-
-
-                                echo "                                                
-
-                                                  <a href='follow-up.php?id={$rowCamposPagadores['idUsuario']}' class='list-group-item'>                                                  
-                                                    <i class='fa fa-fw fa-user'></i> {$rowCamposPagadores['Nome']}
-
-                                                     <span class='label label-success'> {$rowCamposPagadores['total']}</span>
-                                                </a>";
-                            }
-
-                            ?>
-
-
-                        </div>
-                        <div class="text-right">
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
 
             <div class="row">
+                <div class="col-lg-6">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h3 class="panel-title"><i class="fa fa-long-arrow-right fa-fw"></i>
+                                Indice de inadimplencia por Região</h3>
+                        </div>
+                        <div class="panel-body">
+                            <!-- HTML -->
+                            <div id="legendPlaceholder"></div>
+                            <div id="flotcontainer"></div>
+
+                            <div class="text-right">
+                                <a href="inadimplentes.php">Ver Detalhes <i class="fa fa-arrow-circle-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="col-lg-6">
-                    <div class="panel panel-info ">
+                    <div class="panel panel-info">
                         <div class="panel-heading">
-                            <h2 class="panel-title"><i class="fa fa-long-arrow-right fa-fw"></i>
-                                NÃO USAM BOLETOS
-                            </h2>
-                            <div class="panel-body" style="background-color: #F04E4E !important;">
+                            <h3 class="panel-title"><i class="fa fa-long-arrow-right fa-fw"></i>
+                                Maiores contribuintes TOP 10 </h3>
+                            <div class="panel-body">
                                 <!-- HTML -->
+
+
                                 <?php
 
                                 $rsCamposPagadores = $db->query("
-                                        select * from usuarios ud 
-
-                                        where ud.id not in (
-
-
-                                                            select  distinct
-                                                            u.id
-                                                            from 
-                                                            lancamentosbancarios lb join usuarios u on(u.id = lb.idUsuario)
-                                                            where lb.TipoOrigem = 'CR'  and ud.id
-                                                            
-                                                        )
-                                            
-                                            ");
+                                                select u.Nome, FORMAT(SUM(lb.Valor),2)  as Valor
+                                                from lancamentosbancarios lb join usuarios u on (u.id = lb.idUsuario)
+                                                group by u.id  order by SUM(lb.Valor) desc
+                                                limit 10
+                                                ")->results(true);
 
                                 foreach ($rsCamposPagadores as $rowCamposPagadores) {
                                     foreach ($rowCamposPagadores as $key => $value) {
@@ -464,10 +226,10 @@ include('scripts/functions.php');
 
                                     echo "                                                
 
-                                                <a href='follow-up.php?id={$rowCamposPagadores['id']}' class='list-group-item'>                                                   
-                                                    <i class='fa fa-fw fa-user'></i> {$rowCamposPagadores['Nome']}
-                                                     
-                                                </a>";
+                                                    <a href='#' class='list-group-item'>
+                                                        <span style='color:#2f4858' class='badge badge-gold'>R$ {$rowCamposPagadores['Valor']}</span>
+                                                        <i class='fa fa-fw fa-user'></i> {$rowCamposPagadores['Nome']}
+                                                    </a>";
                                 }
 
                                 ?>
@@ -482,8 +244,52 @@ include('scripts/functions.php');
                 </div>
 
 
-
             </div>
+
+        <div class="row mt-5">
+
+            <div class="col-lg-6">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <h3 class="panel-title" style="color: #43aa8b;"><i class="fa fa-long-arrow-right fa-fw"></i>
+                            Campos que utilizam boletos </h3>
+                        <div class="registros-container panel-body" data-action="com_boleto">
+                            <!-- HTML -->
+                        </div>
+
+                        <div class="text-center mt-5">
+                            <button class="btn-carregar-mais btn btn-primary" style="background-color: #43aa8b; border:1px solid White" data-url="inc_com_boletos.php" data-action="com_boleto">Carregar tudo</button>
+                        </div>
+
+                        <div class="text-right">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+                <div class="col-lg-6">
+                    <div class="panel panel-info ">
+                        <div class="panel-heading">
+                            <h2 class="panel-title" style="color: #f94144;"><i class="fa fa-long-arrow-right fa-fw"></i>
+                                Não usam boletos
+                            </h2>
+                            <div class="registros-container panel-body" data-action="sem_boleto" style="background-color: #F04E4E !important;">
+                                <!-- HTML -->
+
+                            </div>
+
+                            <div class="text-center mt-5">
+                                <button class="btn-carregar-mais btn btn-primary" style="background-color: #f94144; border:1px solid White" data-url="inc_sem_boletos.php" data-action="sem_boleto">Carregar tudo</button>
+                            </div>
+
+                            <div class="text-right">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
             <!-- /.row -->
 
 
@@ -583,3 +389,47 @@ group by u.id  order by SUM(lb.Valor) desc";
             $.plot($("#flotcontainer"), data, options);
         });
     </script>
+
+<script>
+    $(document).ready(function() {
+        var limit = 20; // Número inicial de registros a serem carregados por vez
+        var todosCarregados = false; // Flag para controlar se todos os registros já foram carregados
+
+        // Função para carregar os registros
+        function carregarRegistros(url, action) {
+            $.ajax({
+                url: url,
+                method: 'GET',
+                data: { 
+                    limit: todosCarregados ? 'all' : limit,
+                    action: action // Passando a ação desejada como parâmetro
+                },
+                success: function(response) {
+                    $('.registros-container[data-action="' + action + '"]').html(response); // Substitui o conteúdo atual pelo novo conteúdo na div correspondente à ação
+                    $('.btn-carregar-mais[data-action="' + action + '"]').toggle(!todosCarregados); // Oculta o botão se todos os registros já foram carregados
+                },
+                error: function() {
+                    alert('Erro ao carregar registros.');
+                }
+            });
+        }
+
+        // Carregar os primeiros registros assim que a página carregar
+        $('.btn-carregar-mais').each(function() {
+            var url = $(this).data('url');
+            var action = $(this).data('action');
+            carregarRegistros(url, action); // Carrega registros para cada estrutura
+        });
+
+        // Evento de clique no botão "Carregar Mais"
+        $('.btn-carregar-mais').click(function() {
+            var url = $(this).data('url');
+            var action = $(this).data('action');
+            todosCarregados = true; // Define que todos os registros serão carregados
+            carregarRegistros(url, action); // Carrega todos os registros
+        });
+    });
+
+
+
+</script>

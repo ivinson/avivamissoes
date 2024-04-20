@@ -1,0 +1,136 @@
+
+            /* INICIO ESTILO DO CARD MINHA CONTA */
+
+            .parent {
+            width: 200px;
+            padding-top: 20px;
+            }
+
+            .card-custom {
+            padding-top: 40px;
+            /* border-radius: 10px; */
+            border: 3px solid rgb(255, 255, 255);
+            transform-style: preserve-3d;
+            width: 100%;
+            height: 150px;
+            box-shadow: rgba(142, 142, 142, 0.3) 0px 30px 30px -10px;
+            border-radius: 5px;
+            }
+
+            .content-box {
+            padding: 20px 25px 25px 25px;
+            color: white;
+            height: 120px;
+            }
+
+            .content-box.box1 {
+                background: rgba(242, 132, 130, 0.732);
+            }
+
+            .content-box.box2 {
+                background: rgba(132, 165, 157, 0.732);
+            }
+
+            .content-box.box3 {
+                background: rgba(245, 202, 195, 0.732);
+            }
+
+            .content-box.box4 {
+                background: rgba(246, 189, 96, 0.732);
+            }
+
+            .content-box .card-custom-title {
+            display: inline-block;
+            color: white;
+            font-size: 18px;
+            font-weight: 900;
+            }
+
+
+
+            .content-box .card-custom-content, .conta .card-content a  {
+            margin-top: 10px;
+            font-size: 15px;
+            font-weight: 700;
+            color: #3e5c76;
+
+            }
+
+            .conta .card-content a :hover {
+            color: #49111c;
+            }
+
+            .date-box {
+            position: absolute;
+            top: -10px;
+            right: 0px;
+            height: 60px;
+            width: 60px;
+            background: white;
+            border: 1px solid #e0afa0;
+            /* border-radius: 10px; */
+            padding: 10px;
+            transform: translate3d(0px, 0px, 80px);
+            box-shadow: rgba(100, 100, 111, 0.2) 0px 17px 10px -10px;
+            }
+
+            .date-box span {
+            display: block;
+            text-align: center;
+            }
+
+            .date-box .month {
+            color: #e0afa0;
+            font-size: 25px;
+            font-weight: 700;
+            }
+
+
+            .date-box .date {
+            font-size: 20px;
+            font-weight: 900;
+            color: #e0afa0;
+            }
+            /* FIM ESTILO DO CARD MINHA CONTA */
+
+            .cards {
+            display: flex;
+            flex-direction: row;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-bottom: 15px;
+            }
+
+            .cards .card .card-content, .card-custom .card-content{
+            display: flex;
+            justify-content: space-between;
+            }
+
+            @media (max-width: 592px) {
+                .parent-child {
+                width: 400px;
+            }
+
+            }
+
+            .badge-gold {
+                background-color: #efebce; /* Cor de fundo dourada */
+                color: #333; /* Cor do texto */
+                border-radius: 10px; /* Borda arredondada */
+                padding: 5px 10px; /* Espaçamento interno */
+                font-weight: bold; /* Texto em negrito */
+                text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Sombra do texto para destacar */
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra para adicionar profundidade */
+                display: inline-block; /* Para que o badge se ajuste ao conteúdo */
+                font-size: 15px;
+            }
+
+            .color-custom a {
+                color: #2b2d42 !important;
+            }
+
+            #flotcontainer {
+                width: 400px;
+                height: 400px;
+                text-align: right;
+            }

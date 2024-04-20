@@ -15,6 +15,7 @@ if (session_status() === PHP_SESSION_NONE) {
     <link rel="stylesheet" href="assets/vendors/chartjs/Chart.min.css">
     <link rel="stylesheet" href="assets/vendors/perfect-scrollbar/perfect-scrollbar.css">
     <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="assets/css/index.css">
     <link rel="shortcut icon" href="assets/images/favicon.svg" type="image/x-icon">
         <!-- implementacao de datatables e choosen select  -->
     <link href="css/jquery.dataTables.min.css" rel="stylesheet" />

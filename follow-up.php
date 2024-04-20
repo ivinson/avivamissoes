@@ -9,7 +9,7 @@ if (isset($_GET['id']) ) {
     $idUsuario = $_GET['idusuario'];
 
     //Seleciona id
-    $row = $db->query("SELECT * from usuarios  WHERE id = {$id} ")->results(true); 
+    $row = $db->query("SELECT * from usuarios  WHERE id = {$id} ")->results(true)[0]; 
     foreach($row AS $key => $value) { $row[$key] = stripslashes($value); } 
 
 
