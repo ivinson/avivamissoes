@@ -56,7 +56,7 @@ include('scripts/functions.php');
                             <div class="conta content-box box1">
                                 <?php
 
-                                    $rowEmitidos = $db->query("select  count(distinct lb.idUsuario) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' ")->results(true);                                   
+                                    $rowEmitidos = $db->query("select  count(distinct lb.idUsuario) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' ")->results()[0];                                   
 
                                     ?>
                                 <span class="conta card-custom-title">Boletos Recebidos</span>
@@ -81,7 +81,7 @@ include('scripts/functions.php');
                             <div class="conta content-box box2">
                                 <?php
 
-                                    $rowEmitidos = $db->query("select  count(distinct lb.idUsuario) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' ")->results(true);
+                                    $rowEmitidos = $db->query("select  count(distinct lb.idUsuario) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' ")->results()[0];
                                     
 
                                     ?>
@@ -107,7 +107,7 @@ include('scripts/functions.php');
                             <div class="conta content-box box3">
                                 <?php
 
-                                    $rowCampos = $db->query("SELECT count(*) as total  FROM campos ;")->results(true);
+                                    $rowCampos = $db->query("SELECT count(*) as total  FROM campos ;")->results()[0];
                                     echo $rowCampos->total;                                    
 
                                     ?>
