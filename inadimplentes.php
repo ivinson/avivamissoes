@@ -223,6 +223,30 @@
 }
 </style>
 
+          <?php
+          $tituloPrincipal = "";
+          $tituloSecondario = "";
+          $navPagina = "Inadimplentes";
+          ?>
+            <!-- TITULO e cabeçalho das paginas  -->
+                  <div class="page-title">
+                      <div class="row">
+                          <div class="col-12 col-md-6 order-md-1 order-last">
+                              <h3><?=$tituloPrincipal?><br><br>
+                              <small><?=$$tituloSecondario?></small></h3>
+                          </div>
+                          <div class="col-12 col-md-6 order-md-2 order-first">
+                              <nav aria-label="breadcrumb" class='breadcrumb-header'>
+                                  <ol class="breadcrumb">
+                                      <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+                                      <li class="breadcrumb-item active" aria-current="page"><?=$navPagina?></li>
+                                  </ol>
+                              </nav>
+                          </div>
+                      </div>
+                  </div>
+                  <!-- /.row -->
+
                 <!-- TITULO e cabeçalho das paginas  -->
                 <div id="ListagemINAD" class="row">
                     <div class="col-lg-12">

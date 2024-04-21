@@ -75,23 +75,33 @@ a.accordion-toggle{
     color: white;
 }
 </style>
+        <?php
+        $tituloPrincipal = "Lançamentos Pendentes";
+        $tituloSecondario = "Lançamentos";
+        $navPagina = "Listagem pendentes depois do processo de consistencia";
+        ?>
+          <!-- TITULO e cabeçalho das paginas  -->
+                <div class="page-title">
+                    <div class="row">
+                        <div class="col-12 col-md-6 order-md-1 order-last">
+                            <h3><?=$tituloPrincipal?><br><br>
+                            <small><?=$$tituloSecondario?></small></h3>
+                        </div>
+                        <div class="col-12 col-md-6 order-md-2 order-first">
+                            <nav aria-label="breadcrumb" class='breadcrumb-header'>
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page"><?=$navPagina?></li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.row -->
 
-                <!-- TITULO e cabeçalho das paginas  -->
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1 class="page-header">
-                        <img src="http://www.horsecare.com.br/wp-content/uploads/2014/10/pendencias-HorseCare-250x250.png" width="100" height="100">
-
-                           Lançamentos Pendentes
-                            <small></small>
-                        </h1>
-                        <ol class="breadcrumb">
-                            <li>
-                                <i class="fa fa-dashboard"></i>  <a href="index.php">Início</a>
-                            </li>
-                            <li class="active">
-                                <i class="fa fa-file"></i> Listagem pendentes depois do processo de consistencia
-                            </li>
+                        <ol class="breadcrumb mb-5">
                             <LI>
                               <a href='consistencia.php' class='btn btn-info' role='button'><span class='glyphicon glyphicon-ok-circle' aria-hidden='true'></span> Importar excel</a>
                             </LI>

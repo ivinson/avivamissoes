@@ -421,48 +421,52 @@
       
 ?>
 
-
+<?php
+$tituloPrincipal = "Tela de Utilidades Gerais do Sistema";
+$tituloSecondario = "Utilidades";
+$navPagina = "Tela de Utilidades Gerais do Sistema";
+?>
 <!-- TITULO e cabeçalho das paginas  -->
-<div class="row">
-<div class="col-lg-12">
-  <h1 class="page-header">
-  <img src="icon-boleto.jpg" width="100" height="100">
-
-     Tela de Utilidades Gerais do Sistema
-      <small></small>
-  </h1>
-  <ol class="breadcrumb">
-      <li>
-          <i class="fa fa-dashboard"></i>  <a href="index.php">Início</a>
-      </li>
-      <li class="active">
-          <i class="fa fa-file"></i> 
-      </li>
-      <LI>
-      
-      </LI>
-  </ol>
-
-
-<br>   <a href='utils.php?action=files' class='btn btn-info' role='button'><span class='glyphicon glyphicon-ok-circle' aria-hidden='true'></span> 
-Verificar Arquivos sem lancamentos correspondentes </a>
-
-<a href='verificar-integridade.php' class='btn btn-warning' role='button'><span class='glyphicon glyphicon-ok-circle' aria-hidden='true'></span> 
-Verificar Integridade </a>
-
-<br><br>
-
-<a  
-	href='consistencia.php' 
-	class='btn btn-warning' 
-	role='button'> 
-	Consistencia 
-</a>
-
-<br><br>
-
-
+<div class="page-title">
+    <div class="row">
+        <div class="col-12 col-md-6 order-md-1 order-last mb-5">
+            <h3><img src="icon-boleto.jpg" width="100" height="100"> <?=$tituloPrincipal?><br><br>
+            <small><?=$tituloSecondario?></small></h3>
+        </div>
+        <div class="col-12 col-md-6 order-md-2 order-first">
+            <nav aria-label="breadcrumb" class='breadcrumb-header'>
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+                    <li class="breadcrumb-item active" aria-current="page"><?=$navPagina?></li>
+                </ol>
+            </nav>
+        </div>
+    </div>
 </div>
+<!-- /.row -->
+
+
+<div class="row">
+  <div class="col-lg-12">
+  <br>   <a href='utils.php?action=files' class='btn btn-info' role='button'><span class='glyphicon glyphicon-ok-circle' aria-hidden='true'></span> 
+  Verificar Arquivos sem lancamentos correspondentes </a>
+
+  <a href='verificar-integridade.php' class='btn btn-warning' role='button'><span class='glyphicon glyphicon-ok-circle' aria-hidden='true'></span> 
+  Verificar Integridade </a>
+
+  <br><br>
+
+  <a  
+    href='consistencia.php' 
+    class='btn btn-warning' 
+    role='button'> 
+    Consistencia 
+  </a>
+
+  <br><br>
+
+
+  </div>
 </div>  
 <!-- /.row -->
 <div class="row">

@@ -45,30 +45,29 @@
 }
   </style>
 
-  <!-- TITULO e cabeçalho das paginas  -->
-  <div class="row">
-    <div class="col-lg-12">
-      <h1 class="page-header">
-        <img src="icon-boleto.jpg" width="100" height="100">
-
-        Ofertas Pastorais
-        <small>Listagem de boletos </small>
-      </h1>
-      <ol class="breadcrumb">
-        <li>
-          <i class="fa fa-dashboard"></i> <a href="index.php">Início</a>
-        </li>
-        <li class="active">
-          <i class="fa fa-file"></i> Contas a receber
-        </li>
-        <li>
-          <i class="fa fa-dashboard"></i> <a href="wizard-boleto.php">Emitir boleto</a>
-        </li>
-      </ol>
+<?php
+$tituloPrincipal = "Ofertas Pastorais";
+$tituloSecondario = "Listagem de boletos";
+$navPagina = "Emitir boleto";
+?>
+<!-- TITULO e cabeçalho das paginas  -->
+<div class="page-title">
+    <div class="row">
+        <div class="col-12 col-md-6 order-md-1 order-last">
+            <h3><img src="icon-boleto.jpg" width="100" height="100"> <?=$tituloPrincipal?><br><br>
+            <small><?=$$tituloSecondario?></small></h3>
+        </div>
+        <div class="col-12 col-md-6 order-md-2 order-first">
+            <nav aria-label="breadcrumb" class='breadcrumb-header'>
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+                    <li class="breadcrumb-item active" aria-current="page"><a href="wizard-boleto.php"><?=$navPagina?></a></li>
+                </ol>
+            </nav>
+        </div>
     </div>
-  </div>
-
-  <!-- /.row -->
+</div>
+<!-- /.row -->
 
   <div class="row">
     <div class="col-lg-12">

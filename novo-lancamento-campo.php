@@ -159,22 +159,29 @@ if(verificaLancamento(0,$dataMysql)){
 
 ?>
 
+<?php
+$tituloPrincipal = "";
+$tituloSecondario = "Novo lançamento de entrada";
+$navPagina = "Movimento bancário";
+?>
 <!-- TITULO e cabeçalho das paginas  -->
-<div class="row">
-    <div class="col-lg-12">
-        <h1 class="page-header">
-            
-            <small>Novo lançamento de entrada</small>
-        </h1>
-        <ol class="breadcrumb">
-            <li>
-                <i class="fa fa-dashboard"></i>  <a href="index.php">Início</a>
-            </li>
-            <li class="active">
-                <i class="fa fa-file"></i> Movimento bancário
-            </li>
-        </ol>
-    </div</div>
+<div class="page-title">
+    <div class="row">
+        <div class="col-12 col-md-6 order-md-1 order-last mb-5">
+            <h3><?=$tituloPrincipal?><br><br>
+            <small><?=$tituloSecondario?></small></h3>
+        </div>
+        <div class="col-12 col-md-6 order-md-2 order-first">
+            <nav aria-label="breadcrumb" class='breadcrumb-header'>
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+                    <li class="breadcrumb-item active" aria-current="page"><?=$navPagina?></li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- /.row -->
                 
 
 

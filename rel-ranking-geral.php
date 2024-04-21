@@ -37,17 +37,39 @@
     background-color: blue;
     color: white;
 }
-</style>
 
+.badge-gold {
+    background-color: #efebce; /* Cor de fundo dourada */
+    color: #333; /* Cor do texto */
+    border-radius: 10px; /* Borda arredondada */
+    padding: 5px 10px; /* Espaçamento interno */
+    font-weight: bold; /* Texto em negrito */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Sombra do texto para destacar */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra para adicionar profundidade */
+    display: inline-block; /* Para que o badge se ajuste ao conteúdo */
+    font-size: 15px;
+}
+</style>
+<?php
+$tituloPrincipal = "RANKING DE OFERTAS";
+$tituloSecondario = "Listagem de total de remessas enviadas (2008 ate hoje)";
+$navPagina = "Relatório geral";
+?>
                 <!-- TITULO e cabeçalho das paginas  -->
                 <div class="row">
-                    <div class="col-lg-12">
-                        <h1 class="page-header">
-                          <img src="inadimplentes.jpg" width="100" height="100">
-                           
-                            RANKING DE OFERTAS<br>
-                            <small>Listagem de total de remessas enviadas (2008 ate hoje)</small>
-                        </h1>
+                    <div class="col-12 col-md-6 order-md-1 order-last mb-5">
+                        <h3><img src="inadimplentes.jpg" width="100" height="100"> <?=$tituloPrincipal?><br><br>
+                        <small><?=$tituloSecondario?></small></h3>
+                        </div>
+                        <div class="col-12 col-md-6 order-md-2 order-first">
+                            <nav aria-label="breadcrumb" class='breadcrumb-header'>
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page"><?=$navPagina?></li>
+                                </ol>
+                            </nav>
+                        </div>
+
                         <ol class="breadcrumb" style="display:none !important;">
 
                             <li class="active">
@@ -110,7 +132,7 @@
                                                 echo "                                                
 
                                                 <a href='#' class='list-group-item'>
-                                                <h4><span class='label label-warning label-as-badge'>{$posicao}º</span>
+                                                <h4><span style='color:#2f4858' class='badge badge-gold label label-warning label-as-badge'>{$posicao}º</span>
                                                     <span class='label label-success'>R$ {$rowCamposPagadores['Valor']}</span>
                                                     <i class='fa fa-fw fa-user'></i> {$rowCamposPagadores['Nome']} </h4>
                                                 </a>";

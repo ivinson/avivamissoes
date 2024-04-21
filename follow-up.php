@@ -4,6 +4,7 @@ include("header.php");
 include('config.php');  
 include('scripts/functions.php'); 
 
+
 if (isset($_GET['id']) ) { 
     $id = (int) $_GET['id']; 
     $idUsuario = $_GET['idusuario'];
@@ -57,30 +58,61 @@ if (isset($_GET['id']) ) {
 
 ?>
 
-<!-- TITULO e cabeçalho das paginas  -->
-<div class="row">
-    <div class="col-lg-12">
-        <h1 class="page-header">
-            
-            <small><b>Contatos realizados</b> <br> </small>
-        </h1>
-        <h3>
-        <ol class="breadcrumb">
+<?php
+$tituloPrincipal = "Contatos realizados";
+$tituloSecondario = "Contatos";
+$navPagina = "Contatos";
+?>
 
-            <li class="active">
-                <i class="fa fa-user"></i> <?php echo($row['Nome']);?>
-                <i class="fa fa-phone"></i> <?php echo($row['Telefone'] ." " .$row['Telefone1']." " .$row['Celular']." " .$row['Celular1'] );?>
-                <i class="fa fa-envelope "></i> <?php echo($row['Email']);?>
-            </li>
-        </ol>
-    </h3>
+<style>
+    .page-header {
+    margin-bottom: 20px;
+}
+
+.header-info {
+    background-color: #d8f3dc;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header-info .contact-info {
+    margin-right: 20px;
+    font-size: 16px;
+    color: #333;
+}
+
+.header-info .contact-info i {
+    margin-right: 5px;
+}
+</style>
+<!-- TITULO e cabeçalho das paginas  -->
+<div class="page-title">
+    <div class="row">
+        <div class="col-12 col-md-6 order-md-1 order-last">
+            <h3><?=$tituloPrincipal?><br><br>
+            <small><?=$$tituloSecondario?></small></h3>
+        </div>
+        <div class="col-12 col-md-6 order-md-2 order-first">
+            <nav aria-label="breadcrumb" class='breadcrumb-header'>
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+                    <li class="breadcrumb-item active" aria-current="page"><?=$navPagina?></li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="header-info mt-2 mt-4 col-lg-8 col-12 col-md-6">
+        <span class="contact-info"><i class="fa fa-user"></i> <?php echo($row['Nome']);?></span>
+        <span class="contact-info"><i class="fa fa-phone"></i> <?php echo($row['Telefone'] ." " .$row['Telefone1']." " .$row['Celular']." " .$row['Celular1'] );?></span>
+        <span class="contact-info"><i class="fa fa-envelope"></i> <?php echo($row['Email']);?></span>
     </div>
 </div>
-                
+<!-- /.row -->        
 
 
 <form role="form" action='' method='POST' enctype="multipart/form-data"> 
-<div class="row">
+<div class="row mt-5">
 
 <div class="col-lg-8">
 
@@ -123,7 +155,7 @@ if (isset($_GET['id']) ) {
 
 </form>               
 
-<div class="row">
+<div class="row mt-5">
     <div class="col-lg-12">
         <h3> Histórico de conversas</h3>
         <?php 

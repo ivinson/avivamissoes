@@ -48,23 +48,29 @@ if($_SESSION['logado'] <> "S"){
 }
 </style>
 
+<?php
+$tituloPrincipal = "Processamento de Extratos Bradesco";
+$tituloSecondario = "Processamento";
+$navPagina = "Ofertas Pastorais";
+?>
 <!-- TITULO e cabeçalho das paginas  -->
-<div class="row">
-    <div class="col-lg-12">
-        <h1 class="page-header"> <img src="https://upload.wikimedia.org/wikipedia/pt/d/d0/Bradesco_logo.png" width="150" height="100">
-            
-            <small>Processamento de Extratos Bradesco</small>
-        </h1>
-        <ol class="breadcrumb">
-            <li>
-                <i class="fa fa-dashboard"></i>  <a href="index.php">Início</a>
-            </li>
-            <li class="active">
-                <i class="fa fa-file"></i> Ofertas Pastorais
-            </li>
-        </ol>
+<div class="page-title">
+    <div class="row">
+        <div class="col-12 col-md-6 order-md-1 order-last">
+            <h3><img src="https://upload.wikimedia.org/wikipedia/pt/d/d0/Bradesco_logo.png" width="150" height="100"><?=$tituloPrincipal?><br><br>
+            <small><?=$$tituloSecondario?></small></h3>
+        </div>
+        <div class="col-12 col-md-6 order-md-2 order-first">
+            <nav aria-label="breadcrumb" class='breadcrumb-header'>
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+                    <li class="breadcrumb-item active" aria-current="page"><?=$navPagina?></li>
+                </ol>
+            </nav>
+        </div>
     </div>
 </div>
+<!-- /.row -->
 
 <!-- /.row -->
 <form id="formulario" method="post" enctype="multipart/form-data" action="upload-extrato.php">

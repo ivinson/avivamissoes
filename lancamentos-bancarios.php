@@ -43,34 +43,36 @@
 <iframe id="txtArea1" style="display:none"></iframe>
  
 
-                <!-- TITULO e cabeçalho das paginas  -->
-                <div class="row">
-                    <div class="col-lg-12">
-                        <h1 class="page-header">
-                           <img src="lancamentos-entrada.jpg" width="100" height="100">
 
-                            Entradas 
-                            <small>Listagem de Entradas</small>
-                        </h1>
-                        <ol class="breadcrumb">
-                            <li>
-                                <i class="fa fa-dashboard"></i>  <a href="index.php">Início</a>
-                            </li>
-                            <li class="active">
-                                <i class="fa fa-file"></i> Lançamentos Bancários
-                            </li>
-
-                            <li>Ultima dia do Mês: 
-                                <?php 
-                                    $a_date = date('d-m-Y H:i:s');
-                                    echo date("t-m-Y", strtotime($a_date));
-                                ?>
-
-
-                            </li>
-                        </ol>
+        <?php
+        $tituloPrincipal = "Entradas";
+        $tituloSecondario = "Listagem de Entradas";
+        $navPagina = "Lançamentos Bancários";
+        ?>
+          <!-- TITULO e cabeçalho das paginas  -->
+                <div class="page-title">
+                    <div class="row">
+                        <div class="col-12 col-md-6 order-md-1 order-last">
+                            <h3><img src="lancamentos-entrada.jpg" width="100" height="100"><?=$tituloPrincipal?><br><br>
+                            <small><?=$$tituloSecondario?></small></h3>
+                        </div>
+                        <div class="col-12 col-md-6 order-md-2 order-first">
+                            <nav aria-label="breadcrumb" class='breadcrumb-header'>
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+                                    <li class="breadcrumb-item active" aria-current="page"><?=$navPagina?></li>
+                                    <li class="breadcrumb-item">Último dia do Mês: 
+                                        <?php 
+                                        $a_date = date('d-m-Y H:i:s');
+                                        echo date("t-m-Y", strtotime($a_date));
+                                        ?>
+                                    </li>
+                                </ol>
+                            </nav>
+                        </div>
                     </div>
                 </div>
+                <!-- /.row -->
                 
                 <div class="row">
                   <div class="navbar navbar-default">
