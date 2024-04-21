@@ -392,7 +392,7 @@ group by u.id  order by SUM(lb.Valor) desc";
 
 <script>
     $(document).ready(function() {
-        var limit = 20; // Número inicial de registros a serem carregados por vez
+        var limit = 5; // Número inicial de registros a serem carregados por vez
         var todosCarregados = false; // Flag para controlar se todos os registros já foram carregados
 
         // Função para carregar os registros

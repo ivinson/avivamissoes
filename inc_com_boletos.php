@@ -54,7 +54,7 @@ if ($rsCamposPagadores) {
                             <a href='follow-up.php?id={$rowCamposPagadores['idUsuario']}' class='list-group-item'>                                                  
                               <i class='fa fa-fw fa-user'></i> {$rowCamposPagadores['Nome']}
 
-                                <span style='background:#40916c; padding:5px; color:white; border-radius:50%'> {$rowCamposPagadores['total']}</span>
+                                <span style='background:#40916c; padding:5px 10px; color:white; border-radius:50%'> {$rowCamposPagadores['total']}</span>
                           </a>";
       }
 
