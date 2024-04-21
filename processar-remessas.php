@@ -69,7 +69,7 @@ $navPagina = "Ofertas Pastorais | Remessas";
               <label>Fim</label>
               <input type="text" id="dtFinal">
 
-              <a id="btn" href=""  class="btn btn-default">
+              <a id="btn" href=""  class="btn btn-success">
               <span class="glyphicon glyphicon-cloud-download"></span> Gerar remessa </a>    
 
 

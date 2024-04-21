@@ -27,23 +27,26 @@ if($_SESSION['logado'] <> "S"){
 <style type="text/css">
 
 
-
 .panel-heading .accordion-toggle h4:after {
-    /* symbol for "opening" panels */
-    font-family: 'Glyphicons Halflings';  
-    content:"\E113";   
-    float: right;        
-    color: grey;        
-    overflow: no-display;
+    /* Define o caractere Unicode para a seta para baixo */
+    content: "\25BC"; /* Unicode para a seta para baixo */
+    /* Espaçamento à direita para separar o ícone do texto */
+    margin-left: 10px;
+    /* Posiciona o ícone à direita do texto */
+    float: right;
+    /* Cor do ícone */
+    color: grey;
 }
+
 .panel-heading .accordion-toggle.collapsed h4:after {
-    /* symbol for "collapsed" panels */
-    content:"\E114";
+    /* Define o caractere Unicode para a seta para cima quando o painel está "fechado" */
+    content: "\25B2"; /* Unicode para a seta para cima */
 }
-a.accordion-toggle{
+
+a.accordion-toggle {
+    /* Remove o sublinhado do texto dentro do elemento com a classe .accordion-toggle */
     text-decoration: none;
 }   
-
 
 .Vencida{    
     width: 110px;
@@ -104,7 +107,7 @@ a.accordion-toggle{
                     <div class="col-lg-12">
                         <ol class="breadcrumb mb-4">
                             <LI>
-                              <a href='extrato-processamento.php?id={$rowOption['id']}' class='btn btn-info' role='button'><span class='glyphicon glyphicon-ok-circle' aria-hidden='true'></span> Importar Extrato Bradesco</a>
+                              <a href='extrato-processamento.php?id={$rowOption['id']}' class='btn btn-info' role='button'><i data-feather="layout" width="20"></i></span> Importar Extrato Bradesco</a>
                             </LI>
                         </ol>
 
@@ -184,8 +187,8 @@ echo "
                     echo "<td><b>". nl2br( $rowOptionDetalhamento['Descricao']) ."</b></td>";
                     echo "<td style='color:blue;' ><b> R$ ". nl2br( number_format( $rowOptionDetalhamento['Valor'], 2)) ."</b></td>";
                     echo "<td>  
-                    <a href='identificar-deposito-extrato.php?id={$rowOptionDetalhamento['id']}' class='btn btn-info' role='button'><span class='glyphicon glyphicon-ok-circle' aria-hidden='true'></span> Identificar</a>
-                    <a href='listar-extrato.php?id={$rowOptionDetalhamento['id']}&action=del' class='btn btn-danger' role='button'><span class='glyphicon glyphicon-remove' aria-hidden='true'></span> </a>
+                    <a href='identificar-deposito-extrato.php?id={$rowOptionDetalhamento['id']}' class='btn btn-info' role='button'><i data-feather='layout' width='20'></i></span> Identificar</a>
+                    <a href='listar-extrato.php?id={$rowOptionDetalhamento['id']}&action=del' class='btn btn-danger' role='button'><i data-feather='layout' width='20'></i></span> </a>
                      </td>";
                     echo "</tr>";  
 

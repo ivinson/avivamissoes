@@ -45,7 +45,8 @@ if (session_status() === PHP_SESSION_NONE) {
                         
                             <li class="sidebar-item">
                                 <a href="index.php" class='sidebar-link'>
-                                    <i data-feather="home" width="20"></i> 
+
+                                    <i data-feather="layout" width="20"></i> 
                                     <span>Estatisticas</span>
                                 </a>
                                 
@@ -53,14 +54,16 @@ if (session_status() === PHP_SESSION_NONE) {
 
                             <li class="sidebar-item ">
                                 <a href="relatorios-gerais.php" class='sidebar-link'>
-                                    <i data-feather="home" width="20"></i> 
+
+                                    <i data-feather="layout" width="20"></i> 
                                     <span>Relatórios</span>
                                 </a>
                                 
                             </li>
                             <li class="sidebar-item ">
                                 <a href="listar-usuarios.php" class='sidebar-link'>
-                                    <i data-feather="home" width="20"></i> 
+
+                                    <i data-feather="layout" width="20"></i> 
                                     <span>Campos</span>
                                 </a>
                                 
@@ -69,30 +72,31 @@ if (session_status() === PHP_SESSION_NONE) {
                         
                             <li class="sidebar-item  has-sub">
                                 <a href="relatorios-gerais.php" class='sidebar-link'>
-                                    <i data-feather="triangle" width="20"></i> 
+
+                                    <i data-feather="layout" width="20"></i> 
                                     <span>Ofertas Pastorais</span>
                                 </a>
                                 
                                 <ul class="submenu ">
                                     
                                     <li>
-                                        <a href="listar-extrato.php">Identificar ofertas</a>
+                                        <a href="listar-extrato.php"><i data-feather="layout" width="10"></i>  Identificar ofertas</a>
                                     </li>
                                     
                                     <li>
-                                        <a href="contas-a-receber.php">Boletos Emitidos</a>
+                                        <a href="contas-a-receber.php"><i data-feather="layout" width="10"></i>  Boletos Emitidos</a>
                                     </li>
                                     
                                     <li>
-                                        <a href="processar-recebimentos.php">Processar Retorno</a>
+                                        <a href="processar-recebimentos.php"><i data-feather="layout" width="10"></i>  Processar Retorno</a>
                                     </li>
                                     
                                     <li>
-                                        <a href="processar-remessas.php">Arq. de Remessa</a>
+                                        <a href="processar-remessas.php"><i data-feather="layout" width="10"></i>  Arq. de Remessa</a>
                                     </li>
                                     
                                     <li>
-                                        <a href="nova-entrada-direta.php">Entradas Diretas</a>
+                                        <a href="nova-entrada-direta.php"><i data-feather="layout" width="10"></i>  Entradas Diretas</a>
                                     </li>
                                     
                                 </ul>
@@ -101,6 +105,7 @@ if (session_status() === PHP_SESSION_NONE) {
 
                             <li class="sidebar-item  ">
                                 <a href="lancamentos-bancarios.php" class='sidebar-link'>
+                                    
                                     <i data-feather="layout" width="20"></i> 
                                     <span>Movimento Bancário</span>
                                 </a>
@@ -110,6 +115,7 @@ if (session_status() === PHP_SESSION_NONE) {
                         
                             <li class="sidebar-item  ">
                                 <a href="contatos.php" class='sidebar-link'>
+
                                     <i data-feather="layout" width="20"></i> 
                                     <span>Lista de Contatos</span>
                                 </a>
@@ -118,7 +124,8 @@ if (session_status() === PHP_SESSION_NONE) {
                         
                             <li class="sidebar-item  ">
                                 <a href="utils.php" class='sidebar-link'>
-                                    <i data-feather="layers" width="20"></i> 
+
+                                    <i data-feather="layout" width="20"></i> 
                                     <span>Ferramentas</span>
                                 </a>
                                 
