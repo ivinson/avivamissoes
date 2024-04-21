@@ -12,7 +12,7 @@ if (session_status() === PHP_SESSION_NONE) {
     <title>AvivaFinanças - Sistema de apoio financeiro DGEM </title>
 
     <link rel="stylesheet" href="assets/css/bootstrap.css">
-    <link rel="stylesheet" href="assets/vendors/chartjs/Chart.min.css">
+    <!-- <link rel="stylesheet" href="assets/vendors/chartjs/Chart.min.css"> -->
     <link rel="stylesheet" href="assets/vendors/perfect-scrollbar/perfect-scrollbar.css">
     <link rel="stylesheet" href="assets/css/app.css">
     <link rel="stylesheet" href="assets/css/index.css">
@@ -21,7 +21,7 @@ if (session_status() === PHP_SESSION_NONE) {
         <!-- implementacao de datatables e choosen select  -->
     <link href="assets/css/dataTables.css" rel="stylesheet" />
     <link rel="stylesheet" href="js/plugins/chosen/chosen.css">
-    <link rel="stylesheet" href="css/jquery.printpage.css" type="text/css" media="screen" />
+    <!-- <link rel="stylesheet" href="css/jquery.printpage.css" type="text/css" media="screen" /> -->
 
     <!-- Morris Charts CSS -->
     <link href="css/plugins/morris.css" rel="stylesheet">
