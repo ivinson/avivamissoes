@@ -25,7 +25,33 @@ if (session_status() === PHP_SESSION_NONE) {
     <!-- Morris Charts CSS -->
     <link href="css/plugins/morris.css" rel="stylesheet">
     <!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> -->
-    
+    <script>
+        function verMenu(elemento){
+            let urlDefinida = $(elemento).attr("data-href");
+
+                Swal.fire({
+                title: 'Informação!',
+                text: 'Aguarde, processando dados.',
+                icon: 'info',
+                allowEscapeKey: false,
+                allowOutsideClick: false,
+                showConfirmButton: false,
+            });
+
+            $.ajax({
+                url: urlDefinida, // Aqui você pode usar a mesma URL definida para a ação do formulário
+                method: "POST", // Método de envio do formulário
+                success: function (Dados) {
+                swal.close();
+                $('.ConteudoGeral').html(Dados);
+                return false;
+                },
+                error: function (xhr, status, error) {
+                $('.ConteudoGeral').html('Erro ao carregar página');
+                }
+            });
+            }
+    </script>
 </head>
 <body>
     <div id="app">
@@ -55,7 +81,7 @@ if (session_status() === PHP_SESSION_NONE) {
                                 
                             </li>
                             <li class="sidebar-item ">
-                                <a href="listar-usuarios.php" class='sidebar-link'>
+                                <a style="cursor: pointer;" data-href="listar-usuarios.php" onclick="verMenu(this)" class='sidebar-link'>
 
                                     <i data-feather="layout" width="20"></i> 
                                     <span>Campos</span>
@@ -78,34 +104,7 @@ if (session_status() === PHP_SESSION_NONE) {
                                     </li>
                                     
                                     <li>
-                                        <a style="cursor: pointer;" data-href="contas-a-receber.php" onclick="verBoletos(this)" ><i data-feather="layout" width="10"></i>  Boletos Emitidos</a>
-                                        <script>
-                                            function verBoletos(elemento){
-                                                let urlDefinida = $(elemento).attr("data-href");
-
-                                                    Swal.fire({
-                                                    title: 'Informação!',
-                                                    text: 'Aguarde, processando dados.',
-                                                    icon: 'info',
-                                                    allowEscapeKey: false,
-                                                    allowOutsideClick: false,
-                                                    showConfirmButton: false,
-                                                });
-
-                                                $.ajax({
-                                                    url: urlDefinida, // Aqui você pode usar a mesma URL definida para a ação do formulário
-                                                    method: "POST", // Método de envio do formulário
-                                                    success: function (Dados) {
-                                                    swal.close();
-                                                    $('.ConteudoGeral').html(Dados);
-                                                    return false;
-                                                    },
-                                                    error: function (xhr, status, error) {
-                                                    $('.ConteudoGeral').html('Erro ao carregar página');
-                                                    }
-                                                });
-                                                }
-                                        </script>
+                                        <a style="cursor: pointer;" data-href="contas-a-receber.php" onclick="verMenu(this)" ><i data-feather="layout" width="10"></i>  Boletos Emitidos</a>
                                     </li>
                                     
                                     <li>
