@@ -18,20 +18,14 @@ if (session_status() === PHP_SESSION_NONE) {
     <link rel="stylesheet" href="assets/css/index.css">
     <link rel="shortcut icon" href="assets/images/favicon.svg" type="image/x-icon">
         <!-- implementacao de datatables e choosen select  -->
-    <link href="css/jquery.dataTables.min.css" rel="stylesheet" />
+    <link href="assets/css/dataTables.css" rel="stylesheet" />
     <link rel="stylesheet" href="js/plugins/chosen/chosen.css">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <link rel="stylesheet" href="css/jquery.printpage.css" type="text/css" media="screen" />
 
     <!-- Morris Charts CSS -->
     <link href="css/plugins/morris.css" rel="stylesheet">
-<!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> -->
-<script src="js/sweetalert.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> -->
+    
 </head>
 <body>
     <div id="app">

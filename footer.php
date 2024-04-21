@@ -2,7 +2,8 @@
             </div>
         </div>
     </div>
-    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="assets/js/jquery.js"></script>
+    <script defer src="js/jquery.dataTables2_0_3.js"></script>
     <script src="assets/js/feather-icons/feather.min.js"></script>
     <script src="assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js"></script>
     <script src="assets/js/app.js"></script>
@@ -13,16 +14,16 @@
 
     <script src="assets/js/main.js"></script>
     <!-- ADAPTACAOES -->
-    <script src="http://malsup.github.com/min/jquery.form.min.js"></script>
+    <!-- <script src="http://malsup.github.com/min/jquery.form.min.js"></script> -->
     <!-- Bootstrap Core JavaScript -->
     <script src="./js/plugins/chosen/chosen.jquery.js" type="text/javascript"></script>
     <script src="./js/jquery.maskMoney.min.js" type="text/javascript"></script>
 
-    <link rel="stylesheet" href="css/jquery.printpage.css" type="text/css" media="screen" />
+
     <script src="./js/jquery.printpage.js"></script>
 
     <script src="./js/jquery.maskedinput.js" type="text/javascript"></script>
-    
+    <script src="js/sweetalert.js"></script>
 <!--
     <script type="text/javascript">
     var config = {
