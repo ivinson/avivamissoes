@@ -4,10 +4,10 @@
 if($_SESSION['logado'] <> "S"){
 
   $url=$_SERVER['REQUEST_URI'];
-  // include "logger.php"; debora
-  // Logger("#### Acesso não autorizado ######");debora
-  // Logger("Algum usuario não identificado tentou acessar a {$url}");debora
-  // Logger("# ------------------------------------------------------> ");debora
+  include "logger.php";
+  Logger("#### Acesso não autorizado ######");
+  Logger("Algum usuario não identificado tentou acessar a {$url}");
+  Logger("# ------------------------------------------------------> ");
   echo "<script language='JavaScript' type='text/JavaScript'> <!--
     window.location='login.php';
     //-->
@@ -20,16 +20,18 @@ if($_SESSION['logado'] <> "S"){
   include("header.php"); 
   include('config.php');  
   include('scripts/functions.php'); 
-
-  //  include "logger.php";debora
+  //require('pdftohtml.php'); 
+  # create and load the HTML
+  //include('simple_html_dom.php');
+   include "logger.php";
   
 
 if (isset($_GET['type'])  ) {         
   if ($_GET['type'] == 'delete'){
       $id = (int) $_GET['id'];   
       $idLancamento = (int) $_GET['idLancamento']; 
-      $db->query("DELETE FROM `lancamentosbancarios` WHERE `id` = '$idLancamento' ");
-      // Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] deletou a remessa {$idLancamento} do campo id={$id}.");  debora
+      $db_>query("DELETE FROM `lancamentosbancarios` WHERE `id` = '$idLancamento' ") ;   Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] deletou a remessa {$idLancamento} do campo id={$id}.");  
+      //Redirect("lancamentos-campo.php?id=".$id);
       die("<script>location.href = 'lancamentos-campo.php?id={$id}'</script>");
   }
 }
@@ -43,13 +45,13 @@ if (isset($_GET['type'])  ) {
       
       
       echo "REPROCESSAMENTO!!!!!!!!";
-        //  Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] fez um reprocessamento."); debora
+         Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] fez um reprocessamento."); 
 
 # Verifica todos os boletos pagos e se tem lancamentos bancarios correspondentes...
 # Caso contrario cria para esse campo
 $resultPagos = $db->query("
   select * from contasreceber where Status = 'Pago' ;
-")->results(true) or trigger_error($db->errorInfo()[2]);
+")->results(true) or trigger_error($db->errorInfo()[2]); 
 
 foreach($resultPagos as $rowOption){ 
   foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                                             
@@ -57,7 +59,7 @@ foreach($resultPagos as $rowOption){
       # Cria Lancamentos bancarios caso nao tenha ocorrencia 
       $resultLancBanc = $db->query("
         select * from lancamentosbancarios where idContaReceber = {$rowOption['id']} ;
-      ")->results(true) or trigger_error($db->errorInfo()[2]);
+      ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
       $countLac = 0;
       echo " boleto {$rowOption['id']} <br>";
@@ -110,7 +112,7 @@ foreach($resultPagos as $rowOption){
             //echo "<br>" . $SqlInsereProcessamento;
                 
                 if (! $db->query($SqlInsereProcessamento) ){
-                      trigger_error($db->errorInfo()[2]);
+                      die( ':: Erro : '. $db->errorInfo()[2]); 
                       echo "Fase de teste lancamentosbancarios: Anote o seguinte erro!";
                     }
 
@@ -150,7 +152,7 @@ if (isset($_GET['id']) ) {
             and lb.TipoLancamento not in ('PENDENTE') 
             order by year(lb.DataReferencia) desc
 
-      ")->results(true) or trigger_error($db->errorInfo()[2]);
+      ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
 
 
@@ -168,9 +170,9 @@ echo " <ul class='nav nav-tabs'>";
     $BaixadoPor = "";
     $boolProrec = "";
     $rUsuario = $db->query("  SELECT * FROM usuarios where id = {$id}
-    ")->results(true) or trigger_error($db->errorInfo()[2]);
+    ")->results(true) or trigger_error($db->errorInfo()[2]); 
     
-    foreach($rUsuario as $rowOptionUsuario){ 
+    foreach($rUsuario as $rowOptionUsuario ){ 
       foreach($rowOptionUsuario AS $key => $value) { $rowOptionUsuario[$key] = stripslashes($value); }       
           $tipoUsuario = $rowOptionUsuario['idTipoUsuario'];    
           $qtdProrec   = $rowOptionUsuario['prorec_qtd_parcelas'];    
@@ -181,7 +183,7 @@ echo " <ul class='nav nav-tabs'>";
 
     if($tipoUsuario == 6){
 
-        $rsMesesEmAberto = $db->query("
+        $rsMesesEmAberto =$db->query("
       
         SELECT    
         r.Nome as Regiao,  
@@ -213,10 +215,10 @@ echo " <ul class='nav nav-tabs'>";
 
                 order by count(u.id) desc;
 
-          ")->results(true) or trigger_error($db->errorInfo()[2]);
+          ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
 
-          foreach($rsMesesEmAberto as $rowOptionMeses){ 
+          foreach($rsMesesEmAberto as $rowOptionMeses ){ 
               foreach($rowOptionMeses AS $keyMes => $valueMes) { $rowOptionMeses[$keyMes] = stripslashes($valueMes); }
                  $strQtdMesesAtrasados = $strQtdMesesAtrasados .   "<span class=\"label label-important arrowed-in\">{$rowOptionMeses['MesesEmAberto']} meses em aberto</span>";
           }       
@@ -227,59 +229,38 @@ echo " <ul class='nav nav-tabs'>";
 
 <div class="row">
 
-
-<ul class="nav nav-pills">
-  <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="#pills-home">Active</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#pills-profile">Link</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Link</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-  </li>
-</ul>
-<div class="tab-content" id="pills-tabContent">
-  <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">...</div>
-  <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">Linkddddd</div>
-  <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">...</div>
-</div>
-
 <!-- <section style="background:#efefe9;">
         <div class="container">
             <div class="row"> -->
                 <div class="board">
                    
-<div class="board-inner">
-    <ul class="nav nav-tabs" id="myTab" role="tablist">
-        <li class="nav-item" role="presentation">
-            <a class="nav-link active" id="home-tab" data-bs-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true" title="Remessas Gerais">
-                <span class="round-tabs one">
-                    <i class="bi bi-barcode"></i>
-                </span>
-            </a>
-        </li>
+                    <div class="board-inner">
+                    <ul class="nav nav-tabs" id="myTab">
+                    <div class="liner"></div>
+                     <li class="active">
+                     <a href="#home" data-toggle="tab" title="Remessas Gerais">
+                      <span class="round-tabs one">
+                              <i class="glyphicon glyphicon-barcode"></i>
+                      </span> 
+                  </a></li>
 
-        <li class="nav-item" role="presentation">
-            <a class="nav-link" id="profile-tab" data-bs-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false" title="Remessas em ABERTO">
-                <span class="round-tabs two">
-                    <i class="bi bi-hand-thumbs-down"></i>
-                </span>
-            </a>
-        </li>
+                  <li><a href="#profile" data-toggle="tab" title="Remessas em ABERTO">
+                     <span class="round-tabs two">
+                         <i class="glyphicon glyphicon-thumbs-down"></i>
 
-        <li class="nav-item" role="presentation">
-            <a class="nav-link" id="messages-tab" data-bs-toggle="tab" href="#messages" role="tab" aria-controls="messages" aria-selected="false" title="Acordos e Negociações">
-                <span class="round-tabs three">
-                    <i class="bi bi-calendar"></i>
-                </span>
-            </a>
-        </li>
-    </ul>
-</div>
+                     </span> 
+
+           </a>
+                 </li>
+                 <li><a href="#messages" data-toggle="tab" title="Acordos e Negociações">
+                     <span class="round-tabs three">
+                          <i class="glyphicon glyphicon-calendar"></i>
+                     </span> </a>
+                     </li>
+
+
+                     
+                     </ul></div>
 
                      <div class="tab-content" >
                       <div  style="padding-top: 10px ;"  class="tab-pane fade in active"  id="home">
@@ -312,9 +293,9 @@ echo "<p class=\"text-center\">";
           and lb.TipoLancamento not in ('PENDENTE') 
           order by year(lb.DataReferencia) desc
 
-    ")->results(true) or trigger_error($db->errorInfo()[2]);
+    ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
-    foreach($resultSelect as $rowOption ){ 
+    foreach($resultSelect as $rowOption){ 
       foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                                             
         echo "<a style='font-color :#FFFFFf !important;'  href='lancamentos-campo.php?id={$id}&ano={$rowOption['Ano']}'> <span class=\"label label-info arrowed-in-right arrowed\">{$rowOption['Ano']} </span></a>";
     }   
@@ -375,7 +356,7 @@ echo "<p class=\"text-center\">";
 
                      order by Referente
 
-              ")->results(true) or trigger_error($db->errorInfo()[2]);
+              ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
                   foreach($resultSelect3 as $rowOption){ 
                     foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }     
@@ -498,7 +479,7 @@ $resultSelect5 = $db->query("
         -- Considera o inicio do campo ()
         and LB.DataReferencia > u.DataInicio
         and u.idTipoUsuario <> 8 -- inativos 
-        ; ")->results(true) or trigger_error($db->errorInfo()[2]);
+        ; ")->results(true) or trigger_error($db->errorInfo()[2]); 
 
 
 foreach($resultSelect5 as $rowOption){ 
@@ -577,12 +558,12 @@ $sqlProrecZ = "    Select lb.*
 
 
 
-$resultSelect56 = $db->query($sqlProrecZ)->results(true) or trigger_error($db->errorInfo()[2]);
+$resultSelect56 = $db->query($sqlProrecZ)->results(true) or trigger_error($db->errorInfo()[2]); 
 
 $timeline = "";
 $countLac = 0;
 
-foreach($resultSelect56 as $rowOption){ 
+foreach( $resultSelect56 as $rowOption){ 
   foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); } 
 
 
@@ -687,7 +668,7 @@ Valor Negociado <span class="badge badge-important"> <?php echo $valorProrec ?><
 
 
  $idCampoLog = (int) $_GET['id'];   
-//  Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] acessou as remessas do campo {$idCampoLog} .");   debora
+ Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] acessou as remessas do campo {$idCampoLog} .");   
 ?>
 
 
