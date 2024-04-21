@@ -121,6 +121,13 @@ if(($_POST['selectPerfil'] == 6 ) || ($_POST['selectPerfil'] == 7 ) || ($_POST['
 
     if (!$db->query($sql)) {
         die(':: Erro : '. $db->error);
+    }else{
+      // Redirect("listar-usuarios.php",false); 
+      header('Content-Type: application/json');
+      echo json_encode(array('status' => 'sucesso', 'msg' => 'Editado com sucesso.', 'url' => 'index.php'));
+  
+      // Termina o script PHP aqui para evitar a execução de código HTML abaixo
+      exit;
     }
 
 
@@ -129,12 +136,6 @@ if(($_POST['selectPerfil'] == 6 ) || ($_POST['selectPerfil'] == 7 ) || ($_POST['
 
  
     
-    // Redirect("listar-usuarios.php",false); 
-    header('Content-Type: application/json');
-    echo json_encode(array('status' => 'sucesso', 'msg' => 'Editado com sucesso.', 'url' => 'index.php'));
-  
-    // Termina o script PHP aqui para evitar a execução de código HTML abaixo
-    exit;
 }  
 
 ?> 
