@@ -188,7 +188,7 @@ echo "
                     echo "<td style='color:blue;' ><b> R$ ". nl2br( number_format( $rowOptionDetalhamento['Valor'], 2)) ."</b></td>";
                     echo "<td>  
                     <a href='identificar-deposito-extrato.php?id={$rowOptionDetalhamento['id']}' class='btn btn-info' role='button'><i data-feather='layout' width='20'></i></span> Identificar</a>
-                    <a href='listar-extrato.php?id={$rowOptionDetalhamento['id']}&action=del' class='btn btn-danger' role='button'><i data-feather='layout' width='20'></i></span> </a>
+                    <a href='listar-extrato.php?id={$rowOptionDetalhamento['id']}&action=del' class='btn btn-danger' role='button'><i data-feather='x' width='20'></i></span> </a>
                      </td>";
                     echo "</tr>";  
 

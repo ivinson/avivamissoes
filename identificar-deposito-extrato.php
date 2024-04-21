@@ -202,12 +202,15 @@ $sql = "UPDATE `lancamentosbancarios` SET  TipoLancamento = 'Identificado'
     
     //echo "<br>usuario antes - " . $idUsuario;
 
+    // var_dump($sql);
+    // die();
+
     if(verificaLancamento(0,$data_referencia,$idUsuario)){
 
         //echo "<br>usuario Depois - " . $idUsuario; 
 
         
-        $db->query($sql)->results(true) or trigger_error($db->errorInfo()[2]);
+        $db->query($sql) or trigger_error($db->errorInfo()[2]);
 
         include "logger.php";
         Logger("# IDENTIFICACAO ## IDENTIFICACAO ##########################################################################");
@@ -380,7 +383,7 @@ foreach($row AS $key => $value) { $row[$key] = $db->escape($value); }
                   var myDate = new Date();
                   var year = myDate.getFullYear();
                   document.write('<option selected value="0">Escolha o Ano </option>');
-                  for(var i = 2005; i < year+5; i++){
+                  for(var i = 2005; i < year+15; i++){
                       document.write('<option value="'+i+'">'+i+'</option>');
                   }
               </script>
