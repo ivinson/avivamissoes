@@ -78,7 +78,34 @@ if (session_status() === PHP_SESSION_NONE) {
                                     </li>
                                     
                                     <li>
-                                        <a href="contas-a-receber.php"><i data-feather="layout" width="10"></i>  Boletos Emitidos</a>
+                                        <a style="cursor: pointer;" data-href="contas-a-receber.php" onclick="verBoletos(this)" ><i data-feather="layout" width="10"></i>  Boletos Emitidos</a>
+                                        <script>
+                                            function verBoletos(elemento){
+                                                let urlDefinida = $(elemento).attr("data-href");
+
+                                                    Swal.fire({
+                                                    title: 'Informação!',
+                                                    text: 'Aguarde, processando dados.',
+                                                    icon: 'info',
+                                                    allowEscapeKey: false,
+                                                    allowOutsideClick: false,
+                                                    showConfirmButton: false,
+                                                });
+
+                                                $.ajax({
+                                                    url: urlDefinida, // Aqui você pode usar a mesma URL definida para a ação do formulário
+                                                    method: "POST", // Método de envio do formulário
+                                                    success: function (Dados) {
+                                                    swal.close();
+                                                    $('.ConteudoGeral').html(Dados);
+                                                    return false;
+                                                    },
+                                                    error: function (xhr, status, error) {
+                                                    $('.ConteudoGeral').html('Erro ao carregar página');
+                                                    }
+                                                });
+                                                }
+                                        </script>
                                     </li>
                                     
                                     <li>

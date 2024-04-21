@@ -1,7 +1,6 @@
 <?php 
   session_start();
 
-  include("header.php"); 
   include('config.php');  
   include('scripts/functions.php'); 
 

@@ -61,7 +61,7 @@ include('scripts/functions.php');
                                     ?>
                                 <span class="conta card-custom-title">Boletos Recebidos</span>
                                 <div class="conta card-content">
-                                    <a href="contas-a-receber.php">
+                                    <a data-href="contas-a-receber.php" style="cursor: pointer;" onclick="verDetalhes(this)">
                                         <div class="panel-footer">
                                             <span class="pull-left">Ver Detalhes ></span>
                                             <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
@@ -87,7 +87,7 @@ include('scripts/functions.php');
                                     ?>
                                 <span class="conta card-custom-title">Usam o Sistema</span>
                                 <div class="conta card-content">
-                                    <a href="contas-a-receber.php">
+                                    <a data-href="contas-a-receber.php" style="cursor: pointer;" onclick="verDetalhes(this)">
                                         <div class="panel-footer">
                                             <span class="pull-left">Ver Detalhes ></span>
                                             <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
@@ -113,7 +113,7 @@ include('scripts/functions.php');
                                     ?>
                                 <span class="conta card-custom-title">Qtd de Campos</span>
                                 <div class="conta card-content">
-                                    <a href="listar-usuarios.php">
+                                    <a data-href="listar-usuarios.php" style="cursor: pointer;" onclick="verDetalhes(this)">
                                         <div class="panel-footer">
                                             <span class="pull-left">Ver Detalhes ></span>
                                             <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
@@ -164,7 +164,7 @@ include('scripts/functions.php');
                                     ?>
                                 <span class="conta card-custom-title">Inadimplentes</span>
                                 <div class="conta card-content">
-                                    <a href="inadimplentes.php">
+                                    <a data-href="inadimplentes.php" style="cursor: pointer;" onclick="verDetalhes(this)">
                                         <div class="panel-footer">
                                             <span class="pull-left">Ver Detalhes ></span>
                                             <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
@@ -194,7 +194,7 @@ include('scripts/functions.php');
                             <div id="flotcontainer"></div>
 
                             <div class="text-right">
-                                <a href="inadimplentes.php">Ver Detalhes <i class="fa fa-arrow-circle-right"></i></a>
+                                <a data-href="inadimplentes.php" onclick="verDetalhes(this)" style="cursor: pointer;" >Ver Detalhes  <i class="fa fa-arrow-circle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -430,6 +430,30 @@ group by u.id  order by SUM(lb.Valor) desc";
         });
     });
 
+    function verDetalhes(elemento){
+    let urlDefinida = $(elemento).attr("data-href");
 
+        Swal.fire({
+        title: 'Informação!',
+        text: 'Aguarde, processando dados.',
+        icon: 'info',
+        allowEscapeKey: false,
+        allowOutsideClick: false,
+        showConfirmButton: false,
+    });
+
+    $.ajax({
+        url: urlDefinida, // Aqui você pode usar a mesma URL definida para a ação do formulário
+        method: "POST", // Método de envio do formulário
+        success: function (Dados) {
+        swal.close();
+        $('.ConteudoGeral').html(Dados);
+        return false;
+        },
+        error: function (xhr, status, error) {
+        $('.ConteudoGeral').html('Erro ao carregar página');
+        }
+    });
+    }
 
 </script>

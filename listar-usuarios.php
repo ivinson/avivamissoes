@@ -12,7 +12,7 @@ if($_SESSION['logado'] <> "S"){
 
 
 }
-include("header.php")    ;
+
 
 //   include "logger.php"; debora
 //         Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] acessou listagem de campos ."); debora
