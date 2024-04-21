@@ -10,7 +10,7 @@ $idUsuario = $_GET['idusuario'];
 
     if (isset($_POST['submitted'])) { 
     foreach($_POST AS $key => $value) { 
-        $_POST[$key] = $db->escape($value); 
+        $_POST[$key] = stripslashes($value); 
         //echo "<br> key {$_POST[$key]} ::: {$value}";
     } 
 

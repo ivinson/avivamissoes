@@ -39,7 +39,7 @@ $navPagina = "Editar de Usuários";
                             if (isset($_POST['submitted'])) { 
                               foreach($_POST AS $key => $value) { 
                 
-                                $_POST[$key] = $db->escape($value);
+                                $_POST[$key] = stripslashes($value);
                                 
 
                                } 

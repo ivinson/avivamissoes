@@ -113,7 +113,7 @@ include('scripts/functions.php');
                                     ?>
                                 <span class="conta card-custom-title">Qtd de Campos</span>
                                 <div class="conta card-content">
-                                    <a data-href="listar-usuarios.php" style="cursor: pointer;" onclick="verDetalhes(this)">
+                                    <a href="listar-usuarios.php">
                                         <div class="panel-footer">
                                             <span class="pull-left">Ver Detalhes ></span>
                                             <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
@@ -329,7 +329,7 @@ group by u.id  order by SUM(lb.Valor) desc";
     $fVirgula = "";
     foreach ($rsInad as $rowOptionInad ) {
         foreach ($rowOptionInad as $key => $value) {
-            $rowOptionInad[$key] = $db->escape($value);
+            $rowOptionInad[$key] = stripslashes($value);
         }
 
 
