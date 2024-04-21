@@ -220,7 +220,7 @@ $sql = "UPDATE `lancamentosbancarios` SET  TipoLancamento = 'Identificado'
         Logger("# Usuario atribuido ID::{$idUsuario}" );
         Logger( "############################################## ------------------------------------------------------------");
 
-        //exit;
+        // exit;
 
 
     //echo $SQL;

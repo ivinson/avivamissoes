@@ -131,7 +131,7 @@ if(($_POST['selectPerfil'] == 6 ) || ($_POST['selectPerfil'] == 7 ) || ($_POST['
     
     // Redirect("listar-usuarios.php",false); 
     header('Content-Type: application/json');
-    echo json_encode(array('status' => 'sucesso', 'msg' => 'Editado com sucesso.', 'url' => 'listar-usuarios.php'));
+    echo json_encode(array('status' => 'sucesso', 'msg' => 'Editado com sucesso.', 'url' => 'index.php'));
   
     // Termina o script PHP aqui para evitar a execução de código HTML abaixo
     exit;
@@ -710,7 +710,7 @@ if (isset($_GET['id']) ) {
 
   <div class="row">
       <div class="col-lg-12">
-        <input class="btn btn-lg btn-success" type='button' onclick="gravarAlteracoesPaginaInad()" value='Gravar alterações' />                        
+        <input class="btn btn-lg btn-success" type='button' onclick="gravarAlteracoesPaginaInadimplentes()" value='Gravar alterações' />                        
         <input class="btn btn-lg btn-info" onclick='history.back(-1)' value='Voltar' />                            
         <input type='hidden' value='1' name='submitted' />                             
         <p><br><br><br></p>
@@ -759,10 +759,9 @@ $( "#DtVencimento" ).datepicker({ dateFormat: 'dd/mm/yy' });
 //Atualiza valores da periodicidade
 $(function(){
   var hv = $('#valuePeriocidade').val();
-  $('#selectPeriodicidade option[value='+hv+']').attr('selected','selected');
+  $('#selectPeriodicidade option[value="' + hv + '"]').prop('selected', true);
   $('#selectPeriodicidade').trigger('chosen:updated');
 });
-
 
 
 
@@ -795,5 +794,50 @@ $('#selectPerfil').change(function () {
 
 
 
+function gravarAlteracoesPaginaInadimplentes (){
+
+  let formData = $('#form-inadimplentes').serialize();
+
+
+  Swal.fire({
+    title: 'Informação!',
+    text: 'Aguarde, salvando dados.',
+    icon: 'info',
+    allowEscapeKey: false,
+    allowOutsideClick: false,
+    showConfirmButton: false,
+  });
+
+  $.ajax({
+    url: "editar-usuarios.php", // Aqui você pode usar a mesma URL definida para a ação do formulário
+    method: "POST", // Método de envio do formulário
+    data: formData, // Dados do formulário serializados
+    success: function (Dados) {
+      if(Dados.status === 'sucesso'){
+        swal.fire({
+          title: "Sucesso!",
+          text: "Editado com sucesso!",
+          icon: "success",
+          timer: '2000'
+        }).then((res)=>{
+          window.location.href = Dados.url; // Redireciona para a URL especificada
+        });
+      }else{
+        swal.fire({
+          title: "Oops!",
+          text: "Houve um problema!",
+          icon: "error",
+          timer: '3000'
+        });
+        return false;
+      }
+    },
+    error: function (jqXHR, textStatus, errorThrown) {
+      swal.close();
+      $('.ConteudoGeral').html('Erro ao carregar página');
+      return false;
+    }
+  });
+}
 
 </script>

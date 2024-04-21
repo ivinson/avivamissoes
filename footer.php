@@ -4,13 +4,12 @@
     </div>
     <script src="assets/js/jquery.js"></script>
     <script defer src="js/jquery.dataTables2_0_3.js"></script>
+    <script defer src="assets/js/datepicker.js"></script>
     <script src="assets/js/feather-icons/feather.min.js"></script>
     <script src="assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js"></script>
     <script src="assets/js/app.js"></script>
     
-    <script src="assets/vendors/chartjs/Chart.min.js"></script>
-    <script src="assets/vendors/apexcharts/apexcharts.min.js"></script>
-    <script src="assets/js/pages/dashboard.js"></script>
+   
 
     <script src="assets/js/main.js"></script>
     <!-- ADAPTACAOES -->
@@ -20,7 +19,7 @@
     <script src="./js/jquery.maskMoney.min.js" type="text/javascript"></script>
 
 
-    <script src="./js/jquery.printpage.js"></script>
+    <!-- <script src="./js/jquery.printpage.js"></script> -->
 
     <script src="./js/jquery.maskedinput.js" type="text/javascript"></script>
     <script src="js/sweetalert.js"></script>
