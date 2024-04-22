@@ -59,7 +59,7 @@ if (session_status() === PHP_SESSION_NONE) {
         <div id="sidebar" class='active'>
             <div class="sidebar-wrapper active">
                 <div class="sidebar-header">
-                    <a class="navbar-brand" href="index.html"><img src="http://app.avivamissoes.com.br/logo.png" alt="Aviva Missoes" width="120" height="30"></a>
+                    <a class="navbar-brand" href="index.php"><img src="http://app.avivamissoes.com.br/logo.png" alt="Aviva Missoes" width="120" height="30"></a>
                 </div>
                 <div class="sidebar-menu">
                     <ul class="menu">
