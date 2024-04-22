@@ -111,23 +111,23 @@ include('scripts/functions.php');
                         $rowCampos = $db->query("SELECT count(*) as total  FROM campos ;")->results()[0];
                         echo $rowCampos->total;
 
-                        ?>
-                        <span class="conta card-custom-title">Qtd de Campos</span>
-                        <div class="conta card-content">
-                            <a data-href="listar-usuarios.php" style="cursor: pointer;" onclick="verDetalhes(this)">
-                                <div class="panel-footer">
-                                    <span class="pull-left">Ver Detalhes ></span>
-                                    <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
-                                    <div class="clearfix"></div>
+                                    ?>
+                                <span class="conta card-custom-title">Qtd de Campos</span>
+                                <div class="conta card-content">
+                                    <a href="listar-usuarios.php">
+                                        <div class="panel-footer">
+                                            <span class="pull-left">Ver Detalhes ></span>
+                                            <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                    </a>
                                 </div>
-                            </a>
+                            </div>
+                            <div class="date-box">
+                                <span class="month"><?=$rowCampos->total ? $rowCampos->total: "0";?></span>
+                            </div>
                         </div>
                     </div>
-                    <div class="date-box">
-                        <span class="month"><?= $rowCampos->total ? $rowCampos->total : "0"; ?></span>
-                    </div>
-                </div>
-            </div>
 
             <div class="parent">
                 <div class="conta card-custom">
@@ -353,10 +353,95 @@ include('scripts/functions.php');
     include("footer.php");
     ?>
     <script src="js/plugins/morris/morris.min.js"></script>
-    <script>
-        $(document).ready(function() {
-            var limit = 5; // Número inicial de registros a serem carregados por vez
-            var todosCarregados = false; // Flag para controlar se todos os registros já foram carregados
+    <script src="js/plugins/flot/jquery.flot.js"></script>
+    <script src="js/plugins/flot/jquery.flot.pie.js"></script>
+
+
+
+
+    <?php
+
+    //tOP MAIORES PAGADORES
+    $SQL = "select u.Nome, FORMAT(SUM(lb.Valor),2)  as Valor
+from lancamentosbancarios lb join usuarios u on (u.id = lb.idUsuario)
+group by u.id  order by SUM(lb.Valor) desc";
+
+
+
+
+    # chama view de contagem de campos
+    $rsInad = $db->query(" SELECT Regiao, count(*) as total, id from Inadimplentes group by Regiao")->results(true);
+
+
+    $fdata = "    var data = [";
+    $fVirgula = "";
+    foreach ($rsInad as $rowOptionInad ) {
+        foreach ($rowOptionInad as $key => $value) {
+            $rowOptionInad[$key] = stripslashes($value);
+        }
+
+
+
+        if ($fVirgula != ",") {
+            $fdata = $fdata . "{label: '{$rowOptionInad['Regiao']}', data:{$rowOptionInad['total']}, url:'/inadimplentes.php?idregiao={$rowOptionInad['total']}&six=true'}";
+            $fVirgula = ",";
+        } else {
+            $fdata =  $fdata . $fVirgula . "{label: '{$rowOptionInad['Regiao']}', data:{$rowOptionInad['total']}, url:'/inadimplentes.php?idregiao={$rowOptionInad['total']}&six=true'}";
+        }
+    }
+    $fdata = $fdata . "];";
+
+
+    //echo $fdata;
+
+
+    //include "logger.php";
+    //Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] acessou a pagina principal!");
+
+
+
+    ?>
+
+    <!-- Javascript -->
+    <script type="text/javascript">
+        $("#flotcontainer").bind("plotclick", function(event, pos, item) {
+            //alert('click!');
+            //for(var i in item){
+            //alert('my '+i+' = '+ item[i]);
+            //}
+        });
+
+
+        $(function() {
+            //Data que vem do php
+            <?php echo $fdata; ?>
+
+            var options = {
+                series: {
+                    pie: {
+                        innerRadius: 0.5,
+                        show: true
+                    }
+                },
+                legend: {
+                    show: false
+                },
+                grid: {
+                    hoverable: true,
+                    clickable: true
+                },
+
+            };
+
+
+            $.plot($("#flotcontainer"), data, options);
+        });
+    </script>
+
+<script>
+    $(document).ready(function() {
+        var limit = 5; // Número inicial de registros a serem carregados por vez
+        var todosCarregados = false; // Flag para controlar se todos os registros já foram carregados
 
             // Função para carregar os registros
             function carregarRegistros(url, action) {

@@ -25,7 +25,7 @@ include("config.php");
 if (isset($_POST['submitted'])) { 
 
 
-    foreach($_POST AS $key => $value) { $_POST[$key] = $db->escape($value); } 
+    foreach($_POST AS $key => $value) { $_POST[$key] = stripslashes($value); } 
     
 
 
@@ -335,7 +335,7 @@ $navPagina = "Movimento bancário";
 $fID =  $_GET['id'] ;
 $result = $db->query("SELECT *  from lancamentosbancarios where id = ".$fID)->results(true) or trigger_error($db->errorInfo()[2]);
 foreach($result as $row){ 
-foreach($row AS $key => $value) { $row[$key] = $db->escape($value); } 
+foreach($row AS $key => $value) { $row[$key] = stripslashes($value); } 
 
 
 ?>
@@ -345,7 +345,7 @@ foreach($row AS $key => $value) { $row[$key] = $db->escape($value); }
 
         <div class="form-group">
             <label>Valor</label>
-            <input class="form-control" name='Valor' id='Valor'  value='<?= $db->escape($row['Valor']) ?>'>                                
+            <input class="form-control" name='Valor' id='Valor'  value='<?= stripslashes($row['Valor']) ?>'>                                
         </div>
 
 </div>

@@ -82,7 +82,7 @@ if (session_status() === PHP_SESSION_NONE) {
                                 
                             </li>
                             <li class="sidebar-item ">
-                                <a style="cursor: pointer;" data-href="listar-usuarios.php" onclick="verMenu(this)" class='sidebar-link'>
+                                <a href="listar-usuarios.php"  class='sidebar-link'>
 
                                     <i data-feather="layout" width="20"></i> 
                                     <span>Campos</span>
@@ -101,7 +101,7 @@ if (session_status() === PHP_SESSION_NONE) {
                                 <ul class="submenu ">
                                     
                                     <li>
-                                        <a href="listar-extrato.php"><i data-feather="layout" width="10"></i>  Identificar ofertas</a>
+                                        <a style="cursor: pointer;" data-href="listar-extrato.php" onclick="verMenu(this)"><i data-feather="layout" width="10"></i>  Identificar ofertas</a>
                                     </li>
                                     
                                     <li>

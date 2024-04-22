@@ -17,7 +17,7 @@ if (isset($_GET['id']) ) {
     // Se for Edicao
     if (isset($_POST['submitted'])) { 
     foreach($_POST AS $key => $value) { 
-        $_POST[$key] = $db->escape($value); 
+        $_POST[$key] = stripslashes($value); 
         //echo "<br> key {$_POST[$key]} ::: {$value}";
     } 
              

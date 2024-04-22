@@ -4,7 +4,7 @@
 
 if (isset($_POST['submitted'])) { 
 
-    foreach($_POST AS $key => $value) { $_POST[$key] = $db->escape($value); } 
+    foreach($_POST AS $key => $value) { $_POST[$key] = stripslashes($value); } 
     $data_referencia = $_POST['Ano']."-".$_POST["Mes"]."-15";
     //Data de baixa
     $DataBaixa = DateTime::createFromFormat('d/m/Y', $_POST['dtBaixa'])->format('Y-m-d');

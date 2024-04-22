@@ -110,7 +110,7 @@ if (isset($_POST['submitted'])) {
     //echo "POST";
 
     foreach ($_POST as $key => $value) {
-        $_POST[$key] = $db->escape($value);
+        $_POST[$key] = stripslashes($value);
     }
 
     //$sql = "INSERT INTO `planodecontas_niveis` ( `idplanodecontas` ,  `nome`  ) 

@@ -41,7 +41,7 @@
                             if (isset($_POST['submitted'])) { 
                               foreach($_POST AS $key => $value) { 
                 
-                                $_POST[$key] = $db->escape(htmlentities($value));
+                                $_POST[$key] = stripslashes(htmlentities($value));
                                 
 
                                } 

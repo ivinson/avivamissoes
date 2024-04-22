@@ -125,7 +125,7 @@ include('../config.php');
         {
             if ( isset($_GET['bSearchable_'.$i]) && $_GET['bSearchable_'.$i] == "true" )
             {
-                $sWhere .= $aColumns[$i]." LIKE '%".$db->escape( $_GET['sSearch'] )."%' OR ";
+                $sWhere .= $aColumns[$i]." LIKE '%".stripslashes( $_GET['sSearch'] )."%' OR ";
             }
         }
         $sWhere = substr_replace( $sWhere, "", -3 );
@@ -149,7 +149,7 @@ include('../config.php');
             {
                 $sWhere .= " AND ";
             }
-            $sWhere .= $aColumns[$i]." LIKE '%".$db->escape($_GET['sSearch_'.$i])."%' ";
+            $sWhere .= $aColumns[$i]." LIKE '%".stripslashes($_GET['sSearch_'.$i])."%' ";
         }
     }
      

@@ -13,7 +13,7 @@ if (isset($_POST['submitted'])) {
 
 	echo "POST";
 
-foreach($_POST AS $key => $value) { $_POST[$key] = $db->escape($value); } 
+foreach($_POST AS $key => $value) { $_POST[$key] = stripslashes($value); } 
 $sql = "INSERT INTO `planodecontas_niveis` ( `idplanodecontas` ,  `nome`  ) 
 		VALUES( '{$_GET['id']}', '{$_POST['nome']}'   ) "; 
 $db->query($sql) or die($db->errorInfo()[2]); 

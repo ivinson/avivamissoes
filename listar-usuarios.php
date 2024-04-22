@@ -19,7 +19,7 @@ if($_SESSION['logado'] <> "S"){
 
 ?>
 
-
+<?php include("header.php")    ; ?>
 
 
 

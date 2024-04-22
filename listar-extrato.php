@@ -17,7 +17,7 @@ if($_SESSION['logado'] <> "S"){
   die("login.php");
 
 }
-  include("header.php"); 
+  // include("header.php"); 
   include('config.php');  
   include('scripts/functions.php'); 
   include "logger.php";
@@ -135,7 +135,7 @@ where TipoOrigem = 'C' and idUsuario = 1196
 $resultMeses = $db->query($sqlMeses)->results(true) or trigger_error($db->errorInfo()[2]);
 
 foreach($resultMeses as $rowOptionMeses){ 
-  foreach($rowOptionMeses AS $key => $value) { $rowOptionMeses[$key] = $db->escape($value); }                               
+  foreach($rowOptionMeses AS $key => $value) { $rowOptionMeses[$key] = stripslashes($value); }                               
      
 echo "<div class=\"panel-group\" id=\"accordion\">";
 
@@ -176,7 +176,7 @@ echo "
                                     </tr>" ; 
 
                 foreach($resultSelectDetalhamento as $rowOptionDetalhamento){ 
-                  foreach($rowOptionDetalhamento AS $key => $value) { $rowOptionDetalhamento[$key] = $db->escape($value); }                               
+                  foreach($rowOptionDetalhamento AS $key => $value) { $rowOptionDetalhamento[$key] = stripslashes($value); }                               
               
                     echo "<tr>";        
                     $phpdate = strtotime( $rowOptionDetalhamento['DataBaixa'] );
@@ -285,10 +285,4 @@ echo "
                 
             
 <?php include("footer.php")    ; ?>
-
-<script type="text/javascript">
-
-    
-
-
-</script>                
+            

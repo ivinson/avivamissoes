@@ -131,7 +131,41 @@ foreach($resultPagos as $rowOption){
 ?>
 
 <style type="text/css">
+.label {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-right: 10px;
+    background-color: #5bc0de;
+    color: #fff;
+    border-radius: 3px;
+}
 
+.badge {
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border-radius: 3px;
+}
+
+.badge-success {
+    background-color: #5cb85c;
+    color: #fff;
+}
+
+.badge-warning {
+    background-color: #f0ad4e;
+    color: #fff;
+}
+
+.badge-important {
+    background-color: #d9534f;
+    color: #fff;
+}
 
 
 </style>
@@ -227,431 +261,404 @@ echo " <ul class='nav nav-tabs'>";
 }    
 ?>
 
+
 <div class="row">
 
-<!-- <section style="background:#efefe9;">
-        <div class="container">
-            <div class="row"> -->
+  <!-- <section style="background:#efefe9;">
+          <div class="container">
+              <div class="row"> -->
                 <div class="board">
                    
-                    <div class="board-inner">
-                    <ul class="nav nav-tabs" id="myTab">
-                    <div class="liner"></div>
-                     <li class="active">
-                     <a href="#home" data-toggle="tab" title="Remessas Gerais">
-                      <span class="round-tabs one">
-                              <i class="glyphicon glyphicon-barcode"></i>
-                      </span> 
-                  </a></li>
-
-                  <li><a href="#profile" data-toggle="tab" title="Remessas em ABERTO">
-                     <span class="round-tabs two">
-                         <i class="glyphicon glyphicon-thumbs-down"></i>
-
-                     </span> 
-
-           </a>
-                 </li>
-                 <li><a href="#messages" data-toggle="tab" title="Acordos e Negociações">
-                     <span class="round-tabs three">
-                          <i class="glyphicon glyphicon-calendar"></i>
-                     </span> </a>
-                     </li>
-
-
-                     
-                     </ul></div>
-
-                     <div class="tab-content" >
-                      <div  style="padding-top: 10px ;"  class="tab-pane fade in active"  id="home">
-                      
-
-
-<!-- <p class="text-center"> -->
-
-<h3 class="head text-center">Histórico de Remessas</h3>
-<?php
-
-echo "<p class=\"text-center\">";
-
-// <!-- MONTA O CABEÇALHO COLM AS DATAS -->
-// if (isset($_GET['id']) ) { 
-   $id = (int) $_GET['id'];   
-   //$Ano = (int) $_GET['Ano'];   
-
-   /**
-    * RETORNA os meses de pagamentos realizados 
-    * @var 
-    */
-  $resultSelect = $db->query("
-        SELECT distinct
-        year(lb.DataReferencia) as Ano 
-         FROM
-          lancamentosbancarios lb 
-          join usuarios u on (u.id = lb.idusuario)
-          where lb.idUsuario = {$id}
-          and lb.TipoLancamento not in ('PENDENTE') 
-          order by year(lb.DataReferencia) desc
-
-    ")->results(true) or trigger_error($db->errorInfo()[2]); 
-
-    foreach($resultSelect as $rowOption){ 
-      foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                                             
-        echo "<a style='font-color :#FFFFFf !important;'  href='lancamentos-campo.php?id={$id}&ano={$rowOption['Ano']}'> <span class=\"label label-info arrowed-in-right arrowed\">{$rowOption['Ano']} </span></a>";
-    }   
-
-
-
-
-  echo  $strQtdMesesAtrasados; 
-
-    // <span class="badge badge-warning">4</span>
-
-  echo " <div class='datatable-tools'>
-    <table class='table' id='tbUsuarios'>
-        <thead>
-            <tr>
-                <th>  </th>
-                <th>Emitido em</th>
-                <th>Nº Documento</th>
-                <th>Campo</th>
-                <th>Valor</th>
-                <th>Referente á </th>
-                <!-- <th>Estado </th> -->
-                <th></th>
-
-            </tr>";
-
-            //Lista os lancamentos feitos por ano selecionado
-            echo "<tr>";
-
-        if (!isset($_GET['abertos']))  { 
-
-           $id = (int) $_GET['id']; 
-
-           if (isset($_GET['ano']) ) { 
-               $Ano = (int) $_GET['ano'];      
-            } else { $Ano = date('Y');}
-
-            
-            //Lista Apenas Campos Eclesiáticos                                
-            $resultSelect3 = $db->query("
-                  SELECT 
-                    lb.*
-                    -- DATEDIFF( cr.DataEmissao, curdate()) as DiasAtraso
-                    ,DATE_FORMAT(lb.DataReferencia, '%m/%Y') AS Referente
-                    ,DATE_FORMAT(lb.DataBaixa, '%d/%m/%Y') AS DataEmissao
-                    
-                        , u.*, lb.Valor as ValorBoleto,
-                    lb.id as idLancamentos
-
-                   FROM
-
-                    lancamentosbancarios lb 
-                    join usuarios u on (u.id = lb.idusuario)
-
-                    where lb.idUsuario = {$id}
-                     and year(lb.DataReferencia) = {$Ano}
-                     and lb.TipoLancamento not in ('PENDENTE') 
-
-                     order by Referente
-
-              ")->results(true) or trigger_error($db->errorInfo()[2]); 
-
-                  foreach($resultSelect3 as $rowOption){ 
-                    foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }     
-
-                    if($rowOption['idProjeto'] == 3){
-                       $boolProrec=  "<span class=\"label label-success arrowed \">proRec</span>";
-                    }
-
-                      $valorMySQL = $rowOption['ValorBoleto'];                                            
-                      $moeda = number_format( $valorMySQL , 2, ',', '.');
-
-                     $LinkAnexo = $rowOption['Anexos'];
-                     $Anexos = "";
-                     if($LinkAnexo != ""){
-
-                      $Anexos =  " <a style='color:red;'  target='_blank' href='{$LinkAnexo}' ><i class='fa fa-paperclip'></i></a>" ;
-
-                     }
-
-                      echo "<tr>";                                                                                                                                              
-                      echo "<td> <div  title='Esse boleto foi Recebido e 
-                      \n  baixado em ". nl2br( $rowOption['DataBaixa']) ." 
-                      \n . 
-                      \n '  class='cCredito'>";  
-                      echo "<a  id='lnkDelete' style='display:none !important;' href='lancamentos-campo.php?id=$id&idLancamento={$rowOption['idLancamentos']}&type=delete'><i class='fa fa-check-square'></i>Excluir<a></div></td>";
-                    
-                      echo "<td>". nl2br( $rowOption['DataEmissao']) ."</td>";
-                      echo "<td>". nl2br( $rowOption['NumeroDocumento']) ."</td>";
-                      echo "<td><b>". nl2br( $rowOption['Nome']) ."</b></td>";
-                      echo "<td style='color:blue;' ><a href='ajuste-lancamento-campo.php?id={$rowOption['idLancamentos']}&idusuario={$id}'> <b> R$ ". nl2br( $moeda) ."</b></a> ".  $Anexos ."{$boolProrec}</td>";
-                      echo "<td>". nl2br(  $rowOption['Referente']) ."</td>";
-                      
-
-
-
-                      echo "<td>  <i onclick='getModalDetalhamento({$rowOption['idLancamentos']})' data-toggle='modal' data-target='#modalView' title='Detalhes' class='fa fa-search fa-2x'></i>                                                         
-                            </td>";
-                      echo "</tr>";
-
-                      //echo "<option value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
-                  } 
-
-                }
-     
-
-            echo "</tr>";
-            echo "
-            <tr>
-                
-                <td></td>
-                <td></td>
-                <td></td>
-
-            </tr>
-                                      
-        </thead>
-    </table>
-</div> ";
-?>
-</p> 
-
-
-       
-</div>
-                      
-<!-- 
-########################
-Parte de meses em aberto (Inadinplantes)
-************************************************ --> 
-
-<div style="padding-top: 10px ;" class="tab-pane fade" id="profile">
-    <h3 class="head text-center">Meses em Aberto</h3>
-    <p class="text-center">
-        <?php  echo $strQtdMesesAtrasados ; ?> 
-    <?php   
-
-    $totProrecCampo = 0;                         
-                       
-echo " <div class='datatable-tools'>
-    <table class='table' id='tbUsuarios'>
-        <thead>
-            <tr>
-                <th>  </th>
-                <th>Emitido em</th>
-                <th>Nº Documento</th>
-                <th>Campo</th>
-                <th>Valor</th>
-                <th>Referencia </th>
-                <th></th>
-
-            </tr>";
-              
-//Lista os contas a Receber
-echo "<tr>";
-$id = (int) $_GET['id']; 
-$resultSelect5 = $db->query("
-
-      SELECT    
-      r.Nome as Regiao,  
-      u.id as idUsuario,
-      u.Nome as Campo,
-      c.NomePastorTitular,
-      LB.Valor,
-      DATE_FORMAT(LB.DataReferencia, '%m/%Y') AS Referente
-      ,DATE_FORMAT(LB.DataBaixa, '%d/%m/%Y') AS DataEmissao
-      -- count(u.id) as MesesEmAberto   
-      , LB.*
-      ,LB.id as idLancamentos 
-
-      FROM
-      lancamentosbancarios LB
-      join usuarios u on (u.id = LB.idUsuario)
-      join congregacoes gr on (gr.id = u.idCongregacao)
-        join campos c on (c.id = gr.idCampo)
-        join regioes r on  (r.id = c.idRegiao)
-        where
-            LB.Valor = 0 and LB.TipoLancamento in ('Regular','Inadimplente','Fechamento')               
-            and u.id = {$id} 
-            and LB.DataReferencia >= '2012-01-01'
-        -- Considera o inicio do campo ()
-        and LB.DataReferencia > u.DataInicio
-        and u.idTipoUsuario <> 8 -- inativos 
-        ; ")->results(true) or trigger_error($db->errorInfo()[2]); 
-
-
-foreach($resultSelect5 as $rowOption){ 
-  foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); } 
-
-  $valorMySQL = $rowOption['ValorBoleto'];                                            
-  $moeda = number_format( $valorMySQL , 2, ',', '.');
-  $LinkAnexo = $rowOption['Anexos'];
-  $Anexos = "";
-  $totProrecCampo++; 
-
-  if($LinkAnexo != ""){
-      $Anexos =  " <a style='color:red;'  target='_blank' href='{$LinkAnexo}' ><i class='fa fa-paperclip'></i></a>" ;
-  }                        
-          
-    echo "<tr>";
-    echo "<td> <div  ". nl2br( $rowOption['DataBaixa']) ." class='cCredito'>";  
-    echo "<div <i><a style='display:none !important;' id='lnkDelete' href='lancamentos-campo.php?id=$id&idLancamento={$rowOption['idLancamentos']}&type=delete'> </div><i class='fa fa-check-square'></i>Excluir<a></i></div></td>";  
-    echo "<td>". nl2br( $rowOption['DataEmissao']) ."</td>";
-    echo "<td>". nl2br( $rowOption['NumeroDocumento']) ."</td>";
-    echo "<td><b>". nl2br( $rowOption['Campo']) ."</b></td>";
-    echo "<td style='color:blue;' ><a href='ajuste-lancamento-campo.php?id={$rowOption['idLancamentos']}&idusuario={$id}'> <b> R$ ". nl2br( $moeda) ."</b></a> ".$Anexos."</td>";
-    echo "<td>". nl2br( $rowOption['Referente']) ."</td>";    
-    echo "<td>  <i onclick='getModalDetalhamento({$rowOption['idLancamentos']})' data-toggle='modal' data-target='#modalView' title='Detalhes' class='fa fa-search fa-2x'></i></td>";
-    echo "</tr>";
-
-  //echo "<option value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
-} 
-
-echo "</tr>";
-echo "
-<tr>    
-    <td></td>
-    <td></td>
-    <td></td>
-</tr>                          
-</thead>
-</table>
-</div> ";
-?>
-                    <!-- <a href="" class="btn btn-success btn-outline-rounded green"> create your profile <span style="margin-left:10px;" class="glyphicon glyphicon-send"></span></a> -->
-</p>
-
-</div>
-
-<!-- 
-*************** NEGOCIACOES
-#########################################3 -->
-
-<div style="padding-top: 10px ;" class="tab-pane fade" id="messages">
-<h3 class="head text-center">Acordos e Negociações</h3>
-<p class="narrow text-center">
-
-<?php 
-
-$id = (int) $_GET['id'];
-
-$sqlProrecZ = "    Select lb.*
-                
-                    ,DATE_FORMAT(lb.DataReferencia, '%m/%Y') AS Referente
-                    ,DATE_FORMAT(lb.DataBaixa, '%d/%m/%Y') AS DataEmissao
-                    
-                        , u.*, lb.Valor as ValorBoleto,
-                    lb.id as idLancamentos
-
-                   FROM
-
-                    lancamentosbancarios lb 
-                    join usuarios u on (u.id = lb.idusuario)
-
-                    where lb.idUsuario = {$id}
-                  
-                     and lb.TipoLancamento not in ('PENDENTE') 
-                      and lb.idProjeto = 3
-                     order by Referente;";
-
-
-
-$resultSelect56 = $db->query($sqlProrecZ)->results(true) or trigger_error($db->errorInfo()[2]); 
-
-$timeline = "";
-$countLac = 0;
-
-foreach( $resultSelect56 as $rowOption){ 
-  foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); } 
-
-
-  if($rowOption['idProjeto'] == 3){
-     $boolProrec=  "<span class=\"label label-success arrowed \">proRec</span>";
-  }
-
-  $valorMySQL = $rowOption['ValorBoleto'];                                            
-  $moeda = number_format( $valorMySQL , 2, ',', '.');
-  $LinkAnexo = $rowOption['Anexos'];
-  $Anexos = "";
-
-  //echo "1 <br>";
-
-  if($LinkAnexo != ""){
-      $Anexos =  " <a style='color:red;'  target='_blank' href='{$LinkAnexo}' ><i class='fa fa-paperclip'></i></a>" ;
-  }                        
-          
-  //echo "<option value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
-
-$timeline = $timeline . "    <div class=\"qa-message-list\" id=\"wallmessages\">
-             <div class=\"message-item\" >
-            <div class=\"message-inner\">
-              <div class=\"message-head clearfix\">
-                <div class=\"avatar pull-left\"><img src=\"ok.gif\"></div>            
-                <div class=\"user-detail\">
-                 
-                  <div class=\"post-meta\" style=\"padding-top: 9px;\">
-                    <div class=\"asker-meta\">
-                      <span class=\"qa-message-what\"> PAGAMENTO PROREC </span>
-                      <span class=\"qa-message-when\">
-                        <span class=\"qa-message-when-data\"> em {$rowOption['DataEmissao']} </span>
-                      </span>
-                      <span class=\"qa-message-who\">
-                        <span class=\"qa-message-who-pad\">   </span>
-                        <span class=\"qa-message-who-data\"></span>
-                      </span>
-                    </div>
+                  <div class="board-inner">
+                      <!-- Nav-tabs -->
+                      <ul class="nav nav-tabs" id="myTab" role="tablist">
+                          <li class="nav-item" role="presentation">
+                              <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Remessas Gerais</button>
+                          </li>
+                          <li class="nav-item" role="presentation">
+                              <button class="nav-link active" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab" aria-controls="profile" aria-selected="false">Remessas em ABERTO</button>
+                          </li>
+                          <li class="nav-item" role="presentation">
+                              <button class="nav-link active" id="contact-tab" data-bs-toggle="tab" data-bs-target="#messages" type="button" role="tab" aria-controls="contact" aria-selected="false">Acordos e Negociações</button>
+                          </li>
+                      </ul>
                   </div>
+
+
+                      <div class="tab-content" >
+                          <div class="tab-pane fade  show active" id="home" style="padding-top: 10px;">
+
+
+
+                                  <!-- <p class="text-center"> -->
+
+                                  <h3 class="head text-center">Histórico de Remessas</h3>
+                                  <?php
+
+                                  echo "<p class=\"text-center\">";
+
+                                  // <!-- MONTA O CABEÇALHO COLM AS DATAS -->
+                                  // if (isset($_GET['id']) ) { 
+                                    $id = (int) $_GET['id'];   
+                                    //$Ano = (int) $_GET['Ano'];   
+
+                                    /**
+                                      * RETORNA os meses de pagamentos realizados 
+                                      * @var 
+                                      */
+                                    $resultSelect = $db->query("
+                                          SELECT distinct
+                                          year(lb.DataReferencia) as Ano 
+                                          FROM
+                                            lancamentosbancarios lb 
+                                            join usuarios u on (u.id = lb.idusuario)
+                                            where lb.idUsuario = {$id}
+                                            and lb.TipoLancamento not in ('PENDENTE') 
+                                            order by year(lb.DataReferencia) desc
+
+                                      ")->results(true) or trigger_error($db->errorInfo()[2]); 
+
+                                      foreach($resultSelect as $rowOption){ 
+                                        foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                                             
+                                          echo "<a style='font-color :#FFFFFf !important;'  href='lancamentos-campo.php?id={$id}&ano={$rowOption['Ano']}'> <span class=\"label label-info arrowed-in-right arrowed\">{$rowOption['Ano']} </span></a>";
+                                      }   
+
+
+
+
+                                    echo  $strQtdMesesAtrasados; 
+
+                                      // <span class="badge badge-warning">4</span>
+
+                                    echo " <div class='datatable-tools'>
+                                      <table class='table' id='tbUsuarios'>
+                                          <thead>
+                                              <tr>
+                                                  <th>  </th>
+                                                  <th>Emitido em</th>
+                                                  <th>Nº Documento</th>
+                                                  <th>Campo</th>
+                                                  <th>Valor</th>
+                                                  <th>Referente á </th>
+                                                  <!-- <th>Estado </th> -->
+                                                  <th></th>
+
+                                              </tr>";
+
+                                              //Lista os lancamentos feitos por ano selecionado
+                                              echo "<tr>";
+
+                                          if (!isset($_GET['abertos']))  { 
+
+                                            $id = (int) $_GET['id']; 
+
+                                            if (isset($_GET['ano']) ) { 
+                                                $Ano = (int) $_GET['ano'];      
+                                              } else { $Ano = date('Y');}
+
+                                              
+                                              //Lista Apenas Campos Eclesiáticos                                
+                                              $resultSelect3 = $db->query("
+                                                    SELECT 
+                                                      lb.*
+                                                      -- DATEDIFF( cr.DataEmissao, curdate()) as DiasAtraso
+                                                      ,DATE_FORMAT(lb.DataReferencia, '%m/%Y') AS Referente
+                                                      ,DATE_FORMAT(lb.DataBaixa, '%d/%m/%Y') AS DataEmissao
+                                                      
+                                                          , u.*, lb.Valor as ValorBoleto,
+                                                      lb.id as idLancamentos
+
+                                                    FROM
+
+                                                      lancamentosbancarios lb 
+                                                      join usuarios u on (u.id = lb.idusuario)
+
+                                                      where lb.idUsuario = {$id}
+                                                      and year(lb.DataReferencia) = {$Ano}
+                                                      and lb.TipoLancamento not in ('PENDENTE') 
+
+                                                      order by Referente
+
+                                                ")->results(true) or trigger_error($db->errorInfo()[2]); 
+
+                                                    foreach($resultSelect3 as $rowOption){ 
+                                                      foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }     
+
+                                                      if($rowOption['idProjeto'] == 3){
+                                                        $boolProrec=  "<span class=\"label label-success arrowed \">proRec</span>";
+                                                      }
+
+                                                        $valorMySQL = $rowOption['ValorBoleto'];                                            
+                                                        $moeda = number_format( $valorMySQL , 2, ',', '.');
+
+                                                      $LinkAnexo = $rowOption['Anexos'];
+                                                      $Anexos = "";
+                                                      if($LinkAnexo != ""){
+
+                                                        $Anexos =  " <a style='color:red;'  target='_blank' href='{$LinkAnexo}' ><i class='fa fa-paperclip'></i></a>" ;
+
+                                                      }
+
+                                                        echo "<tr>";                                                                                                                                              
+                                                        echo "<td> <div  title='Esse boleto foi Recebido e 
+                                                        \n  baixado em ". nl2br( $rowOption['DataBaixa']) ." 
+                                                        \n . 
+                                                        \n '  class='cCredito'>";  
+                                                        echo "<a  id='lnkDelete' style='display:none !important;' href='lancamentos-campo.php?id=$id&idLancamento={$rowOption['idLancamentos']}&type=delete'><i class='fa fa-check-square'></i>Excluir<a></div></td>";
+                                                      
+                                                        echo "<td>". nl2br( $rowOption['DataEmissao']) ."</td>";
+                                                        echo "<td>". nl2br( $rowOption['NumeroDocumento']) ."</td>";
+                                                        echo "<td><b>". nl2br( $rowOption['Nome']) ."</b></td>";
+                                                        echo "<td style='color:blue;' ><a href='ajuste-lancamento-campo.php?id={$rowOption['idLancamentos']}&idusuario={$id}'> <b> R$ ". nl2br( $moeda) ."</b></a> ".  $Anexos ."{$boolProrec}</td>";
+                                                        echo "<td>". nl2br(  $rowOption['Referente']) ."</td>";
+                                                        
+
+
+
+                                                        echo "<td>  <i onclick='getModalDetalhamento({$rowOption['idLancamentos']})' data-toggle='modal' data-target='#modalView' title='Detalhes' class='fa fa-search fa-2x'></i>                                                         
+                                                              </td>";
+                                                        echo "</tr>";
+
+                                                        //echo "<option value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
+                                                    } 
+
+                                                  }
+                                      
+
+                                              echo "</tr>";
+                                              echo "
+                                              <tr>
+                                                  
+                                                  <td></td>
+                                                  <td></td>
+                                                  <td></td>
+
+                                              </tr>
+                                                                        
+                                          </thead>
+                                      </table>
+                                  </div> ";
+                                  ?>
+                                  </p> 
+
+
+          
+                          </div>
+                        
+                          <!-- 
+                          ########################
+                          Parte de meses em aberto (Inadinplantes)
+                          ************************************************ --> 
+                          
+                          <div class="tab-pane fade" id="profile" style="padding-top: 10px;">
+                                  <h3 class="head text-center">Meses em Aberto</h3>
+                                  <p class="text-center">
+                                      <?php  echo $strQtdMesesAtrasados ; ?> 
+                                  <?php   
+
+                                  $totProrecCampo = 0;                         
+                                                    
+                              echo " <div class='datatable-tools'>
+                                  <table class='table' id='tbUsuarios'>
+                                      <thead>
+                                          <tr>
+                                              <th>  </th>
+                                              <th>Emitido em</th>
+                                              <th>Nº Documento</th>
+                                              <th>Campo</th>
+                                              <th>Valor</th>
+                                              <th>Referencia </th>
+                                              <th></th>
+
+                                          </tr>";
+                                            
+                              //Lista os contas a Receber
+                              echo "<tr>";
+                              $id = (int) $_GET['id']; 
+                              $resultSelect5 = $db->query("
+
+                                    SELECT    
+                                    r.Nome as Regiao,  
+                                    u.id as idUsuario,
+                                    u.Nome as Campo,
+                                    c.NomePastorTitular,
+                                    LB.Valor,
+                                    DATE_FORMAT(LB.DataReferencia, '%m/%Y') AS Referente
+                                    ,DATE_FORMAT(LB.DataBaixa, '%d/%m/%Y') AS DataEmissao
+                                    -- count(u.id) as MesesEmAberto   
+                                    , LB.*
+                                    ,LB.id as idLancamentos 
+
+                                    FROM
+                                    lancamentosbancarios LB
+                                    join usuarios u on (u.id = LB.idUsuario)
+                                    join congregacoes gr on (gr.id = u.idCongregacao)
+                                      join campos c on (c.id = gr.idCampo)
+                                      join regioes r on  (r.id = c.idRegiao)
+                                      where
+                                          LB.Valor = 0 and LB.TipoLancamento in ('Regular','Inadimplente','Fechamento')               
+                                          and u.id = {$id} 
+                                          and LB.DataReferencia >= '2012-01-01'
+                                      -- Considera o inicio do campo ()
+                                      and LB.DataReferencia > u.DataInicio
+                                      and u.idTipoUsuario <> 8 -- inativos 
+                                      ; ")->results(true) or trigger_error($db->errorInfo()[2]); 
+
+
+                              foreach($resultSelect5 as $rowOption){ 
+                                foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); } 
+
+                                $valorMySQL = $rowOption['ValorBoleto'];                                            
+                                $moeda = number_format( $valorMySQL , 2, ',', '.');
+                                $LinkAnexo = $rowOption['Anexos'];
+                                $Anexos = "";
+                                $totProrecCampo++; 
+
+                                if($LinkAnexo != ""){
+                                    $Anexos =  " <a style='color:red;'  target='_blank' href='{$LinkAnexo}' ><i class='fa fa-paperclip'></i></a>" ;
+                                }                        
+                                        
+                                  echo "<tr>";
+                                  echo "<td> <div  ". nl2br( $rowOption['DataBaixa']) ." class='cCredito'>";  
+                                  echo "<div <i><a style='display:none !important;' id='lnkDelete' href='lancamentos-campo.php?id=$id&idLancamento={$rowOption['idLancamentos']}&type=delete'> </div><i class='fa fa-check-square'></i>Excluir<a></i></div></td>";  
+                                  echo "<td>". nl2br( $rowOption['DataEmissao']) ."</td>";
+                                  echo "<td>". nl2br( $rowOption['NumeroDocumento']) ."</td>";
+                                  echo "<td><b>". nl2br( $rowOption['Campo']) ."</b></td>";
+                                  echo "<td style='color:blue;' ><a href='ajuste-lancamento-campo.php?id={$rowOption['idLancamentos']}&idusuario={$id}'> <b> R$ ". nl2br( $moeda) ."</b></a> ".$Anexos."</td>";
+                                  echo "<td>". nl2br( $rowOption['Referente']) ."</td>";    
+                                  echo "<td>  <i onclick='getModalDetalhamento({$rowOption['idLancamentos']})' data-toggle='modal' data-target='#modalView' title='Detalhes' class='fa fa-search fa-2x'></i></td>";
+                                  echo "</tr>";
+
+                                //echo "<option value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
+                              } 
+
+                              echo "</tr>";
+                              echo "
+                              <tr>    
+                                  <td></td>
+                                  <td></td>
+                                  <td></td>
+                              </tr>                          
+                              </thead>
+                              </table>
+                              </div> ";
+                              ?>
+                                                  <!-- <a href="" class="btn btn-success btn-outline-rounded green"> create your profile <span style="margin-left:10px;" class="glyphicon glyphicon-send"></span></a> -->
+                              </p>
+
+                          </div>
+
+                          <!-- 
+                          *************** NEGOCIACOES
+                          #########################################3 -->
+
+                          <div style="padding-top: 10px ;" class="tab-pane fade" id="messages">
+                          <h3 class="head text-center">Acordos e Negociações</h3>
+                          <p class="narrow text-center">
+
+                          <?php 
+
+                          $id = (int) $_GET['id'];
+
+                          $sqlProrecZ = "    Select lb.*
+                                        
+                                            ,DATE_FORMAT(lb.DataReferencia, '%m/%Y') AS Referente
+                                            ,DATE_FORMAT(lb.DataBaixa, '%d/%m/%Y') AS DataEmissao
+                                            
+                                                , u.*, lb.Valor as ValorBoleto,
+                                            lb.id as idLancamentos
+
+                                          FROM
+
+                                            lancamentosbancarios lb 
+                                            join usuarios u on (u.id = lb.idusuario)
+
+                                            where lb.idUsuario = {$id}
+                                          
+                                            and lb.TipoLancamento not in ('PENDENTE') 
+                                              and lb.idProjeto = 3
+                                            order by Referente;";
+
+
+
+                          $resultSelect56 = $db->query($sqlProrecZ)->results(true) or trigger_error($db->errorInfo()[2]); 
+
+                          $timeline = "";
+                          $countLac = 0;
+
+                          foreach ($resultSelect56 as $rowOption) {
+                              foreach ($rowOption as $key => $value) {
+                                  $rowOption[$key] = stripslashes($value);
+                              }
+
+                              // Verifica se o projeto é ProRec
+                              if ($rowOption['idProjeto'] == 3) {
+                                  $boolProrec = "<span class=\"badge badge-success\">proRec</span>";
+                              } else {
+                                  $boolProrec = "";
+                              }
+
+                              // Formata o valor do boleto
+                              $valorMySQL = $rowOption['ValorBoleto'];
+                              $moeda = number_format($valorMySQL, 2, ',', '.');
+
+                              // Verifica se existe anexo
+                              $LinkAnexo = $rowOption['Anexos'];
+                              $Anexos = "";
+                              if ($LinkAnexo != "") {
+                                  $Anexos = "<a href='{$LinkAnexo}' style='color:red;' target='_blank'><i class='fa fa-paperclip'></i></a>";
+                              }
+
+                                $timeline .= "
+                                    <div class=\"qa-message-list\" id=\"wallmessages\" style=\"text-align: center;\">
+                                        <div class=\"message-item\" style=\"border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; display: block; text-align: left;\">
+                                            <div class=\"message-inner\">
+                                                <div class=\"message-head clearfix\">
+                                                    <div class=\"avatar pull-left\"><img src=\"ok.gif\"></div>
+                                                    <div class=\"user-detail\">
+                                                        <div class=\"post-meta\" style=\"padding-top: 9px;\">
+                                                            <div class=\"asker-meta\">
+                                                                <span class=\"qa-message-what\" style=\"font-weight: bold; font-size: 18px;\">PAGAMENTO PROREC</span>
+                                                                <span class=\"qa-message-when\">
+                                                                    <span class=\"qa-message-when-data\" style=\"font-weight: bold;\">em {$rowOption['DataEmissao']}</span>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class=\"qa-message-content\">
+                                                    <p>Pagamento realizado em {$rowOption['DataBaixa']}<br>
+                                                        Gerado em <b>{$rowOption['DataEmissao']}</b> | Número do Documento: <b>{$rowOption['NumeroDocumento']}</b><br>
+                                                        Responsável pela negociação: <b>Pr. {$rowOption['NomePastor']}</b> - {$rowOption['Email']}{$Anexos}
+                                                    </p>
+                                                </div>
+                                                <div style=\"text-align: center;\"><i class='fa fa-check-circle'></i></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                ";
+
+                              // Incrementa a contagem de parcelas pagas
+                              $countLac++;
+                          }
+                          ?>
+
+                          <!-- Timeline -->
+                          <div class="container" style="width: 90%;">
+                              <div class="text-center">
+                                  <span class="ml-3">Parcelas pagas <span class="badge badge-success "><?php echo $countLac ?></span></span>
+                                  <span class="ml-3">Parcelas restantes <span class="badge badge-warning "><?php echo $qtdProrec - $countLac ?></span></span>
+                                  <span class="ml-3">Valor Negociado <span class="badge badge-important "><?php echo $valorProrec ?></span></span>
+                              </div>
+                              <br><br>
+                              <?php echo $timeline; ?>
+                          </div>
+                          <!-- Final da Timeline -->
+
                 </div>
-              </div>
-              <div class=\"qa-message-content\">
-              <p> Pagamento realizado em {$rowOption['DataBaixa']} <br>
-                  Gerado em <b>{$rowOption['DataEmissao']}</b> | Numero Documento <b>{$rowOption['NumeroDocumento']}</b> 
-              <br> Responsavel negociação <b>Pr.{$rowOption['NomePastor']} </b> - {$rowOption['Email']} 
-              </div>
-          </div></div> ";
-
-          $countLac++;
-
-} 
-?>
-
-<!-- ####################### Timeline -->
-<div class="container" 
-style="    width: 90%; ">
-<DIV class=" text-center">
-Parcelas pagas <span class="badge badge-success"> <?php echo $countLac ?></span>
-Parcelas restantes <span class="badge badge-warning"><?php echo $qtdProrec - $countLac ?></span>
-Valor Negociado <span class="badge badge-important"> <?php echo $valorProrec ?></span>
-
-</DIV>
-<br><br>  
-<?php echo $timeline; ?>
-
-</div>
-</div>                         
-
-<!-- ##################### final TIMELINE -->
-
-    </p>
-    
-    <p class="text-center">
-<!-- <a href="" class="btn btn-success btn-outline-rounded green"> start using bootsnipp <span style="margin-left:10px;" class="glyphicon glyphicon-send"></span></a> -->
-</p>
-</div>
-
-
-
-
-
-<div class="clearfix"></div>
-</div>
-
-</div>
-<!-- </div>
-</div>
-</section> -->
+    <!-- </div>
+    </div>
+    </section> -->
 
 </div>
 
@@ -883,4 +890,19 @@ document.onkeydown=function(e){
 $(function(){
 $('a[title]').tooltip();
 });
-</script>                
+</script>    
+
+<!-- Script JavaScript para a navegação das tabs -->
+<script>
+    var tabTriggerList = [].slice.call(document.querySelectorAll('#myTab button'));
+    tabTriggerList.forEach(function(tabTrigger) {
+        tabTrigger.addEventListener('click', function() {
+            var tabPane = document.querySelector(tabTrigger.getAttribute('data-bs-target'));
+            var tabContentList = [].slice.call(tabPane.parentElement.querySelectorAll('.tab-pane'));
+            tabContentList.forEach(function(tabContent) {
+                tabContent.classList.remove('active', 'show');
+            });
+            tabPane.classList.add('active', 'show');
+        });
+    });
+</script>

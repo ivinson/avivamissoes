@@ -7,10 +7,10 @@ include('scripts/functions.php');
 if (isset($_GET['id']) ) { 
 $id = (int) $_GET['id']; 
 	if (isset($_POST['submitted'])) { 
-	foreach($_POST AS $key => $value) { $_POST[$key] = $db->escape($value); } 
+	foreach($_POST AS $key => $value) { $_POST[$key] = stripslashes($value); } 
 	$sql = "UPDATE `planodecontas` SET  `nome` =  '{$_POST['nome']}' ,  `tipo` =  '{$_POST['tipo']}'   WHERE `id` = '$id' "; 
 	$db->query($sql) or die($db->errorInfo()[2]); 
-	echo (mysql_affected_rows()) ? "Edited row.<br />" : "Nothing changed. <br />"; 
+	echo ($db->rowCount() > 0) ? "Edited row.<br />" : "Nothing changed. <br />"; 
 	echo "<a href='listar-plano-de-contas.php'>Voltar a Listagem </a>"; 
 	Redirect("listar-plano-de-contas.php",false); 
 
