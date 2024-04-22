@@ -1,7 +1,4 @@
-<?php
-
-session_start();
-
+<?php session_start();
 
 if ($_SESSION['logado'] <> "S") {
     //header("login.php");
@@ -12,22 +9,12 @@ if ($_SESSION['logado'] <> "S") {
             </script>";
     //echo "teste LOGADO " . $_SESSION['logado'];
 }
-//}
-?>
-
-<?php
 include("header.php");
 include("config.php");
 include('scripts/functions.php');
-
 ?>
-
-
-
 <div id="page-wrapper">
-
     <div class="container-fluid color-custom">
-
         <!-- TITULO e cabeçalho das paginas  -->
         <div class="page-title">
             <div class="row">
@@ -47,18 +34,12 @@ include('scripts/functions.php');
             </div>
         </div>
         <!-- /.row -->
-
-
-
         <div class="cards mb-5">
-
             <div class="parent">
                 <div class="conta card-custom">
                     <div class="conta content-box box1">
                         <?php
-
-                        $rowEmitidos = $db->query("select  count(lb.id) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' ")->results()[0];
-
+                            $rowEmitidos = $db->query("select  count(lb.id) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' ")->results()[0];
                         ?>
                         <span class="conta card-custom-title">Boletos Recebidos</span>
                         <div class="conta card-content">
@@ -81,10 +62,7 @@ include('scripts/functions.php');
                 <div class="conta card-custom">
                     <div class="conta content-box box2">
                         <?php
-
                         $rowEmitidos = $db->query("select  count(distinct lb.idUsuario) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' ")->results()[0];
-
-
                         ?>
                         <span class="conta card-custom-title">Usam o Sistema</span>
                         <div class="conta card-content">
@@ -353,91 +331,6 @@ include('scripts/functions.php');
     include("footer.php");
     ?>
     <script src="js/plugins/morris/morris.min.js"></script>
-    <script src="js/plugins/flot/jquery.flot.js"></script>
-    <script src="js/plugins/flot/jquery.flot.pie.js"></script>
-
-
-
-
-    <?php
-
-    //tOP MAIORES PAGADORES
-    $SQL = "select u.Nome, FORMAT(SUM(lb.Valor),2)  as Valor
-from lancamentosbancarios lb join usuarios u on (u.id = lb.idUsuario)
-group by u.id  order by SUM(lb.Valor) desc";
-
-
-
-
-    # chama view de contagem de campos
-    $rsInad = $db->query(" SELECT Regiao, count(*) as total, id from Inadimplentes group by Regiao")->results(true);
-
-
-    $fdata = "    var data = [";
-    $fVirgula = "";
-    foreach ($rsInad as $rowOptionInad ) {
-        foreach ($rowOptionInad as $key => $value) {
-            $rowOptionInad[$key] = stripslashes($value);
-        }
-
-
-
-        if ($fVirgula != ",") {
-            $fdata = $fdata . "{label: '{$rowOptionInad['Regiao']}', data:{$rowOptionInad['total']}, url:'/inadimplentes.php?idregiao={$rowOptionInad['total']}&six=true'}";
-            $fVirgula = ",";
-        } else {
-            $fdata =  $fdata . $fVirgula . "{label: '{$rowOptionInad['Regiao']}', data:{$rowOptionInad['total']}, url:'/inadimplentes.php?idregiao={$rowOptionInad['total']}&six=true'}";
-        }
-    }
-    $fdata = $fdata . "];";
-
-
-    //echo $fdata;
-
-
-    //include "logger.php";
-    //Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] acessou a pagina principal!");
-
-
-
-    ?>
-
-    <!-- Javascript -->
-    <script type="text/javascript">
-        $("#flotcontainer").bind("plotclick", function(event, pos, item) {
-            //alert('click!');
-            //for(var i in item){
-            //alert('my '+i+' = '+ item[i]);
-            //}
-        });
-
-
-        $(function() {
-            //Data que vem do php
-            <?php echo $fdata; ?>
-
-            var options = {
-                series: {
-                    pie: {
-                        innerRadius: 0.5,
-                        show: true
-                    }
-                },
-                legend: {
-                    show: false
-                },
-                grid: {
-                    hoverable: true,
-                    clickable: true
-                },
-
-            };
-
-
-            $.plot($("#flotcontainer"), data, options);
-        });
-    </script>
-
 <script>
     $(document).ready(function() {
         var limit = 5; // Número inicial de registros a serem carregados por vez
