@@ -1,5 +1,5 @@
   <?php
-  // include("header.php");
+  include("header.php");
   include('config.php');
   include('scripts/functions.php');
   ?>
