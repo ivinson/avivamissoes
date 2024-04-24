@@ -711,7 +711,7 @@ if (isset($_GET['id']) ) {
 
   <div class="row">
       <div class="col-lg-12">
-        <input class="btn btn-lg btn-success" type='button' onclick="gravarAlteracoesPaginaInadimplentes()" value='Gravar alterações' />                        
+        <input class="btn btn-lg btn-success" type='button' onclick="gravarAlteracoes()" value='Gravar alterações' />                        
         <input class="btn btn-lg btn-info" onclick='history.back(-1)' value='Voltar' />                            
         <input type='hidden' value='1' name='submitted' />                             
         <p><br><br><br></p>
@@ -795,7 +795,7 @@ $('#selectPerfil').change(function () {
 
 
 
-function gravarAlteracoesPaginaInadimplentes (){
+function gravarAlteracoes (){
 
   let formData = $('#form-inadimplentes').serialize();
 
