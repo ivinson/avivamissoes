@@ -17,7 +17,7 @@ if($_SESSION['logado'] <> "S"){
   die("login.php");
 
 }
-  // include("header.php"); 
+  include("header.php"); 
   include('config.php');  
   include('scripts/functions.php'); 
   include "logger.php";
@@ -26,6 +26,17 @@ if($_SESSION['logado'] <> "S"){
 
 <style type="text/css">
 
+.dt-search{
+  text-align: right !important;
+}
+
+.dt-length{
+  margin-bottom: 20px !important;
+}
+
+.dt-input{
+  margin-right: 20px;
+}
 
 .panel-heading .accordion-toggle h4:after {
     /* Define o caractere Unicode para a seta para baixo */
@@ -79,6 +90,7 @@ a.accordion-toggle {
 }
 </style>
 
+
         <?php
         $tituloPrincipal = "Extrato Bancario ";
         $tituloSecondario = "Extrato";
@@ -124,110 +136,53 @@ a.accordion-toggle {
 ### Nova visao Listagem
 
 $sqlMeses = "
-select 
-  distinct(DATE_FORMAT(DataBaixa, '%Y'))AS DataEmissao
-from lancamentosbancarios
-where TipoOrigem = 'C' and idUsuario = 1196 
-  order by DataBaixa";
+SELECT DISTINCT(DATE_FORMAT(DataBaixa, '%Y')) AS Ano,
+DATE_FORMAT(DataBaixa, '%Y') AS DataEmissao
+FROM lancamentosbancarios
+WHERE TipoOrigem = 'C' AND idUsuario = 1196 
+ORDER BY DataBaixa";
 
-
-#TROCAR USUARIO PRODUCAO
 $resultMeses = $db->query($sqlMeses)->results(true) or trigger_error($db->errorInfo()[2]);
 
-foreach($resultMeses as $rowOptionMeses){ 
-  foreach($rowOptionMeses AS $key => $value) { $rowOptionMeses[$key] = stripslashes($value); }                               
-     
-echo "<div class=\"panel-group\" id=\"accordion\">";
+echo "<table id='dataTable' class='table'>
+        <thead>
+            <tr>
+                <th>Ano</th>
+                <th>Data</th>
+                <th>Nº Documento</th>
+                <th>Descritivo</th>
+                <th>Valor</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>";
 
-echo "
-  <div class=\"panel panel-default\">
-    <div class=\"panel-heading\">      
-        <a class=\"accordion-toggle collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapse{$rowOptionMeses['DataEmissao']}\">
-          <h4 class=\"panel-title\">{$rowOptionMeses['DataEmissao']}</h4>
-        </a>      
-    </div>
-    <div id=\"collapse{$rowOptionMeses['DataEmissao']}\" class=\"panel-collapse collapse\">
-      <div class=\"panel-body\"> ";
-        
+foreach ($resultMeses as $rowOptionMeses) {
+    $resultSelectDetalhamento = $db->query("
+    SELECT * FROM lancamentosbancarios
+    WHERE TipoOrigem = 'C' AND idUsuario = 1196 
+    AND DATE_FORMAT(DataBaixa, '%Y') = '{$rowOptionMeses['Ano']}'
+    ORDER BY DataBaixa")->results(true) or trigger_error($db->errorInfo()[2]);
 
-
-
-              //exit;
-              #TROCAR USUARIO PRODUCAO
-              $resultSelectDetalhamento = $db->query("
-              select * from lancamentosbancarios
-
-              where TipoOrigem = 'C' and idUsuario = 1196 
-              and DATE_FORMAT(DataBaixa, '%Y') = '{$rowOptionMeses['DataEmissao']}'
-              order by DataBaixa
-
-              ")->results(true) or trigger_error($db->errorInfo()[2]);
-
-
-          echo "<table class='table' >
-                                <thead>
-                                    <tr>
-                                        <th>Data</th>                          
-                                        <th>Nº Documento</th>
-                                        <th>Descritivo</th>
-                                        <th>Valor</th>
-                                        <th>  </th>
-
-                                    </tr>" ; 
-
-                foreach($resultSelectDetalhamento as $rowOptionDetalhamento){ 
-                  foreach($rowOptionDetalhamento AS $key => $value) { $rowOptionDetalhamento[$key] = stripslashes($value); }                               
-              
-                    echo "<tr>";        
-                    $phpdate = strtotime( $rowOptionDetalhamento['DataBaixa'] );
-                    $mysqldate = date( 'd/m/Y', $phpdate );
-
-                    echo "<td>". nl2br( $mysqldate) ."</td>";
-                    echo "<td>". nl2br( $rowOptionDetalhamento['NumeroDocumento']) ."</td>";
-                    echo "<td><b>". nl2br( $rowOptionDetalhamento['Descricao']) ."</b></td>";
-                    echo "<td style='color:blue;' ><b> R$ ". nl2br( number_format( $rowOptionDetalhamento['Valor'], 2)) ."</b></td>";
-                    echo "<td>  
-                    <a href='identificar-deposito-extrato.php?id={$rowOptionDetalhamento['id']}' class='btn btn-info' role='button'><i data-feather='layout' width='20'></i></span> Identificar</a>
-                    <a href='listar-extrato.php?id={$rowOptionDetalhamento['id']}&action=del' class='btn btn-danger' role='button'><i data-feather='x' width='20'></i></span> </a>
-                     </td>";
-                    echo "</tr>";  
-
-                  //echo $rowOptionDetalhamento['Valor'] . '<br>';
-
-
-                }
-
-                echo "
-                           <tr>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                    </tr>
-                                                               
-                                </thead>
-                            </table> ";
-
-
-      
-
-
-      echo "
-
-            </div>
-          </div>
-        </div>
-      </div>
-      ";
-
-
-
-
+    foreach ($resultSelectDetalhamento as $rowOptionDetalhamento) {
+        echo "<tr>";
+        echo "<td>" . $rowOptionMeses['Ano'] . "</td>";
+        $phpdate = strtotime($rowOptionDetalhamento['DataBaixa']);
+        $mysqldate = date('d/m/Y', $phpdate);
+        echo "<td>" . nl2br($mysqldate) . "</td>";
+        echo "<td>" . nl2br($rowOptionDetalhamento['NumeroDocumento']) . "</td>";
+        echo "<td><b>" . nl2br($rowOptionDetalhamento['Descricao']) . "</b></td>";
+        echo "<td style='color:blue;'><b>R$ " . nl2br(number_format($rowOptionDetalhamento['Valor'], 2)) . "</b></td>";
+        echo "<td>
+                <a href='identificar-deposito-extrato.php?id={$rowOptionDetalhamento['id']}' class='btn btn-info' role='button'><i data-feather='layout' width='20'></i> Identificar</a>
+                <a href='listar-extrato.php?id={$rowOptionDetalhamento['id']}&action=del' class='btn btn-danger' role='button'><i data-feather='x' width='20'></i></a>
+              </td>";
+        echo "</tr>";
+    }
 }
 
-
-
-
-
+echo "</tbody>
+      </table>";
 
 
 
@@ -285,4 +240,41 @@ echo "
                 
             
 <?php include("footer.php")    ; ?>
+
+
+
             
+<script>
+
+
+$(document).ready(function() {
+    $('#dataTable').DataTable({
+        dom: 'lBfrtip',
+        responsive: true,
+        language: {
+            url: './assets/js/datatables/api.json'
+        },
+        buttons: [
+            {
+                extend: 'searchBuilder',
+                text: 'Search Builder',
+                config: {
+                    columns: ':not(.no-search)'
+                }
+            },
+            'copy', 'csv', 'excel'
+        ],
+        createdRow: function(row, data, dataIndex) {
+            // Aplica estilos especiais à primeira célula da linha
+            $('td:eq(0)', row).css({
+                'font-weight': 'bold', // Deixa a letra em negrito
+                'font-size': 'larger' // Aumenta o tamanho da letra
+            });
+        }
+    });
+});
+
+
+
+
+</script>

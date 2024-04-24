@@ -26,33 +26,12 @@ if (session_status() === PHP_SESSION_NONE) {
     <!-- Morris Charts CSS -->
     <link href="css/plugins/morris.css" rel="stylesheet">
     <!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> -->
-    <script>
-        function verMenu(elemento){
-            let urlDefinida = $(elemento).attr("data-href");
 
-                Swal.fire({
-                title: 'Informação!',
-                text: 'Aguarde, processando dados.',
-                icon: 'info',
-                allowEscapeKey: false,
-                allowOutsideClick: false,
-                showConfirmButton: false,
-            });
-
-            $.ajax({
-                url: urlDefinida, // Aqui você pode usar a mesma URL definida para a ação do formulário
-                method: "POST", // Método de envio do formulário
-                success: function (Dados) {
-                swal.close();
-                $('.ConteudoGeral').html(Dados);
-                return false;
-                },
-                error: function (xhr, status, error) {
-                $('.ConteudoGeral').html('Erro ao carregar página');
-                }
-            });
-            }
-    </script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.5/css/dataTables.dataTables.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/searchbuilder/1.7.1/css/searchBuilder.dataTables.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/datetime/1.5.2/css/dataTables.dateTime.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.6/css/dataTables.bootstrap5.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.bootstrap5.min.css">
 </head>
 <body>
     <div id="app">
@@ -101,11 +80,11 @@ if (session_status() === PHP_SESSION_NONE) {
                                 <ul class="submenu ">
                                     
                                     <li>
-                                        <a style="cursor: pointer;" data-href="listar-extrato.php" onclick="verMenu(this)"><i data-feather="layout" width="10"></i>  Identificar ofertas</a>
+                                        <a href="listar-extrato.php"><i data-feather="layout" width="10"></i>  Identificar ofertas</a>
                                     </li>
                                     
                                     <li>
-                                        <a style="cursor: pointer;" data-href="contas-a-receber.php" onclick="verMenu(this)" ><i data-feather="layout" width="10"></i>  Boletos Emitidos</a>
+                                        <a href="contas-a-receber.php"><i data-feather="layout" width="10"></i>  Boletos Emitidos</a>
                                     </li>
                                     
                                     <li>
