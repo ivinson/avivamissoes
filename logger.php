@@ -16,8 +16,8 @@
 		$ip = $_SERVER['REMOTE_ADDR'];
 		 
 		//Nome do arquivo:
-		// $arquivo = "/home/storage/6/da/e7/avivamissoes2/public_html/app/logs/Logger_$data.txt";debora voltar par essa variavel pois é do servidor
-		$arquivo = sys_get_temp_dir() . "/Logger_$data.txt";
+		$arquivo = "/home/storage/6/da/e7/avivamissoes2/public_html/app/logs/Logger_$data.txt";
+		// $arquivo = sys_get_temp_dir() . "/Logger_$data.txt"; debora: trecho que inseri para não dar erro
 		#echo $arquivo."<br>";
 		 
 		//Texto a ser impresso no log:
