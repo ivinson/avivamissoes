@@ -264,6 +264,16 @@ $(document).ready(function() {
             },
             'copy', 'csv', 'excel'
         ],
+        searchBuilder: {
+            container: false // Desativa o contêiner separado para o SearchBuilder
+        },
+        layout: {
+            top1: {
+            searchBuilder: {
+                liveSearch: false
+             }
+            }
+        },
         createdRow: function(row, data, dataIndex) {
             // Aplica estilos especiais à primeira célula da linha
             $('td:eq(0)', row).css({
