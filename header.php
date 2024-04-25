@@ -27,11 +27,12 @@ if (session_status() === PHP_SESSION_NONE) {
     <link href="css/plugins/morris.css" rel="stylesheet">
     <!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> -->
 
-    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.5/css/dataTables.dataTables.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/searchbuilder/1.7.1/css/searchBuilder.dataTables.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/datetime/1.5.2/css/dataTables.dateTime.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.6/css/dataTables.bootstrap5.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.bootstrap5.min.css">
+
+    <link rel="stylesheet" href="assets/css/datatables/dataTables.dataTables.css">
+    <link rel="stylesheet" href="assets/css/datatables/searchBuilder.dataTables.css">
+    <link rel="stylesheet" href="assets/css/datatables/dataTables.dateTime.min.css">
+    <link rel="stylesheet" href="assets/css/datatables/responsive.bootstrap5.min.css">
+    <link rel="stylesheet" href="assets/css/datatables/buttons.dataTables.css">
 </head>
 <body>
     <div id="app">

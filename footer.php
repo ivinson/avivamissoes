@@ -3,7 +3,7 @@
         </div>
     </div>
     <script src="assets/js/jquery.js"></script>
-    <script defer src="js/jquery.dataTables2_0_3.js"></script>
+    <!-- <script defer src="js/jquery.dataTables2_0_3.js"></script> -->
     <script defer src="assets/js/datepicker.js"></script>
     <script src="assets/js/feather-icons/feather.min.js"></script>
     <script src="assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js"></script>
@@ -23,6 +23,18 @@
 
     <script src="./js/jquery.maskedinput.js" type="text/javascript"></script>
     <script src="js/sweetalert.js"></script>
+
+
+    <!-- Search Builder JS -->
+    <script src="assets/js/datatables/dataTables.min.js"></script>
+    <script src="assets/js/datatables/dataTables.searchBuilder.js"></script>
+    <script src="assets/js/datatables/searchBuilder.dataTables.js"></script>
+    <script src="assets/js/datatables/dataTables.dateTime.min.js"></script>
+    <script src="assets/js/datatables/dataTables.buttons.js"></script>
+    <script src="assets/js/datatables/buttons.dataTables.js"></script>
+
+
+
 <!--
     <script type="text/javascript">
     var config = {
