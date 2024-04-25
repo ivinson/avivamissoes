@@ -117,8 +117,15 @@
 <?php 
 
 // Função de porcentagem: Quanto é X% de N?
-function porcentagem_xn ( $porcentagem, $total ) {
-	return ( $porcentagem / 100 ) * $total;
+function porcentagem_xn($porcentagem, $total) {
+    // Verificar se $total é um número válido
+    if (!is_numeric($total)) {
+        // Se $total não for um número válido, retorne um valor padrão ou trate o erro de acordo com sua lógica
+        return 0;
+    }
+    
+    // Realizar o cálculo da porcentagem
+    return ($porcentagem / 100) * $total;
 }
 
 include("footer.php")    ; ?>
