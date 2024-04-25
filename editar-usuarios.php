@@ -131,8 +131,8 @@ if(($_POST['selectPerfil'] == 6 ) || ($_POST['selectPerfil'] == 7 ) || ($_POST['
     }
 
 
-    // include "logger.php";debora
-    // Logger("{$_SESSION['nome']} [ID::{$_SESSION['idlogado']}] atualizou o cadastro de {$_POST['Nome']} [ID::{$id}] ");    debora                           
+    include "logger.php";
+    Logger("{$_SESSION['nome']} [ID::{$_SESSION['idlogado']}] atualizou o cadastro de {$_POST['Nome']} [ID::{$id}] ");                               
 
  
     
@@ -719,8 +719,8 @@ if (isset($_GET['id']) ) {
         <p></p>
       </form>
       <?php 
-      // include "logger.php";debora
-      // Logger("{$_SESSION['nome']} [ID::{$_SESSION['idlogado']}] acessou o cadastro de {$row['Nome']} [ID::{$id}] ");debora
+      include "logger.php";
+      Logger("{$_SESSION['nome']} [ID::{$_SESSION['idlogado']}] acessou o cadastro de {$row['Nome']} [ID::{$id}] ");
     }
     ?> 
     </div>

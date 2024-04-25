@@ -39,8 +39,8 @@ if (isset($_POST["submitted"])) {
         $_SESSION['idlogado'] = $data->id;
         $_SESSION['logado'] = "S";
 
-        // include "logger.php";debora ver depois
-        // Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] fez o login no sistema.");debora ver depois
+        include "logger.php";
+        Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] fez o login no sistema.");
 
         // echo "login autorizado";
 
@@ -49,8 +49,8 @@ if (isset($_POST["submitted"])) {
     //Caso contrário redireciona para a página de autenticação
     else {
 
-        // include "logger.php";debora ver depois
-        // Logger("{$_POST["inputEmail"]} com a senha {$_POST["inputPassword"]} tentou logar no sistema.");debora ver depois
+        include "logger.php";
+        Logger("{$_POST["inputEmail"]} com a senha {$_POST["inputPassword"]} tentou logar no sistema.");
 
 
         echo "Nao logado";

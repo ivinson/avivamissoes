@@ -14,8 +14,8 @@ if($_SESSION['logado'] <> "S"){
 }
 
 
-//   include "logger.php"; debora
-//         Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] acessou listagem de campos ."); debora
+  include "logger.php"; 
+        Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] acessou listagem de campos ."); 
 
 ?>
 
@@ -85,6 +85,9 @@ $(document).ready(function() {
     new DataTable('#tbUsuarios', {
         ajax: {
             url: "scripts/getUsuarios.php"
+        },
+        language: {
+            url: './assets/js/datatables/api.json'
         },
         order: [[0,"desc"]],
         paging: true, // Ativar paginação
