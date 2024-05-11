@@ -309,19 +309,6 @@
                                   <div class="col-lg-4">
                                     <select id="selectAno" class="form-control" >
                                       <option>Ano</option>
-                                      <option value="2008">2008</option>
-                                      <option value="2009">2009</option>
-                                      <option value="2010">2010</option>
-                                      <option value="2011">2011</option>
-                                      <option value="2012">2012</option>
-                                      <option value="2013">2013</option>
-                                      <option value="2014">2014</option>
-                                      <option value="2015">2015</option>
-                                      <option value="2016">2016</option>
-                                      <option value="2017">2017</option>
-                                      <option value="2018">2018</option>
-                                      <option value="2019">2019</option>
-                                      <option value="2020">2020</option>
                                     </select>
                                   </div>
 
@@ -514,17 +501,28 @@ function showFiltroDataFechamento(){
 //------------
 // 
 //------------
-function fecharMes(){
-    //Esconde demais divs
-    //$( "#liFiltroData" ).show( "slow", function() {});
+  // Selecionando o elemento select
+  var selectAno = document.getElementById("selectAno");
 
-    var fMes  = $("#selectMes").val();
-    var fAno  = $("#selectAno").val();
+  // Definindo o ano inicial e final
+  var anoInicial = 2008;
+  var anoFinal = 2036;
+
+  // Loop para adicionar as opções de ano
+  for (var ano = anoInicial; ano <= anoFinal; ano++) {
+    var option = document.createElement("option");
+    option.value = ano;
+    option.text = ano;
+    selectAno.appendChild(option);
+  }
+
+  // Função para fechar o mês com o ano selecionado
+  function fecharMes() {
+    var fMes = $("#selectMes").val();
+    var fAno = $("#selectAno").val();
     var ftype = "fechamento";
-    window.location.href = "inadimplentes.php?mes="+fMes+"&ano="+fAno+"&type="+ftype;
-
-
-}
+    window.location.href = "inadimplentes.php?mes=" + fMes + "&ano=" + fAno + "&type=" + ftype;
+  }
 
 
 function imprimirPDF(){
