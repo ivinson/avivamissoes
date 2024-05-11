@@ -65,7 +65,7 @@
             top: -10px;
             right: 0px;
             height: 60px;
-            width: 60px;
+            min-width: 60px;
             background: white;
             border: 1px solid #e0afa0;
             /* border-radius: 10px; */
