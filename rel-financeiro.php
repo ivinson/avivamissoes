@@ -60,23 +60,21 @@
                                   <div class="col-lg-2" style="margin-top: 7px;">
                                     <select id="selectAnoEmissao" class="form-control" >
                                       <option>Ano</option>
-                                      <option value="2008">2008</option>
-                                      <option value="2009">2009</option>
-                                      <option value="2010">2010</option>
-                                      <option value="2011">2011</option>
-                                      <option value="2012">2012</option>
-                                      <option value="2013">2013</option>
-                                      <option value="2014">2014</option>
-                                      <option value="2015">2015</option>
-                                      <option value="2016">2016</option>
-                                      <option value="2017">2017</option>
-                                      <option value="2018">2018</option>
-                                      <option value="2019">2019</option>
-                                      <option value="2020">2020</option>
-                                      <option value="2021">2021</option>
-                                      <option value="2022">2022</option>
-                                      <option value="2023">2023</option>
-                                      <option value="2024">2024</option>
+                                      <script>
+                                        // Selecionando o elemento select
+                                        var selectElement = document.getElementById("selectAnoEmissao");
+
+                                        // Loop de 2008 a 2036
+                                        for (var year = 2008; year <= 2036; year++) {
+                                          // Criando uma nova opção
+                                          var option = document.createElement("option");
+                                          // Definindo o valor e o texto da opção
+                                          option.value = year;
+                                          option.text = year;
+                                          // Adicionando a opção ao select
+                                          selectElement.appendChild(option);
+                                        }
+                                      </script>
                                     </select>
                                   </div>
 
