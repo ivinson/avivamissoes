@@ -255,87 +255,82 @@
                             INADIMPLENTES
                             <small>Listagem de remessas em aberto</small>
                         </h1>
-                        <ol class="breadcrumb">
-
-                            <li class="active">
-
+                        <div style="display: flex; flex-direction: row; justify-content: flex-start; gap:25px; align-items:center">
+                            <div>
                                 Região
                                 <select class="form-control" id="slregiao">
-                                  <option value="">Todas as Regiões</option>
-                                  <option value="3">Nordeste</option>
-                                  <option value="4">Norte</option>
-                                  <option value="11">Centro-oeste</option>
-                                  <option value="5">Sudeste 1</option>
-                                  <option value="6">Sudeste 2</option>
-                                  <option value="7">Sudeste 3</option>                                  
-                                  <option value="8">Sul 1</option>
-                                  <option value="9">Sul 2</option>
-                                  <option value="10">Sul 3</option>                                                              
-                                  <option value="1">Missões Nacionais</option>
-                                  
+                                    <option value="">Todas as Regiões</option>
+                                    <option value="3">Nordeste</option>
+                                    <option value="4">Norte</option>
+                                    <option value="11">Centro-oeste</option>
+                                    <option value="5">Sudeste 1</option>
+                                    <option value="6">Sudeste 2</option>
+                                    <option value="7">Sudeste 3</option>
+                                    <option value="8">Sul 1</option>
+                                    <option value="9">Sul 2</option>
+                                    <option value="10">Sul 3</option>
+                                    <option value="1">Missões Nacionais</option>
                                 </select>
+                            </div>
 
-                            </li>
+                            <div>
+                                <label><input id="chkMeses" type="checkbox" value=""> 3 meses ou mais</label>
+                            </div>
 
-                            <li>
-                              <label><input  id="chkMeses" type="checkbox" value=""> 3 meses ou mais</label>
-                            </li>
+                            <div>
+                                <input class="btn btn btn-info" onclick="javascript:imprimirPDF()" value="Imprimir Posição" />
+                            </div>
+                        </div>
 
-                            <li> 
-                              <input class="btn btn btn-info" onclick='javascript:imprimirPDF()' value='Imprimir Posição' />
-                            </li>
+                        <div style="margin-top: 25px;">
+                            <input id="btnFechar" class="btn btn-info" onclick='javascript:showFiltroDataFechamento()' value='Fechar Mes' />
 
-                            <li>
-                                <input id="btnFechar" class="btn btn-info custom" onclick='javascript:showFiltroDataFechamento()' value='Fechar Mes' />
+                              <div id='liFiltroData' style='display:none;margin-top:8px;'>
 
-                                  <li id='liFiltroData' style='display:none;margin-top:8px;'>
-
-                                        <div class="col-lg-6">
-                                        <select id="selectMes" class="form-control">
-                                          <option>Mês</option>
-                                          <option value="01">Janeiro</option>
-                                          <option value="02">Fevereiro</option>
-                                          <option value="03">Março</option>
-                                          <option value="04">Abril</option>
-                                          <option value="05">Maio</option>
-                                          <option value="06">Junho</option>
-                                          <option value="07">Julho</option>
-                                          <option value="08">Agosto</option>
-                                          <option value="09">Setembro</option>
-                                          <option value="10">Outubro</option>
-                                          <option value="11">Novembro</option>
-                                          <option value="12">Dezembro</option>
-                                        </select>
-                                      </div>
+                                    <div class="col-lg-6">
+                                    <select id="selectMes" class="form-control">
+                                      <option>Mês</option>
+                                      <option value="01">Janeiro</option>
+                                      <option value="02">Fevereiro</option>
+                                      <option value="03">Março</option>
+                                      <option value="04">Abril</option>
+                                      <option value="05">Maio</option>
+                                      <option value="06">Junho</option>
+                                      <option value="07">Julho</option>
+                                      <option value="08">Agosto</option>
+                                      <option value="09">Setembro</option>
+                                      <option value="10">Outubro</option>
+                                      <option value="11">Novembro</option>
+                                      <option value="12">Dezembro</option>
+                                    </select>
+                                  </div>
 
 
-                                      <div class="col-lg-4">
-                                        <select id="selectAno" class="form-control" >
-                                          <option>Ano</option>
-                                          <option value="2008">2008</option>
-                                          <option value="2009">2009</option>
-                                          <option value="2010">2010</option>
-                                          <option value="2011">2011</option>
-                                          <option value="2012">2012</option>
-                                          <option value="2013">2013</option>
-                                          <option value="2014">2014</option>
-                                          <option value="2015">2015</option>
-                                          <option value="2016">2016</option>
-                                          <option value="2017">2017</option>
-                                          <option value="2018">2018</option>
-                                          <option value="2019">2019</option>
-                                          <option value="2020">2020</option>
-                                        </select>
-                                      </div>
+                                  <div class="col-lg-4">
+                                    <select id="selectAno" class="form-control" >
+                                      <option>Ano</option>
+                                      <option value="2008">2008</option>
+                                      <option value="2009">2009</option>
+                                      <option value="2010">2010</option>
+                                      <option value="2011">2011</option>
+                                      <option value="2012">2012</option>
+                                      <option value="2013">2013</option>
+                                      <option value="2014">2014</option>
+                                      <option value="2015">2015</option>
+                                      <option value="2016">2016</option>
+                                      <option value="2017">2017</option>
+                                      <option value="2018">2018</option>
+                                      <option value="2019">2019</option>
+                                      <option value="2020">2020</option>
+                                    </select>
+                                  </div>
 
-                                      <div class="col-lg-2" >
-                                        <a href="javascript:fecharMes();" class="btn btn-sm btn-primary">OK</a>                       
-                                      </div>
-                                  </li>                                  
+                                  <div class="col-lg-2" >
+                                    <a href="javascript:fecharMes();" class="btn btn-sm btn-primary">OK</a>                       
+                                  </div>
+                              </div>                                  
 
-                            </li>
-
-                        </ol>
+                        </div>
                     </div>
                 </div>
                 
@@ -502,6 +497,9 @@ function showFiltroDataFechamento(){
     //$( "#liFiltroDataEmissao" ).show( "slow", function() {});
         //Esconde demais divs
     $( "#liFiltroData" ).show( "slow", function() {});
+    $( "#liFiltroData" ).css('display', 'flex'); // Garantir que o estilo display:flex seja aplicado
+    $( "#liFiltroData" ).css('flex-direction', 'row'); // Definindo a direção do flex
+    $( "#liFiltroData" ).css('justify-content', 'space-evenly'); // Definindo o alinhamento do flex
     $( "#btnFechar" ).hide( "slow", function() {});
 
 
