@@ -91,17 +91,76 @@ $navPagina = "Lançamentos Bancários";
       </div>
 
 
-      <div class="navbar-collapse collapse">
-        <ul class="nav navbar-nav">
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Filtros <b class="caret"></b></a>
-            <ul class="dropdown-menu">
-              <li><a href="javascript:showFiltroData();">Por Referência(Competência)</a>
-              </li>
-              <li><a href="javascript:showFiltroDataEmissao();">Por Data de Baixa </a>
-              </li>
+                                  <div class="col-lg-4">
+                                    <select id="selectAno" class="form-control" >
+                                      <option>Ano</option>
 
 
+                                      <script>
+                                        // Selecionando o elemento select
+                                        var selectElement = document.getElementById("selectAno");
+
+                                        // Loop de 2008 a 2036
+                                        for (var year = 2008; year <= 2036; year++) {
+                                          // Criando uma nova opção
+                                          var option = document.createElement("option");
+                                          // Definindo o valor e o texto da opção
+                                          option.value = year;
+                                          option.text = year;
+                                          // Adicionando a opção ao select
+                                          selectElement.appendChild(option);
+                                        }
+                                      </script>
+                                    </select>
+                                  </div>
+
+                                  <div class="col-lg-2" style:"margin-top:4px !Important;">
+                                    <a href="javascript:getFiltroData();" class="btn btn-sm btn-primary">OK</a>                       
+                                  </div>
+                                  </li>
+
+                                  <!-- Por data de emissão -->
+                                  <li id='liFiltroDataEmissao' style='display:none;margin-top:8px;'>
+
+                                    <div class="col-lg-6">
+                                    <select id="selectMesEmissao" class="form-control">
+                                      <option>Mês</option>
+                                      <option value="01">Janeiro</option>
+                                      <option value="02">Fevereiro</option>
+                                      <option value="03">Março</option>
+                                      <option value="04">Abril</option>
+                                      <option value="05">Maio</option>
+                                      <option value="06">Junho</option>
+                                      <option value="07">Julho</option>
+                                      <option value="08">Agosto</option>
+                                      <option value="09">Setembro</option>
+                                      <option value="10">Outubro</option>
+                                      <option value="11">Novembro</option>
+                                      <option value="12">Dezembro</option>
+                                    </select>
+                                  </div>
+
+
+                                  <div class="col-lg-4">
+                                    <select id="selectAnoEmissao" class="form-control" >
+                                      <option>Ano</option>
+                                      <script>
+                                        // Selecionando o elemento select
+                                        var selectElement = document.getElementById("selectAnoEmissao");
+
+                                        // Loop de 2008 a 2036
+                                        for (var year = 2008; year <= 2036; year++) {
+                                          // Criando uma nova opção
+                                          var option = document.createElement("option");
+                                          // Definindo o valor e o texto da opção
+                                          option.value = year;
+                                          option.text = year;
+                                          // Adicionando a opção ao select
+                                          selectElement.appendChild(option);
+                                        }
+                                      </script>
+                                    </select>
+                                  </div>
 
             </ul>
           </li>

@@ -163,7 +163,7 @@ $idUsuario = $_GET['idusuario'];
 
     } 
     
-    $row = $db->query("SELECT *, year(DataReferencia) as Ano , month(DataReferencia) as Mes from `lancamentosbancarios` WHERE `id` = '$id' ")->results(true); 
+    $row = $db->query("SELECT *, year(DataReferencia) as Ano , month(DataReferencia) as Mes from `lancamentosbancarios` WHERE `id` = '$id' ")->results(true)[0]; 
 
 
 

@@ -346,7 +346,7 @@ $navPagina = "Movimento bancário";
                             var myDate = new Date();
                             var year = myDate.getFullYear();
                             document.write('<option selected value="0">Escolha o Ano </option>');
-                            for (var i = 2005; i < year + 5; i++) {
+                            for (var i = 2005; i < year + 13; i++) {
                                 document.write('<option value="' + i + '">' + i + '</option>');
                             }
                         </script>

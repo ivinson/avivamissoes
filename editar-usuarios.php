@@ -1,14 +1,53 @@
-<?php ob_start();
-session_start(); 
-
+<?php ob_start(); ?> 
+<?php 
+include("header.php")    ; 
 include('config.php'); 
 include('scripts/functions.php'); 
+
+
+
+
+
+?>
+<?php
+$tituloPrincipal = "Dados do Campo";
+$tituloSecondario = "Dados";
+$navPagina = "Editar de Usuários";
+?>
+	<!-- TITULO e cabeçalho das paginas  -->
+        <div class="page-title">
+            <div class="row">
+                <div class="col-12 col-md-6 order-md-1 order-last">
+                    <h3><?=$tituloPrincipal?><br><br>
+                    <small><?=$$tituloSecondario?></small></h3>
+                </div>
+                <div class="col-12 col-md-6 order-md-2 order-first">
+                    <nav aria-label="breadcrumb" class='breadcrumb-header'>
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+                            <li class="breadcrumb-item active" aria-current="page"><?=$navPagina?></li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <!-- /.row -->
+
+
+<?php 
+
+
+
+if (isset($_GET['id']) ) { 
+  $id = (int) $_GET['id']; 
 
   //debug
   //echo "<br> <p> <h3> Calores do POST </h3>";
   if (isset($_POST['submitted'])) { 
     foreach($_POST AS $key => $value) { 
 
+      //$_POST[$key] = mysql_real_escape_string(htmlentities($value));
+      //$_POST[$key] = mysql_real_escape_string($value);
       $_POST[$key] = $value;
 
     } 
@@ -23,8 +62,13 @@ include('scripts/functions.php');
      // O sistema ja é ajustavel e extensivel Ivinson jan / 2015
 
 
+?>
 
-if(($_POST['selectPerfil'] == 6 ) || ($_POST['selectPerfil'] == 7 ) || ($_POST['selectPerfil'] == 4 )){
+
+<?php
+  $_POST['selectPerfil'] =6;
+
+    if(($_POST['selectPerfil'] == 6 ) || ($_POST['selectPerfil'] == 7 ) || ($_POST['selectPerfil'] == 4 )){
                                     //Primeiro grava na tabela de CAMPOS ECLESIASTICOS
       $sqlCampos = "UPDATE `campos` SET  
       `NomePastorTitular` =  '{$_POST['NomePastorTitular']}' ,  
@@ -58,6 +102,8 @@ if(($_POST['selectPerfil'] == 6 ) || ($_POST['selectPerfil'] == 7 ) || ($_POST['
         die( ':: Erro : '. $db->error); 
         echo "Fase de teste : Anote o seguinte erro!";
       };
+
+
     }
 
 
@@ -119,65 +165,31 @@ if(($_POST['selectPerfil'] == 6 ) || ($_POST['selectPerfil'] == 7 ) || ($_POST['
     
     WHERE `id` = '$id' "; 
 
-    if (!$db->query($sql)) {
-        die(':: Erro : '. $db->error);
-    }else{
-      // Redirect("listar-usuarios.php",false); 
-      header('Content-Type: application/json');
-      echo json_encode(array('status' => 'sucesso', 'msg' => 'Editado com sucesso.', 'url' => 'index.php'));
-  
-      // Termina o script PHP aqui para evitar a execução de código HTML abaixo
-      exit;
-    }
+    if (!$db->query($sql) ){
 
+      die( ':: Erro : '. $db->errorInfo()[2]); 
+      echo "Fase de teste : Anote o seguinte erro!";
+      echo $sql;
+
+    };
+
+  
 
     include "logger.php";
     Logger("{$_SESSION['nome']} [ID::{$_SESSION['idlogado']}] atualizou o cadastro de {$_POST['Nome']} [ID::{$id}] ");                               
 
- 
+    //sleep(3);
+
+   //echo "<input type='hidden' value='1' name='fSuccess' /> ";
+   //header("Location: http://www.pagina.com.br/pagina.php");
+
+    Redirect("listar-usuarios.php",false); 
+
+ }  
+
+
     
-}  
-
-?> 
-
-<?php 
-include("header.php"); 
-?>
-
-<?php
-$tituloPrincipal = "Dados do Campo";
-$tituloSecondario = "Dados";
-$navPagina = "Editar de Usuários";
-?>
-	<!-- TITULO e cabeçalho das paginas  -->
-        <div class="page-title">
-            <div class="row">
-                <div class="col-12 col-md-6 order-md-1 order-last">
-                    <h3><?=$tituloPrincipal?><br><br>
-                    <small><?=$$tituloSecondario?></small></h3>
-                </div>
-                <div class="col-12 col-md-6 order-md-2 order-first">
-                    <nav aria-label="breadcrumb" class='breadcrumb-header'>
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
-                            <li class="breadcrumb-item active" aria-current="page"><?=$navPagina?></li>
-                        </ol>
-                    </nav>
-                </div>
-            </div>
-        </div>
-        <!-- /.row -->
-
-
-<?php 
-
-
-
-if (isset($_GET['id']) ) { 
-  $id = (int) $_GET['id']; 
-
-
-  $row = $db->query("SELECT u.*,
+    $row = $db->query("SELECT u.*,
      c.NomePastorTitular, 
      c.TotalCongregacoes, 
      c.Membros, c.id as idCampo 
@@ -189,13 +201,12 @@ if (isset($_GET['id']) ) {
      regioes r on (c.idRegiao = r.id)
 
 
-     WHERE u.id = '$id' ")->results(true)[0] ; 
+     WHERE u.id = '$id' ")->results(true)[0]  ; 
 
- 
 
      ?>                 
 
-                                 <form role="form" id="form-inadimplentes" action='' method='POST'> 
+                                 <form role="form" action='' method='POST'> 
 
 
                                   <div class="row">
@@ -213,21 +224,26 @@ if (isset($_GET['id']) ) {
                                       <div class="form-group">
                                         <label>Regiao</label>
                                         <?php 
+                                        echo "<select  data-placeholder=\"Escolha um usuário... \" id=\"selectRegiao\"    \" name=\"selectRegiao\" class=\"form-control\" class=\"chosen-select\" 
+                                        />";
 
-                                        //Lista Apenas Campos Eclesiáticos                                
+
+            //Lista Apenas Campos Eclesiáticos                                
                                         $resultSelect = $db->query("
-                                            SELECT '' as id, 'Escolha uma Região' as Nome
-                                            UNION
-                                            SELECT id, Nome FROM regioes
-                                        ") or trigger_error($db->errorInfo()[2]);
 
-                                        echo "<select id=\"selectRegiao\" name=\"selectRegiao\" class=\"form-control chosen-select\">";
-                                        foreach($resultSelect->results(true) as $rowOption) {
-                                            foreach($rowOption as $key => $value) {
-                                                $rowOption[$key] = stripslashes($value);
-                                            }
-                                            echo "<option" . (stripslashes($row['IDREGIAO']) == $rowOption['id'] ? ' selected' : '') . " value='" . htmlspecialchars($rowOption['id']) . "'>" . htmlspecialchars($rowOption['Nome']) . "</option>";
-                                        }
+                                          select '' as id,' Escolha uma Regiao ' as Nome
+                                          union
+                                          Select id, Nome  from regioes
+
+
+                                          ")->results(true) or 
+                                        trigger_error($db->errorInfo()[2]); 
+
+                                        foreach($resultSelect as $rowOption){ 
+                                          foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
+                                          echo "<option " . (stripslashes($row['IDREGIAO'])==$rowOption['id'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
+                                      //echo "<option  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
+                                        } 
                                         echo "</select>";
                                         ?>                                             
                                       </div>
@@ -242,8 +258,8 @@ if (isset($_GET['id']) ) {
 
                                           $resultSelect = $db->query("select IGR.id as ID, concat (C.Nome,' - ', IGR.TipoCongregacao) as Nome  from congregacoes IGR
                                             JOIN campos C ON ( C.id = IGR.idcampo)
-                                            order by C.Nome") or trigger_error($db->errorInfo()[2]);
-                                          foreach($resultSelect->results(true) as $rowOption ){ 
+                                            order by C.Nome")->results(true) or trigger_error($db->errorInfo()[2]); 
+                                          foreach($resultSelect as $rowOption){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                             echo "<option " . (stripslashes($row['idCongregacao'])==$rowOption['ID'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['ID']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                                           } 
@@ -260,8 +276,8 @@ if (isset($_GET['id']) ) {
                                         <select class="form-control" id="selectPerfil"  name="selectPerfil" class="chosen-select">
                                           <?php 
 
-                                          $resultSelect = $db->query(" select * from tipousuario ") or trigger_error($db->errorInfo()[2]);                                   
-                                          foreach($resultSelect->results(true) as $rowOption ){ 
+                                          $resultSelect = $db->query(" select * from tipousuario ")->results(true) or trigger_error($db->errorInfo()[2]);                                   
+                                          foreach($resultSelect as $rowOption ){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                         //echo "<option " . (stripslashes($row['idTipoUsuario'])==$rowOption['ID'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['ID']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                                             echo "<option " . (stripslashes($row['idTipoUsuario'])==$rowOption['id'] ? ' selected ' : '')  . "  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
@@ -324,8 +340,8 @@ if (isset($_GET['id']) ) {
                                           <?php 
 
 
-                                          $resultSelect2 = $db->query(" select * from projetos ") or trigger_error($db->errorInfo()[2]);                                   
-                                          foreach($resultSelect2->results(true) as $rowOption){ 
+                                          $resultSelect2 = $db->query(" select * from projetos ")->results(true) or trigger_error($db->errorInfo()[2]);                                   
+                                          foreach($resultSelect2 as $rowOption){ 
                                             foreach($rowOption AS $key => $value) { $rowOption[$key] = stripslashes($value); }                               
                                             echo "<option " . (stripslashes($row['idProjetos'])==$rowOption['id'] ? ' selected ' : '') ."  value='". nl2br( $rowOption['id']) ."'>". nl2br( $rowOption['Nome']) ."</option>";                                 
                                           } 
@@ -711,7 +727,7 @@ if (isset($_GET['id']) ) {
 
   <div class="row">
       <div class="col-lg-12">
-        <input class="btn btn-lg btn-success" type='button' onclick="gravarAlteracoes()" value='Gravar alterações' />                        
+        <input class="btn btn-lg btn-success" type='submit' value='Gravar alterações' />                        
         <input class="btn btn-lg btn-info" onclick='history.back(-1)' value='Voltar' />                            
         <input type='hidden' value='1' name='submitted' />                             
         <p><br><br><br></p>
@@ -760,9 +776,10 @@ $( "#DtVencimento" ).datepicker({ dateFormat: 'dd/mm/yy' });
 //Atualiza valores da periodicidade
 $(function(){
   var hv = $('#valuePeriocidade').val();
-  $('#selectPeriodicidade option[value="' + hv + '"]').prop('selected', true);
+  $('#selectPeriodicidade option[value='+hv+']').attr('selected','selected');
   $('#selectPeriodicidade').trigger('chosen:updated');
 });
+
 
 
 
@@ -794,51 +811,5 @@ $('#selectPerfil').change(function () {
 });
 
 
-
-function gravarAlteracoes (){
-
-  let formData = $('#form-inadimplentes').serialize();
-
-
-  Swal.fire({
-    title: 'Informação!',
-    text: 'Aguarde, salvando dados.',
-    icon: 'info',
-    allowEscapeKey: false,
-    allowOutsideClick: false,
-    showConfirmButton: false,
-  });
-
-  $.ajax({
-    url: "editar-usuarios.php", // Aqui você pode usar a mesma URL definida para a ação do formulário
-    method: "POST", // Método de envio do formulário
-    data: formData, // Dados do formulário serializados
-    success: function (Dados) {
-      if(Dados.status === 'sucesso'){
-        swal.fire({
-          title: "Sucesso!",
-          text: "Editado com sucesso!",
-          icon: "success",
-          timer: '2000'
-        }).then((res)=>{
-          window.location.href = Dados.url; // Redireciona para a URL especificada
-        });
-      }else{
-        swal.fire({
-          title: "Oops!",
-          text: "Houve um problema!",
-          icon: "error",
-          timer: '3000'
-        });
-        return false;
-      }
-    },
-    error: function (jqXHR, textStatus, errorThrown) {
-      swal.close();
-      $('.ConteudoGeral').html('Erro ao carregar página');
-      return false;
-    }
-  });
-}
 
 </script>

@@ -4,7 +4,7 @@ session_start();
 include("config.php");
 include('scripts/functions.php');
 
-$rowEmitidos = $db->query("select  count(lb.id) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' ")->results()[0];
+$rowEmitidosBoletos = $db->query("SELECT count(*) as total  FROM contasreceber WHERE DataBaixa is not null; ")->results()[0];
 $rowEmitidos = $db->query("select  count(distinct lb.idUsuario) as total from lancamentosbancarios lb where lb.TipoOrigem = 'CR' ")->results()[0];
 $rowCampos = $db->query("SELECT count(*) as total  FROM campos ;")->results()[0];
 $rowOptionInad = $db->query("SELECT  count(*) as meses FROM lancamentosbancarios LB join usuarios u on (u.id = LB.idUsuario) join congregacoes gr on (gr.id = u.idCongregacao) join campos c on (c.id = gr.idCampo) where LB.Valor = 0 and LB.TipoLancamento in ('Regular','Inadimplente','') and month(LB.DataReferencia) >= 06 and year(LB.DataReferencia)  >= 2012 group by u.id,u.Nome order by count(u.id) desc ;")->results(true);
@@ -61,7 +61,7 @@ include("header.php");
                         </div>
                     </div>
                     <div class="date-box">
-                        <span class="month"><?= $rowEmitidos->total ? $rowEmitidos->total : "0"; ?></span>
+                        <span class="month"><?= $rowEmitidosBoletos ->total ? $rowEmitidosBoletos ->total : "0"; ?></span>
                     </div>
                 </div>
             </div>
