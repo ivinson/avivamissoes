@@ -30,7 +30,7 @@ if (isset($_GET['type'])  ) {
   if ($_GET['type'] == 'delete'){
       $id = (int) $_GET['id'];   
       $idLancamento = (int) $_GET['idLancamento']; 
-      $db_>query("DELETE FROM `lancamentosbancarios` WHERE `id` = '$idLancamento' ") ;   Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] deletou a remessa {$idLancamento} do campo id={$id}.");  
+      $db->query("DELETE FROM `lancamentosbancarios` WHERE `id` = '$idLancamento' ") ;   Logger("{$_SESSION['nome']} [{$_SESSION['idlogado']}] deletou a remessa {$idLancamento} do campo id={$id}.");  
       //Redirect("lancamentos-campo.php?id=".$id);
       die("<script>location.href = 'lancamentos-campo.php?id={$id}'</script>");
   }
