@@ -6,7 +6,26 @@
       
 ?>
 
-
+<style>
+    .toggle-button {
+        position: relative;
+        cursor: pointer;
+    }
+    .arrow {
+        width: 0;
+        height: 0;
+        border-left: 6px solid transparent;
+        border-right: 6px solid transparent;
+        margin: 10px auto;
+        transition: transform 0.3s ease;
+    }
+    .arrow-down {
+        border-top: 6px solid #333;
+    }
+    .arrow-up {
+        border-bottom: 6px solid #333;
+    }
+</style>
 
 <script src="http://mrrio.github.io/jsPDF/dist/jspdf.debug.js"></script>
 
@@ -14,94 +33,73 @@
 <iframe id="txtArea1" style="display:none"></iframe>                
                 
 
-      <div class="row">
-                  <div class="navbar navbar-default">
-                      <div class="container">
-                 
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                                <span class="sr-only"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                            </button>
-                            <a class="navbar-brand" href="#"></a>
-                        </div>
+<div class="row" style="margin-bottom:120px">
+  <div class="navbar navbar-default">
+      <div class="container">
+  
+          <div class="navbar-header">
+              <button type="button" class="toggle-button btn btn-sm btn-light" data-toggle="collapse" data-target=".navbar-collapse">
+                <div class="arrow arrow-down"></div>
+              </button>
+              <a class="navbar-brand" href="#"></a>
+          </div>
 
 
-                          <div class="navbar-collapse ">
-                              
+          <div class="navbar-collapse ">
+              
 
-                                  <!-- Por data de emissão -->
-                                
+            <!-- Por data de emissão -->
+            <div style="display:flex; justify-content:flex-start; align-items:center; flex-wrap:wrap">
+              <h4 style="margin-top: 7px;">Entradas em </h4>
+              <div class="col-lg-2" style="margin-top: 7px;">
+                <select id="selectMesEmissao" class="form-control">
+                  <option>Mês</option>
+                  <option value="01">Janeiro</option>
+                  <option value="02">Fevereiro</option>
+                  <option value="03">Março</option>
+                  <option value="04">Abril</option>
+                  <option value="05">Maio</option>
+                  <option value="06">Junho</option>
+                  <option value="07">Julho</option>
+                  <option value="08">Agosto</option>
+                  <option value="09">Setembro</option>
+                  <option value="10">Outubro</option>
+                  <option value="11">Novembro</option>
+                  <option value="12">Dezembro</option>
+                </select>
+              </div>
 
-                                    <div class="col-lg-2">
-                                    <h4>Entradas em </h4>
-                                  </div>
-                                  
-                                  <div class="col-lg-2" style="margin-top: 7px;">
-                                    <select id="selectMesEmissao" class="form-control">
-                                      <option>Mês</option>
-                                      <option value="01">Janeiro</option>
-                                      <option value="02">Fevereiro</option>
-                                      <option value="03">Março</option>
-                                      <option value="04">Abril</option>
-                                      <option value="05">Maio</option>
-                                      <option value="06">Junho</option>
-                                      <option value="07">Julho</option>
-                                      <option value="08">Agosto</option>
-                                      <option value="09">Setembro</option>
-                                      <option value="10">Outubro</option>
-                                      <option value="11">Novembro</option>
-                                      <option value="12">Dezembro</option>
-                                    </select>
-                                  </div>
+              <div class="col-lg-2" style="margin-top: 7px;">
+                <select id="selectAnoEmissao" class="form-control" >
+                  <option>Ano</option>
+                  <script>
+                    // Selecionando o elemento select
+                    var selectElement = document.getElementById("selectAnoEmissao");
 
-                                  <div class="col-lg-2" style="margin-top: 7px;">
-                                    <select id="selectAnoEmissao" class="form-control" >
-                                      <option>Ano</option>
-                                      <script>
-                                        // Selecionando o elemento select
-                                        var selectElement = document.getElementById("selectAnoEmissao");
+                    // Loop de 2008 a 2036
+                    for (var year = 2008; year <= 2036; year++) {
+                      // Criando uma nova opção
+                      var option = document.createElement("option");
+                      // Definindo o valor e o texto da opção
+                      option.value = year;
+                      option.text = year;
+                      // Adicionando a opção ao select
+                      selectElement.appendChild(option);
+                    }
+                  </script>
+                </select>
+              </div>
 
-                                        // Loop de 2008 a 2036
-                                        for (var year = 2008; year <= 2036; year++) {
-                                          // Criando uma nova opção
-                                          var option = document.createElement("option");
-                                          // Definindo o valor e o texto da opção
-                                          option.value = year;
-                                          option.text = year;
-                                          // Adicionando a opção ao select
-                                          selectElement.appendChild(option);
-                                        }
-                                      </script>
-                                    </select>
-                                  </div>
-
-                                   <div class="col-lg-2" style="margin-top: 7px;">
-                                 
-                                    <a href="javascript:getFiltroDataEmissao();" class="btn btn-sm btn-warning">OK</a>                       
-                                  </div>
-                                
-
-
-                                  
-
-
-                                   
-
-
-
-
-
-
-
-
-                          </div>
-                          <!--/.nav-collapse -->
-                      </div>
-                  </div>                  
-                </div>
+              <div class="col-lg-2" style="margin-top: 7px;">
+              
+                <a href="javascript:getFiltroDataEmissao();" class="btn btn-sm btn-light">OK</a>                       
+              </div>
+            </div>
+          </div>
+          <!--/.nav-collapse -->
+      </div>
+  </div>                  
+</div>
 
 
 
@@ -418,4 +416,21 @@ $(document).ready(function() {
 
 }
 
+</script>
+
+<script>
+    $(document).ready(function() {
+        $('.toggle-button').on('click', function() {
+            var expanded = $(this).attr('aria-expanded') === 'true';
+            var arrow = $(this).find('.arrow');
+            
+            if (expanded) {
+                arrow.removeClass('arrow-up').addClass('arrow-down');
+            } else {
+                arrow.removeClass('arrow-down').addClass('arrow-up');
+            }
+
+            $(this).attr('aria-expanded', !expanded);
+        });
+    });
 </script>
