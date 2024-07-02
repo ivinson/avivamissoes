@@ -6,6 +6,7 @@ include "logger.php";
 // Caminho para o autoloader do Composer na pasta libs
 require 'libs/vendor/autoload.php';
 
+
 // Agora você pode usar a biblioteca PHPSpreadsheet
 use PhpOffice\PhpSpreadsheet\IOFactory;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
@@ -52,71 +53,161 @@ if (isset($_POST)) {
 			//echo "<br> tmp - ".$tmp;
 
 			####################################################################
-			// Supondo que $tmp e $pasta e $nome_atual são definidos anteriormente no seu código
 			if (move_uploaded_file($tmp, $pasta . $nome_atual)) {
-				// Caminho para o arquivo carregado
+
+				//-------INÍCIO DA EXECUÇÃO DO CÓDIGO-----------------------------------------------------					
+				$fCampo = $ffile_campo;
+				//$Planilha = "C:\wamp\www\appstorm\historico\\". $fCampo.".xls" ;
+				///$Planilha = 	$_SERVER['path'];
+
+
+				//echo "<br> self ".$_SERVER['PHP_SELF'] . "<br>";
+				//echo "<br> dir  ".dirname(__FILE__) . "<br>";
+
+				//$arquivo = "/app/retorno/extratos/".$nome_atual;
 				$arquivo = dirname(__FILE__) . "/retorno/extratos/" . $nome_atual;
+				echo "3";
 
 				// Leitura Excel com PHPSpreadsheet
 				$spreadsheet = IOFactory::load($arquivo);
 				$sheet = $spreadsheet->getActiveSheet();
 
+				echo "4";
 				$totalLinhas = $sheet->getHighestRow();
 				$totalColunas = $sheet->getHighestColumn();
 				$totalCredito = 0;
 
-				echo "<br>Total de linhas: " . $totalLinhas;
-				echo "<br>Total de colunas: " . $totalColunas;
+				echo "<br>Total totalLinhas :" . $totalLinhas;
+				echo "<br>Total totalColunas :" . $totalColunas;
 				echo "<br>";
+				for ($i = 1; $i <= $totalLinhas; $i++) {
 
-				for ($i = 13; $i <= $totalLinhas; $i++) {
-					$fdata = $sheet->getCell("A" . $i)->getValue();
-					$fDescricao = $sheet->getCell("B" . $i)->getValue();
-					$fNroDocto = $sheet->getCell("C" . $i)->getValue();
-					$fValorCREDITO = $sheet->getCell("D" . $i)->getValue();
-					$fValorDEBITO = $sheet->getCell("E" . $i)->getValue();
+					//echo "Debug : encerra fluxo para averiguar a montagem dos cabeçalhos"
+					// exit;
+					if ($i > 12) {
+						$fdata = $sheet->getCell("A" . $i)->getValue();
+						$fDescricao = $sheet->getCell("B" . $i)->getValue();
+						$fNroDocto = $sheet->getCell("C" . $i)->getValue();
+						$fValorCREDITO = $sheet->getCell("D" . $i)->getValue();
+						$fValorDEBITO = $sheet->getCell("E" . $i)->getValue();
 
-					// Verifica se o valor do crédito contém $
-					if (strpos($fValorCREDITO, '$') !== false) {
-						$fValorCREDITO = "";
+						$mystring = $fValorCREDITO;
+						$findme   = '$';
+						$pos = strpos($mystring, $findme);
+
+						//echo "9";
+
+						// Note o uso de ===.  Simples == não funcionaria como esperado
+						// por causa da posição de 'a' é 0 (primeiro) caractere.
+						if ($pos === false) {
+							//echo "A string '$findme' não foi encontrada na string '$mystring'";
+						} else {
+							//echo "A string '$findme' foi encontrada na string '$mystring'";
+							//echo " e existe na posição $pos";
+							$fValorCREDITO = "";
+						}
+
+
+
+						# tira o ponto
+						$fValorCREDITO = str_replace(".", "", $fValorCREDITO);
+						#troca virgula por ponto
+						$fValorCREDITO = str_replace(",", ".", $fValorCREDITO);
+
+
+
+						if (!$fValorCREDITO == "") {
+
+
+							//if(!$fValorCREDITO == "Crédito (R$)"){
+							#echo " {$i} # " .$fValorCREDITO ."   Docto {$fNroDocto}<br>";
+							//Se valor do campo credito for Crédito, pula 
+
+							#dEBUG
+							//echo $fdata ." | ". $fDescricao." | ".$fNroDocto." | ".$fValorCREDITO." | ".$fValorDEBITO."<br>";
+							//echo "<br>" ;
+
+
+
+							$dateMySql = str_replace('/', '-', $fdata);
+
+
+							if (!$fDescricao == "") {
+
+								#echo "10" ;						 
+								if (verificaLancamento($fDescricao, $fNroDocto, $fValorCREDITO, date('Y-m-d', strtotime($dateMySql))) == true) {
+
+									//echo "<br> Gerado.";
+									geraCredito($fdata, $fDescricao, $fNroDocto, $fValorCREDITO);
+									//echo $fValorCREDITO . "<br>";
+									$totalCredito++;
+								}
+								//echo "Credito GERADO<br>";
+							} else {
+								//echo "CREDITO NAO GERADO<br>";
+							};
+
+							//}
+
+
+							//echo "Pulou, cabeçalhos.";
+
+						} else {
+							//geraCredito($fdata,$fDescricao,$fNroDocto,$fValorDEBITO);
+							//echo "gera debito <br>";
+						}
 					}
+				}
 
-					// Processa o valor do crédito
-					$fValorCREDITO = str_replace(".", "", $fValorCREDITO);
-					$fValorCREDITO = str_replace(",", ".", $fValorCREDITO);
 
-					if ($fValorCREDITO !== "") {
-						$dateMySql = str_replace('/', '-', $fdata);
-						if ($fDescricao !== "") {
-							if (verificaLancamento($fDescricao, $fNroDocto, $fValorCREDITO, date('Y-m-d', strtotime($dateMySql))) === true) {
-								geraCredito($fdata, $fDescricao, $fNroDocto, $fValorCREDITO);
-								$totalCredito++;
+
+				#Verifica irregulares
+				$i = 0;
+
+				for ($i = 1; $i <= $totalLinhas; $i++) {
+
+					//echo "Debug : encerra fluxo para averiguar a montagem dos cabeçalhos"
+					// exit;
+					if ($i > 12) {
+						$fdata = $sheet->getCell("A" . $i)->getValue();
+						$fDescricao = $sheet->getCell("B" . $i)->getValue();
+						$fNroDocto = $sheet->getCell("C" . $i)->getValue();
+						$fValorCREDITO = $sheet->getCell("D" . $i)->getValue();
+						$fValorDEBITO = $sheet->getCell("E" . $i)->getValue();
+
+
+						$mystring = $fValorCREDITO;
+						$findme   = '$';
+						$pos = strpos($mystring, $findme);
+
+
+						//SE FOR RESGATE NAO GERA LANCAMENTO
+						if (strpos($fDescricao, "OPER IRREGULAR") !== false) {
+
+							//return false;
+							echo "<br> Verifica lancamento achou OPER IRREGULAR <br>";
+							echo "<br> Numero Docto : " . $fNroDocto;
+							echo "<br> Credito : " . $fValorCREDITO;
+							echo "<br> Debito  : " . $fValorDEBITO;
+
+							if (verificaOperacoesIrregulares($fNroDocto, $fValorCREDITO, $fValorDEBITO)) {
+
+								echo " Verificado ";
 							}
 						}
 					}
 				}
 
-				// Verifica irregulares
-				for ($i = 13; $i <= $totalLinhas; $i++) {
-					$fdata = $sheet->getCell("A" . $i)->getValue();
-					$fDescricao = $sheet->getCell("B" . $i)->getValue();
-					$fNroDocto = $sheet->getCell("C" . $i)->getValue();
-					$fValorCREDITO = $sheet->getCell("D" . $i)->getValue();
-					$fValorDEBITO = $sheet->getCell("E" . $i)->getValue();
 
-					if (strpos($fDescricao, "OPER IRREGULAR") !== false) {
-						if (verificaOperacoesIrregulares($fNroDocto, $fValorCREDITO, $fValorDEBITO)) {
-							echo " Verificado ";
-						}
-					}
-				}
-
+				#Debug   
+				#
 				echo "###################################";
+
 				die("<script> location.href='listar-extrato.php?sucess={$totalCredito}&fail=0'</script>");
 			} else {
 				echo " <div class=\"alert alert-warning\">
-              <strong> Opa!</strong> Algum problema ocorreu !
-          </div>";
+					                    <strong> Opa!</strong> Algum problema ocorreu !
+					               </div>";
 			}
 		}
 	}
